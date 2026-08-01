@@ -1,0 +1,125 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800524889771962368"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1800524919165571084",
+    "created_at": "2024-06-11T13:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T14:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800524919165571084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 6,
+          "tag": "死"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "自伤"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/W5rfhUQrhz",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hongaibin/status/1800524919165571084/video/1",
+          "media_key": "7_1800524889771962368",
+          "start": 30,
+          "url": "https://t.co/W5rfhUQrhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800524919165571084",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毕竟真的寻 #死 只要380v电线身上缠 #自伤 🤣🤣🤣🤣 https://t.co/W5rfhUQrhz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1800524919165571084].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1800524919165571084",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1800524919165571084"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15836,
+        "height": 720,
+        "media_key": "7_1800524889771962368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800524889771962368/pu/img/Im08TrAUQx9FDwZW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800524889771962368/pu/vid/avc1/320x320/9gGd8icPVcsjQzbF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800524889771962368/pu/vid/avc1/540x540/lqu-oZOqH6t7mLGz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800524889771962368/pu/vid/avc1/720x720/pKIfiBRAyQu_31tE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800524889771962368/pu/pl/sv-2Eby757QlFqT7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1065,
+          "like_count": 1643,
+          "listed_count": 1,
+          "tweet_count": 1158
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

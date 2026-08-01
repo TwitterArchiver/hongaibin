@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1818050173811007490",
+    "created_at": "2024-07-29T22:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T23:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818050173811007490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780208570098688000",
+          "start": 3,
+          "username": "hongaibin"
+        },
+        {
+          "end": 24,
+          "id": "1760391878711631873",
+          "start": 15,
+          "username": "ripurins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818050173811007490",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818050152109899812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongaibin: @ripurins Looks delicious.😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1818050173811007490",
+        "created_at": "2024-07-29T22:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T23:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818050173811007490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780208570098688000",
+              "start": 3,
+              "username": "hongaibin"
+            },
+            {
+              "end": 24,
+              "id": "1760391878711631873",
+              "start": 15,
+              "username": "ripurins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818050173811007490",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818050152109899812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongaibin: @ripurins Looks delicious.😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1818005727258230834",
+        "created_at": "2024-07-29T22:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T23:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818050152109899812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760391878711631873",
+              "start": 0,
+              "username": "ripurins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818050152109899812",
+        "in_reply_to_user_id": "1760391878711631873",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818005727258230834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripurins Looks delicious.😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1176,
+          "like_count": 3736,
+          "listed_count": 2,
+          "tweet_count": 2098
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T19:51:50.000Z",
+        "description": "i love kiryu, royz and kebyo | priv ; @yyoniryu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "yyoniryu"
+              }
+            ]
+          }
+        },
+        "id": "1760391878711631873",
+        "location": "BMI : 15.9 | 杙凪 ᡣ𐭩",
+        "name": "yoni 🐻 || shedtwt",
+        "pinned_tweet_id": "1793243919813132481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770612239562682368/FENPHMH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 685,
+          "like_count": 22057,
+          "listed_count": 15,
+          "tweet_count": 4655
+        },
+        "username": "ripurins",
+        "verified": false
+      }
+    ]
+  }
+}

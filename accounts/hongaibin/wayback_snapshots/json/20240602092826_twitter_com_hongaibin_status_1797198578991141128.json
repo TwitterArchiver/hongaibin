@@ -1,0 +1,268 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1597173673621798912"
+      ],
+      "media_source_tweet_id": [
+        "1597173735428980736"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1797198578991141128",
+    "created_at": "2024-06-02T09:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797198578991141128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "40045082",
+          "start": 3,
+          "username": "chiitanmomiji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gpTDzcdYnj",
+          "end": 75,
+          "expanded_url": "https://twitter.com/chiitan7407/status/1597173735428980736/video/1",
+          "media_key": "7_1597173673621798912",
+          "start": 52,
+          "url": "https://t.co/gpTDzcdYnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797198578991141128",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796989915747774932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiitanmomiji: ファン乱入ですっ☆\n\nthank you friends☺️\n \nhttps://t.co/gpTDzcdYnj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11866,
+        "height": 1280,
+        "media_key": "7_1597173673621798912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1597173673621798912/pu/img/Ff1reBhFrMVu4roQ.jpg",
+        "public_metrics": {
+          "view_count": 1932397
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597173673621798912/pu/vid/320x568/Q08yNdXWC0ZDj5ij.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597173673621798912/pu/vid/480x852/yTWKKmOnnleuMtCv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597173673621798912/pu/vid/720x1280/wbWD7Nx5P0ur6XrJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1597173673621798912/pu/pl/63AcL_NFBX2W6Ptb.m3u8?tag=12&v=705"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1597173673621798912"
+          ],
+          "media_source_tweet_id": [
+            "1597173735428980736"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1797198578991141128",
+        "created_at": "2024-06-02T09:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797198578991141128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "40045082",
+              "start": 3,
+              "username": "chiitanmomiji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gpTDzcdYnj",
+              "end": 75,
+              "expanded_url": "https://twitter.com/chiitan7407/status/1597173735428980736/video/1",
+              "media_key": "7_1597173673621798912",
+              "start": 52,
+              "url": "https://t.co/gpTDzcdYnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797198578991141128",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796989915747774932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiitanmomiji: ファン乱入ですっ☆\n\nthank you friends☺️\n \nhttps://t.co/gpTDzcdYnj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1597173673621798912"
+          ],
+          "media_source_tweet_id": [
+            "1597173735428980736"
+          ]
+        },
+        "author_id": "40045082",
+        "conversation_id": "1796989915747774932",
+        "created_at": "2024-06-01T19:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T20:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796989915747774932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gpTDzcdYnj",
+              "end": 56,
+              "expanded_url": "https://twitter.com/chiitan7407/status/1597173735428980736/video/1",
+              "media_key": "7_1597173673621798912",
+              "start": 33,
+              "url": "https://t.co/gpTDzcdYnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796989915747774932",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 237361,
+          "like_count": 2029,
+          "quote_count": 33,
+          "reply_count": 41,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "ファン乱入ですっ☆\n\nthank you friends☺️\n \nhttps://t.co/gpTDzcdYnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1056,
+          "like_count": 1564,
+          "listed_count": 1,
+          "tweet_count": 1057
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T17:47:33.000Z",
+        "description": "Japanese crazy mascot 広島LOVE💕広島のスポーツチーム大好き❤️呉市在住、宮島や廿日市、呉市によく出没します☺️ちぃたん☆@chiitan7407広島垢🔸SNS→https://t.co/Qgs7RwPJg2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "chiitan7407"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/chiitan7407",
+                "end": 116,
+                "expanded_url": "https://linktr.ee/chiitan7407",
+                "start": 93,
+                "url": "https://t.co/Qgs7RwPJg2"
+              }
+            ]
+          }
+        },
+        "id": "40045082",
+        "location": "📩お問い合わせ：chiitan@chiitan.love",
+        "name": "公式：ちぃたん☆広島",
+        "pinned_tweet_id": "1765669605266321700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765681987011133440/NBaUzMD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83918,
+          "following_count": 15273,
+          "like_count": 7929,
+          "listed_count": 82,
+          "tweet_count": 56932
+        },
+        "username": "chiitanmomiji",
+        "verified": true
+      }
+    ]
+  }
+}

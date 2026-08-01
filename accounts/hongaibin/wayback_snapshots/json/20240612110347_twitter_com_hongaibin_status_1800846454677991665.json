@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1800846127266410507",
+    "created_at": "2024-06-12T11:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T12:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800846454677991665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800846454677991665",
+    "in_reply_to_user_id": "1780208570098688000",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800846127266410507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 咖啡含量怎么算大概 大概200ml （≥200mg/kg）我和椰汁混着喝的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1800846127266410507",
+        "created_at": "2024-06-12T11:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T12:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800846454677991665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800846454677991665",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800846127266410507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 咖啡含量怎么算大概 大概200ml （≥200mg/kg）我和椰汁混着喝的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1800846127266410507",
+        "created_at": "2024-06-12T11:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T12:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800846127266410507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "苏糖酸镁"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "ssrls"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "舍曲林"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800846127266410507",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午喝了咖啡 （≈50mg）和 #苏糖酸镁 1g 等会打手冲 妈的垃圾 #ssrls 药物 #舍曲林 都快把我搞射  障碍了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1065,
+          "like_count": 1650,
+          "listed_count": 1,
+          "tweet_count": 1190
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "精神药理学？精神分析学？\n这是这是药师波奇，研究恢复术——比如反制药物副作用\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/5ftoKDMGdw"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "location": "卡莫纳电视台二楼控电室",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782801215476432896/G1iJf3DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 48,
+          "like_count": 1,
+          "listed_count": 6,
+          "tweet_count": 4641
+        },
+        "url": "https://t.co/5ftoKDMGdw",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

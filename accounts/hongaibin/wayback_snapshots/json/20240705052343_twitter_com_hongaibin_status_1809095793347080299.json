@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808895431105261572"
+      ],
+      "media_source_tweet_id": [
+        "1808895440559223078"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809095793347080299",
+    "created_at": "2024-07-05T05:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T06:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809095793347080299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601903141083316224",
+          "start": 3,
+          "username": "77se_bu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Ss6GgXH3iC",
+          "end": 36,
+          "expanded_url": "https://twitter.com/77se_bu/status/1808895440559223078/photo/1",
+          "media_key": "3_1808895431105261572",
+          "start": 13,
+          "url": "https://t.co/Ss6GgXH3iC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809095793347080299",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808895440559223078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77se_bu: https://t.co/Ss6GgXH3iC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1808895431105261572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp8z4bbMAQSatK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808895431105261572"
+          ],
+          "media_source_tweet_id": [
+            "1808895440559223078"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809095793347080299",
+        "created_at": "2024-07-05T05:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T06:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809095793347080299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601903141083316224",
+              "start": 3,
+              "username": "77se_bu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ss6GgXH3iC",
+              "end": 36,
+              "expanded_url": "https://twitter.com/77se_bu/status/1808895440559223078/photo/1",
+              "media_key": "3_1808895431105261572",
+              "start": 13,
+              "url": "https://t.co/Ss6GgXH3iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809095793347080299",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808895440559223078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77se_bu: https://t.co/Ss6GgXH3iC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808895431105261572"
+          ]
+        },
+        "author_id": "1601903141083316224",
+        "conversation_id": "1808895440559223078",
+        "created_at": "2024-07-04T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808895440559223078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ss6GgXH3iC",
+              "end": 23,
+              "expanded_url": "https://twitter.com/77se_bu/status/1808895440559223078/photo/1",
+              "media_key": "3_1808895431105261572",
+              "start": 0,
+              "url": "https://t.co/Ss6GgXH3iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808895440559223078",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 38586,
+          "like_count": 4046,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ss6GgXH3iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1061,
+          "like_count": 2030,
+          "listed_count": 1,
+          "tweet_count": 1434
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T11:34:14.000Z",
+        "description": "seb/7 , ᶜᵒᵐᵐᶤˢˢᶤᵒᶰ ᶜˡᵒˢᵉᵈ | ✧ sebtember777@gmail.com | sub acc : @nanasei_07s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "nanasei_07s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "77sebu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://77sebu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/rmFdM1yBGN"
+              }
+            ]
+          }
+        },
+        "id": "1601903141083316224",
+        "location": "𓆝 𓆟 𓆞 .⋆｡°✩",
+        "name": "sev 🚷",
+        "pinned_tweet_id": "1803027559267156458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774522202844741632/MfZgPfMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34496,
+          "following_count": 718,
+          "like_count": 22942,
+          "listed_count": 80,
+          "tweet_count": 22310
+        },
+        "url": "https://t.co/rmFdM1yBGN",
+        "username": "77se_bu",
+        "verified": false
+      }
+    ]
+  }
+}

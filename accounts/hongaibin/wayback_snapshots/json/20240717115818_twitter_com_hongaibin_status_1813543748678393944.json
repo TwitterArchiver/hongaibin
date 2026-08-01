@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1813543745503252480"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1813414175453913166",
+    "created_at": "2024-07-17T11:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T12:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813543748678393944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1221628795641352197",
+          "start": 0,
+          "username": "SaviorTakuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hH4lR42srF",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hongaibin/status/1813543748678393944/photo/1",
+          "media_key": "3_1813543745503252480",
+          "start": 18,
+          "url": "https://t.co/hH4lR42srF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813543748678393944",
+    "in_reply_to_user_id": "1221628795641352197",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813481592230187352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaviorTakuji 😂😂😂 https://t.co/hH4lR42srF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813543748678393944].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813543748678393944",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813543748678393944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1813543745503252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSsAbY9aUAAcS1S.jpg",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1221628795641352197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1813414175453913166",
+        "created_at": "2024-07-17T07:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T08:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813481592230187352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813481592230187352",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813424655576797598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin Ongoing gimmick i stsrted like 2 months ago where i randomly spam tweet about brazillian prostitutes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1135,
+          "like_count": 2745,
+          "listed_count": 1,
+          "tweet_count": 1689
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T02:59:43.000Z",
+        "description": "certified thinker ♀ female, autistic. discord: qykj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "July20th.com",
+                "end": 23,
+                "expanded_url": "http://July20th.com",
+                "start": 0,
+                "url": "https://t.co/kSUqxCoYTk"
+              }
+            ]
+          }
+        },
+        "id": "1221628795641352197",
+        "location": "End Sky",
+        "name": "luca shmuca",
+        "pinned_tweet_id": "1812660003372937711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813396332675022848/wUu0Qg9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 3866,
+          "like_count": 31401,
+          "listed_count": 5,
+          "tweet_count": 14586
+        },
+        "url": "https://t.co/kSUqxCoYTk",
+        "username": "SaviorTakuji",
+        "verified": false
+      }
+    ]
+  }
+}
