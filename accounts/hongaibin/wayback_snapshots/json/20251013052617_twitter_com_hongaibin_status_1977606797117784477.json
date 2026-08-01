@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1977606797117784477",
+    "created_at": "2025-10-13T05:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977606797117784477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1503516796493590530",
+          "start": 3,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977606797117784477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975937296936640767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orangefish_stew: 我就这么平静地回到家，没人知道我在外面喝得有多爽😌😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1977606797117784477",
+        "created_at": "2025-10-13T05:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977606797117784477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1503516796493590530",
+              "start": 3,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977606797117784477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975937296936640767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orangefish_stew: 我就这么平静地回到家，没人知道我在外面喝得有多爽😌😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "1975937296936640767",
+        "created_at": "2025-10-08T14:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975937296936640767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ROBOHead_2/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ROBOHead_2/status/1975919914142806189",
+              "start": 27,
+              "url": "https://t.co/f02yVZLdCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975937296936640767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2045,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975919914142806189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这么平静地回到家，没人知道我在外面喝得有多爽😌😌 https://t.co/f02yVZLdCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 2200,
+          "like_count": 23358,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6152
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜r18&负能@Orangefishbones",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "Orangefishbones"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7426,
+          "following_count": 1974,
+          "like_count": 41171,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 6846
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

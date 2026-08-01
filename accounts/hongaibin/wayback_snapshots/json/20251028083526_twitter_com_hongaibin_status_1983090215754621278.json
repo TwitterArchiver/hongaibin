@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983090196813099011"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1981645276978036960",
+    "created_at": "2025-10-28T08:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983090215754621278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937642720815906818",
+          "start": 0,
+          "username": "n491N2ar0E92832"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjRPLxNdAQ",
+          "end": 40,
+          "expanded_url": "https://x.com/hongaibin/status/1983090215754621278/photo/1",
+          "media_key": "3_1983090196813099011",
+          "start": 17,
+          "url": "https://t.co/QjRPLxNdAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983090215754621278",
+    "in_reply_to_user_id": "1937642720815906818",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981645276978036960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n491N2ar0E92832 https://t.co/QjRPLxNdAQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983090215754621278].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983090215754621278",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983090215754621278"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_1983090196813099011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VaBvKasAM8PNB.png",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937642720815906818",
+        "conversation_id": "1981645276978036960",
+        "created_at": "2025-10-24T08:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981645276978036960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/1981518249729937620",
+              "start": 38,
+              "url": "https://t.co/elwuoqD15W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981645276978036960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981518249729937620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "政府ー見てるかー？\nこれが現状だぞー。これ以上薬規制すると死ぬ人増えるぞー https://t.co/elwuoqD15W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 2215,
+          "like_count": 23510,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6200
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T22:43:24.000Z",
+        "description": "下ネタ ¦ 淫夢厨@Rashinndayo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Rashinndayo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/n491N2ar0E9…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/n491N2ar0E92832/",
+                "start": 0,
+                "url": "https://t.co/awFqCTlgS5"
+              }
+            ]
+          }
+        },
+        "id": "1937642720815906818",
+        "location": "おきなわ ¦ コザ界隈 ¦ メス",
+        "name": "おれ",
+        "pinned_tweet_id": "1955652948916347048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937649200222908416/V24CsC0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 357,
+          "like_count": 20169,
+          "listed_count": 23,
+          "media_count": 366,
+          "tweet_count": 9738
+        },
+        "url": "https://t.co/awFqCTlgS5",
+        "username": "n491N2ar0E92832",
+        "verified": false
+      }
+    ]
+  }
+}

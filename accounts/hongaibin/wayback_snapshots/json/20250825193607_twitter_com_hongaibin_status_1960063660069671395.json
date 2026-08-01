@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887834001186209792"
+      ],
+      "media_source_tweet_id": [
+        "1887834008135836013"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1960063660069671395",
+    "created_at": "2025-08-25T19:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T20:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960063660069671395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647475079062913025",
+          "start": 3,
+          "username": "D_D___oO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sgxi5dU0tz",
+          "end": 37,
+          "expanded_url": "https://x.com/D_D___oO/status/1887834008135836013/photo/1",
+          "media_key": "3_1887834001186209792",
+          "start": 14,
+          "url": "https://t.co/sgxi5dU0tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960063660069671395",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3449
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887834008135836013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D_D___oO: https://t.co/sgxi5dU0tz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2598,
+        "media_key": "3_1887834001186209792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLvBZubwAAObEa.jpg",
+        "width": 2512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887834001186209792"
+          ],
+          "media_source_tweet_id": [
+            "1887834008135836013"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1960063660069671395",
+        "created_at": "2025-08-25T19:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960063660069671395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647475079062913025",
+              "start": 3,
+              "username": "D_D___oO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgxi5dU0tz",
+              "end": 37,
+              "expanded_url": "https://x.com/D_D___oO/status/1887834008135836013/photo/1",
+              "media_key": "3_1887834001186209792",
+              "start": 14,
+              "url": "https://t.co/sgxi5dU0tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960063660069671395",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3449
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887834008135836013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D_D___oO: https://t.co/sgxi5dU0tz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887834001186209792"
+          ]
+        },
+        "author_id": "1647475079062913025",
+        "conversation_id": "1887834008135836013",
+        "created_at": "2025-02-07T12:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T13:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887834008135836013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgxi5dU0tz",
+              "end": 23,
+              "expanded_url": "https://x.com/D_D___oO/status/1887834008135836013/photo/1",
+              "media_key": "3_1887834001186209792",
+              "start": 0,
+              "url": "https://t.co/sgxi5dU0tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887834008135836013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5163,
+          "impression_count": 883765,
+          "like_count": 48637,
+          "quote_count": 293,
+          "reply_count": 36,
+          "retweet_count": 3449
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sgxi5dU0tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2170,
+          "like_count": 21985,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5903
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T05:40:54.000Z",
+        "description": "#今井FA 現在すべてのご依頼・ご相談をお断りしております。スケジュールの確保もできませんm(_ _)m",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "今井FA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akiraimai.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://akiraimai.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/3FpXo5fFGY"
+              }
+            ]
+          }
+        },
+        "id": "1647475079062913025",
+        "location": "予約不可／ご相談もお控えください",
+        "name": "今井ｱｷﾗ 依頼受付停止中",
+        "pinned_tweet_id": "1953795681887412383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885604272882278402/Mi1vFvF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110715,
+          "following_count": 103,
+          "like_count": 15190,
+          "listed_count": 260,
+          "media_count": 114,
+          "tweet_count": 7107
+        },
+        "url": "https://t.co/3FpXo5fFGY",
+        "username": "D_D___oO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883715604923944960",
+        "7_1883715625635467264"
+      ],
+      "media_source_tweet_id": [
+        "1883715734427320482",
+        "1883715734427320482"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1885747867538854079",
+    "created_at": "2025-02-01T17:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T18:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885747867538854079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 3,
+          "username": "overdose__jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7e4EcW4u1l",
+          "end": 65,
+          "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+          "media_key": "7_1883715604923944960",
+          "start": 42,
+          "url": "https://t.co/7e4EcW4u1l"
+        },
+        {
+          "display_url": "pic.x.com/7e4EcW4u1l",
+          "end": 65,
+          "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+          "media_key": "7_1883715625635467264",
+          "start": 42,
+          "url": "https://t.co/7e4EcW4u1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885747867538854079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883715734427320482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose__jp: 为什么od药物屡屡被禁？\n这个世界上从不缺傻逼 https://t.co/7e4EcW4u1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16014,
+        "height": 962,
+        "media_key": "7_1883715604923944960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883715604923944960/pu/img/Y1el0QaPs-mbtmft.jpg",
+        "public_metrics": {
+          "view_count": 11071
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715604923944960/pu/vid/avc1/320x426/KoPCkLYzePuxS64E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715604923944960/pu/vid/avc1/480x640/RQ_WnSGwXWy4oPX2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715604923944960/pu/vid/avc1/720x962/RVVREi0JwWIZ2zK7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883715604923944960/pu/pl/QybjslDBivaOpdj8.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27616,
+        "height": 1280,
+        "media_key": "7_1883715625635467264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883715625635467264/pu/img/sPamJHp2P56UUjUI.jpg",
+        "public_metrics": {
+          "view_count": 2963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715625635467264/pu/vid/avc1/320x568/ii7TLk2hcEDtYVmJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715625635467264/pu/vid/avc1/480x852/8fkdHIN_xv4lbkBp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883715625635467264/pu/vid/avc1/720x1280/YCbRdkXpTQDswq8K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883715625635467264/pu/pl/2i4h_ssOFKKIkTHs.m3u8?tag=12&v=dbf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883715604923944960",
+            "7_1883715625635467264"
+          ],
+          "media_source_tweet_id": [
+            "1883715734427320482",
+            "1883715734427320482"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885747867538854079",
+        "created_at": "2025-02-01T17:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885747867538854079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 3,
+              "username": "overdose__jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e4EcW4u1l",
+              "end": 65,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+              "media_key": "7_1883715604923944960",
+              "start": 42,
+              "url": "https://t.co/7e4EcW4u1l"
+            },
+            {
+              "display_url": "pic.x.com/7e4EcW4u1l",
+              "end": 65,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+              "media_key": "7_1883715625635467264",
+              "start": 42,
+              "url": "https://t.co/7e4EcW4u1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885747867538854079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883715734427320482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose__jp: 为什么od药物屡屡被禁？\n这个世界上从不缺傻逼 https://t.co/7e4EcW4u1l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883715604923944960",
+            "7_1883715625635467264"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "conversation_id": "1883715734427320482",
+        "created_at": "2025-01-27T03:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883715734427320482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e4EcW4u1l",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+              "media_key": "7_1883715604923944960",
+              "start": 24,
+              "url": "https://t.co/7e4EcW4u1l"
+            },
+            {
+              "display_url": "pic.x.com/7e4EcW4u1l",
+              "end": 47,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883715734427320482/video/1",
+              "media_key": "7_1883715625635467264",
+              "start": 24,
+              "url": "https://t.co/7e4EcW4u1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883715734427320482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 28489,
+          "like_count": 210,
+          "quote_count": 13,
+          "reply_count": 37,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "为什么od药物屡屡被禁？\n这个世界上从不缺傻逼 https://t.co/7e4EcW4u1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1709,
+          "like_count": 14787,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 4358
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "https://t.co/y1xuCfsZoT是一个非盈利，并且储备od知识的网站.\n\n虽然这确实是od网站，但我们的目的是让人规避风险，防止意外",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "http://overdose.jp",
+                "start": 0,
+                "url": "https://t.co/y1xuCfsZoT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw7xW9"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1884763670346915971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882317178176929792/xPYdiw7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 3533,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/nDuhQw7xW9",
+        "username": "overdose__jp",
+        "verified": false
+      }
+    ]
+  }
+}

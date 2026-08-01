@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960695063257964545"
+      ],
+      "media_source_tweet_id": [
+        "1960695073693118512"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1962232681749721574",
+    "created_at": "2025-08-31T19:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T20:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962232681749721574"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "日本",
+          "probability": 0.7723,
+          "start": 17,
+          "type": "Place"
+        },
+        {
+          "end": 30,
+          "normalized_text": "REIGN STORM",
+          "probability": 0.3235,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1525805800966729728",
+          "start": 3,
+          "username": "__Noxiou5__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pc08Nq0HGO",
+          "end": 128,
+          "expanded_url": "https://x.com/__Noxiou5__/status/1960695073693118512/photo/1",
+          "media_key": "3_1960695063257964545",
+          "start": 105,
+          "url": "https://t.co/Pc08Nq0HGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962232681749721574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960695073693118512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Noxiou5__: 日本でREIGN STORM(白)が発売された🤍\n元々REIGN(黒)がメインだけどなんか健康志向バージョン(？)みたいな感じでStormが出来たみたい。ぜひ買ってみて〜🍇🍓 https://t.co/Pc08Nq0HGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2072,
+        "media_key": "3_1960695063257964545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXJxZZaYAEuzqh.jpg",
+        "width": 2945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960695063257964545"
+          ],
+          "media_source_tweet_id": [
+            "1960695073693118512"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1962232681749721574",
+        "created_at": "2025-08-31T19:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T20:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962232681749721574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "日本",
+              "probability": 0.7723,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 30,
+              "normalized_text": "REIGN STORM",
+              "probability": 0.3235,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1525805800966729728",
+              "start": 3,
+              "username": "__Noxiou5__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pc08Nq0HGO",
+              "end": 128,
+              "expanded_url": "https://x.com/__Noxiou5__/status/1960695073693118512/photo/1",
+              "media_key": "3_1960695063257964545",
+              "start": 105,
+              "url": "https://t.co/Pc08Nq0HGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962232681749721574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960695073693118512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Noxiou5__: 日本でREIGN STORM(白)が発売された🤍\n元々REIGN(黒)がメインだけどなんか健康志向バージョン(？)みたいな感じでStormが出来たみたい。ぜひ買ってみて〜🍇🍓 https://t.co/Pc08Nq0HGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960695063257964545"
+          ]
+        },
+        "author_id": "1525805800966729728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1960695073693118512",
+        "created_at": "2025-08-27T13:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960695073693118512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.7767,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 13,
+              "normalized_text": "REIGN STORM",
+              "probability": 0.3395,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pc08Nq0HGO",
+              "end": 111,
+              "expanded_url": "https://x.com/__Noxiou5__/status/1960695073693118512/photo/1",
+              "media_key": "3_1960695063257964545",
+              "start": 88,
+              "url": "https://t.co/Pc08Nq0HGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960695073693118512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2800,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "日本でREIGN STORM(白)が発売された🤍\n元々REIGN(黒)がメインだけどなんか健康志向バージョン(？)みたいな感じでStormが出来たみたい。ぜひ買ってみて〜🍇🍓 https://t.co/Pc08Nq0HGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2173,
+          "like_count": 22003,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 5918
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T11:50:34.000Z",
+        "description": "💔Illustration | 創作 | 日常ポスト有 Reproduction, duplication, use, processing, AI, etc. of my work without permission is prohibited.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@__Noxiou5__",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@__Noxiou5__",
+                "start": 0,
+                "url": "https://t.co/YZxfvsBOSr"
+              }
+            ]
+          }
+        },
+        "id": "1525805800966729728",
+        "location": " ✖︎ 無断転載/使用/加工/AI等一切禁止 ✖︎",
+        "name": "𝙨𝙖𝙠𝙪𝙮𝙖",
+        "pinned_tweet_id": "1947582925656199679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940081621383761921/I7MC3Z5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18226,
+          "following_count": 21,
+          "like_count": 197,
+          "listed_count": 80,
+          "media_count": 28,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/YZxfvsBOSr",
+        "username": "__Noxiou5__",
+        "verified": false
+      }
+    ]
+  }
+}

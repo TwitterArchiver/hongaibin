@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002185813359263745"
+      ],
+      "media_source_tweet_id": [
+        "2002185888328188183"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2003664027587854781",
+    "created_at": "2025-12-24T03:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003664027587854781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D94QmBN0ig",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/2002185888328188183/video/1",
+          "media_key": "13_2002185813359263745",
+          "start": 19,
+          "url": "https://t.co/D94QmBN0ig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003664027587854781",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002185888328188183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/D94QmBN0ig"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11428,
+        "height": 960,
+        "media_key": "13_2002185813359263745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002185813359263745/img/LtbxO_wRBGwdsGJJ.jpg",
+        "public_metrics": {
+          "view_count": 1629
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002185813359263745/vid/avc1/320x426/1Q9-38EJmVRKrkow.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002185813359263745/vid/avc1/480x640/9mUp1JRwQtXM-sJC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002185813359263745/vid/avc1/720x960/9wnWr90RG-JRevLn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002185813359263745/pl/DOOwRWbkKntq2Ztf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002185813359263745"
+          ],
+          "media_source_tweet_id": [
+            "2002185888328188183"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2003664027587854781",
+        "created_at": "2025-12-24T03:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003664027587854781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D94QmBN0ig",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/2002185888328188183/video/1",
+              "media_key": "13_2002185813359263745",
+              "start": 19,
+              "url": "https://t.co/D94QmBN0ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003664027587854781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002185888328188183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/D94QmBN0ig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002185813359263745"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "2002185888328188183",
+        "created_at": "2025-12-20T01:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T02:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002185888328188183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D94QmBN0ig",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/2002185888328188183/video/1",
+              "media_key": "13_2002185813359263745",
+              "start": 0,
+              "url": "https://t.co/D94QmBN0ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002185888328188183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 4523,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D94QmBN0ig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 2218,
+          "like_count": 23640,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6278
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "門 188 1888",
+        "name": "小藻",
+        "pinned_tweet_id": "2003344420146651389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003066271466987520/v9LYd3qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19020,
+          "following_count": 33,
+          "like_count": 90,
+          "listed_count": 23,
+          "media_count": 46,
+          "tweet_count": 64
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

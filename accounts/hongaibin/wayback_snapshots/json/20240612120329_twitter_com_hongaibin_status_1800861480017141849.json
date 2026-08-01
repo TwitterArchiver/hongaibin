@@ -1,0 +1,120 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800861450933825536"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1800861480017141849",
+    "created_at": "2024-06-12T12:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T13:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800861480017141849"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 0,
+          "tag": "avogado6画师"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/E5FX8SjG4N",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hongaibin/status/1800861480017141849/video/1",
+          "media_key": "7_1800861450933825536",
+          "start": 12,
+          "url": "https://t.co/E5FX8SjG4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800861480017141849",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#avogado6画师 https://t.co/E5FX8SjG4N"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1800861480017141849].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1800861480017141849",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1800861480017141849"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16834,
+        "height": 1280,
+        "media_key": "7_1800861450933825536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800861450933825536/pu/img/-aSXWCPUNj7wEvLO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800861450933825536/pu/vid/avc1/320x568/y5-BsEzXqsi8ZLVE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800861450933825536/pu/vid/avc1/480x852/p1gLw1iFM7VZC7e3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800861450933825536/pu/vid/avc1/720x1280/GoM1K5f3GD1TY9wt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800861450933825536/pu/pl/sFOyXlCfBTYPTitR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1066,
+          "like_count": 1655,
+          "listed_count": 1,
+          "tweet_count": 1198
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

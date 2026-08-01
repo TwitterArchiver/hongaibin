@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937495140698062851"
+      ],
+      "media_source_tweet_id": [
+        "1937495145123041594"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1937687698833314204",
+    "created_at": "2025-06-25T01:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T02:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937687698833314204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZpFxDo7Tm",
+          "end": 59,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1937495145123041594/photo/1",
+          "media_key": "3_1937495140698062851",
+          "start": 36,
+          "url": "https://t.co/JZpFxDo7Tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937687698833314204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937495145123041594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 看到一张很猎奇的图\n奶龙x流浪者 https://t.co/JZpFxDo7Tm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937687698833314204].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937687698833314204",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937687698833314204"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1937495140698062851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNdkK9agAM3qpd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937495140698062851"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1937495145123041594",
+        "created_at": "2025-06-24T12:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937495145123041594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZpFxDo7Tm",
+              "end": 40,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1937495145123041594/photo/1",
+              "media_key": "3_1937495140698062851",
+              "start": 17,
+              "url": "https://t.co/JZpFxDo7Tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937495145123041594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1892,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到一张很猎奇的图\n奶龙x流浪者 https://t.co/JZpFxDo7Tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 2076,
+          "like_count": 19857,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 5429
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 小狗 @hzyj772 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "hzyj772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒OD第∞天）每天都是最后一天OD",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8833,
+          "following_count": 715,
+          "like_count": 19632,
+          "listed_count": 10,
+          "media_count": 2898,
+          "tweet_count": 19595
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

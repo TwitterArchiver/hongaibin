@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809168545600974848"
+      ],
+      "media_source_tweet_id": [
+        "1809168549329674651"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1813657376110809311",
+    "created_at": "2024-07-17T19:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T20:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813657376110809311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1033946458053955584",
+          "start": 3,
+          "username": "caligula_zmns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pFSMARohIY",
+          "end": 46,
+          "expanded_url": "https://twitter.com/caligula_zmns/status/1809168549329674651/photo/1",
+          "media_key": "3_1809168545600974848",
+          "start": 23,
+          "url": "https://t.co/pFSMARohIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813657376110809311",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1432
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809168549329674651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caligula_zmns: 男です https://t.co/pFSMARohIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_1809168545600974848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRt1NPNbMAAFOTp.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809168545600974848"
+          ],
+          "media_source_tweet_id": [
+            "1809168549329674651"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1813657376110809311",
+        "created_at": "2024-07-17T19:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T20:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813657376110809311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1033946458053955584",
+              "start": 3,
+              "username": "caligula_zmns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pFSMARohIY",
+              "end": 46,
+              "expanded_url": "https://twitter.com/caligula_zmns/status/1809168549329674651/photo/1",
+              "media_key": "3_1809168545600974848",
+              "start": 23,
+              "url": "https://t.co/pFSMARohIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813657376110809311",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1432
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809168549329674651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caligula_zmns: 男です https://t.co/pFSMARohIY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809168545600974848"
+          ]
+        },
+        "author_id": "1033946458053955584",
+        "conversation_id": "1809168549329674651",
+        "created_at": "2024-07-05T10:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T11:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809168549329674651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pFSMARohIY",
+              "end": 27,
+              "expanded_url": "https://twitter.com/caligula_zmns/status/1809168549329674651/photo/1",
+              "media_key": "3_1809168545600974848",
+              "start": 4,
+              "url": "https://t.co/pFSMARohIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809168549329674651",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3896,
+          "impression_count": 1148219,
+          "like_count": 21803,
+          "quote_count": 42,
+          "reply_count": 69,
+          "retweet_count": 1432
+        },
+        "reply_settings": "everyone",
+        "text": "男です https://t.co/pFSMARohIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1142,
+          "like_count": 2833,
+          "listed_count": 1,
+          "tweet_count": 1732
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-27T05:17:00.000Z",
+        "description": "FANBOX、メロブ、干芋はこちらhttps://t.co/65Tgaegup7 skebはこちらhttps://t.co/wXWeJ2p6v9 仕事の依頼はDMかxxxg00w0heeroyuiあっとhttps://t.co/GpU87v9Mj1までフォロー以外の通知切ってます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profu.link/u/caligulazmns",
+                "end": 40,
+                "expanded_url": "https://profu.link/u/caligulazmns",
+                "start": 17,
+                "url": "https://t.co/65Tgaegup7"
+              },
+              {
+                "display_url": "skeb.jp/@caligula_zmns",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@caligula_zmns",
+                "start": 49,
+                "url": "https://t.co/wXWeJ2p6v9"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 124,
+                "expanded_url": "http://gmail.com",
+                "start": 101,
+                "url": "https://t.co/GpU87v9Mj1"
+              }
+            ]
+          }
+        },
+        "id": "1033946458053955584",
+        "location": "モーグウィン王朝",
+        "name": "カ⭐︎リギュラ",
+        "pinned_tweet_id": "1796557411077287954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753453320403070976/2Zztbe-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91605,
+          "following_count": 167,
+          "like_count": 426,
+          "listed_count": 424,
+          "tweet_count": 8382
+        },
+        "username": "caligula_zmns",
+        "verified": true
+      }
+    ]
+  }
+}

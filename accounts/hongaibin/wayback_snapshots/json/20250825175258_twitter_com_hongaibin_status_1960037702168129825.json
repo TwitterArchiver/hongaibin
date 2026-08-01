@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1960037702168129825",
+    "created_at": "2025-08-25T17:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T18:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960037702168129825"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "DMT",
+          "probability": 0.5926,
+          "start": 31,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "940027773627727875",
+          "start": 3,
+          "username": "Cortex_Zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960037702168129825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958630282678215089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cortex_Zero: 🧵THREAD: What DMT Entities Say to Humans\n\nAfter decades of reports, interviews, and now clinical studies, a strange consis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1960037702168129825",
+        "created_at": "2025-08-25T17:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960037702168129825"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "DMT",
+              "probability": 0.5926,
+              "start": 31,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "940027773627727875",
+              "start": 3,
+              "username": "Cortex_Zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960037702168129825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958630282678215089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cortex_Zero: 🧵THREAD: What DMT Entities Say to Humans\n\nAfter decades of reports, interviews, and now clinical studies, a strange consis…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940027773627727875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Supernatural",
+              "id": "1046578491712389125",
+              "name": "Supernatural"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Supernatural",
+              "id": "1046578491712389125",
+              "name": "Supernatural"
+            }
+          }
+        ],
+        "conversation_id": "1958630282678215089",
+        "created_at": "2025-08-21T20:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T21:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958630282678215089"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "DMT",
+              "probability": 0.5933,
+              "start": 14,
+              "type": "Organization"
+            },
+            {
+              "end": 178,
+              "normalized_text": "DMT",
+              "probability": 0.4989,
+              "start": 176,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 252,
+              "start": 241,
+              "tag": "ufotwitter"
+            },
+            {
+              "end": 258,
+              "start": 253,
+              "tag": "ufox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958630282678215089",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 954,
+          "impression_count": 197513,
+          "like_count": 1099,
+          "quote_count": 14,
+          "reply_count": 68,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "🧵THREAD: What DMT Entities Say to Humans\n\nAfter decades of reports, interviews, and now clinical studies, a strange consistency is emerging around what entities encountered on DMT actually say to people, and what these encounters feel like. #ufotwitter #ufox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2159,
+          "like_count": 21845,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5866
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-11T01:17:41.000Z",
+        "description": "UFO & anomalous phenomenon researcher. YouTuber. Host of @anompod. Musician. Co-founder New Paradigm Media.\n\n#ufoX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "ufoX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "anompod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tomthompson",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tomthompson",
+                "start": 0,
+                "url": "https://t.co/59S7KjR5VJ"
+              }
+            ]
+          }
+        },
+        "id": "940027773627727875",
+        "location": "New Jersey",
+        "name": "Tom Thompson🛸 (ＣＯＲＴＥＸ ＺＥＲＯ)",
+        "pinned_tweet_id": "1958299096399196406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813051650447175680/Ba_pwlBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24610,
+          "following_count": 3745,
+          "like_count": 41882,
+          "listed_count": 190,
+          "media_count": 4331,
+          "tweet_count": 24996
+        },
+        "url": "https://t.co/59S7KjR5VJ",
+        "username": "Cortex_Zero",
+        "verified": true
+      }
+    ]
+  }
+}

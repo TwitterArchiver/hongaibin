@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940747504645296129",
+        "3_1940747504837898241",
+        "3_1940747504657829888",
+        "3_1940747504947236864"
+      ],
+      "media_source_tweet_id": [
+        "1940747572173484481",
+        "1940747572173484481",
+        "1940747572173484481",
+        "1940747572173484481"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1941068654000714101",
+    "created_at": "2025-07-04T09:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941068654000714101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 15,
+          "tag": "2025年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3010370624",
+          "start": 3,
+          "username": "AOInaning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K7yahs3NKa",
+          "end": 58,
+          "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+          "media_key": "3_1940747504645296129",
+          "start": 35,
+          "url": "https://t.co/K7yahs3NKa"
+        },
+        {
+          "display_url": "pic.x.com/K7yahs3NKa",
+          "end": 58,
+          "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+          "media_key": "3_1940747504837898241",
+          "start": 35,
+          "url": "https://t.co/K7yahs3NKa"
+        },
+        {
+          "display_url": "pic.x.com/K7yahs3NKa",
+          "end": 58,
+          "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+          "media_key": "3_1940747504657829888",
+          "start": 35,
+          "url": "https://t.co/K7yahs3NKa"
+        },
+        {
+          "display_url": "pic.x.com/K7yahs3NKa",
+          "end": 58,
+          "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+          "media_key": "3_1940747504947236864",
+          "start": 35,
+          "url": "https://t.co/K7yahs3NKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941068654000714101",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940747572173484481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AOInaning: #2025年自分が選ぶ今年上半期の4枚 https://t.co/K7yahs3NKa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941068654000714101].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941068654000714101",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941068654000714101"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940747504645296129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7rkq0b0AEGLQG.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940747504837898241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7rkriWsAEtWwb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1448,
+        "media_key": "3_1940747504657829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7rkq3bEAAOEWP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940747504947236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7rkr8bEAAEots.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940747504645296129",
+            "3_1940747504837898241",
+            "3_1940747504657829888",
+            "3_1940747504947236864"
+          ]
+        },
+        "author_id": "3010370624",
+        "conversation_id": "1940747572173484481",
+        "created_at": "2025-07-03T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940747572173484481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "2025年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7yahs3NKa",
+              "end": 43,
+              "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+              "media_key": "3_1940747504645296129",
+              "start": 20,
+              "url": "https://t.co/K7yahs3NKa"
+            },
+            {
+              "display_url": "pic.x.com/K7yahs3NKa",
+              "end": 43,
+              "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+              "media_key": "3_1940747504837898241",
+              "start": 20,
+              "url": "https://t.co/K7yahs3NKa"
+            },
+            {
+              "display_url": "pic.x.com/K7yahs3NKa",
+              "end": 43,
+              "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+              "media_key": "3_1940747504657829888",
+              "start": 20,
+              "url": "https://t.co/K7yahs3NKa"
+            },
+            {
+              "display_url": "pic.x.com/K7yahs3NKa",
+              "end": 43,
+              "expanded_url": "https://x.com/AOInaning/status/1940747572173484481/photo/1",
+              "media_key": "3_1940747504947236864",
+              "start": 20,
+              "url": "https://t.co/K7yahs3NKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940747572173484481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 13794,
+          "like_count": 496,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "#2025年自分が選ぶ今年上半期の4枚 https://t.co/K7yahs3NKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2078,
+          "like_count": 20042,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5474
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T16:18:13.000Z",
+        "description": "◆illustrator/漫画家　多忙中\n◆『どうも、物欲の聖女です』連載中\n◆ご依頼は企業様とお知り合い様のみ \n📨:naningwork@gmail.com \n◆実績はハイライト",
+        "id": "3010370624",
+        "location": "中文&日本語",
+        "name": "ナニン",
+        "pinned_tweet_id": "1938071460331065740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774631136897167360/RXReMsvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58149,
+          "following_count": 880,
+          "like_count": 43721,
+          "listed_count": 285,
+          "media_count": 389,
+          "tweet_count": 45427
+        },
+        "username": "AOInaning",
+        "verified": true
+      }
+    ]
+  }
+}

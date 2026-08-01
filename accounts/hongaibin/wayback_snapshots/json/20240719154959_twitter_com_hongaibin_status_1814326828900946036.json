@@ -1,0 +1,272 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1813782524851863552"
+      ],
+      "media_source_tweet_id": [
+        "1813782590815691189"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1814326828900946036",
+    "created_at": "2024-07-19T15:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T16:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814326828900946036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 3,
+          "username": "pyke2076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gjVTT73uf2",
+          "end": 44,
+          "expanded_url": "https://twitter.com/pyke2076/status/1813782590815691189/video/1",
+          "media_key": "7_1813782524851863552",
+          "start": 21,
+          "url": "https://t.co/gjVTT73uf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814326828900946036",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813782590815691189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyke2076: 昨晚的库存（ https://t.co/gjVTT73uf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13694,
+        "height": 720,
+        "media_key": "7_1813782524851863552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1813782524851863552/pu/img/TzhOKI4z8prfgmyw.jpg",
+        "public_metrics": {
+          "view_count": 6694
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813782524851863552/pu/vid/avc1/480x270/Pbovav19XBjfuAT8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813782524851863552/pu/vid/avc1/640x360/2C1RZzF39wVLqnjK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813782524851863552/pu/vid/avc1/1280x720/CC3jPrvk6tEvILSD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1813782524851863552/pu/pl/9btWBR76mBnu35Gn.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813782524851863552"
+          ],
+          "media_source_tweet_id": [
+            "1813782590815691189"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1814326828900946036",
+        "created_at": "2024-07-19T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814326828900946036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 3,
+              "username": "pyke2076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gjVTT73uf2",
+              "end": 44,
+              "expanded_url": "https://twitter.com/pyke2076/status/1813782590815691189/video/1",
+              "media_key": "7_1813782524851863552",
+              "start": 21,
+              "url": "https://t.co/gjVTT73uf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814326828900946036",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813782590815691189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyke2076: 昨晚的库存（ https://t.co/gjVTT73uf2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813782524851863552"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1813782590815691189",
+        "created_at": "2024-07-18T03:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813782590815691189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gjVTT73uf2",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pyke2076/status/1813782590815691189/video/1",
+              "media_key": "7_1813782524851863552",
+              "start": 7,
+              "url": "https://t.co/gjVTT73uf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813782590815691189",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13365,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚的库存（ https://t.co/gjVTT73uf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1150,
+          "like_count": 2970,
+          "listed_count": 1,
+          "tweet_count": 1771
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1806167215785615755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 655,
+          "like_count": 28724,
+          "listed_count": 4,
+          "tweet_count": 7692
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

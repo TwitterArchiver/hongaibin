@@ -1,0 +1,360 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Chiitan (ちぃたん)",
+          "id": "1040305487097389056",
+          "name": "Chiitan (ちぃたん)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1585043195338989569",
+          "name": "Credit Saison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "description": "Chiitan (ちぃたん)",
+          "id": "1040305487097389056",
+          "name": "Chiitan (ちぃたん)"
+        }
+      }
+    ],
+    "conversation_id": "1800826122894283088",
+    "created_at": "2024-06-12T09:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T10:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800826122894283088"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 87,
+          "normalized_text": "Amazon",
+          "probability": 0.3868,
+          "start": 82,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "187461806",
+          "start": 3,
+          "username": "kaori_saison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800826122894283088",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2379
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800740079608189349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaori_saison: ⭐️\n⭐️     ちぃたん⭐︎ぺんとす\n⭐️おともだちキャンペーン💚💙\n⭐️\n\nちぃたん⭐︎とぺんとすのグッズ詰め合わせ\nAmazonギフトカード500円分\n両方を抽選で10名様にプレゼント✰⋆｡:ﾟ･*☽\n\n応募方法🖤6/30(日)23:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1585043195338989569",
+              "name": "Credit Saison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          }
+        ],
+        "conversation_id": "1800826122894283088",
+        "created_at": "2024-06-12T09:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T10:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800826122894283088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 87,
+              "normalized_text": "Amazon",
+              "probability": 0.3868,
+              "start": 82,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "187461806",
+              "start": 3,
+              "username": "kaori_saison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800826122894283088",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2379
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800740079608189349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaori_saison: ⭐️\n⭐️     ちぃたん⭐︎ぺんとす\n⭐️おともだちキャンペーン💚💙\n⭐️\n\nちぃたん⭐︎とぺんとすのグッズ詰め合わせ\nAmazonギフトカード500円分\n両方を抽選で10名様にプレゼント✰⋆｡:ﾟ･*☽\n\n応募方法🖤6/30(日)23:…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1800739972099764224"
+          ]
+        },
+        "author_id": "187461806",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1585043195338989569",
+              "name": "Credit Saison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          }
+        ],
+        "conversation_id": "1800740079608189349",
+        "created_at": "2024-06-12T04:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T05:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800740079608189349"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "Amazon",
+              "probability": 0.3945,
+              "start": 64,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 140,
+              "id": "187461806",
+              "start": 127,
+              "username": "kaori_saison"
+            },
+            {
+              "end": 155,
+              "id": "1128977972646387712",
+              "start": 143,
+              "username": "chiitan7407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tkkRF5eWY3",
+              "end": 196,
+              "expanded_url": "https://twitter.com/kaori_saison/status/1800740079608189349/video/1",
+              "media_key": "13_1800739972099764224",
+              "start": 173,
+              "url": "https://t.co/tkkRF5eWY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800740079608189349",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 57117,
+          "like_count": 856,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 2379
+        },
+        "reply_settings": "everyone",
+        "text": "⭐️\n⭐️     ちぃたん⭐︎ぺんとす\n⭐️おともだちキャンペーン💚💙\n⭐️\n\nちぃたん⭐︎とぺんとすのグッズ詰め合わせ\nAmazonギフトカード500円分\n両方を抽選で10名様にプレゼント✰⋆｡:ﾟ･*☽\n\n応募方法🖤6/30(日)23:59まで\n🍼@kaori_saison と @chiitan7407 をフォロー\n🍼この投稿をリポスト https://t.co/tkkRF5eWY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1064,
+          "like_count": 1646,
+          "listed_count": 1,
+          "tweet_count": 1175
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-06T08:50:55.000Z",
+        "description": "クレディセゾン公式アカウントです💳#セゾンカード のサービス・キャンペーン情報・優待などをつぶやきます！　規約▶︎https://t.co/YBEdtVP8g8",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 17,
+                "tag": "セゾンカード"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "saisoncard.co.jp/terms/social-m…",
+                "end": 80,
+                "expanded_url": "https://www.saisoncard.co.jp/terms/social-media-terms-of-service/",
+                "start": 57,
+                "url": "https://t.co/YBEdtVP8g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saisoncard.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.saisoncard.co.jp/",
+                "start": 0,
+                "url": "https://t.co/XdHvCqQNxJ"
+              }
+            ]
+          }
+        },
+        "id": "187461806",
+        "location": "東京 豊島区",
+        "name": "クレディセゾン (CREDIT SAISON)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719381248295190528/nL03h7mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417117,
+          "following_count": 7483,
+          "like_count": 3077,
+          "listed_count": 860,
+          "tweet_count": 2202167
+        },
+        "url": "https://t.co/XdHvCqQNxJ",
+        "username": "kaori_saison",
+        "verified": true
+      }
+    ]
+  }
+}

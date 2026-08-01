@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839507405077614592",
+        "3_1839507405044072448"
+      ],
+      "media_source_tweet_id": [
+        "1839507413344583865",
+        "1839507413344583865"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1535317389067182080",
+          "name": "Hyakumantenbara Salome"
+        }
+      }
+    ],
+    "conversation_id": "1843343214843216077",
+    "created_at": "2024-10-07T17:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843343214843216077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "842543934601486336",
+          "start": 3,
+          "username": "Syu9ri16"
+        },
+        {
+          "end": 26,
+          "id": "1526881736214597632",
+          "start": 14,
+          "username": "1000000lome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dSH3Kum4Ke",
+          "end": 81,
+          "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+          "media_key": "3_1839507405077614592",
+          "start": 58,
+          "url": "https://t.co/dSH3Kum4Ke"
+        },
+        {
+          "display_url": "pic.x.com/dSH3Kum4Ke",
+          "end": 81,
+          "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+          "media_key": "3_1839507405044072448",
+          "start": 58,
+          "url": "https://t.co/dSH3Kum4Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843343214843216077",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839507413344583865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syu9ri16: @1000000lome ご縁がありましたら…是非‼︎\n（夜空色天使の少女と少年です） https://t.co/dSH3Kum4Ke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2891,
+        "media_key": "3_1839507405077614592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYc-PSFaEAAH9gf.jpg",
+        "width": 2217
+      },
+      {
+        "height": 3720,
+        "media_key": "3_1839507405044072448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYc-PR9aQAA69cc.jpg",
+        "width": 2750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839507405077614592",
+            "3_1839507405044072448"
+          ],
+          "media_source_tweet_id": [
+            "1839507413344583865",
+            "1839507413344583865"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          }
+        ],
+        "conversation_id": "1843343214843216077",
+        "created_at": "2024-10-07T17:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843343214843216077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "842543934601486336",
+              "start": 3,
+              "username": "Syu9ri16"
+            },
+            {
+              "end": 26,
+              "id": "1526881736214597632",
+              "start": 14,
+              "username": "1000000lome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSH3Kum4Ke",
+              "end": 81,
+              "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+              "media_key": "3_1839507405077614592",
+              "start": 58,
+              "url": "https://t.co/dSH3Kum4Ke"
+            },
+            {
+              "display_url": "pic.x.com/dSH3Kum4Ke",
+              "end": 81,
+              "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+              "media_key": "3_1839507405044072448",
+              "start": 58,
+              "url": "https://t.co/dSH3Kum4Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843343214843216077",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839507413344583865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Syu9ri16: @1000000lome ご縁がありましたら…是非‼︎\n（夜空色天使の少女と少年です） https://t.co/dSH3Kum4Ke"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839507405077614592",
+            "3_1839507405044072448"
+          ]
+        },
+        "author_id": "842543934601486336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1535317389067182080",
+              "name": "Hyakumantenbara Salome"
+            }
+          }
+        ],
+        "conversation_id": "1838791537892954490",
+        "created_at": "2024-09-27T03:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839507413344583865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526881736214597632",
+              "start": 0,
+              "username": "1000000lome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSH3Kum4Ke",
+              "end": 67,
+              "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+              "media_key": "3_1839507405077614592",
+              "start": 44,
+              "url": "https://t.co/dSH3Kum4Ke"
+            },
+            {
+              "display_url": "pic.x.com/dSH3Kum4Ke",
+              "end": 67,
+              "expanded_url": "https://x.com/Syu9ri16/status/1839507413344583865/photo/1",
+              "media_key": "3_1839507405044072448",
+              "start": 44,
+              "url": "https://t.co/dSH3Kum4Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839507413344583865",
+        "in_reply_to_user_id": "1526881736214597632",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838791537892954490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1000000lome ご縁がありましたら…是非‼︎\n（夜空色天使の少女と少年です） https://t.co/dSH3Kum4Ke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1542,
+          "like_count": 8662,
+          "listed_count": 3,
+          "tweet_count": 3302
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-17T01:11:42.000Z",
+        "description": "絵と音楽とケモ耳が好きなVｲﾗｽﾄﾚｰﾀｰ /25年2月～納品の依頼募集中/FAﾀｸﾞ創作 #終末紀行FA ▶︎V #ぽやあ〜と/ご依頼はDMか✉️▶︎syu39ma1gen@gmail.com⿻skeb▶︎https://t.co/a1c353tEZ0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "終末紀行FA"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "ぽやあ〜と"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Syu9ri16",
+                "end": 127,
+                "expanded_url": "https://skeb.jp/@Syu9ri16",
+                "start": 104,
+                "url": "https://t.co/a1c353tEZ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syu39ma1gen.wixsite.com/my-site",
+                "end": 23,
+                "expanded_url": "https://syu39ma1gen.wixsite.com/my-site",
+                "start": 0,
+                "url": "https://t.co/gGd7tdBCQk"
+              }
+            ]
+          }
+        },
+        "id": "842543934601486336",
+        "location": "依頼実績199件/進20件/作品のAI学習無断使用禁止",
+        "name": "狐巳夜シュウ",
+        "pinned_tweet_id": "1842507667602075762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818888714300669953/vaDWLBex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30618,
+          "following_count": 190,
+          "like_count": 35927,
+          "listed_count": 280,
+          "tweet_count": 44575
+        },
+        "url": "https://t.co/gGd7tdBCQk",
+        "username": "Syu9ri16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T11:07:26.000Z",
+        "description": "育ちは一般家庭ですわ。 お母さま✦@wttn3tpkt 🦂 #サロメ百万展 #サロメ満点配信ですわ #サロメッセージ 🦂お問い合わせ先💖✉ https://t.co/3Pa87oYhz8",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "サロメ百万展"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "サロメ満点配信ですわ"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "サロメッセージ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "wttn3tpkt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nijisanji.jp/contact",
+                "end": 93,
+                "expanded_url": "http://nijisanji.jp/contact",
+                "start": 70,
+                "url": "https://t.co/3Pa87oYhz8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCgIfL…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/qsXIwiQNq1"
+              }
+            ]
+          }
+        },
+        "id": "1526881736214597632",
+        "name": "壱百満天原サロメ💯🦂📢新曲ふぁむふぁたMV公開💗",
+        "pinned_tweet_id": "1530066101773942784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775794248115445760/eCQ2LIA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046327,
+          "following_count": 1,
+          "like_count": 142,
+          "listed_count": 8861,
+          "tweet_count": 7839
+        },
+        "url": "https://t.co/qsXIwiQNq1",
+        "username": "1000000lome",
+        "verified": true
+      }
+    ]
+  }
+}

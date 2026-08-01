@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1816252735744081920"
+      ],
+      "media_source_tweet_id": [
+        "1816252741594816967"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1819925260894179615",
+    "created_at": "2024-08-04T02:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T03:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819925260894179615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1445376900042407939",
+          "start": 3,
+          "username": "noudou_teki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Xe4x3cOLpm",
+          "end": 47,
+          "expanded_url": "https://twitter.com/noudou_teki/status/1816252741594816967/photo/1",
+          "media_key": "3_1816252735744081920",
+          "start": 24,
+          "url": "https://t.co/Xe4x3cOLpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819925260894179615",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816252741594816967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @noudou_teki: 黒髪ver. https://t.co/Xe4x3cOLpm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1819925260894179615].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1819925260894179615",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1819925260894179615"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1816252735744081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTSgPYBbgAAYj8m.jpg",
+        "width": 1667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816252735744081920"
+          ]
+        },
+        "author_id": "1445376900042407939",
+        "conversation_id": "1816252741594816967",
+        "created_at": "2024-07-24T23:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T00:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816252741594816967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Xe4x3cOLpm",
+              "end": 30,
+              "expanded_url": "https://twitter.com/noudou_teki/status/1816252741594816967/photo/1",
+              "media_key": "3_1816252735744081920",
+              "start": 7,
+              "url": "https://t.co/Xe4x3cOLpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816252741594816967",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 19791,
+          "like_count": 1567,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "reply_settings": "following",
+        "text": "黒髪ver. https://t.co/Xe4x3cOLpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 1221,
+          "like_count": 4257,
+          "listed_count": 2,
+          "tweet_count": 2253
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T13:15:04.000Z",
+        "description": "フィクション",
+        "id": "1445376900042407939",
+        "location": "自傷 暴力表現あります 不健全",
+        "name": "えび",
+        "pinned_tweet_id": "1791773840324096199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756313138088353792/jikhDGNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 154,
+          "like_count": 10128,
+          "listed_count": 13,
+          "tweet_count": 897
+        },
+        "username": "noudou_teki",
+        "verified": false
+      }
+    ]
+  }
+}

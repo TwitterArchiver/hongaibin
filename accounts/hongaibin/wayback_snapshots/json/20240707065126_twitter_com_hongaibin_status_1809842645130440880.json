@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809842645130440880",
+    "created_at": "2024-07-07T06:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T07:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809842645130440880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1328860547564019718",
+          "start": 3,
+          "username": "nova_baize"
+        },
+        {
+          "end": 28,
+          "id": "1782169277753081856",
+          "start": 16,
+          "username": "Jing_100311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809842645130440880",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807254054952992966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nova_baize: @Jing_100311 别割了 给我看看逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809842645130440880",
+        "created_at": "2024-07-07T06:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T07:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809842645130440880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1328860547564019718",
+              "start": 3,
+              "username": "nova_baize"
+            },
+            {
+              "end": 28,
+              "id": "1782169277753081856",
+              "start": 16,
+              "username": "Jing_100311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809842645130440880",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807254054952992966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nova_baize: @Jing_100311 别割了 给我看看逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1328860547564019718",
+        "conversation_id": "1806931168090051022",
+        "created_at": "2024-06-30T03:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T04:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807254054952992966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782169277753081856",
+              "start": 0,
+              "username": "Jing_100311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807254054952992966",
+        "in_reply_to_user_id": "1782169277753081856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806931168090051022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jing_100311 别割了 给我看看逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1095,
+          "like_count": 2191,
+          "listed_count": 1,
+          "tweet_count": 1504
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T00:40:27.000Z",
+        "description": "qq3170839455 wechat whatapps",
+        "id": "1328860547564019718",
+        "name": "NovaBaize",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328860843954507776/EU8CBZB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "nova_baize",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:07:29.000Z",
+        "description": "06/🇺🇸🇨🇳/凉席/od/日记/     欢迎小女孩互fo （直fo就好 看见会回",
+        "id": "1782169277753081856",
+        "location": "🚪198不退",
+        "name": "景",
+        "pinned_tweet_id": "1809518197898383630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782169386448461824/ZzfL8C4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 355,
+          "like_count": 257,
+          "listed_count": 0,
+          "tweet_count": 479
+        },
+        "username": "Jing_100311",
+        "verified": false
+      }
+    ]
+  }
+}

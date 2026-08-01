@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912337572505804800"
+      ],
+      "media_source_tweet_id": [
+        "1912337654777278555"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1914424255909126228",
+    "created_at": "2025-04-21T21:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T22:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914424255909126228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1514244454919839745",
+          "start": 3,
+          "username": "KitsunezakiMei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2VCHAbSBLU",
+          "end": 55,
+          "expanded_url": "https://x.com/KitsunezakiMei/status/1912337654777278555/photo/1",
+          "media_key": "3_1912337572505804800",
+          "start": 32,
+          "url": "https://t.co/2VCHAbSBLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914424255909126228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912337654777278555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsunezakiMei: 比悲傷更「悲傷」的故事 https://t.co/2VCHAbSBLU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1912337572505804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gon84-PXYAApc1K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912337572505804800"
+          ],
+          "media_source_tweet_id": [
+            "1912337654777278555"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914424255909126228",
+        "created_at": "2025-04-21T21:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T22:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914424255909126228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1514244454919839745",
+              "start": 3,
+              "username": "KitsunezakiMei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VCHAbSBLU",
+              "end": 55,
+              "expanded_url": "https://x.com/KitsunezakiMei/status/1912337654777278555/photo/1",
+              "media_key": "3_1912337572505804800",
+              "start": 32,
+              "url": "https://t.co/2VCHAbSBLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914424255909126228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912337654777278555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsunezakiMei: 比悲傷更「悲傷」的故事 https://t.co/2VCHAbSBLU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912337572505804800"
+          ]
+        },
+        "author_id": "1514244454919839745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912337654777278555",
+        "created_at": "2025-04-16T02:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T03:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912337654777278555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VCHAbSBLU",
+              "end": 35,
+              "expanded_url": "https://x.com/KitsunezakiMei/status/1912337654777278555/photo/1",
+              "media_key": "3_1912337572505804800",
+              "start": 12,
+              "url": "https://t.co/2VCHAbSBLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912337654777278555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1269,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "比悲傷更「悲傷」的故事 https://t.co/2VCHAbSBLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1892,
+          "like_count": 16470,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4731
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T14:09:58.000Z",
+        "description": "喜歡毒雞湯/恐怖遊戲/奶茶控\n漂亮可愛的紫狐狸\n歡迎連動邀約~！\n棉花糖  https://t.co/lwqS08ddE8\n✦2DLive by @Yasa_661266\n✦Logo by @Hisenya\n✦Art by @Rovaruru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Yasa_661266"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "Hisenya"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Rovaruru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/j9R7DD",
+                "end": 61,
+                "expanded_url": "https://reurl.cc/j9R7DD",
+                "start": 38,
+                "url": "https://t.co/lwqS08ddE8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCiBbP…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCiBbPf_s3cqpWKlfwwGm-2Q",
+                "start": 0,
+                "url": "https://t.co/5vOm7m9XGj"
+              }
+            ]
+          }
+        },
+        "id": "1514244454919839745",
+        "location": "狐狸窩",
+        "name": "狐崎冥KitsunezakiMei",
+        "pinned_tweet_id": "1914330344674955398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514244509693255685/orZTQMua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 738,
+          "like_count": 20307,
+          "listed_count": 8,
+          "media_count": 1390,
+          "tweet_count": 14705
+        },
+        "url": "https://t.co/5vOm7m9XGj",
+        "username": "KitsunezakiMei",
+        "verified": false
+      }
+    ]
+  }
+}

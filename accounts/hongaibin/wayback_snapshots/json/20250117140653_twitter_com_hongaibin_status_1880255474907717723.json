@@ -1,0 +1,620 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Representative John Ratcliffe (TX-4)",
+          "id": "939260552840232960",
+          "name": "John Ratcliffe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1137026580616663041",
+          "name": "Ryan Saavedra"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Representative John Ratcliffe (TX-4)",
+          "id": "939260552840232960",
+          "name": "John Ratcliffe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A journalist like 'Anderson Cooper'",
+          "id": "94",
+          "name": "Journalist"
+        },
+        "entity": {
+          "id": "1137026580616663041",
+          "name": "Ryan Saavedra"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Representative John Ratcliffe (TX-4)",
+          "id": "939260552840232960",
+          "name": "John Ratcliffe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1137026580616663041",
+          "name": "Ryan Saavedra"
+        }
+      }
+    ],
+    "conversation_id": "1880255474907717723",
+    "created_at": "2025-01-17T14:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880255474907717723"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "CIA",
+          "probability": 0.9593,
+          "start": 18,
+          "type": "Organization"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Nominee John Ratcliffe",
+          "probability": 0.8455,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "812135885328236551",
+          "start": 3,
+          "username": "RealSaavedra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880255474907717723",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1349
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880035411122352153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealSaavedra: CIA Director Nominee John Ratcliffe yesterday: “There's only one country in the world that can parallel park a 200-foot r…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          }
+        ],
+        "conversation_id": "1880255474907717723",
+        "created_at": "2025-01-17T14:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880255474907717723"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "CIA",
+              "probability": 0.9593,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Nominee John Ratcliffe",
+              "probability": 0.8455,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "812135885328236551",
+              "start": 3,
+              "username": "RealSaavedra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880255474907717723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1349
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880035411122352153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealSaavedra: CIA Director Nominee John Ratcliffe yesterday: “There's only one country in the world that can parallel park a 200-foot r…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880035364435353600"
+          ]
+        },
+        "author_id": "812135885328236551",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative John Ratcliffe (TX-4)",
+              "id": "939260552840232960",
+              "name": "John Ratcliffe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137026580616663041",
+              "name": "Ryan Saavedra"
+            }
+          }
+        ],
+        "conversation_id": "1880035411122352153",
+        "created_at": "2025-01-16T23:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T00:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880035411122352153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "CIA",
+              "probability": 0.9558,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Nominee John Ratcliffe",
+              "probability": 0.7317,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2Nbsm8zS4",
+              "end": 221,
+              "expanded_url": "https://x.com/RealSaavedra/status/1880035411122352153/video/1",
+              "media_key": "7_1880035364435353600",
+              "start": 198,
+              "url": "https://t.co/O2Nbsm8zS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880035411122352153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 11214871,
+          "like_count": 10151,
+          "quote_count": 218,
+          "reply_count": 628,
+          "retweet_count": 1349
+        },
+        "reply_settings": "everyone",
+        "text": "CIA Director Nominee John Ratcliffe yesterday: “There's only one country in the world that can parallel park a 200-foot rocket booster. The Chinese can't do it. The Russians can't do it. We do it.” https://t.co/O2Nbsm8zS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1696,
+          "like_count": 14211,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 4226
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-23T03:20:58.000Z",
+        "description": "@realDailyWire. Retweets ≠ endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "realDailyWire"
+              }
+            ]
+          }
+        },
+        "id": "812135885328236551",
+        "location": "USA",
+        "name": "Ryan Saavedra",
+        "pinned_tweet_id": "1880035411122352153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783249903885373442/OM1JF8H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355447,
+          "following_count": 756,
+          "like_count": 19160,
+          "listed_count": 1809,
+          "media_count": 11821,
+          "tweet_count": 94794
+        },
+        "username": "RealSaavedra",
+        "verified": true
+      }
+    ]
+  }
+}

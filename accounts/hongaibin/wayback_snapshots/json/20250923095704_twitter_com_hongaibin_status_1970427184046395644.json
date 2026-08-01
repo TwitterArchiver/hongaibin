@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968168902673969152"
+      ],
+      "media_source_tweet_id": [
+        "1968168912547352763"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1970427184046395644",
+    "created_at": "2025-09-23T09:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970427184046395644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951051623331143680",
+          "start": 3,
+          "username": "mofuchan_0D"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HC0f1iNurx",
+          "end": 40,
+          "expanded_url": "https://x.com/mofuchan_0D/status/1968168912547352763/photo/1",
+          "media_key": "3_1968168902673969152",
+          "start": 17,
+          "url": "https://t.co/HC0f1iNurx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970427184046395644",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968168912547352763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuchan_0D: https://t.co/HC0f1iNurx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968168902673969152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BXMG3aMAA3hVC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968168902673969152"
+          ],
+          "media_source_tweet_id": [
+            "1968168912547352763"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1970427184046395644",
+        "created_at": "2025-09-23T09:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970427184046395644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951051623331143680",
+              "start": 3,
+              "username": "mofuchan_0D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HC0f1iNurx",
+              "end": 40,
+              "expanded_url": "https://x.com/mofuchan_0D/status/1968168912547352763/photo/1",
+              "media_key": "3_1968168902673969152",
+              "start": 17,
+              "url": "https://t.co/HC0f1iNurx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970427184046395644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968168912547352763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofuchan_0D: https://t.co/HC0f1iNurx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968168902673969152"
+          ]
+        },
+        "author_id": "1951051623331143680",
+        "conversation_id": "1968168912547352763",
+        "created_at": "2025-09-17T04:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968168912547352763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HC0f1iNurx",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuchan_0D/status/1968168912547352763/photo/1",
+              "media_key": "3_1968168902673969152",
+              "start": 0,
+              "url": "https://t.co/HC0f1iNurx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968168912547352763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 24932,
+          "like_count": 1312,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HC0f1iNurx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 2190,
+          "like_count": 23039,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6078
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T22:45:46.000Z",
+        "description": "リスペクト先▶︎ @Hana_bougetsu わたもふコンビ▶@2scXt癒し♥▶@arisu0044 弟子にこいち🌹 @sirosiro_114514 神▶︎@wanna_vanish ペアヘッダー▶︎@mesugaki__cdin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Hana_bougetsu"
+              },
+              {
+                "end": 38,
+                "start": 32,
+                "username": "2scXt"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "arisu0044"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "sirosiro_114514"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "wanna_vanish"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "mesugaki__cdin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/bca695e3-17d9-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/bca695e3-17d9-4832-980d-f7f3c00e5cf5",
+                "start": 0,
+                "url": "https://t.co/KtIeWheZi3"
+              }
+            ]
+          }
+        },
+        "id": "1951051623331143680",
+        "location": "右ﾝは危険",
+        "name": "ラリラリ〆ジカー",
+        "pinned_tweet_id": "1969943928758763775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951320771231698944/iVBc06Dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1233,
+          "like_count": 9093,
+          "listed_count": 23,
+          "media_count": 316,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/KtIeWheZi3",
+        "username": "mofuchan_0D",
+        "verified": false
+      }
+    ]
+  }
+}

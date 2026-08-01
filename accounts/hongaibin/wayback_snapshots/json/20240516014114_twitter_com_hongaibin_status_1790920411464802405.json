@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1790901137950019740",
+    "created_at": "2024-05-16T01:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T02:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790920411464802405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708398562646896640",
+          "start": 0,
+          "username": "Ganlongyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790920411464802405",
+    "in_reply_to_user_id": "1708398562646896640",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790901137950019740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ganlongyu_ 这年头都是数字存储了，还玩啥cd光碟。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1790901137950019740",
+        "created_at": "2024-05-16T01:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T02:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790920411464802405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708398562646896640",
+              "start": 0,
+              "username": "Ganlongyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790920411464802405",
+        "in_reply_to_user_id": "1708398562646896640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790901137950019740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ganlongyu_ 这年头都是数字存储了，还玩啥cd光碟。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1708398562646896640",
+        "conversation_id": "1790901137950019740",
+        "created_at": "2024-05-16T00:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T01:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790901137950019740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790901137950019740",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想买专听cd诶\n大家有什么推荐的cd机嘛\n最好价格适中🥺）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 790,
+          "like_count": 1215,
+          "listed_count": 0,
+          "tweet_count": 327
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T08:29:24.000Z",
+        "description": "哦呀哦呀 这里是猫猫｜07年无证含糖喵🍥｜hrt2023.10.28｜infp-t｜喜欢次鱼🐟｜172cm/43kg喵｜入🚪68CNY喵 同类免费｜",
+        "id": "1708398562646896640",
+        "location": "红魔馆",
+        "name": "厘米🍥",
+        "pinned_tweet_id": "1781167301620015515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710714357708210176/JotY3AgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 963,
+          "like_count": 9301,
+          "listed_count": 6,
+          "tweet_count": 1566
+        },
+        "username": "Ganlongyu_",
+        "verified": false
+      }
+    ]
+  }
+}

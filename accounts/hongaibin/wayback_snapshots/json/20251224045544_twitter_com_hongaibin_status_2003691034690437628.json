@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "2003691034690437628",
+    "created_at": "2025-12-24T04:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T05:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003691034690437628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1607388730914140160",
+          "start": 3,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003691034690437628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002244372709192104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popcat1234566: 别跟我扯什么几把缉毒警察的命，这是他们自己选择的路，老子在出租屋里快饿死了也没人可怜我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "2003691034690437628",
+        "created_at": "2025-12-24T04:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003691034690437628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1607388730914140160",
+              "start": 3,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003691034690437628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002244372709192104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popcat1234566: 别跟我扯什么几把缉毒警察的命，这是他们自己选择的路，老子在出租屋里快饿死了也没人可怜我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "2002244372709192104",
+        "created_at": "2025-12-20T05:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002244372709192104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002244372709192104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1293,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "别跟我扯什么几把缉毒警察的命，这是他们自己选择的路，老子在出租屋里快饿死了也没人可怜我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 2219,
+          "like_count": 23665,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6284
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n\ndpt 550/1g  2000/5g   4200/25g pea 噻萘普汀 麦斯卡林 随剂量问价 /普瑞巴林处方持有者 可合法代购\n没有警察的义务！\n私信不回，联系https://t.co/si90IVq3wj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 134,
+                "expanded_url": "https://t.me/opodoge",
+                "start": 111,
+                "url": "https://t.co/si90IVq3wj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1996964226662027662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997609291507998720/J7qv1WAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 652,
+          "like_count": 36375,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

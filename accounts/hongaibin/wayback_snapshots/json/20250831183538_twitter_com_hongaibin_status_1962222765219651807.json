@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1962084540769505630",
+    "created_at": "2025-08-31T18:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T19:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962222765219651807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764513078585270272",
+          "start": 0,
+          "username": "k4zuk4zu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962222765219651807",
+    "in_reply_to_user_id": "1764513078585270272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962084540769505630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4zuk4zu_ 😋🥸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962084537825193984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzq5fdhbcAAc17J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1962084540769505630",
+        "created_at": "2025-08-31T18:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T19:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962222765219651807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764513078585270272",
+              "start": 0,
+              "username": "k4zuk4zu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962222765219651807",
+        "in_reply_to_user_id": "1764513078585270272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962084540769505630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4zuk4zu_ 😋🥸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962084537825193984"
+          ]
+        },
+        "author_id": "1764513078585270272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042181322",
+              "name": "The X-Files"
+            }
+          }
+        ],
+        "conversation_id": "1962084540769505630",
+        "created_at": "2025-08-31T09:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962084540769505630"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Betrayed",
+              "probability": 0.5239,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "TrustNoone",
+              "probability": 0.5092,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "Betrayed"
+            },
+            {
+              "end": 69,
+              "start": 58,
+              "tag": "TrustNoone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbTIHkpFYf",
+              "end": 93,
+              "expanded_url": "https://x.com/k4zuk4zu_/status/1962084540769505630/photo/1",
+              "media_key": "3_1962084537825193984",
+              "start": 70,
+              "url": "https://t.co/kbTIHkpFYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962084540769505630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "JUST sat down to drink and gf left for toilet🥀🥀 #Betrayed #TrustNoone https://t.co/kbTIHkpFYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2168,
+          "like_count": 21964,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 5905
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:48:04.000Z",
+        "description": "🍼19♂️ ENFP\neng+日本語\nvent account 》 @k4zuny4n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "k4zuny4n"
+              }
+            ]
+          }
+        },
+        "id": "1764513078585270272",
+        "name": "かず.。o○ REI MONTH!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954528492072374273/U4yos-Y1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 406,
+          "like_count": 152169,
+          "listed_count": 11,
+          "media_count": 6641,
+          "tweet_count": 34968
+        },
+        "username": "k4zuk4zu_",
+        "verified": false
+      }
+    ]
+  }
+}

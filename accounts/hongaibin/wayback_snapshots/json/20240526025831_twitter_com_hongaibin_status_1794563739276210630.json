@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1794072027495829670",
+    "created_at": "2024-05-26T02:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T03:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794563739276210630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741856537478561792",
+          "start": 0,
+          "username": "Trave1ingPoet"
+        },
+        {
+          "end": 31,
+          "id": "1766858890636120064",
+          "start": 15,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794563739276210630",
+    "in_reply_to_user_id": "1741856537478561792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794440633962393871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trave1ingPoet @Nuominiang75884 会感染截肢的，死死不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1794072027495829670",
+        "created_at": "2024-05-26T02:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T03:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794563739276210630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741856537478561792",
+              "start": 0,
+              "username": "Trave1ingPoet"
+            },
+            {
+              "end": 31,
+              "id": "1766858890636120064",
+              "start": 15,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794563739276210630",
+        "in_reply_to_user_id": "1741856537478561792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794440633962393871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trave1ingPoet @Nuominiang75884 会感染截肢的，死死不了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1741856537478561792",
+        "conversation_id": "1794072027495829670",
+        "created_at": "2024-05-25T18:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T19:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794440633962393871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794440633962393871",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794072027495829670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 从来没消过毒..死了更好 不是吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1007,
+          "like_count": 1364,
+          "listed_count": 1,
+          "tweet_count": 859
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T16:19:06.000Z",
+        "description": "🏳️‍⚧️ 2024.5.5 ‖INFP-J ‖ 卡拉彼丘/战双/mc/fgo/米家/舟/钢四/FPS/音游 ‖ 搞机 ‖ 淡坑飞友 高一就读中\n「不息的身体。」",
+        "id": "1741856537478561792",
+        "name": "Astlinga「星灵」🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786716688102379520/RsxGQJ1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Trave1ingPoet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🏳️‍⚧️/INFP-T /喜欢的人🏳️‍⚧️❤️@Oxy_seaweed267❤️/🏳️‍⚧️世界上最好的姐姐@Kietter387803/最好的朋友🏳️‍⚧️@qiuxue313/🏳️‍⚧️@Allenium114\n喜欢玩Phigros\n无论世界待我多不堪，都希望自己可以成为一个小太阳，温暖身边的朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Oxy_seaweed267"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "qiuxue313"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘QAQ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1793334374739640788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794412895436144640/aWltDucd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 185,
+          "like_count": 2524,
+          "listed_count": 2,
+          "tweet_count": 633
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

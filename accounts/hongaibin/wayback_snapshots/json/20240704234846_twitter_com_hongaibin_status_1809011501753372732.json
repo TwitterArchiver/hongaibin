@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809011501753372732",
+    "created_at": "2024-07-04T23:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T00:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809011501753372732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1808884230971404618",
+          "start": 17,
+          "url": "https://t.co/YAk9EATujk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809011501753372732",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808884230971404618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "愿普瑞巴林带回od wiki 🤗 https://t.co/YAk9EATujk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809011501753372732",
+        "created_at": "2024-07-04T23:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T00:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809011501753372732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1808884230971404618",
+              "start": 17,
+              "url": "https://t.co/YAk9EATujk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809011501753372732",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808884230971404618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愿普瑞巴林带回od wiki 🤗 https://t.co/YAk9EATujk"
+      },
+      {
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1808884230971404618",
+        "created_at": "2024-07-04T15:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808884230971404618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "引言",
+              "display_url": "od.wiki",
+              "end": 96,
+              "expanded_url": "http://od.wiki",
+              "start": 73,
+              "status": 200,
+              "title": "欢迎来到 overdose.wiki",
+              "unwound_url": "https://od.wiki/",
+              "url": "https://t.co/AkaWSr7FKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808884230971404618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5875,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "目前odwiki的数据已全部备份\n但不公开内容的原因有以下几点\n原wiki主（Chicken）控制了wiki官号\n其未经wiki编辑组许可私自搭建https://t.co/AkaWSr7FKw站点，并剽窃wiki内容，将编辑组半年来的心血占为己有\n碍于Chicken不止一次盒威胁编辑组，我们无法继续更新与维护wiki内容。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 1058,
+          "like_count": 1980,
+          "listed_count": 1,
+          "tweet_count": 1411
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "忠！诚！\n这里的人员组分 = 原odwiki - “wiki主”\n除了wiki主都在这边集合避难了（当然除了他，这可是他一手酿造出的阴谋与灾难）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1808884230971404618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 16,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

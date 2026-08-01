@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935793502778277888"
+      ],
+      "media_source_tweet_id": [
+        "1935793562433863917"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1936181331689717999",
+    "created_at": "2025-06-20T21:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T22:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936181331689717999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827408972682268672",
+          "start": 3,
+          "username": "tuhuoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eH8JR9o81h",
+          "end": 43,
+          "expanded_url": "https://x.com/tuhuoooo/status/1935793562433863917/photo/1",
+          "media_key": "3_1935793502778277888",
+          "start": 20,
+          "url": "https://t.co/eH8JR9o81h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936181331689717999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1492
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935793562433863917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuhuoooo: 请重云喝奶 https://t.co/eH8JR9o81h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_1935793502778277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt1R7zubwAAJ-mR.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935793502778277888"
+          ],
+          "media_source_tweet_id": [
+            "1935793562433863917"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1936181331689717999",
+        "created_at": "2025-06-20T21:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T22:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936181331689717999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827408972682268672",
+              "start": 3,
+              "username": "tuhuoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eH8JR9o81h",
+              "end": 43,
+              "expanded_url": "https://x.com/tuhuoooo/status/1935793562433863917/photo/1",
+              "media_key": "3_1935793502778277888",
+              "start": 20,
+              "url": "https://t.co/eH8JR9o81h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936181331689717999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1492
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935793562433863917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuhuoooo: 请重云喝奶 https://t.co/eH8JR9o81h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935793502778277888"
+          ]
+        },
+        "author_id": "1827408972682268672",
+        "conversation_id": "1935793562433863917",
+        "created_at": "2025-06-19T20:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T21:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935793562433863917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eH8JR9o81h",
+              "end": 29,
+              "expanded_url": "https://x.com/tuhuoooo/status/1935793562433863917/photo/1",
+              "media_key": "3_1935793502778277888",
+              "start": 6,
+              "url": "https://t.co/eH8JR9o81h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935793562433863917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2854,
+          "impression_count": 230674,
+          "like_count": 23988,
+          "quote_count": 46,
+          "reply_count": 12,
+          "retweet_count": 1492
+        },
+        "reply_settings": "everyone",
+        "text": "请重云喝奶 https://t.co/eH8JR9o81h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2075,
+          "like_count": 19758,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 5417
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:13:53.000Z",
+        "description": "行秋中心",
+        "id": "1827408972682268672",
+        "name": "tuhu0000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875714578593804290/7CDEFQOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23635,
+          "following_count": 7,
+          "like_count": 52,
+          "listed_count": 43,
+          "media_count": 141,
+          "tweet_count": 823
+        },
+        "username": "tuhuoooo",
+        "verified": false
+      }
+    ]
+  }
+}

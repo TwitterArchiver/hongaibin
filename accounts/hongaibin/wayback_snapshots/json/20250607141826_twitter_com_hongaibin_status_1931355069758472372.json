@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930620436993511424",
+        "3_1930620436993437696",
+        "3_1930620436016144384",
+        "3_1930620436070703105"
+      ],
+      "media_source_tweet_id": [
+        "1930620765000564938",
+        "1930620765000564938",
+        "1930620765000564938",
+        "1930620765000564938"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1931355069758472372",
+    "created_at": "2025-06-07T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931355069758472372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oK7oL82Ju5",
+          "end": 50,
+          "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+          "media_key": "3_1930620436993511424",
+          "start": 27,
+          "url": "https://t.co/oK7oL82Ju5"
+        },
+        {
+          "display_url": "pic.x.com/oK7oL82Ju5",
+          "end": 50,
+          "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+          "media_key": "3_1930620436993437696",
+          "start": 27,
+          "url": "https://t.co/oK7oL82Ju5"
+        },
+        {
+          "display_url": "pic.x.com/oK7oL82Ju5",
+          "end": 50,
+          "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+          "media_key": "3_1930620436016144384",
+          "start": 27,
+          "url": "https://t.co/oK7oL82Ju5"
+        },
+        {
+          "display_url": "pic.x.com/oK7oL82Ju5",
+          "end": 50,
+          "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+          "media_key": "3_1930620436070703105",
+          "start": 27,
+          "url": "https://t.co/oK7oL82Ju5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931355069758472372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930620765000564938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: いつでもどこでも眠い眠い https://t.co/oK7oL82Ju5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1930620436993511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrxDv8bkAAR_rF.jpg",
+        "width": 3300
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1930620436993437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrxDv8acAApShY.jpg",
+        "width": 3300
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1930620436016144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrxDsTaIAAv4UM.jpg",
+        "width": 3300
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1930620436070703105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrxDsgaoAElttl.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930620436993511424",
+            "3_1930620436993437696",
+            "3_1930620436016144384",
+            "3_1930620436070703105"
+          ],
+          "media_source_tweet_id": [
+            "1930620765000564938",
+            "1930620765000564938",
+            "1930620765000564938",
+            "1930620765000564938"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1931355069758472372",
+        "created_at": "2025-06-07T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931355069758472372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 50,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436993511424",
+              "start": 27,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 50,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436993437696",
+              "start": 27,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 50,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436016144384",
+              "start": 27,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 50,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436070703105",
+              "start": 27,
+              "url": "https://t.co/oK7oL82Ju5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931355069758472372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930620765000564938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: いつでもどこでも眠い眠い https://t.co/oK7oL82Ju5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930620436993511424",
+            "3_1930620436993437696",
+            "3_1930620436016144384",
+            "3_1930620436070703105"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1930620765000564938",
+        "created_at": "2025-06-05T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930620765000564938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 36,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436993511424",
+              "start": 13,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 36,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436993437696",
+              "start": 13,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 36,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436016144384",
+              "start": 13,
+              "url": "https://t.co/oK7oL82Ju5"
+            },
+            {
+              "display_url": "pic.x.com/oK7oL82Ju5",
+              "end": 36,
+              "expanded_url": "https://x.com/avogado6/status/1930620765000564938/photo/1",
+              "media_key": "3_1930620436070703105",
+              "start": 13,
+              "url": "https://t.co/oK7oL82Ju5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930620765000564938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1544,
+          "impression_count": 788306,
+          "like_count": 54951,
+          "quote_count": 81,
+          "reply_count": 30,
+          "retweet_count": 4115
+        },
+        "reply_settings": "everyone",
+        "text": "いつでもどこでも眠い眠い https://t.co/oK7oL82Ju5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 2049,
+          "like_count": 19168,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5298
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1697145165679653046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490161,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9094,
+          "media_count": 3351,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

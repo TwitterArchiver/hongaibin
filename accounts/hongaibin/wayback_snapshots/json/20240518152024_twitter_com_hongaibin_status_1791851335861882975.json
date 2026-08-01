@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1791836904788578767",
+    "created_at": "2024-05-18T15:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T16:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791851335861882975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1330178000139247616",
+          "start": 0,
+          "username": "freedom07110895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791851335861882975",
+    "in_reply_to_user_id": "1330178000139247616",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791840753142096353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freedom07110895 已经彻底闹翻了不是很想回去了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1791836904788578767",
+        "created_at": "2024-05-18T15:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T16:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791851335861882975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1330178000139247616",
+              "start": 0,
+              "username": "freedom07110895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791851335861882975",
+        "in_reply_to_user_id": "1330178000139247616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791840753142096353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedom07110895 已经彻底闹翻了不是很想回去了..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1330178000139247616",
+        "conversation_id": "1791836904788578767",
+        "created_at": "2024-05-18T14:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T15:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791840753142096353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791840753142096353",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791836904788578767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 啊这，吹吹晚风就回去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 839,
+          "like_count": 1235,
+          "listed_count": 0,
+          "tweet_count": 404
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T15:55:28.000Z",
+        "description": "",
+        "id": "1330178000139247616",
+        "name": "长门有希酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330179738497916931/UjEul-Y3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 788,
+          "like_count": 6685,
+          "listed_count": 0,
+          "tweet_count": 93
+        },
+        "username": "freedom07110895",
+        "verified": false
+      }
+    ]
+  }
+}

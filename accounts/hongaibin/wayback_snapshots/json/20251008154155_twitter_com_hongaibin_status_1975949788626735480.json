@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975737325406855168",
+        "3_1975737326472208384"
+      ],
+      "media_source_tweet_id": [
+        "1975737329102016751",
+        "1975737329102016751"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1975949788626735480",
+    "created_at": "2025-10-08T15:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T16:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975949788626735480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926307161480568832",
+          "start": 3,
+          "username": "banzaixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zeEExQGl5f",
+          "end": 50,
+          "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+          "media_key": "3_1975737325406855168",
+          "start": 27,
+          "url": "https://t.co/zeEExQGl5f"
+        },
+        {
+          "display_url": "pic.x.com/zeEExQGl5f",
+          "end": 50,
+          "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+          "media_key": "3_1975737326472208384",
+          "start": 27,
+          "url": "https://t.co/zeEExQGl5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975949788626735480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975737329102016751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banzaixyg: 「 愿 者 上 钩 」 https://t.co/zeEExQGl5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975737325406855168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2s6oSpbIAAt1xw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975737326472208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2s6oWnbIAA192D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975737325406855168",
+            "3_1975737326472208384"
+          ],
+          "media_source_tweet_id": [
+            "1975737329102016751",
+            "1975737329102016751"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1975949788626735480",
+        "created_at": "2025-10-08T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975949788626735480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926307161480568832",
+              "start": 3,
+              "username": "banzaixyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeEExQGl5f",
+              "end": 50,
+              "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+              "media_key": "3_1975737325406855168",
+              "start": 27,
+              "url": "https://t.co/zeEExQGl5f"
+            },
+            {
+              "display_url": "pic.x.com/zeEExQGl5f",
+              "end": 50,
+              "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+              "media_key": "3_1975737326472208384",
+              "start": 27,
+              "url": "https://t.co/zeEExQGl5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975949788626735480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975737329102016751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @banzaixyg: 「 愿 者 上 钩 」 https://t.co/zeEExQGl5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975737325406855168",
+            "3_1975737326472208384"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "1975737329102016751",
+        "created_at": "2025-10-08T01:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975737329102016751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeEExQGl5f",
+              "end": 35,
+              "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+              "media_key": "3_1975737325406855168",
+              "start": 12,
+              "url": "https://t.co/zeEExQGl5f"
+            },
+            {
+              "display_url": "pic.x.com/zeEExQGl5f",
+              "end": 35,
+              "expanded_url": "https://x.com/banzaixyg/status/1975737329102016751/photo/1",
+              "media_key": "3_1975737326472208384",
+              "start": 12,
+              "url": "https://t.co/zeEExQGl5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975737329102016751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 87250,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「 愿 者 上 钩 」 https://t.co/zeEExQGl5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2198,
+          "like_count": 23237,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6115
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477398863671296/NjWycX_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 387,
+          "like_count": 2744,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1070
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

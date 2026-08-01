@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959923434345127936"
+      ],
+      "media_source_tweet_id": [
+        "1959933776605085906"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1960055084336947584",
+    "created_at": "2025-08-25T19:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T20:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960055084336947584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1643551220383252482",
+          "start": 3,
+          "username": "soui__manshin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIx3EZAbU4",
+          "end": 48,
+          "expanded_url": "https://x.com/soui__manshin/status/1959933776605085906/photo/1",
+          "media_key": "3_1959923434345127936",
+          "start": 25,
+          "url": "https://t.co/KIx3EZAbU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960055084336947584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959933776605085906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soui__manshin: だりぃー。 https://t.co/KIx3EZAbU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1959923434345127936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzML-rsa4AArOs-.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959923434345127936"
+          ],
+          "media_source_tweet_id": [
+            "1959933776605085906"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1960055084336947584",
+        "created_at": "2025-08-25T19:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960055084336947584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1643551220383252482",
+              "start": 3,
+              "username": "soui__manshin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIx3EZAbU4",
+              "end": 48,
+              "expanded_url": "https://x.com/soui__manshin/status/1959933776605085906/photo/1",
+              "media_key": "3_1959923434345127936",
+              "start": 25,
+              "url": "https://t.co/KIx3EZAbU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960055084336947584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959933776605085906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soui__manshin: だりぃー。 https://t.co/KIx3EZAbU4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959923434345127936"
+          ]
+        },
+        "author_id": "1643551220383252482",
+        "conversation_id": "1959933776605085906",
+        "created_at": "2025-08-25T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959933776605085906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIx3EZAbU4",
+              "end": 29,
+              "expanded_url": "https://x.com/soui__manshin/status/1959933776605085906/photo/1",
+              "media_key": "3_1959923434345127936",
+              "start": 6,
+              "url": "https://t.co/KIx3EZAbU4"
+            },
+            {
+              "display_url": "x.com/soui__manshin/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/soui__manshin/status/1959813430577406149",
+              "start": 30,
+              "url": "https://t.co/uG8lwfsz5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959933776605085906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 23716,
+          "like_count": 810,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959813430577406149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "だりぃー。 https://t.co/KIx3EZAbU4 https://t.co/uG8lwfsz5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2169,
+          "like_count": 21956,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5899
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T09:49:07.000Z",
+        "description": "ｸｽﾞ男ﾒｲﾝ｜FA #満ｿｳFA｜転載使用禁止 Do not repost｜ご依頼（ｻｲﾄ必読）→https://t.co/zuLnjHCKb9｜ ✉️mansouwork@gmail.com｜Skeb→https://t.co/awf1VUrd3t",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 11,
+                "tag": "満ｿｳFA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "souiwork.com",
+                "end": 73,
+                "expanded_url": "https://souiwork.com",
+                "start": 50,
+                "url": "https://t.co/zuLnjHCKb9"
+              },
+              {
+                "display_url": "skeb.jp/@soui__manshin",
+                "end": 126,
+                "expanded_url": "http://skeb.jp/@soui__manshin",
+                "start": 103,
+                "url": "https://t.co/awf1VUrd3t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "souiwork.com",
+                "end": 23,
+                "expanded_url": "https://souiwork.com/",
+                "start": 0,
+                "url": "https://t.co/ieBZAqZWIr"
+              }
+            ]
+          }
+        },
+        "id": "1643551220383252482",
+        "location": "転載・使用・自作発言・AI学習全て禁止",
+        "name": "満身ｿｳｲ@ぬい通販9/28まで",
+        "pinned_tweet_id": "1958801326223368563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837295589123653632/Uo5QyXtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44075,
+          "following_count": 65,
+          "like_count": 15993,
+          "listed_count": 96,
+          "media_count": 254,
+          "tweet_count": 9714
+        },
+        "url": "https://t.co/ieBZAqZWIr",
+        "username": "soui__manshin",
+        "verified": true
+      }
+    ]
+  }
+}

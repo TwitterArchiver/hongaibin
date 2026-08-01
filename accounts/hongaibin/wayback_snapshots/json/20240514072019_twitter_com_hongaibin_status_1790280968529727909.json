@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789636586700988638",
+    "created_at": "2024-05-14T07:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T08:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790280968529727909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1344565412348923904",
+          "start": 0,
+          "username": "Tnmzz46lYarF3xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790280968529727909",
+    "in_reply_to_user_id": "1344565412348923904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790092155421340023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tnmzz46lYarF3xe 吃超剂量可以很舒服 看见幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789636586700988638",
+        "created_at": "2024-05-14T07:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T08:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790280968529727909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1344565412348923904",
+              "start": 0,
+              "username": "Tnmzz46lYarF3xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790280968529727909",
+        "in_reply_to_user_id": "1344565412348923904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790092155421340023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tnmzz46lYarF3xe 吃超剂量可以很舒服 看见幻觉"
+      },
+      {
+        "attachments": {},
+        "author_id": "1344565412348923904",
+        "conversation_id": "1789636586700988638",
+        "created_at": "2024-05-13T18:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T19:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790092155421340023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790092155421340023",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789636586700988638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 这个有什么用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 787,
+          "like_count": 1207,
+          "listed_count": 0,
+          "tweet_count": 280
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T08:45:58.000Z",
+        "description": "👦🏻🎶💞 /こんにちは！ミルです！",
+        "id": "1344565412348923904",
+        "location": "Tokyo-to, Japan",
+        "name": "ミル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706496121890373632/35Y0yYs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 112,
+          "like_count": 238,
+          "listed_count": 0,
+          "tweet_count": 108
+        },
+        "username": "Tnmzz46lYarF3xe",
+        "verified": false
+      }
+    ]
+  }
+}

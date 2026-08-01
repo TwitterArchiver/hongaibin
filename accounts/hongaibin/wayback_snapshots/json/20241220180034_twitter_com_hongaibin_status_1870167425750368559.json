@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1870167425750368559",
+    "created_at": "2024-12-20T18:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T19:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870167425750368559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 30,
+          "id": "1665207650412539905",
+          "start": 23,
+          "username": "aiyysk"
+        },
+        {
+          "end": 45,
+          "id": "1549453964218929155",
+          "start": 36,
+          "username": "mofcandy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870167425750368559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869997759312347444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 讣告\n世开 @aiyysk 和 堆糖 @mofcandy 于2024年12月15日凌晨三点半左右服用亚硝酸钠溶液自杀，后经医院抢救无效，二人都于2024年12月15日逝世。\n\n祝她们能在那个世界幸福。 https://t.co/6AGsrZXJ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [mofcandy].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mofcandy",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mofcandy"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1870167425750368559",
+        "created_at": "2024-12-20T18:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T19:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870167425750368559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 30,
+              "id": "1665207650412539905",
+              "start": 23,
+              "username": "aiyysk"
+            },
+            {
+              "end": 45,
+              "id": "1549453964218929155",
+              "start": 36,
+              "username": "mofcandy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870167425750368559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869997759312347444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 讣告\n世开 @aiyysk 和 堆糖 @mofcandy 于2024年12月15日凌晨三点半左右服用亚硝酸钠溶液自杀，后经医院抢救无效，二人都于2024年12月15日逝世。\n\n祝她们能在那个世界幸福。 https://t.co/6AGsrZXJ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869997757278089216"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1869997759312347444",
+        "created_at": "2024-12-20T06:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T07:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869997759312347444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665207650412539905",
+              "start": 6,
+              "username": "aiyysk"
+            },
+            {
+              "end": 28,
+              "id": "1549453964218929155",
+              "start": 19,
+              "username": "mofcandy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AGsrZXJJ5",
+              "end": 124,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1869997759312347444/photo/1",
+              "media_key": "3_1869997757278089216",
+              "start": 101,
+              "url": "https://t.co/6AGsrZXJJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869997759312347444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5904,
+          "like_count": 114,
+          "quote_count": 8,
+          "reply_count": 57,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n世开 @aiyysk 和 堆糖 @mofcandy 于2024年12月15日凌晨三点半左右服用亚硝酸钠溶液自杀，后经医院抢救无效，二人都于2024年12月15日逝世。\n\n祝她们能在那个世界幸福。 https://t.co/6AGsrZXJJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1659,
+          "like_count": 13140,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 3989
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8996,
+          "following_count": 967,
+          "like_count": 74051,
+          "listed_count": 16,
+          "media_count": 2881,
+          "tweet_count": 41129
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-04T04:04:02.000Z",
+        "description": "🚪50 || MTF || HRT23/12/15 || Birth07.02.18(17) || 含糖 || 家暴党(已逃走) || 猫猫 || 171/112 || 不健政 || 互Fo || 姐姐@Oyama_Mahiro0 @mofcandy || 接线下接线下接线下接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Oyama_Mahiro0"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "mofcandy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aiyysk",
+                "end": 23,
+                "expanded_url": "http://t.me/aiyysk",
+                "start": 0,
+                "url": "https://t.co/BIZ65asBIv"
+              }
+            ]
+          }
+        },
+        "id": "1665207650412539905",
+        "location": "参宿四",
+        "name": "一一世开 #透明探索版(die)",
+        "pinned_tweet_id": "1841049124210426061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1409,
+          "like_count": 6419,
+          "listed_count": 5,
+          "media_count": 83,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/BIZ65asBIv",
+        "username": "aiyysk",
+        "verified": false
+      }
+    ]
+  }
+}

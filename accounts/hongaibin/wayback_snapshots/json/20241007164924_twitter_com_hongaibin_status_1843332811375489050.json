@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1843332811375489050",
+    "created_at": "2024-10-07T16:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T17:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843332811375489050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4497957984",
+          "start": 3,
+          "username": "___orenji___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843332811375489050",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842841684310364536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___orenji___: 速报：在新家的大落地窗前sex了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1843332811375489050",
+        "created_at": "2024-10-07T16:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T17:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843332811375489050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4497957984",
+              "start": 3,
+              "username": "___orenji___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843332811375489050",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842841684310364536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___orenji___: 速报：在新家的大落地窗前sex了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4497957984",
+        "conversation_id": "1842841684310364536",
+        "created_at": "2024-10-06T08:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T09:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842841684310364536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842841684310364536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 33708,
+          "like_count": 227,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "速报：在新家的大落地窗前sex了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1537,
+          "like_count": 8598,
+          "listed_count": 3,
+          "tweet_count": 3283
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-08T15:33:35.000Z",
+        "description": "之前那个软弱的我已经死了，现在是好色的我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orenji.uk",
+                "end": 23,
+                "expanded_url": "https://orenji.uk",
+                "start": 0,
+                "url": "https://t.co/KqFJcZn5h2"
+              }
+            ]
+          }
+        },
+        "id": "4497957984",
+        "location": "Minato-ku, Tokyo",
+        "name": "🍊",
+        "pinned_tweet_id": "1840504273286864904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754840896317878272/5eB7insi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 582,
+          "like_count": 24702,
+          "listed_count": 10,
+          "tweet_count": 7588
+        },
+        "url": "https://t.co/KqFJcZn5h2",
+        "username": "___orenji___",
+        "verified": false
+      }
+    ]
+  }
+}

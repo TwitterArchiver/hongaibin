@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793118055381213185"
+      ],
+      "media_source_tweet_id": [
+        "1793118064583827713"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1793156120535867700",
+    "created_at": "2024-05-22T05:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793156120535867700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629373997539561473",
+          "start": 3,
+          "username": "LuRucheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pA1TuFWrOz",
+          "end": 115,
+          "expanded_url": "https://twitter.com/LuRucheng/status/1793118064583827713/photo/1",
+          "media_key": "3_1793118055381213185",
+          "start": 92,
+          "url": "https://t.co/pA1TuFWrOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793156120535867700",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793118064583827713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuRucheng: 按通知文件，　也就是即日起，右美沙芬单方制剂、含地芬诺酯复方制剂 不允许销售给 不具备二精资质的单位了。经营企业原有库存像药监局报备后按规定销售完为止。 https://t.co/pA1TuFWrOz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793156120535867700].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793156120535867700",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793156120535867700"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1793118055381213185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOJvXvtWIAEsj6X.jpg",
+        "width": 1309
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793118055381213185"
+          ]
+        },
+        "author_id": "1629373997539561473",
+        "conversation_id": "1793118064583827713",
+        "created_at": "2024-05-22T03:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T04:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793118064583827713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pA1TuFWrOz",
+              "end": 100,
+              "expanded_url": "https://twitter.com/LuRucheng/status/1793118064583827713/photo/1",
+              "media_key": "3_1793118055381213185",
+              "start": 77,
+              "url": "https://t.co/pA1TuFWrOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793118064583827713",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 698,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "按通知文件，　也就是即日起，右美沙芬单方制剂、含地芬诺酯复方制剂 不允许销售给 不具备二精资质的单位了。经营企业原有库存像药监局报备后按规定销售完为止。 https://t.co/pA1TuFWrOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 905,
+          "like_count": 1272,
+          "listed_count": 1,
+          "tweet_count": 574
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T06:53:44.000Z",
+        "description": "右美正规渠道，6月30日前正常供货。之后停售https://t.co/tfOwgDXSH0  有疑问的可以在群里多待几天。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+onTSYoqknhU3Y…",
+                "end": 45,
+                "expanded_url": "https://t.me/+onTSYoqknhU3YTM9",
+                "start": 22,
+                "url": "https://t.co/tfOwgDXSH0"
+              }
+            ]
+          }
+        },
+        "id": "1629373997539561473",
+        "name": "右美、普瑞、舍曲林、艾地苯醌、雌……正规公司出货",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791435000166146048/K6c7OQ95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 79
+        },
+        "username": "LuRucheng",
+        "verified": false
+      }
+    ]
+  }
+}

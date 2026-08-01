@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861692561527853056"
+      ],
+      "media_source_tweet_id": [
+        "1861692574358196534"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1862182420919066833",
+    "created_at": "2024-11-28T17:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T18:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862182420919066833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272405078683430913",
+          "start": 3,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @AegisSupplementsOfficial right away.",
+          "display_url": "t.me/AegisSupplemen…",
+          "end": 51,
+          "expanded_url": "https://t.me/AegisSupplementsOfficial",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "Αιγίς Supplements宙斯盾补剂",
+          "unwound_url": "https://t.me/AegisSupplementsOfficial",
+          "url": "https://t.co/ZV1MsRAyQg"
+        },
+        {
+          "display_url": "pic.x.com/ulGl07a2kS",
+          "end": 75,
+          "expanded_url": "https://x.com/PaitangOfficial/status/1861692574358196534/photo/1",
+          "media_key": "3_1861692561527853056",
+          "start": 52,
+          "url": "https://t.co/ulGl07a2kS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862182420919066833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861692574358196534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaitangOfficial: 新店预告一下\nhttps://t.co/ZV1MsRAyQg https://t.co/ulGl07a2kS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861692561527853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYPhWLa0AAtRWO.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861692561527853056"
+          ],
+          "media_source_tweet_id": [
+            "1861692574358196534"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1862182420919066833",
+        "created_at": "2024-11-28T17:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T18:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862182420919066833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272405078683430913",
+              "start": 3,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @AegisSupplementsOfficial right away.",
+              "display_url": "t.me/AegisSupplemen…",
+              "end": 51,
+              "expanded_url": "https://t.me/AegisSupplementsOfficial",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "Αιγίς Supplements宙斯盾补剂",
+              "unwound_url": "https://t.me/AegisSupplementsOfficial",
+              "url": "https://t.co/ZV1MsRAyQg"
+            },
+            {
+              "display_url": "pic.x.com/ulGl07a2kS",
+              "end": 75,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1861692574358196534/photo/1",
+              "media_key": "3_1861692561527853056",
+              "start": 52,
+              "url": "https://t.co/ulGl07a2kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862182420919066833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861692574358196534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaitangOfficial: 新店预告一下\nhttps://t.co/ZV1MsRAyQg https://t.co/ulGl07a2kS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861692561527853056"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1861692574358196534",
+        "created_at": "2024-11-27T08:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T09:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861692574358196534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @AegisSupplementsOfficial right away.",
+              "display_url": "t.me/AegisSupplemen…",
+              "end": 30,
+              "expanded_url": "https://t.me/AegisSupplementsOfficial",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1861692576165933057/H2_mOXqB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "Αιγίς Supplements宙斯盾补剂",
+              "unwound_url": "https://t.me/AegisSupplementsOfficial",
+              "url": "https://t.co/ZV1MsRAyQg"
+            },
+            {
+              "display_url": "pic.x.com/ulGl07a2kS",
+              "end": 54,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1861692574358196534/photo/1",
+              "media_key": "3_1861692561527853056",
+              "start": 31,
+              "url": "https://t.co/ulGl07a2kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861692574358196534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1372,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新店预告一下\nhttps://t.co/ZV1MsRAyQg https://t.co/ulGl07a2kS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1626,
+          "like_count": 11583,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 3804
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "本店只销售合法物品 想快速回复TG✈️：@paitangcuzhi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️葉經理不是利他林",
+        "pinned_tweet_id": "1861692574358196534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8381,
+          "following_count": 342,
+          "like_count": 5550,
+          "listed_count": 25,
+          "media_count": 1191,
+          "tweet_count": 10111
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

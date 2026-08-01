@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927397227552543092",
+    "created_at": "2025-05-27T16:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927397227552543092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927397227552543092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887823718837035027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 我去医院检查\n医生：有性生活吗\n我妈：他都没女朋友怎么可能有\n我：前面还是后面\n我妈，医生：？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927397227552543092",
+        "created_at": "2025-05-27T16:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927397227552543092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858186854526562304",
+              "start": 3,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927397227552543092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887823718837035027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiyujijie: 我去医院检查\n医生：有性生活吗\n我妈：他都没女朋友怎么可能有\n我：前面还是后面\n我妈，医生：？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858186854526562304",
+        "conversation_id": "1887823718837035027",
+        "created_at": "2025-02-07T11:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887823718837035027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887823718837035027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 255464,
+          "like_count": 1240,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我去医院检查\n医生：有性生活吗\n我妈：他都没女朋友怎么可能有\n我：前面还是后面\n我妈，医生：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2013,
+          "like_count": 18434,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5144
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "全网唯一账号，不收钱不盈利，没有任何打赏途径，内容仅供娱乐，请注意甄别防止被骗",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71937,
+          "following_count": 85,
+          "like_count": 1417,
+          "listed_count": 152,
+          "media_count": 91,
+          "tweet_count": 356
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

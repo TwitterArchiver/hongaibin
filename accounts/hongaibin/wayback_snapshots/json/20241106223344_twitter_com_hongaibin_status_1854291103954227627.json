@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1849514207546355712",
+          "name": "2024 US Election Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "1854291103954227627",
+    "created_at": "2024-11-06T22:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T23:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854291103954227627"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "Mar-a-Lago",
+          "probability": 0.8628,
+          "start": 55,
+          "type": "Place"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Trump Tower",
+          "probability": 0.9676,
+          "start": 81,
+          "type": "Place"
+        },
+        {
+          "end": 104,
+          "normalized_text": "Manhattan",
+          "probability": 0.9566,
+          "start": 96,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1601800128440209408",
+          "start": 3,
+          "username": "RichardStrocher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854291103954227627",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854199458088525911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RichardStrocher: I’m 18 years old, and I’m Leaving Mar-a-Lago and heading to Trump Tower in Manhattan. I am successful, rich, smart, fu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1854291103954227627",
+        "created_at": "2024-11-06T22:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T23:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854291103954227627"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "Mar-a-Lago",
+              "probability": 0.8628,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Trump Tower",
+              "probability": 0.9676,
+              "start": 81,
+              "type": "Place"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Manhattan",
+              "probability": 0.9566,
+              "start": 96,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1601800128440209408",
+              "start": 3,
+              "username": "RichardStrocher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854291103954227627",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854199458088525911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RichardStrocher: I’m 18 years old, and I’m Leaving Mar-a-Lago and heading to Trump Tower in Manhattan. I am successful, rich, smart, fu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854199427801448455"
+          ]
+        },
+        "author_id": "1601800128440209408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1854199458088525911",
+        "created_at": "2024-11-06T16:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T17:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854199458088525911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Mar-a-Lago",
+              "probability": 0.9043,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Trump Tower",
+              "probability": 0.9544,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Manhattan",
+              "probability": 0.9494,
+              "start": 75,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBXk5EnGn4",
+              "end": 259,
+              "expanded_url": "https://x.com/RichardStrocher/status/1854199458088525911/photo/1",
+              "media_key": "3_1854199427801448455",
+              "start": 236,
+              "url": "https://t.co/SBXk5EnGn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854199458088525911",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10413,
+          "like_count": 639,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "I’m 18 years old, and I’m Leaving Mar-a-Lago and heading to Trump Tower in Manhattan. I am successful, rich, smart, funny, and attractive. Black women flock to me, because I am a Alpha Male.\n\nLiberal girls want what they can’t have: me https://t.co/SBXk5EnGn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 155,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 132,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1583,
+          "like_count": 10046,
+          "listed_count": 3,
+          "tweet_count": 3562
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T04:44:56.000Z",
+        "description": "FOX News, The Blaze — Host of The Richard Strocher Show on #Rumble - LIVE: Mon-Fri 9 PM ET — Sommelier, Carpenter, and Research Junkie #BelieveStrocher",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "Rumble"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "tag": "BelieveStrocher"
+              }
+            ]
+          }
+        },
+        "id": "1601800128440209408",
+        "location": "West Virginia",
+        "name": "Richard Strocher 𝕏",
+        "pinned_tweet_id": "1813743317437595743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695993509042659328/4q46q91A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31181,
+          "following_count": 554,
+          "like_count": 11392,
+          "listed_count": 233,
+          "tweet_count": 3467
+        },
+        "username": "RichardStrocher",
+        "verified": true
+      }
+    ]
+  }
+}

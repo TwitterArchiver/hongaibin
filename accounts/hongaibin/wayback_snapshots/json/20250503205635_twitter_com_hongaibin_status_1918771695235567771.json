@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1918771695235567771",
+    "created_at": "2025-05-03T20:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T21:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918771695235567771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4416456732",
+          "start": 3,
+          "username": "hubermanlab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918771695235567771",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917694483657064491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hubermanlab: Some people like to/must exercise after work &amp; need/prefer caffeine prior. I suggest no caffeine after 2pm for the typical…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1918771695235567771",
+        "created_at": "2025-05-03T20:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T21:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918771695235567771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4416456732",
+              "start": 3,
+              "username": "hubermanlab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918771695235567771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917694483657064491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hubermanlab: Some people like to/must exercise after work &amp; need/prefer caffeine prior. I suggest no caffeine after 2pm for the typical…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4416456732",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1917694483657064491",
+        "created_at": "2025-04-30T21:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T22:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917694483657064491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917694483657064491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1025,
+          "impression_count": 346412,
+          "like_count": 2278,
+          "quote_count": 9,
+          "reply_count": 82,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "Some people like to/must exercise after work &amp; need/prefer caffeine prior. I suggest no caffeine after 2pm for the typical to-bed-at-10-11pm person. A good late day pre workout alternative: 600-900mg alpha GPC  (I have no affiliation). If anything it will help you get more REM."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1948,
+          "like_count": 17289,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4888
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-01T03:52:11.000Z",
+        "description": "Professor of Neurobiology & Ophthalmology at Stanford Medicine • Host of the Huberman Lab podcast • Focused on science & health research & public education",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hubermanlab.com",
+                "end": 23,
+                "expanded_url": "https://hubermanlab.com",
+                "start": 0,
+                "url": "https://t.co/yvi41iI0ZH"
+              }
+            ]
+          }
+        },
+        "id": "4416456732",
+        "location": "Stanford, CA",
+        "name": "Andrew D. Huberman, Ph.D.",
+        "pinned_tweet_id": "1916854926619054309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339713932085346306/jDTi4HKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593044,
+          "following_count": 1729,
+          "like_count": 42447,
+          "listed_count": 8667,
+          "media_count": 892,
+          "tweet_count": 12054
+        },
+        "url": "https://t.co/yvi41iI0ZH",
+        "username": "hubermanlab",
+        "verified": true
+      }
+    ]
+  }
+}

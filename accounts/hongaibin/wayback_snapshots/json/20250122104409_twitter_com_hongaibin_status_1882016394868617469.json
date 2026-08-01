@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1882016394868617469",
+    "created_at": "2025-01-22T10:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T11:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882016394868617469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1812404792507105280",
+          "start": 3,
+          "username": "BD3QCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882016394868617469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881601644234002588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BD3QCK: 无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1882016394868617469",
+        "created_at": "2025-01-22T10:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882016394868617469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1812404792507105280",
+              "start": 3,
+              "username": "BD3QCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882016394868617469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881601644234002588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BD3QCK: 无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812404792507105280",
+        "conversation_id": "1881601644234002588",
+        "created_at": "2025-01-21T07:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881601644234002588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881601644234002588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 102615,
+          "like_count": 1267,
+          "quote_count": 19,
+          "reply_count": 189,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 0,
+          "like_count": 54,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 4269
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T08:32:47.000Z",
+        "description": "用银联，纳百福。死肥宅，T0坦，会做游戏视频，27高考自学。女儿和baka @LUBANQIU ，当年说要出BA Cosplay的@DrSunan2022422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "LUBANQIU"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "DrSunan2022422"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatongxue.top",
+                "end": 23,
+                "expanded_url": "https://chatongxue.top",
+                "start": 0,
+                "url": "https://t.co/gpPyNUkyYv"
+              }
+            ]
+          }
+        },
+        "id": "1812404792507105280",
+        "location": "张江高科 换侬西特",
+        "name": "ChaTongXue",
+        "pinned_tweet_id": "1878041097131499710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867631126627725317/CzkpJpBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 706,
+          "like_count": 13113,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/gpPyNUkyYv",
+        "username": "BD3QCK",
+        "verified": false
+      }
+    ]
+  }
+}

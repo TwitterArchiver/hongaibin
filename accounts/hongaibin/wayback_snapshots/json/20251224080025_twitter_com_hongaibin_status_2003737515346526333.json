@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002003006137749505"
+      ],
+      "media_source_tweet_id": [
+        "2002003166691524930"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003737515346526333",
+    "created_at": "2025-12-24T08:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003737515346526333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cGWKi6OhoL",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/2002003166691524930/video/1",
+          "media_key": "13_2002003006137749505",
+          "start": 19,
+          "url": "https://t.co/cGWKi6OhoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003737515346526333",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002003166691524930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/cGWKi6OhoL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16726,
+        "height": 720,
+        "media_key": "13_2002003006137749505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002003006137749505/img/TkNgwwrcL8mpXRme.jpg",
+        "public_metrics": {
+          "view_count": 1423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/364x270/S-Tvj5jpG5NUWkPC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/486x360/V3OIszs82P3N7zz2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/974x720/n6Aoz6t2hWauBEUn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/pl/bqo4b4JgdWDQrrIJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 974
+      },
+      {
+        "duration_ms": 16726,
+        "height": 720,
+        "media_key": "13_2002003006137749505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002003006137749505/img/TkNgwwrcL8mpXRme.jpg",
+        "public_metrics": {
+          "view_count": 1426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/364x270/S-Tvj5jpG5NUWkPC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/486x360/V3OIszs82P3N7zz2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/vid/avc1/974x720/n6Aoz6t2hWauBEUn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002003006137749505/pl/bqo4b4JgdWDQrrIJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002003006137749505"
+          ],
+          "media_source_tweet_id": [
+            "2002003166691524930"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003737515346526333",
+        "created_at": "2025-12-24T08:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003737515346526333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGWKi6OhoL",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/2002003166691524930/video/1",
+              "media_key": "13_2002003006137749505",
+              "start": 19,
+              "url": "https://t.co/cGWKi6OhoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003737515346526333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002003166691524930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/cGWKi6OhoL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002003006137749505"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "2002003166691524930",
+        "created_at": "2025-12-19T13:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002003166691524930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGWKi6OhoL",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/2002003166691524930/video/1",
+              "media_key": "13_2002003006137749505",
+              "start": 0,
+              "url": "https://t.co/cGWKi6OhoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002003166691524930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4381,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cGWKi6OhoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 2222,
+          "like_count": 23709,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6285
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "門 188 1888",
+        "name": "小藻",
+        "pinned_tweet_id": "2003344420146651389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003066271466987520/v9LYd3qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18989,
+          "following_count": 33,
+          "like_count": 90,
+          "listed_count": 23,
+          "media_count": 46,
+          "tweet_count": 64
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

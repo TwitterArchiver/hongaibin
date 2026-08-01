@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1878713247672770602",
+    "created_at": "2025-01-13T07:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878713247672770602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1597427191272603648",
+          "start": 3,
+          "username": "gherojamslava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878713247672770602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878479402486612393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gherojamslava: 如何在线下和人交朋友，总不能在大街上随机找呀找找呀找找到一个好朋友，我疑似只知道跟网友线下面积一种途径。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1878713247672770602",
+        "created_at": "2025-01-13T07:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878713247672770602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1597427191272603648",
+              "start": 3,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878713247672770602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878479402486612393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gherojamslava: 如何在线下和人交朋友，总不能在大街上随机找呀找找呀找找到一个好朋友，我疑似只知道跟网友线下面积一种途径。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597427191272603648",
+        "conversation_id": "1878479402486612393",
+        "created_at": "2025-01-12T16:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T17:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878479402486612393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878479402486612393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1406,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如何在线下和人交朋友，总不能在大街上随机找呀找找呀找找到一个好朋友，我疑似只知道跟网友线下面积一种途径。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 1696,
+          "like_count": 14138,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 4206
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T03:08:35.000Z",
+        "description": "语言学爱好者|温和的极左分子|语言权利|革命则自由，有自由则有多样性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sgnikukukyrysk…",
+                "end": 23,
+                "expanded_url": "https://t.me/sgnikukukyrysket",
+                "start": 0,
+                "url": "https://t.co/s7NyjdQM0o"
+              }
+            ]
+          }
+        },
+        "id": "1597427191272603648",
+        "location": "Ceō-iú-náng ē léng-ha̍h-tê",
+        "name": "☭↙️🌐ΣωΑΠλα |そあぷら゚|SoAPla|ܣܘܐܦܠ|소압라|सोअप्ल",
+        "pinned_tweet_id": "1852634948232220674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112448778682368/uKGJ3wMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 685,
+          "like_count": 131140,
+          "listed_count": 11,
+          "media_count": 686,
+          "tweet_count": 25752
+        },
+        "url": "https://t.co/s7NyjdQM0o",
+        "username": "gherojamslava",
+        "verified": false
+      }
+    ]
+  }
+}

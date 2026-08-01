@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915018816154968064",
+        "3_1915018816129740800",
+        "13_1915018816154906624"
+      ],
+      "media_source_tweet_id": [
+        "1915019866257465501",
+        "1915019866257465501",
+        "1915019866257465501"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915241329912930642",
+    "created_at": "2025-04-24T03:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915241329912930642"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "須田景凪",
+          "probability": 0.7069,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 31,
+          "normalized_text": "花霞",
+          "probability": 0.3816,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sI44X4xolb",
+          "end": 80,
+          "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+          "media_key": "3_1915018816154968064",
+          "start": 57,
+          "url": "https://t.co/sI44X4xolb"
+        },
+        {
+          "display_url": "pic.x.com/sI44X4xolb",
+          "end": 80,
+          "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+          "media_key": "3_1915018816129740800",
+          "start": 57,
+          "url": "https://t.co/sI44X4xolb"
+        },
+        {
+          "display_url": "pic.x.com/sI44X4xolb",
+          "end": 80,
+          "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+          "media_key": "13_1915018816154906624",
+          "start": 57,
+          "url": "https://t.co/sI44X4xolb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915241329912930642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915019866257465501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 須田景凪 LIVE 2025 \"花霞\" v flowerの出演のお手伝いをしました。 https://t.co/sI44X4xolb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1915018816154968064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpODd5MbIAAoDyB.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1915018816129740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpODd5GaMAAnuI0.jpg",
+        "width": 2000
+      },
+      {
+        "duration_ms": 131349,
+        "height": 1080,
+        "media_key": "13_1915018816154906624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915018816154906624/img/Dln2gSeiwEGLthrb.jpg",
+        "public_metrics": {
+          "view_count": 68582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915018816154906624/pl/N4n5GHIKYcBBYN8x.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915018816154906624/vid/avc1/480x270/CbH8DGYfmXiok6Rk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915018816154906624/vid/avc1/1280x720/SNdY1cRcmsgwu4cD.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915018816154906624/vid/avc1/640x360/V3jc93Zijg5qYFiC.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915018816154906624/vid/avc1/1920x1080/Lr82mxZ9uFiwJUqf.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915018816154968064",
+            "3_1915018816129740800",
+            "13_1915018816154906624"
+          ],
+          "media_source_tweet_id": [
+            "1915019866257465501",
+            "1915019866257465501",
+            "1915019866257465501"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1915241329912930642",
+        "created_at": "2025-04-24T03:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915241329912930642"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "須田景凪",
+              "probability": 0.7069,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "花霞",
+              "probability": 0.3816,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 80,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "3_1915018816154968064",
+              "start": 57,
+              "url": "https://t.co/sI44X4xolb"
+            },
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 80,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "3_1915018816129740800",
+              "start": 57,
+              "url": "https://t.co/sI44X4xolb"
+            },
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 80,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "13_1915018816154906624",
+              "start": 57,
+              "url": "https://t.co/sI44X4xolb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915241329912930642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915019866257465501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 須田景凪 LIVE 2025 \"花霞\" v flowerの出演のお手伝いをしました。 https://t.co/sI44X4xolb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915018816154968064",
+            "3_1915018816129740800",
+            "13_1915018816154906624"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1915019866257465501",
+        "created_at": "2025-04-23T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915019866257465501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "須田景凪",
+              "probability": 0.6686,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "花霞",
+              "probability": 0.3505,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "flower",
+              "probability": 0.3965,
+              "start": 22,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 66,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "3_1915018816154968064",
+              "start": 43,
+              "url": "https://t.co/sI44X4xolb"
+            },
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 66,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "3_1915018816129740800",
+              "start": 43,
+              "url": "https://t.co/sI44X4xolb"
+            },
+            {
+              "display_url": "pic.x.com/sI44X4xolb",
+              "end": 66,
+              "expanded_url": "https://x.com/avogado6/status/1915019866257465501/video/1",
+              "media_key": "13_1915018816154906624",
+              "start": 43,
+              "url": "https://t.co/sI44X4xolb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915019866257465501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 243293,
+          "like_count": 10335,
+          "quote_count": 119,
+          "reply_count": 23,
+          "retweet_count": 1255
+        },
+        "reply_settings": "everyone",
+        "text": "須田景凪 LIVE 2025 \"花霞\" v flowerの出演のお手伝いをしました。 https://t.co/sI44X4xolb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1900,
+          "like_count": 16572,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4745
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1697145165679653046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500532,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9123,
+          "media_count": 3306,
+          "tweet_count": 3980
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

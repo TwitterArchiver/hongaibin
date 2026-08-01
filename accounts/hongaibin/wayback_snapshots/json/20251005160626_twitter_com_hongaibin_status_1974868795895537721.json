@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972377813316468736"
+      ],
+      "media_source_tweet_id": [
+        "1972377822917497078"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "A fly-on-the-wall series detailing the inner workings of Burnley FC throughout their 2025/26 Premier League campaign. New episodes drop every Thursday in partnership with @Unilever.",
+          "id": "1965872710732468224",
+          "name": "Burnley: Keeping The Faith"
+        }
+      }
+    ],
+    "conversation_id": "1974868795895537721",
+    "created_at": "2025-10-05T16:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974868795895537721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1866660055610736640",
+          "start": 3,
+          "username": "HighlyGanjanous"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiYAej0PqY",
+          "end": 94,
+          "expanded_url": "https://x.com/HighlyGanjanous/status/1972377822917497078/photo/1",
+          "media_key": "3_1972377813316468736",
+          "start": 71,
+          "url": "https://t.co/IiYAej0PqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974868795895537721",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972377822917497078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HighlyGanjanous: Happy football Sunday from the happiest pretzel 😂 https://t.co/IiYAej0PqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1972377813316468736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19LK82XAAALLCi.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972377813316468736"
+          ],
+          "media_source_tweet_id": [
+            "1972377822917497078"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "A fly-on-the-wall series detailing the inner workings of Burnley FC throughout their 2025/26 Premier League campaign. New episodes drop every Thursday in partnership with @Unilever.",
+              "id": "1965872710732468224",
+              "name": "Burnley: Keeping The Faith"
+            }
+          }
+        ],
+        "conversation_id": "1974868795895537721",
+        "created_at": "2025-10-05T16:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974868795895537721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1866660055610736640",
+              "start": 3,
+              "username": "HighlyGanjanous"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiYAej0PqY",
+              "end": 94,
+              "expanded_url": "https://x.com/HighlyGanjanous/status/1972377822917497078/photo/1",
+              "media_key": "3_1972377813316468736",
+              "start": 71,
+              "url": "https://t.co/IiYAej0PqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974868795895537721",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972377822917497078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HighlyGanjanous: Happy football Sunday from the happiest pretzel 😂 https://t.co/IiYAej0PqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972377813316468736"
+          ]
+        },
+        "author_id": "1866660055610736640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "A fly-on-the-wall series detailing the inner workings of Burnley FC throughout their 2025/26 Premier League campaign. New episodes drop every Thursday in partnership with @Unilever.",
+              "id": "1965872710732468224",
+              "name": "Burnley: Keeping The Faith"
+            }
+          }
+        ],
+        "conversation_id": "1972377822917497078",
+        "created_at": "2025-09-28T19:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T20:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972377822917497078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiYAej0PqY",
+              "end": 73,
+              "expanded_url": "https://x.com/HighlyGanjanous/status/1972377822917497078/photo/1",
+              "media_key": "3_1972377813316468736",
+              "start": 50,
+              "url": "https://t.co/IiYAej0PqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972377822917497078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1258,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Happy football Sunday from the happiest pretzel 😂 https://t.co/IiYAej0PqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2194,
+          "like_count": 23139,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6092
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T01:43:45.000Z",
+        "description": "photographer * inspirer * grower * gardener * pinup* dank babe*",
+        "id": "1866660055610736640",
+        "name": "Highly Ganjanous",
+        "pinned_tweet_id": "1869488608736125064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866660954919911424/rRWI_UC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 248,
+          "like_count": 9611,
+          "listed_count": 8,
+          "media_count": 2030,
+          "tweet_count": 6818
+        },
+        "username": "HighlyGanjanous",
+        "verified": true
+      }
+    ]
+  }
+}

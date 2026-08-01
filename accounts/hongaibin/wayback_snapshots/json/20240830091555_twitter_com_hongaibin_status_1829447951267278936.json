@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1829447951267278936",
+    "created_at": "2024-08-30T09:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T10:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829447951267278936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3073096914",
+          "start": 3,
+          "username": "death00801"
+        },
+        {
+          "end": 28,
+          "id": "1951383944",
+          "start": 16,
+          "username": "j123k123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829447951267278936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829002377355272558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @death00801: @j123k123456 洗衣店老闆: 靠北! 我的洗衣機暴掉了!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1829447951267278936",
+        "created_at": "2024-08-30T09:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T10:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829447951267278936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3073096914",
+              "start": 3,
+              "username": "death00801"
+            },
+            {
+              "end": 28,
+              "id": "1951383944",
+              "start": 16,
+              "username": "j123k123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829447951267278936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829002377355272558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @death00801: @j123k123456 洗衣店老闆: 靠北! 我的洗衣機暴掉了!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3073096914",
+        "conversation_id": "1828746420725448933",
+        "created_at": "2024-08-29T03:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T04:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829002377355272558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951383944",
+              "start": 0,
+              "username": "j123k123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829002377355272558",
+        "in_reply_to_user_id": "1951383944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15035,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828746420725448933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j123k123456 洗衣店老闆: 靠北! 我的洗衣機暴掉了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1429,
+          "like_count": 6586,
+          "listed_count": 3,
+          "tweet_count": 2733
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-11T13:14:19.000Z",
+        "description": "熱愛色情，喜好遊戲，期望色色讓世界和平",
+        "id": "3073096914",
+        "location": "台灣",
+        "name": "酸性物質",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774987911982923776/JNrHm33k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 227,
+          "like_count": 2256,
+          "listed_count": 0,
+          "tweet_count": 545
+        },
+        "username": "death00801",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-10T10:09:37.000Z",
+        "description": "夏色まつり一生推🏮\n\n來自台灣🇹🇼目前正在嘗試遊戲直播✨\n台湾から来ました\n今は生放送を試みています✨\n\n開台時間會慢慢調整到固定，\n由於長時間身體欠佳正在調整，\n希望之後有更穩定的時間來開台 !\n還希望大家有空都多來走走~~\n\n分帳: @filtley\n\n設定繪師：@furou185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "filtley"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "furou185"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/dend321",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/dend321",
+                "start": 0,
+                "url": "https://t.co/ArwScbTmJM"
+              }
+            ]
+          }
+        },
+        "id": "1951383944",
+        "location": "台灣",
+        "name": "伊織院 さいか🏮-Twitch實況主 雪雪",
+        "pinned_tweet_id": "1703490706277536037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823533049298243584/P8Bm-Xk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 4923,
+          "like_count": 66266,
+          "listed_count": 28,
+          "tweet_count": 42094
+        },
+        "url": "https://t.co/ArwScbTmJM",
+        "username": "j123k123456",
+        "verified": false
+      }
+    ]
+  }
+}

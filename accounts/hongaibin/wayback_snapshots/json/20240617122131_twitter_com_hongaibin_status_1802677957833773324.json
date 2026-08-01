@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802660159698948096"
+      ],
+      "media_source_tweet_id": [
+        "1802660209724428529"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1802677957833773324",
+    "created_at": "2024-06-17T12:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T13:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802677957833773324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1443637689161379842",
+          "start": 3,
+          "username": "shi42_8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/x3dSvU8d6E",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shi42_8/status/1802660209724428529/photo/1",
+          "media_key": "3_1802660159698948096",
+          "start": 13,
+          "url": "https://t.co/x3dSvU8d6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802677957833773324",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802660209724428529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shi42_8: https://t.co/x3dSvU8d6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1802660159698948096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQRV3UWa0AADqrO.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802660159698948096"
+          ],
+          "media_source_tweet_id": [
+            "1802660209724428529"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1802677957833773324",
+        "created_at": "2024-06-17T12:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T13:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802677957833773324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1443637689161379842",
+              "start": 3,
+              "username": "shi42_8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/x3dSvU8d6E",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shi42_8/status/1802660209724428529/photo/1",
+              "media_key": "3_1802660159698948096",
+              "start": 13,
+              "url": "https://t.co/x3dSvU8d6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802677957833773324",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802660209724428529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shi42_8: https://t.co/x3dSvU8d6E"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802660159698948096"
+          ]
+        },
+        "author_id": "1443637689161379842",
+        "conversation_id": "1802660209724428529",
+        "created_at": "2024-06-17T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802660209724428529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/x3dSvU8d6E",
+              "end": 23,
+              "expanded_url": "https://twitter.com/shi42_8/status/1802660209724428529/photo/1",
+              "media_key": "3_1802660159698948096",
+              "start": 0,
+              "url": "https://t.co/x3dSvU8d6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802660209724428529",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 783,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x3dSvU8d6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 1051,
+          "like_count": 1775,
+          "listed_count": 1,
+          "tweet_count": 1350
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T18:04:07.000Z",
+        "description": "ｼｰﾀです。 依頼について→https://t.co/Hp5WAF5KPh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/shita226",
+                "end": 37,
+                "expanded_url": "https://lit.link/shita226",
+                "start": 14,
+                "url": "https://t.co/Hp5WAF5KPh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/shi42_8",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/shi42_8",
+                "start": 0,
+                "url": "https://t.co/CVOMDIDS9j"
+              }
+            ]
+          }
+        },
+        "id": "1443637689161379842",
+        "location": "無断転載.自作発言.AI学習.禁止",
+        "name": "θ",
+        "pinned_tweet_id": "1771492522885255495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475471410525261824/6ddOJNyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 190,
+          "like_count": 5180,
+          "listed_count": 31,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/CVOMDIDS9j",
+        "username": "shi42_8",
+        "verified": false
+      }
+    ]
+  }
+}

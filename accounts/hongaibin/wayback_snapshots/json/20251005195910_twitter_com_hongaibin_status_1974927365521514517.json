@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1974927365521514517",
+    "created_at": "2025-10-05T19:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974927365521514517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2596381225",
+          "start": 3,
+          "username": "goodnight_ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974927365521514517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971959682878366070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goodnight_ye: 两个穷逼把我生下来当沙包玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1974927365521514517",
+        "created_at": "2025-10-05T19:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974927365521514517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2596381225",
+              "start": 3,
+              "username": "goodnight_ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974927365521514517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971959682878366070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goodnight_ye: 两个穷逼把我生下来当沙包玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1971959682878366070",
+        "created_at": "2025-09-27T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971959682878366070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971959682878366070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 208455,
+          "like_count": 1554,
+          "quote_count": 5,
+          "reply_count": 120,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "两个穷逼把我生下来当沙包玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2196,
+          "like_count": 23198,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6103
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "2596381225",
+        "location": "🚪520/1314",
+        "name": "梦魇",
+        "pinned_tweet_id": "1960984636055552308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963357856968970241/PRTaafaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33401,
+          "following_count": 285,
+          "like_count": 3115,
+          "listed_count": 69,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "goodnight_ye",
+        "verified": false
+      }
+    ]
+  }
+}

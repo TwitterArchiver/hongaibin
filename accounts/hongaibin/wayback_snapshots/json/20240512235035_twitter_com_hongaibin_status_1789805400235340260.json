@@ -1,0 +1,160 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789805400235340260",
+    "created_at": "2024-05-12T23:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T00:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789805400235340260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741811653828599808",
+          "start": 3,
+          "username": "yynji14872531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789805400235340260",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789563333101953093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yynji14872531: 愈美片是什么效果，和右美一样嘛？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789805400235340260",
+        "created_at": "2024-05-12T23:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T00:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789805400235340260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741811653828599808",
+              "start": 3,
+              "username": "yynji14872531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789805400235340260",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789563333101953093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yynji14872531: 愈美片是什么效果，和右美一样嘛？🤔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1741811653828599808",
+        "conversation_id": "1789563333101953093",
+        "created_at": "2024-05-12T07:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T08:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789563333101953093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789563333101953093",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4084,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "愈美片是什么效果，和右美一样嘛？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 769,
+          "like_count": 1179,
+          "listed_count": 0,
+          "tweet_count": 239
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:20:47.000Z",
+        "description": "精神病/中度抑郁/中度焦虑/中性/od/自残/门槛35解锁wx和QQ好友位",
+        "id": "1741811653828599808",
+        "name": "雪寄郁",
+        "pinned_tweet_id": "1772231452048138423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772285428332179457/rCU87B7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 308,
+          "like_count": 390,
+          "listed_count": 0,
+          "tweet_count": 368
+        },
+        "username": "yynji14872531",
+        "verified": false
+      }
+    ]
+  }
+}

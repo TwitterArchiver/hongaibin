@@ -1,0 +1,320 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1792040944906494075",
+    "created_at": "2024-05-19T05:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T06:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792065781267915082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1629424076145184768",
+          "start": 0,
+          "username": "k4z2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792065781267915082",
+    "in_reply_to_user_id": "1629424076145184768",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792040944906494075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4z2K It's gonna drive me crazy, oh my God."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792040944906494075",
+        "created_at": "2024-05-19T05:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T06:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792065781267915082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629424076145184768",
+              "start": 0,
+              "username": "k4z2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792065781267915082",
+        "in_reply_to_user_id": "1629424076145184768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792040944906494075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4z2K It's gonna drive me crazy, oh my God."
+      },
+      {
+        "attachments": {},
+        "author_id": "1629424076145184768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          }
+        ],
+        "conversation_id": "1792040944906494075",
+        "created_at": "2024-05-19T03:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T04:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792040944906494075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792040944906494075",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I will so lose weight being here cuz I literally can't eat the lunch or dinners they are like poison I love arfid! (sarcasm)\nporridge omad for next few days unless they get me something else 😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 852,
+          "like_count": 1246,
+          "listed_count": 0,
+          "tweet_count": 438
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:12:48.000Z",
+        "description": "17👶 | BPD+PTSD | V系ギャ男 | 日本人じゃない🙅‍♂️ | ブロックして、報告しないで。 | ALT - @k4zu4lt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "k4zu4lt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "retrospring.net/@k4z2K",
+                "end": 23,
+                "expanded_url": "https://retrospring.net/@k4z2K",
+                "start": 0,
+                "url": "https://t.co/kG7Q9OFy6E"
+              }
+            ]
+          }
+        },
+        "id": "1629424076145184768",
+        "location": "ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ",
+        "name": "かず × shtwt",
+        "pinned_tweet_id": "1785217228151136405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782149386086309888/P3pY7eNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 234,
+          "like_count": 38693,
+          "listed_count": 17,
+          "tweet_count": 10590
+        },
+        "url": "https://t.co/kG7Q9OFy6E",
+        "username": "k4z2K",
+        "verified": false
+      }
+    ]
+  }
+}

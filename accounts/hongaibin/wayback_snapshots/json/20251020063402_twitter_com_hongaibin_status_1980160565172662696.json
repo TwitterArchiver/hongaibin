@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979767303454502912"
+      ],
+      "media_source_tweet_id": [
+        "1979767312824856606"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1980160565172662696",
+    "created_at": "2025-10-20T06:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980160565172662696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMxLLUqhJY",
+          "end": 47,
+          "expanded_url": "https://x.com/DKR_World/status/1979767312824856606/photo/1",
+          "media_key": "3_1979767303454502912",
+          "start": 24,
+          "url": "https://t.co/lMxLLUqhJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980160565172662696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979767312824856606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: 腦漿綻放聯合會。 https://t.co/lMxLLUqhJY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980160565172662696].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980160565172662696",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980160565172662696"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1979767303454502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mL34xWsAArxq5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979767303454502912"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1979767312824856606",
+        "created_at": "2025-10-19T04:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979767312824856606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMxLLUqhJY",
+              "end": 32,
+              "expanded_url": "https://x.com/DKR_World/status/1979767312824856606/photo/1",
+              "media_key": "3_1979767303454502912",
+              "start": 9,
+              "url": "https://t.co/lMxLLUqhJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767312824856606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3066,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "腦漿綻放聯合會。 https://t.co/lMxLLUqhJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 2195,
+          "like_count": 23361,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 6154
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1979767312824856606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979697970774740992/kT8yVUy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 594,
+          "like_count": 28523,
+          "listed_count": 8,
+          "media_count": 377,
+          "tweet_count": 4575
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

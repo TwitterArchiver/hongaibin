@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037397496209768449"
+      ],
+      "media_source_tweet_id": [
+        "2037397679622512721"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037442481995084157",
+    "created_at": "2026-03-27T08:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037442481995084157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/94Ao79Zzj7",
+          "end": 57,
+          "expanded_url": "https://x.com/didengshengwu/status/2037397679622512721/video/1",
+          "media_key": "13_2037397496209768449",
+          "start": 34,
+          "url": "https://t.co/94Ao79Zzj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037442481995084157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037397679622512721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: 这样的装修，真的能长期住吗？ https://t.co/94Ao79Zzj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50460,
+        "height": 1300,
+        "media_key": "13_2037397496209768449",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037397496209768449/img/_R4GHU5LtaXAW02g.jpg",
+        "public_metrics": {
+          "view_count": 34850
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037397496209768449/vid/avc1/320x560/MhUkERPIW970380K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037397496209768449/vid/avc1/480x840/awtJuOYv6sVwiLcd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037397496209768449/vid/avc1/742x1300/ODjfz0nWNbLvLEeo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037397496209768449/pl/3rGtJg990W3iGC9c.m3u8"
+          }
+        ],
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037397496209768449"
+          ],
+          "media_source_tweet_id": [
+            "2037397679622512721"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037442481995084157",
+        "created_at": "2026-03-27T08:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037442481995084157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/94Ao79Zzj7",
+              "end": 57,
+              "expanded_url": "https://x.com/didengshengwu/status/2037397679622512721/video/1",
+              "media_key": "13_2037397496209768449",
+              "start": 34,
+              "url": "https://t.co/94Ao79Zzj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037442481995084157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037397679622512721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: 这样的装修，真的能长期住吗？ https://t.co/94Ao79Zzj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037397496209768449"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2037397679622512721",
+        "created_at": "2026-03-27T05:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037397679622512721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94Ao79Zzj7",
+              "end": 38,
+              "expanded_url": "https://x.com/didengshengwu/status/2037397679622512721/video/1",
+              "media_key": "13_2037397496209768449",
+              "start": 15,
+              "url": "https://t.co/94Ao79Zzj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037397679622512721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 66695,
+          "like_count": 136,
+          "quote_count": 2,
+          "reply_count": 126,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这样的装修，真的能长期住吗？ https://t.co/94Ao79Zzj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2298,
+          "like_count": 24600,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 6417
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186693,
+          "following_count": 1326,
+          "like_count": 3279,
+          "listed_count": 753,
+          "media_count": 3659,
+          "tweet_count": 6761
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

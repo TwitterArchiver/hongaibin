@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933736233160876032"
+      ],
+      "media_source_tweet_id": [
+        "1933736238483472708"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1933999368555930111",
+    "created_at": "2025-06-14T21:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T22:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933999368555930111"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "ぜるあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560248172861345794",
+          "start": 3,
+          "username": "showen03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DoHSlLIa5R",
+          "end": 44,
+          "expanded_url": "https://x.com/showen03/status/1933736238483472708/photo/1",
+          "media_key": "3_1933736233160876032",
+          "start": 21,
+          "url": "https://t.co/DoHSlLIa5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933999368555930111",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933736238483472708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @showen03: #ぜるあーと https://t.co/DoHSlLIa5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933736233160876032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYC29LbIAA8OXE.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933736233160876032"
+          ],
+          "media_source_tweet_id": [
+            "1933736238483472708"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1933999368555930111",
+        "created_at": "2025-06-14T21:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T22:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933999368555930111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ぜるあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560248172861345794",
+              "start": 3,
+              "username": "showen03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoHSlLIa5R",
+              "end": 44,
+              "expanded_url": "https://x.com/showen03/status/1933736238483472708/photo/1",
+              "media_key": "3_1933736233160876032",
+              "start": 21,
+              "url": "https://t.co/DoHSlLIa5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933999368555930111",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933736238483472708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @showen03: #ぜるあーと https://t.co/DoHSlLIa5R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933736233160876032"
+          ]
+        },
+        "author_id": "1560248172861345794",
+        "conversation_id": "1933736238483472708",
+        "created_at": "2025-06-14T04:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933736238483472708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ぜるあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoHSlLIa5R",
+              "end": 30,
+              "expanded_url": "https://x.com/showen03/status/1933736238483472708/photo/1",
+              "media_key": "3_1933736233160876032",
+              "start": 7,
+              "url": "https://t.co/DoHSlLIa5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933736238483472708",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#ぜるあーと https://t.co/DoHSlLIa5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2056,
+          "like_count": 19358,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5351
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T12:53:45.000Z",
+        "description": "20↑・漫画.映画.ゲーム配信（みる専）イラスト練習中。ないと思いますがトラブル回避のため画像の無断使用.転載.AI学習等NGでお願いします。Repost is prohibited.",
+        "id": "1560248172861345794",
+        "name": "ショウ塩",
+        "pinned_tweet_id": "1926126054122422691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736010714190602240/xV26knBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 107,
+          "like_count": 7812,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 3650
+        },
+        "username": "showen03",
+        "verified": false
+      }
+    ]
+  }
+}

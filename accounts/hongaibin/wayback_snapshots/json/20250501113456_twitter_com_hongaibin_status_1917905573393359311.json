@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917593850224533504"
+      ],
+      "media_source_tweet_id": [
+        "1917595515556188507"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1917905573393359311",
+    "created_at": "2025-05-01T11:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917905573393359311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAFjD1M9r3",
+          "end": 110,
+          "expanded_url": "https://x.com/RXdruglab/status/1917595515556188507/photo/1",
+          "media_key": "3_1917593850224533504",
+          "start": 87,
+          "url": "https://t.co/iAFjD1M9r3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917905573393359311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917595515556188507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 一例劳拉西泮致急性精神错乱的投稿。我觉得劳拉西泮单用肯定不会，主要还是联用了。使用安眠药来停止幻觉的行为有时可能还是要再考虑一下小概率的后果。 https://t.co/iAFjD1M9r3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1917593850224533504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpypcmobYAA361U.png",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917593850224533504"
+          ],
+          "media_source_tweet_id": [
+            "1917595515556188507"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1917905573393359311",
+        "created_at": "2025-05-01T11:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917905573393359311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAFjD1M9r3",
+              "end": 110,
+              "expanded_url": "https://x.com/RXdruglab/status/1917595515556188507/photo/1",
+              "media_key": "3_1917593850224533504",
+              "start": 87,
+              "url": "https://t.co/iAFjD1M9r3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917905573393359311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917595515556188507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 一例劳拉西泮致急性精神错乱的投稿。我觉得劳拉西泮单用肯定不会，主要还是联用了。使用安眠药来停止幻觉的行为有时可能还是要再考虑一下小概率的后果。 https://t.co/iAFjD1M9r3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917593850224533504"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1917595515556188507",
+        "created_at": "2025-04-30T15:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917595515556188507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAFjD1M9r3",
+              "end": 95,
+              "expanded_url": "https://x.com/RXdruglab/status/1917595515556188507/photo/1",
+              "media_key": "3_1917593850224533504",
+              "start": 72,
+              "url": "https://t.co/iAFjD1M9r3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917595515556188507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3118,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一例劳拉西泮致急性精神错乱的投稿。我觉得劳拉西泮单用肯定不会，主要还是联用了。使用安眠药来停止幻觉的行为有时可能还是要再考虑一下小概率的后果。 https://t.co/iAFjD1M9r3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1924,
+          "like_count": 16995,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4850
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14762,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 12,
+          "media_count": 40,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

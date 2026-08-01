@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975828880461340676",
+        "3_1975828880465555456",
+        "3_1975828880742359040",
+        "3_1975828880461340675"
+      ],
+      "media_source_tweet_id": [
+        "1975828928406405335",
+        "1975828928406405335",
+        "1975828928406405335",
+        "1975828928406405335"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975949109904490891",
+    "created_at": "2025-10-08T15:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T16:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975949109904490891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908668668919398400",
+          "start": 3,
+          "username": "Kazumasski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KfjWCJ85Gn",
+          "end": 90,
+          "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+          "media_key": "3_1975828880461340676",
+          "start": 67,
+          "url": "https://t.co/KfjWCJ85Gn"
+        },
+        {
+          "display_url": "pic.x.com/KfjWCJ85Gn",
+          "end": 90,
+          "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+          "media_key": "3_1975828880465555456",
+          "start": 67,
+          "url": "https://t.co/KfjWCJ85Gn"
+        },
+        {
+          "display_url": "pic.x.com/KfjWCJ85Gn",
+          "end": 90,
+          "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+          "media_key": "3_1975828880742359040",
+          "start": 67,
+          "url": "https://t.co/KfjWCJ85Gn"
+        },
+        {
+          "display_url": "pic.x.com/KfjWCJ85Gn",
+          "end": 90,
+          "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+          "media_key": "3_1975828880461340675",
+          "start": 67,
+          "url": "https://t.co/KfjWCJ85Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975949109904490891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975828928406405335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kazumasski: 再有傻逼往墙内发od相关的事或者愈美片，愈美片要是被管制了我第一个把你老母风干了加愈美片磨成粉吃嘴里 https://t.co/KfjWCJ85Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1975828880461340676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uN5fzbIAQ8eN9.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1975828880465555456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uN5f0bcAA53Ha.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1975828880742359040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uN5g2bIAAnW_K.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1975828880461340675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uN5fzbIAM8Qsy.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975828880461340676",
+            "3_1975828880465555456",
+            "3_1975828880742359040",
+            "3_1975828880461340675"
+          ],
+          "media_source_tweet_id": [
+            "1975828928406405335",
+            "1975828928406405335",
+            "1975828928406405335",
+            "1975828928406405335"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975949109904490891",
+        "created_at": "2025-10-08T15:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975949109904490891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908668668919398400",
+              "start": 3,
+              "username": "Kazumasski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 90,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880461340676",
+              "start": 67,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 90,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880465555456",
+              "start": 67,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 90,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880742359040",
+              "start": 67,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 90,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880461340675",
+              "start": 67,
+              "url": "https://t.co/KfjWCJ85Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975949109904490891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975828928406405335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kazumasski: 再有傻逼往墙内发od相关的事或者愈美片，愈美片要是被管制了我第一个把你老母风干了加愈美片磨成粉吃嘴里 https://t.co/KfjWCJ85Gn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975828880461340676",
+            "3_1975828880465555456",
+            "3_1975828880742359040",
+            "3_1975828880461340675"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975828928406405335",
+        "created_at": "2025-10-08T07:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975828928406405335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 74,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880461340676",
+              "start": 51,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 74,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880465555456",
+              "start": 51,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 74,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880742359040",
+              "start": 51,
+              "url": "https://t.co/KfjWCJ85Gn"
+            },
+            {
+              "display_url": "pic.x.com/KfjWCJ85Gn",
+              "end": 74,
+              "expanded_url": "https://x.com/Kazumasski/status/1975828928406405335/photo/1",
+              "media_key": "3_1975828880461340675",
+              "start": 51,
+              "url": "https://t.co/KfjWCJ85Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975828928406405335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1787,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再有傻逼往墙内发od相关的事或者愈美片，愈美片要是被管制了我第一个把你老母风干了加愈美片磨成粉吃嘴里 https://t.co/KfjWCJ85Gn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2198,
+          "like_count": 23236,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6114
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "精神日本人｜Xの住人｜🏳️‍🌈｜ネズミ族｜🤍@aoim33 @wanzi0209 @Shadow01175｜オタク｜音ゲーマ｜🚹13歳中2生✏️｜音ゲー垢@BBLLOOCCKK_｜アイコン #白买蓝｜〒SASHISUSESOOWO@HOTMAIL.COMせびご連絡下さい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 95,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "aoim33"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Shadow01175"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/HHAAIIBOT",
+                "end": 23,
+                "expanded_url": "http://x.com/HHAAIIBOT",
+                "start": 0,
+                "url": "https://t.co/m6COT28clz"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "サブ垢→",
+        "name": "佐々木 かずま 🏳️‍🌈🇹🇼🇯🇵",
+        "pinned_tweet_id": "1964625217613185057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886453513588736/R0ovKQu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 4823,
+          "like_count": 7929,
+          "listed_count": 6,
+          "media_count": 1304,
+          "tweet_count": 7778
+        },
+        "url": "https://t.co/m6COT28clz",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

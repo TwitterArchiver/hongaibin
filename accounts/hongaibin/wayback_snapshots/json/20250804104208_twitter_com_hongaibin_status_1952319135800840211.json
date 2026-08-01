@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951671513855512576"
+      ],
+      "media_source_tweet_id": [
+        "1951671516644712464"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952319135800840211",
+    "created_at": "2025-08-04T10:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952319135800840211"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "自残"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1516051151854002182",
+          "start": 3,
+          "username": "Aliceblueisme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u0PLT7e3vQ",
+          "end": 46,
+          "expanded_url": "https://x.com/Aliceblueisme/status/1951671516644712464/photo/1",
+          "media_key": "3_1951671513855512576",
+          "start": 23,
+          "url": "https://t.co/u0PLT7e3vQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952319135800840211",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951671516644712464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aliceblueisme: #自残 https://t.co/u0PLT7e3vQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_1951671513855512576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxW65sWbUAAGUoE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951671513855512576"
+          ],
+          "media_source_tweet_id": [
+            "1951671516644712464"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1952319135800840211",
+        "created_at": "2025-08-04T10:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952319135800840211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "自残"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1516051151854002182",
+              "start": 3,
+              "username": "Aliceblueisme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0PLT7e3vQ",
+              "end": 46,
+              "expanded_url": "https://x.com/Aliceblueisme/status/1951671516644712464/photo/1",
+              "media_key": "3_1951671513855512576",
+              "start": 23,
+              "url": "https://t.co/u0PLT7e3vQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952319135800840211",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951671516644712464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aliceblueisme: #自残 https://t.co/u0PLT7e3vQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951671513855512576"
+          ]
+        },
+        "author_id": "1516051151854002182",
+        "conversation_id": "1951671516644712464",
+        "created_at": "2025-08-02T15:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951671516644712464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0PLT7e3vQ",
+              "end": 27,
+              "expanded_url": "https://x.com/Aliceblueisme/status/1951671516644712464/photo/1",
+              "media_key": "3_1951671513855512576",
+              "start": 4,
+              "url": "https://t.co/u0PLT7e3vQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951671516644712464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 https://t.co/u0PLT7e3vQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2106,
+          "like_count": 21276,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5740
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T13:49:21.000Z",
+        "description": "等待车祸\n我求求你别举报了，🚪68/99/188/256/520/1314，马斯克和举报狗你就放过我吧。👮🏻‍♂️get out",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youda.pro/315992",
+                "end": 23,
+                "expanded_url": "https://youda.pro/315992",
+                "start": 0,
+                "url": "https://t.co/og5HWoXQHf"
+              }
+            ]
+          }
+        },
+        "id": "1516051151854002182",
+        "location": "天国",
+        "name": "失败作少女8964(接自残定制✡︎shtwt✡︎988twt",
+        "pinned_tweet_id": "1907250895265345608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936822725831499776/8iX1lAkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 409,
+          "like_count": 3369,
+          "listed_count": 6,
+          "media_count": 462,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/og5HWoXQHf",
+        "username": "Aliceblueisme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940198127018852352"
+      ],
+      "media_source_tweet_id": [
+        "1940198129737036236"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1941121726903206212",
+    "created_at": "2025-07-04T13:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T14:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941121726903206212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545787268501106688",
+          "start": 3,
+          "username": "zzzChumo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YtO58OZxv",
+          "end": 37,
+          "expanded_url": "https://x.com/zzzChumo/status/1940198129737036236/photo/1",
+          "media_key": "3_1940198127018852352",
+          "start": 14,
+          "url": "https://t.co/3YtO58OZxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941121726903206212",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940198129737036236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzzChumo: https://t.co/3YtO58OZxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_1940198127018852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guz36rrWQAAuYFk.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940198127018852352"
+          ],
+          "media_source_tweet_id": [
+            "1940198129737036236"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1941121726903206212",
+        "created_at": "2025-07-04T13:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941121726903206212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545787268501106688",
+              "start": 3,
+              "username": "zzzChumo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YtO58OZxv",
+              "end": 37,
+              "expanded_url": "https://x.com/zzzChumo/status/1940198129737036236/photo/1",
+              "media_key": "3_1940198127018852352",
+              "start": 14,
+              "url": "https://t.co/3YtO58OZxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941121726903206212",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940198129737036236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzzChumo: https://t.co/3YtO58OZxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940198127018852352"
+          ]
+        },
+        "author_id": "1545787268501106688",
+        "conversation_id": "1940198129737036236",
+        "created_at": "2025-07-01T23:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T00:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940198129737036236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YtO58OZxv",
+              "end": 23,
+              "expanded_url": "https://x.com/zzzChumo/status/1940198129737036236/photo/1",
+              "media_key": "3_1940198127018852352",
+              "start": 0,
+              "url": "https://t.co/3YtO58OZxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940198129737036236",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1247,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3YtO58OZxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2080,
+          "like_count": 20141,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5491
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/無言フォロー失礼します/版权头图非请勿用/术术人/人称代词随意 但是被叫she her会很高兴/三代目/逃生舱@whatisnickidk/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "whatisnickidk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "地狱",
+        "name": "墨墨墨墨墨墨",
+        "pinned_tweet_id": "1932777949692133812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 963,
+          "like_count": 72600,
+          "listed_count": 0,
+          "media_count": 764,
+          "tweet_count": 3163
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

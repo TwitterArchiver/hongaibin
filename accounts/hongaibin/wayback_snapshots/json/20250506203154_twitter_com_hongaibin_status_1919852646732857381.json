@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919753303229186048"
+      ],
+      "media_source_tweet_id": [
+        "1919753310447239200"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1919852646732857381",
+    "created_at": "2025-05-06T20:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T21:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919852646732857381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1666599054917218305",
+          "start": 3,
+          "username": "kirakira4th"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0STqb6ep54",
+          "end": 45,
+          "expanded_url": "https://x.com/kirakira4th/status/1919753310447239200/photo/1",
+          "media_key": "3_1919753303229186048",
+          "start": 22,
+          "url": "https://t.co/0STqb6ep54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919852646732857381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919753310447239200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirakira4th: 我真这样 https://t.co/0STqb6ep54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1919753303229186048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRVdT9bwAA4ujc.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919753303229186048"
+          ],
+          "media_source_tweet_id": [
+            "1919753310447239200"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1919852646732857381",
+        "created_at": "2025-05-06T20:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T21:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919852646732857381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1666599054917218305",
+              "start": 3,
+              "username": "kirakira4th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0STqb6ep54",
+              "end": 45,
+              "expanded_url": "https://x.com/kirakira4th/status/1919753310447239200/photo/1",
+              "media_key": "3_1919753303229186048",
+              "start": 22,
+              "url": "https://t.co/0STqb6ep54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919852646732857381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919753310447239200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirakira4th: 我真这样 https://t.co/0STqb6ep54"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919753303229186048"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1919753310447239200",
+        "created_at": "2025-05-06T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919753310447239200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0STqb6ep54",
+              "end": 28,
+              "expanded_url": "https://x.com/kirakira4th/status/1919753310447239200/photo/1",
+              "media_key": "3_1919753303229186048",
+              "start": 5,
+              "url": "https://t.co/0STqb6ep54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919753310447239200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 26782,
+          "like_count": 309,
+          "quote_count": 10,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我真这样 https://t.co/0STqb6ep54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1962,
+          "like_count": 17458,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4907
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "⁺₊✶ 𝙴𝚝𝚎𝚛𝚗𝚊𝚕 𝚍𝚊𝚠𝚗 ⟡₊⁺",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908387660873228288/LieoUHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15116,
+          "following_count": 2751,
+          "like_count": 51680,
+          "listed_count": 19,
+          "media_count": 341,
+          "tweet_count": 15509
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

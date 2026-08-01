@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1817509080082374657"
+      ],
+      "media_source_tweet_id": [
+        "1817509133882384876"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1817610875060244605",
+    "created_at": "2024-07-28T17:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T18:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817610875060244605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1128977972646387712",
+          "start": 3,
+          "username": "chiitan7407"
+        },
+        {
+          "end": 32,
+          "id": "1795406935581487104",
+          "start": 17,
+          "username": "VowedPrinciple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/DYlokTDtWW",
+          "end": 81,
+          "expanded_url": "https://twitter.com/chiitan7407/status/1817509133882384876/video/1",
+          "media_key": "13_1817509080082374657",
+          "start": 58,
+          "url": "https://t.co/DYlokTDtWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817610875060244605",
+    "lang": "tl",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817509133882384876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiitan7407: @VowedPrinciple OK☺️\nGangnam Style dance https://t.co/DYlokTDtWW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23133,
+        "height": 640,
+        "media_key": "13_1817509080082374657",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1817509080082374657/img/-mihHrFdbMcp03PL.jpg",
+        "public_metrics": {
+          "view_count": 6909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817509080082374657/vid/avc1/320x568/7-jtoBJA3W5RTr7b.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1817509080082374657/vid/avc1/360x640/nP12ipXocyNa_d0I.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1817509080082374657/pl/ShaaP_YRfr_AqQWb.m3u8?tag=16"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1817509080082374657"
+          ],
+          "media_source_tweet_id": [
+            "1817509133882384876"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1817610875060244605",
+        "created_at": "2024-07-28T17:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T18:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817610875060244605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1128977972646387712",
+              "start": 3,
+              "username": "chiitan7407"
+            },
+            {
+              "end": 32,
+              "id": "1795406935581487104",
+              "start": 17,
+              "username": "VowedPrinciple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DYlokTDtWW",
+              "end": 81,
+              "expanded_url": "https://twitter.com/chiitan7407/status/1817509133882384876/video/1",
+              "media_key": "13_1817509080082374657",
+              "start": 58,
+              "url": "https://t.co/DYlokTDtWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817610875060244605",
+        "lang": "tl",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817509133882384876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiitan7407: @VowedPrinciple OK☺️\nGangnam Style dance https://t.co/DYlokTDtWW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1817509080082374657"
+          ]
+        },
+        "author_id": "1128977972646387712",
+        "conversation_id": "1817507004597903762",
+        "created_at": "2024-07-28T10:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T11:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817509133882384876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795406935581487104",
+              "start": 0,
+              "username": "VowedPrinciple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DYlokTDtWW",
+              "end": 64,
+              "expanded_url": "https://twitter.com/chiitan7407/status/1817509133882384876/video/1",
+              "media_key": "13_1817509080082374657",
+              "start": 41,
+              "url": "https://t.co/DYlokTDtWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817509133882384876",
+        "in_reply_to_user_id": "1795406935581487104",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 19965,
+          "like_count": 2448,
+          "quote_count": 31,
+          "reply_count": 20,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817507004597903762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VowedPrinciple OK☺️\nGangnam Style dance https://t.co/DYlokTDtWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 1167,
+          "like_count": 3612,
+          "listed_count": 2,
+          "tweet_count": 2036
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T10:58:18.000Z",
+        "description": "I'm chiitan⭐︎Japanese crazy mascot🏳️‍⚧️dream is to reach 10million followers🍏永遠の0歳カワウソの赤ちゃん妖精👶生きてるだけで、おおむね成功🔶SNS→ https://t.co/eYOsA6SLYn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chiitan7407",
+                "end": 137,
+                "expanded_url": "https://linktr.ee/chiitan7407",
+                "start": 114,
+                "url": "https://t.co/eYOsA6SLYn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiitan",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chiitan",
+                "start": 0,
+                "url": "https://t.co/yXXmtpbtPK"
+              }
+            ]
+          }
+        },
+        "id": "1128977972646387712",
+        "location": "📩お問い合わせ：chiitan@chiitan.love",
+        "name": "ちぃたん☆／Chiitan",
+        "pinned_tweet_id": "1388861735826722820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128990786438090752/EA9840Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906311,
+          "following_count": 131,
+          "like_count": 96564,
+          "listed_count": 1334,
+          "tweet_count": 158268
+        },
+        "url": "https://t.co/yXXmtpbtPK",
+        "username": "chiitan7407",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T10:49:16.000Z",
+        "description": "Love Anime ⛩️ and Tech 📱\nPC Gamer 🎮\nNO MY PFP IS NOT NFT. I DREW IT MYSELF.",
+        "id": "1795406935581487104",
+        "name": "VowedPrinciple",
+        "pinned_tweet_id": "1802310183584223527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804976958922506240/WCcYkq8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 223,
+          "like_count": 1163,
+          "listed_count": 0,
+          "tweet_count": 1712
+        },
+        "username": "VowedPrinciple",
+        "verified": true
+      }
+    ]
+  }
+}

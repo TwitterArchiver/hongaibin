@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1791629828179034195",
+    "created_at": "2024-05-18T00:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T01:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791629828179034195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467175651954200577",
+          "start": 3,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791629828179034195",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791452217830207900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kjkluk: 我连去s的勇气都没有 我真是个懦弱废物啊…😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1791629828179034195",
+        "created_at": "2024-05-18T00:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T01:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791629828179034195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467175651954200577",
+              "start": 3,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791629828179034195",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791452217830207900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kjkluk: 我连去s的勇气都没有 我真是个懦弱废物啊…😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1791452217830207900",
+        "created_at": "2024-05-17T12:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T13:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791452217830207900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791452217830207900",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2456,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我连去s的勇气都没有 我真是个懦弱废物啊…😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 814,
+          "like_count": 1231,
+          "listed_count": 0,
+          "tweet_count": 365
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "狐物器回归。\n⚠多意識體注意⚠ 為非本意識體操作盡量負責，如有冒犯抱歉",
+        "id": "1467175651954200577",
+        "location": "Yamaguchi-ken, Japan",
+        "name": "川井橘音🏳️‍⚧️ かわい きつね",
+        "pinned_tweet_id": "1782326507307983298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787027759338016768/wGmlgY5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1168,
+          "like_count": 76224,
+          "listed_count": 6,
+          "tweet_count": 3526
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

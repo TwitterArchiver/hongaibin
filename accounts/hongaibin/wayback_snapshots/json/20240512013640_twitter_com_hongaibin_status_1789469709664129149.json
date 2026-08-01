@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1788928715558162432"
+      ],
+      "media_source_tweet_id": [
+        "1788928890640949645"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1789469709664129149",
+    "created_at": "2024-05-12T01:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T02:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789469709664129149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652852984009613317",
+          "start": 3,
+          "username": "lobitoluchon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/okELxZ8gY8",
+          "end": 59,
+          "expanded_url": "https://twitter.com/lobitoluchon/status/1788928890640949645/video/1",
+          "media_key": "7_1788928715558162432",
+          "start": 36,
+          "url": "https://t.co/okELxZ8gY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789469709664129149",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788928890640949645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lobitoluchon: estoy en clases:/ https://t.co/okELxZ8gY8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1789469709664129149].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1789469709664129149",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1789469709664129149"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25966,
+        "height": 352,
+        "media_key": "7_1788928715558162432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1788928715558162432/pu/img/OS2AAF6eHc7O-P86.jpg",
+        "public_metrics": {
+          "view_count": 751
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788928715558162432/pu/vid/avc1/368x270/EY_d6eZKIKEGatSQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1788928715558162432/pu/vid/avc1/480x352/mZaPNVuHIaewWpC5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1788928715558162432/pu/pl/-zk222IJd5SUQSm1.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1788928715558162432"
+          ]
+        },
+        "author_id": "1652852984009613317",
+        "conversation_id": "1788928890640949645",
+        "created_at": "2024-05-10T13:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T14:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788928890640949645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/okELxZ8gY8",
+              "end": 41,
+              "expanded_url": "https://twitter.com/lobitoluchon/status/1788928890640949645/video/1",
+              "media_key": "7_1788928715558162432",
+              "start": 18,
+              "url": "https://t.co/okELxZ8gY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788928890640949645",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1415,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "estoy en clases:/ https://t.co/okELxZ8gY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 730,
+          "like_count": 1143,
+          "listed_count": 0,
+          "tweet_count": 194
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T01:51:15.000Z",
+        "description": "solo me gusta soobin y él.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goregratis.cl",
+                "end": 23,
+                "expanded_url": "http://goregratis.cl",
+                "start": 0,
+                "url": "https://t.co/m7zZF8z9yn"
+              }
+            ]
+          }
+        },
+        "id": "1652852984009613317",
+        "location": "gore ed sh nsfw :v",
+        "name": "Jayden Bv",
+        "pinned_tweet_id": "1787974093398057342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787974657187942400/ai1MXK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 95,
+          "like_count": 2818,
+          "listed_count": 4,
+          "tweet_count": 10135
+        },
+        "url": "https://t.co/m7zZF8z9yn",
+        "username": "lobitoluchon",
+        "verified": false
+      }
+    ]
+  }
+}

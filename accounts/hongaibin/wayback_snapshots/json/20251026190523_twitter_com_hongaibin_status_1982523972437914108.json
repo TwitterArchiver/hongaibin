@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1982523972437914108",
+    "created_at": "2025-10-26T19:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T20:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982523972437914108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4880352669",
+          "start": 3,
+          "username": "berrrry_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982523972437914108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982070780017209350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @berrrry_na: 好不容易生了一个儿子，结果发现这孩子不太长肉，比较苗条，喜欢打音游，稍大点还自学计算机，折腾什么 Arch Linux…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1982523972437914108",
+        "created_at": "2025-10-26T19:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T20:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982523972437914108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4880352669",
+              "start": 3,
+              "username": "berrrry_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982523972437914108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982070780017209350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @berrrry_na: 好不容易生了一个儿子，结果发现这孩子不太长肉，比较苗条，喜欢打音游，稍大点还自学计算机，折腾什么 Arch Linux…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4880352669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1982070780017209350",
+        "created_at": "2025-10-25T13:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982070780017209350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982070780017209350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好不容易生了一个儿子，结果发现这孩子不太长肉，比较苗条，喜欢打音游，稍大点还自学计算机，折腾什么 Arch Linux ，还会锻炼，不过不知道为啥都是有氧运动，不上肌肉，还喜欢往脸上抹点雪花膏，某天收拾孩子房间发现一个糖盒，也没仔细看，好像是一些黄色的糖果，闻起来水蜜桃味，还找到一管写着英文的凝胶，问了一下孩子说是治痘痘的，也是，孩子确实不长痘痘了，皮肤也细腻了，偶尔还能听到孩子在房间里面练习唱歌，似乎美声什么的，细细尖尖的，要不是知道里面是谁，还以为是个小姑娘呢，听班主任说孩子还报了学科竞赛，还准备打什么 OI ，这孩子有出息啊，不过就是最近叛逆期到了，非说要留什么狼尾，好看，学校那边看他成绩也不管他，头疼，最近好像还喜欢上了新的玩具，叫什么幻龙，听起来大概是什么模型吧，也没见他拿出来过"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 36667,
+          "like_count": 348,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易生了一个儿子，结果发现这孩子不太长肉，比较苗条，喜欢打音游，稍大点还自学计算机，折腾什么 Arch Linux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 2211,
+          "like_count": 23456,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6185
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "MtF🏳️‍⚧️/BDSMer(M、sub、bottom+調皮的brat😈)/表面靦腆到想躲被子裡😳，內心卻色到不行，來逗我玩吧？💕/泛性戀/誰來調教我當個乖女孩🥺",
+        "id": "4880352669",
+        "location": "天天天国地獄国",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "1959912677083656500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965656353978068992/HwOFZBCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 215,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 347
+        },
+        "username": "berrrry_na",
+        "verified": true
+      }
+    ]
+  }
+}

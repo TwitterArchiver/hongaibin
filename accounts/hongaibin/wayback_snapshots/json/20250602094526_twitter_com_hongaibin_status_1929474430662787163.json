@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929473767665029120"
+      ],
+      "media_source_tweet_id": [
+        "1929473773780230359"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1929474430662787163",
+    "created_at": "2025-06-02T09:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T10:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929474430662787163"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1135938167989604352",
+          "start": 3,
+          "username": "BAL_Ctrl_Z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UmRaInpnc7",
+          "end": 54,
+          "expanded_url": "https://x.com/BAL_Ctrl_Z/status/1929473773780230359/photo/1",
+          "media_key": "3_1929473767665029120",
+          "start": 31,
+          "url": "https://t.co/UmRaInpnc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929474430662787163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929473773780230359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAL_Ctrl_Z: #oc 『ハクマル』 💙💉🦴 https://t.co/UmRaInpnc7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929473767665029120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbeKz0b0AAGfF0.jpg",
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929473767665029120"
+          ],
+          "media_source_tweet_id": [
+            "1929473773780230359"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1929474430662787163",
+        "created_at": "2025-06-02T09:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T10:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929474430662787163"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1135938167989604352",
+              "start": 3,
+              "username": "BAL_Ctrl_Z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmRaInpnc7",
+              "end": 54,
+              "expanded_url": "https://x.com/BAL_Ctrl_Z/status/1929473773780230359/photo/1",
+              "media_key": "3_1929473767665029120",
+              "start": 31,
+              "url": "https://t.co/UmRaInpnc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929474430662787163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929473773780230359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BAL_Ctrl_Z: #oc 『ハクマル』 💙💉🦴 https://t.co/UmRaInpnc7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929473767665029120"
+          ]
+        },
+        "author_id": "1135938167989604352",
+        "conversation_id": "1929473773780230359",
+        "created_at": "2025-06-02T09:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929473773780230359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmRaInpnc7",
+              "end": 38,
+              "expanded_url": "https://x.com/BAL_Ctrl_Z/status/1929473773780230359/photo/1",
+              "media_key": "3_1929473767665029120",
+              "start": 15,
+              "url": "https://t.co/UmRaInpnc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929473773780230359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#oc 『ハクマル』 💙💉🦴 https://t.co/UmRaInpnc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5234
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T15:55:38.000Z",
+        "description": "illustration ￤#2次メタ 企画￤✉️▶︎ akimotobal@gmail.com🪼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "2次メタ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akimotobal.wixsite.com/akimotobal",
+                "end": 23,
+                "expanded_url": "https://akimotobal.wixsite.com/akimotobal",
+                "start": 0,
+                "url": "https://t.co/7E6Wt2iY6Y"
+              }
+            ]
+          }
+        },
+        "id": "1135938167989604352",
+        "location": "自作発言,転載,利用,AIの学習素材×",
+        "name": "アキモトバル",
+        "pinned_tweet_id": "1929473773780230359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929408951227142144/sKASD9Pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4027,
+          "following_count": 680,
+          "like_count": 33523,
+          "listed_count": 78,
+          "media_count": 117,
+          "tweet_count": 38685
+        },
+        "url": "https://t.co/7E6Wt2iY6Y",
+        "username": "BAL_Ctrl_Z",
+        "verified": false
+      }
+    ]
+  }
+}

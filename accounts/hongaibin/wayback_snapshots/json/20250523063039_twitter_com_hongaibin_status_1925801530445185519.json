@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1925562264675033138",
+    "created_at": "2025-05-23T06:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925801530445185519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717534434985914368",
+          "start": 0,
+          "username": "eleve_zoe25996"
+        },
+        {
+          "end": 26,
+          "id": "1764513078585270272",
+          "start": 16,
+          "username": "k4zuk4zu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925801530445185519",
+    "in_reply_to_user_id": "1717534434985914368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925580935254212739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eleve_zoe25996 @k4zuk4zu_ Her account has been blocked, do you know her new account?"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [k4zuk4zu_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4zuk4zu_",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4zuk4zu_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1925562264675033138",
+        "created_at": "2025-05-23T06:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925801530445185519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717534434985914368",
+              "start": 0,
+              "username": "eleve_zoe25996"
+            },
+            {
+              "end": 26,
+              "id": "1764513078585270272",
+              "start": 16,
+              "username": "k4zuk4zu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925801530445185519",
+        "in_reply_to_user_id": "1717534434985914368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925580935254212739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eleve_zoe25996 @k4zuk4zu_ Her account has been blocked, do you know her new account?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717534434985914368",
+        "conversation_id": "1925562264675033138",
+        "created_at": "2025-05-22T15:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925580935254212739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764513078585270272",
+              "start": 0,
+              "username": "k4zuk4zu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925580935254212739",
+        "in_reply_to_user_id": "1764513078585270272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925562264675033138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4zuk4zu_ Mind sharing who ur croomf is?? also same 😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 2009,
+          "like_count": 17972,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5046
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T13:37:33.000Z",
+        "description": "17 | She/Her | Fr/Eng | JJK, DS fan, etc | I like to draw :P  | priv : @zoeseviltwin  | Pfp by : me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "zoeseviltwin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elevezoe.straw.page",
+                "end": 23,
+                "expanded_url": "https://elevezoe.straw.page",
+                "start": 0,
+                "url": "https://t.co/RHExPsph4v"
+              }
+            ]
+          }
+        },
+        "id": "1717534434985914368",
+        "location": "CANADA!!",
+        "name": "Zoe /ᐠ｡ꞈ｡ᐟ\\💬",
+        "pinned_tweet_id": "1925600558590619662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923849371054997504/cr2X1ELJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 285,
+          "like_count": 21883,
+          "listed_count": 5,
+          "media_count": 1074,
+          "tweet_count": 11358
+        },
+        "url": "https://t.co/RHExPsph4v",
+        "username": "eleve_zoe25996",
+        "verified": false
+      }
+    ]
+  }
+}

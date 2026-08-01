@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1949112689885929472"
+      ],
+      "media_source_tweet_id": [
+        "1949112749528641911"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1949340553524474066",
+    "created_at": "2025-07-27T05:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949340553524474066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "weiheyaokanwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WrfLQgsVYl",
+          "end": 42,
+          "expanded_url": "https://x.com/weiheyaokanwo/status/1949112749528641911/video/1",
+          "media_key": "13_1949112689885929472",
+          "start": 19,
+          "url": "https://t.co/WrfLQgsVYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949340553524474066",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949112749528641911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiheyaokanwo: https://t.co/WrfLQgsVYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6458,
+        "height": 1070,
+        "media_key": "13_1949112689885929472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949112689885929472/img/9S37vkYlGO7_5A_j.jpg",
+        "public_metrics": {
+          "view_count": 1847
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112689885929472/vid/avc1/320x484/Bcz20wJiEErOEhnA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112689885929472/vid/avc1/480x726/t5gWKvxqBzvfkbHb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112689885929472/vid/avc1/706x1070/lSAHjbLZ-eez5zDM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949112689885929472/pl/yrIq2o8BBCWBp1gv.m3u8"
+          }
+        ],
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949112689885929472"
+          ],
+          "media_source_tweet_id": [
+            "1949112749528641911"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1949340553524474066",
+        "created_at": "2025-07-27T05:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949340553524474066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "weiheyaokanwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrfLQgsVYl",
+              "end": 42,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1949112749528641911/video/1",
+              "media_key": "13_1949112689885929472",
+              "start": 19,
+              "url": "https://t.co/WrfLQgsVYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949340553524474066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949112749528641911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weiheyaokanwo: https://t.co/WrfLQgsVYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949112689885929472"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "1949112749528641911",
+        "created_at": "2025-07-26T14:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949112749528641911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrfLQgsVYl",
+              "end": 23,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1949112749528641911/video/1",
+              "media_key": "13_1949112689885929472",
+              "start": 0,
+              "url": "https://t.co/WrfLQgsVYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949112749528641911",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5280,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WrfLQgsVYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 2095,
+          "like_count": 21213,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5686
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ 剥离表达欲中/提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 43,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 20,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "location": "门槛188/520，你会成为我的朋友",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 450,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1875
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

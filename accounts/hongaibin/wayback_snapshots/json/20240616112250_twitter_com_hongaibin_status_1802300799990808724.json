@@ -1,0 +1,127 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1802300799990808724",
+    "created_at": "2024-06-16T11:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T12:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802300799990808724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kaein_0111/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Kaein_0111/status/1801812952028483933",
+          "start": 12,
+          "url": "https://t.co/U7sKxhYogs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802300799990808724",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801812952028483933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好多天没割了 犯割瘾了 https://t.co/U7sKxhYogs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1801812952028483933].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801812952028483933",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1801812952028483933"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1802300799990808724",
+        "created_at": "2024-06-16T11:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T12:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802300799990808724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kaein_0111/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Kaein_0111/status/1801812952028483933",
+              "start": 12,
+              "url": "https://t.co/U7sKxhYogs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802300799990808724",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801812952028483933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多天没割了 犯割瘾了 https://t.co/U7sKxhYogs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1053,
+          "like_count": 1732,
+          "listed_count": 1,
+          "tweet_count": 1316
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

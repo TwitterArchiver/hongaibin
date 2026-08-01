@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794324175353737216"
+      ],
+      "media_source_tweet_id": [
+        "1794324187441696790"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1794586261229122009",
+    "created_at": "2024-05-26T04:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T05:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794586261229122009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241252086450290690",
+          "start": 3,
+          "username": "suicide_6260"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pMjB6bt49P",
+          "end": 51,
+          "expanded_url": "https://twitter.com/suicide_6260/status/1794324187441696790/photo/1",
+          "media_key": "3_1794324175353737216",
+          "start": 28,
+          "url": "https://t.co/pMjB6bt49P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794586261229122009",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 869
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794324187441696790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suicide_6260: 四畳半無観客ライブ https://t.co/pMjB6bt49P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1794324175353737216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOa4VKva8AAgL4E.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794324175353737216"
+          ],
+          "media_source_tweet_id": [
+            "1794324187441696790"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1794586261229122009",
+        "created_at": "2024-05-26T04:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T05:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794586261229122009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241252086450290690",
+              "start": 3,
+              "username": "suicide_6260"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pMjB6bt49P",
+              "end": 51,
+              "expanded_url": "https://twitter.com/suicide_6260/status/1794324187441696790/photo/1",
+              "media_key": "3_1794324175353737216",
+              "start": 28,
+              "url": "https://t.co/pMjB6bt49P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794586261229122009",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 869
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794324187441696790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suicide_6260: 四畳半無観客ライブ https://t.co/pMjB6bt49P"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794324175353737216"
+          ]
+        },
+        "author_id": "1241252086450290690",
+        "conversation_id": "1794324187441696790",
+        "created_at": "2024-05-25T11:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794324187441696790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pMjB6bt49P",
+              "end": 33,
+              "expanded_url": "https://twitter.com/suicide_6260/status/1794324187441696790/photo/1",
+              "media_key": "3_1794324175353737216",
+              "start": 10,
+              "url": "https://t.co/pMjB6bt49P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794324187441696790",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 504,
+          "impression_count": 194019,
+          "like_count": 13919,
+          "quote_count": 41,
+          "reply_count": 10,
+          "retweet_count": 869
+        },
+        "reply_settings": "everyone",
+        "text": "四畳半無観客ライブ https://t.co/pMjB6bt49P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 1010,
+          "like_count": 1371,
+          "listed_count": 1,
+          "tweet_count": 877
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T06:35:40.000Z",
+        "description": "◆遺書みたいな創作|◆音楽と絵|◆ご連絡scd6260@gmail.com ご依頼はこちらまで→https://t.co/AJlASNAiHt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/suicide_6260/n…",
+                "end": 71,
+                "expanded_url": "https://note.com/suicide_6260/n/n4d49f128097a",
+                "start": 48,
+                "url": "https://t.co/AJlASNAiHt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@suicide_offic…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@suicide_official?si=4pCSYHVyBknt609R",
+                "start": 0,
+                "url": "https://t.co/sDs05q3nIq"
+              }
+            ]
+          }
+        },
+        "id": "1241252086450290690",
+        "name": "吸う彩度@ｺﾐﾃｨｱ148 G52a",
+        "pinned_tweet_id": "1791745906578190692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785295567016587264/aZdQaTmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22512,
+          "following_count": 175,
+          "like_count": 9110,
+          "listed_count": 77,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/sDs05q3nIq",
+        "username": "suicide_6260",
+        "verified": false
+      }
+    ]
+  }
+}

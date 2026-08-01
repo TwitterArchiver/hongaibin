@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1938070730215985439",
+    "created_at": "2025-06-26T16:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938266598353342744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "Lily_Syrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938266598353342744",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938070730215985439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_Syrup 中药治疗抑郁症 中药牛比\n华为代替 苹果 安卓 Windows \n华为牛比\n比亚迪 超过奔驰宝马 \n哪吒 超过 复仇者联盟\n台湾 是中国的 \n（俄罗斯部分领土是中国的）\n你们是造谣 那是苏联的 😂\n[我们村大炼钢铁 每个公社都发卫星 \n一亩田 亩产万斤 一头牛 能全公社吃一年 ，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_1938070727376388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVpDubaQAA-NVd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1938070730215985439",
+        "created_at": "2025-06-26T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938266598353342744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "Lily_Syrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938266598353342744",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938070730215985439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_Syrup 中药治疗抑郁症 中药牛比\n华为代替 苹果 安卓 Windows \n华为牛比\n比亚迪 超过奔驰宝马 \n哪吒 超过 复仇者联盟\n台湾 是中国的 \n（俄罗斯部分领土是中国的）\n你们是造谣 那是苏联的 😂\n[我们村大炼钢铁 每个公社都发卫星 \n一亩田 亩产万斤 一头牛 能全公社吃一年 ，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938070727376388096"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "1938070730215985439",
+        "created_at": "2025-06-26T03:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938070730215985439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V7H8wkbeE",
+              "end": 47,
+              "expanded_url": "https://x.com/Lily_Syrup/status/1938070730215985439/photo/1",
+              "media_key": "3_1938070727376388096",
+              "start": 24,
+              "url": "https://t.co/9V7H8wkbeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938070730215985439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19407,
+          "like_count": 250,
+          "quote_count": 9,
+          "reply_count": 45,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "5202年了还能听到吃中药治抑郁症这种傻逼言论 https://t.co/9V7H8wkbeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 2080,
+          "like_count": 19963,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 5449
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆｜有理有据表达不满 ｜烤批粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜看到鉴政，od就烦｜华枝春满，天心月圆@LihaigeUpasaka\n｜用爱发电@Alter_Syrup 阴暗地爬行@Mc_Syrup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Alter_Syrup"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "Mc_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "Hypersthene",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900478254311776256/0XzoVkXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1234,
+          "like_count": 102831,
+          "listed_count": 5,
+          "media_count": 1313,
+          "tweet_count": 6292
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

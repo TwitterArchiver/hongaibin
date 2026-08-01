@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "2031502716317356391",
+    "created_at": "2026-03-11T09:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031666766024434143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722383936138117120",
+          "start": 0,
+          "username": "GenmuKumotori"
+        },
+        {
+          "end": 29,
+          "id": "3197439895",
+          "start": 15,
+          "username": "greatninja321"
+        },
+        {
+          "end": 45,
+          "id": "1827048655875878912",
+          "start": 30,
+          "username": "VTuberFeetFan2"
+        },
+        {
+          "end": 60,
+          "id": "1771319571061841920",
+          "start": 46,
+          "username": "VTuberFeetFan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031666766024434143",
+    "in_reply_to_user_id": "1722383936138117120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031549101872132360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GenmuKumotori @greatninja321 @VTuberFeetFan2 @VTuberFeetFan 有没有匡威的🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "2031502716317356391",
+        "created_at": "2026-03-11T09:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031666766024434143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722383936138117120",
+              "start": 0,
+              "username": "GenmuKumotori"
+            },
+            {
+              "end": 29,
+              "id": "3197439895",
+              "start": 15,
+              "username": "greatninja321"
+            },
+            {
+              "end": 45,
+              "id": "1827048655875878912",
+              "start": 30,
+              "username": "VTuberFeetFan2"
+            },
+            {
+              "end": 60,
+              "id": "1771319571061841920",
+              "start": 46,
+              "username": "VTuberFeetFan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031666766024434143",
+        "in_reply_to_user_id": "1722383936138117120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031549101872132360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GenmuKumotori @greatninja321 @VTuberFeetFan2 @VTuberFeetFan 有没有匡威的🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722383936138117120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2031502716317356391",
+        "created_at": "2026-03-11T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031549101872132360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3197439895",
+              "start": 0,
+              "username": "greatninja321"
+            },
+            {
+              "end": 30,
+              "id": "1827048655875878912",
+              "start": 15,
+              "username": "VTuberFeetFan2"
+            },
+            {
+              "end": 45,
+              "id": "1771319571061841920",
+              "start": 31,
+              "username": "VTuberFeetFan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.iWJxyi1BpiOI…",
+              "end": 125,
+              "expanded_url": "https://e.tb.cn/h.iWJxyi1BpiOI4dz?tk=JXt4UEUq7vx",
+              "start": 102,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.iWJxyi1BpiOI4dz?tk=JXt4UEUq7vx",
+              "url": "https://t.co/O0XMFOMp0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031549101872132360",
+        "in_reply_to_user_id": "3197439895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1169,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031548102621208860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greatninja321 @VTuberFeetFan2 @VTuberFeetFan It’s on the taobao page, this is the OG design link 【淘宝】https://t.co/O0XMFOMp0j HU926 「【M码现货】CatQ 原创「足之穴」高跟鞋【玉甜心/飞机鞋/玉足】」\n点击链接直接打开 或者 淘宝搜索直接打开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 2319,
+          "like_count": 24653,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 6417
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T22:42:08.000Z",
+        "description": "雲鳥幻夢 | Cyberpunk Falconer | Mischievous birb Keeper 𓅩 EN 🀄️ | YouTube and Twitch @ GenmuKumotori",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genmu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://genmu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/W8RC6Dend5"
+              }
+            ]
+          }
+        },
+        "id": "1722383936138117120",
+        "location": "genmukumotori@gmail.com",
+        "name": "Genmu Kumotori 🌫️",
+        "pinned_tweet_id": "2022805617371758799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020865797888131072/-PlZ8JtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 279,
+          "like_count": 35333,
+          "listed_count": 5,
+          "media_count": 1199,
+          "tweet_count": 4738
+        },
+        "url": "https://t.co/W8RC6Dend5",
+        "username": "GenmuKumotori",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-16T12:33:49.000Z",
+        "description": "",
+        "id": "3197439895",
+        "name": "GreatNinja",
+        "pinned_tweet_id": "1916448416067920338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714005073830060032/9N2g1xKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 1054,
+          "like_count": 23772,
+          "listed_count": 2,
+          "media_count": 822,
+          "tweet_count": 11388
+        },
+        "username": "greatninja321",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T18:22:17.000Z",
+        "description": "Main: @VTuberFeetFan\n\nhttps://t.co/DdYcRCz4nT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "VTuberFeetFan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/vtuberfeetfan",
+                "end": 45,
+                "expanded_url": "http://throne.com/vtuberfeetfan",
+                "start": 22,
+                "url": "https://t.co/DdYcRCz4nT"
+              }
+            ]
+          }
+        },
+        "id": "1827048655875878912",
+        "name": "VTuberFeetConnoisseur 🦶",
+        "pinned_tweet_id": "1878479872131051880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827058905567875076/Wje8sb9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8829,
+          "following_count": 904,
+          "like_count": 6710,
+          "listed_count": 11,
+          "media_count": 457,
+          "tweet_count": 3786
+        },
+        "username": "VTuberFeetFan2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T23:34:37.000Z",
+        "description": "\"Liked feet so much, they became one.\" - @/lululewds\n\nTierList in the pinned post\nalts: @VTuberFeetFan2 @VTFeetAnalyser @VTuberFeetQuiz\npfp: @TororoRose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "VTuberFeetFan2"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "VTFeetAnalyser"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "VTuberFeetQuiz"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "TororoRose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/vtuberfeetfan",
+                "end": 23,
+                "expanded_url": "https://throne.com/vtuberfeetfan",
+                "start": 0,
+                "url": "https://t.co/B7swAxtrOj"
+              }
+            ]
+          }
+        },
+        "id": "1771319571061841920",
+        "location": "Your shoe cabinet",
+        "name": "VTuberFeetConnoisseur",
+        "pinned_tweet_id": "1985133572148408783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772112201601490944/ItHGN0Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45934,
+          "following_count": 4217,
+          "like_count": 103597,
+          "listed_count": 53,
+          "media_count": 6618,
+          "tweet_count": 42979
+        },
+        "url": "https://t.co/B7swAxtrOj",
+        "username": "VTuberFeetFan",
+        "verified": true
+      }
+    ]
+  }
+}

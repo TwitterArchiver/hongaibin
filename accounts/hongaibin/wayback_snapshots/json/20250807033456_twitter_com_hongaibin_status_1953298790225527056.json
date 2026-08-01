@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953033438988300289"
+      ],
+      "media_source_tweet_id": [
+        "1953033444826521982"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1953298790225527056",
+    "created_at": "2025-08-07T03:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T04:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953298790225527056"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "今井ｱｷﾗ",
+          "probability": 0.9756,
+          "start": 47,
+          "type": "Person"
+        },
+        {
+          "end": 56,
+          "normalized_text": "飯田ヤエ",
+          "probability": 0.8983,
+          "start": 53,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1608366774449508353",
+          "start": 3,
+          "username": "Emon_vocaloid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJizSQtn3O",
+          "end": 80,
+          "expanded_url": "https://x.com/Emon_vocaloid/status/1953033444826521982/photo/1",
+          "media_key": "3_1953033438988300289",
+          "start": 57,
+          "url": "https://t.co/CJizSQtn3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953298790225527056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953033444826521982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emon_vocaloid: Coming Soon👻\n\nIllustration:今井ｱｷﾗ×飯田ヤエ https://t.co/CJizSQtn3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953033438988300289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqRkK1bcAEi_3D.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953033438988300289"
+          ],
+          "media_source_tweet_id": [
+            "1953033444826521982"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1953298790225527056",
+        "created_at": "2025-08-07T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953298790225527056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "今井ｱｷﾗ",
+              "probability": 0.9756,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "飯田ヤエ",
+              "probability": 0.8983,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1608366774449508353",
+              "start": 3,
+              "username": "Emon_vocaloid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJizSQtn3O",
+              "end": 80,
+              "expanded_url": "https://x.com/Emon_vocaloid/status/1953033444826521982/photo/1",
+              "media_key": "3_1953033438988300289",
+              "start": 57,
+              "url": "https://t.co/CJizSQtn3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953298790225527056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953033444826521982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emon_vocaloid: Coming Soon👻\n\nIllustration:今井ｱｷﾗ×飯田ヤエ https://t.co/CJizSQtn3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953033438988300289"
+          ]
+        },
+        "author_id": "1608366774449508353",
+        "conversation_id": "1953033444826521982",
+        "created_at": "2025-08-06T10:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953033444826521982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "今井ｱｷﾗ",
+              "probability": 0.9775,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "飯田ヤエ",
+              "probability": 0.9168,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJizSQtn3O",
+              "end": 61,
+              "expanded_url": "https://x.com/Emon_vocaloid/status/1953033444826521982/photo/1",
+              "media_key": "3_1953033438988300289",
+              "start": 38,
+              "url": "https://t.co/CJizSQtn3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953033444826521982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 61900,
+          "like_count": 4784,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "Coming Soon👻\n\nIllustration:今井ｱｷﾗ×飯田ヤエ https://t.co/CJizSQtn3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 2111,
+          "like_count": 21420,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5779
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T07:38:26.000Z",
+        "description": "ボカロ曲作ってます。contact(emonga2000@gmail.com)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCKAq3…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCKAq3B_VJc1G3y9y5thph4A",
+                "start": 0,
+                "url": "https://t.co/7D6nGtEKSb"
+              }
+            ]
+          }
+        },
+        "id": "1608366774449508353",
+        "name": "えもん",
+        "pinned_tweet_id": "1857363041471611143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803407083834056704/km8iDwx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 63,
+          "like_count": 3644,
+          "listed_count": 12,
+          "media_count": 16,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/7D6nGtEKSb",
+        "username": "Emon_vocaloid",
+        "verified": false
+      }
+    ]
+  }
+}

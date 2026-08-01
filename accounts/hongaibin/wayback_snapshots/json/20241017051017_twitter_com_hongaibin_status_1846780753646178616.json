@@ -1,0 +1,153 @@
+{
+  "data": {
+    "author_id": "1780208570098688000",
+    "conversation_id": "1846780753646178616",
+    "created_at": "2024-10-17T05:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T06:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846780753646178616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "874776246592430080",
+          "start": 3,
+          "username": "ajtourville"
+        }
+      ]
+    },
+    "id": "1846780753646178616",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2443
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846529899093434736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ajtourville: NEWS: Elon Musk donates $75 million to a pro-America group that supports six key values: \n\n     • Secure borders and Sensi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1780208570098688000",
+        "conversation_id": "1846780753646178616",
+        "created_at": "2024-10-17T05:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T06:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846780753646178616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "874776246592430080",
+              "start": 3,
+              "username": "ajtourville"
+            }
+          ]
+        },
+        "id": "1846780753646178616",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846529899093434736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ajtourville: NEWS: Elon Musk donates $75 million to a pro-America group that supports six key values: \n\n     • Secure borders and Sensi…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1620,
+          "like_count": 11425,
+          "listed_count": 3,
+          "tweet_count": 3778
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-13T23:51:24.000Z",
+        "description": "Physics engineer here for the progress of disruptive innovations and ventures\nElon Musk picked my 𝕏 logo design for 𝕏\nAll-in $TSLA since 08/2019",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "TSLA"
+              }
+            ]
+          }
+        },
+        "id": "874776246592430080",
+        "location": "𝕏 🇨🇦 🇧🇷 🇭🇷 ",
+        "name": "ALEX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515410865499119620/s1ws6CFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171289,
+          "following_count": 605,
+          "like_count": 178793,
+          "listed_count": 944,
+          "tweet_count": 50104
+        },
+        "username": "ajtourville",
+        "verified": false
+      }
+    ]
+  }
+}

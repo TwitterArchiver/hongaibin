@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1796710139925545007",
+    "created_at": "2024-06-01T01:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T02:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796710139925545007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753998690677874688",
+          "start": 3,
+          "username": "EAzure19511"
+        },
+        {
+          "end": 31,
+          "id": "1678773839403319302",
+          "start": 17,
+          "username": "shenchun14496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796710139925545007",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796543541986095484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EAzure19511: @shenchun14496 是否可以总结为”不装了“"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1796710139925545007",
+        "created_at": "2024-06-01T01:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T02:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796710139925545007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753998690677874688",
+              "start": 3,
+              "username": "EAzure19511"
+            },
+            {
+              "end": 31,
+              "id": "1678773839403319302",
+              "start": 17,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796710139925545007",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796543541986095484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EAzure19511: @shenchun14496 是否可以总结为”不装了“"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753998690677874688",
+        "conversation_id": "1796542990561018246",
+        "created_at": "2024-05-31T14:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796543541986095484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678773839403319302",
+              "start": 0,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796543541986095484",
+        "in_reply_to_user_id": "1678773839403319302",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796542990561018246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenchun14496 是否可以总结为”不装了“"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 1053,
+          "like_count": 1486,
+          "listed_count": 1,
+          "tweet_count": 1002
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T04:27:47.000Z",
+        "description": "仍然还没有想好要以什么样的面目示人",
+        "id": "1753998690677874688",
+        "location": "哈尔滨",
+        "name": "🍀Azure Ether⚜️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753998762794741760/1aSeY3zn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 315,
+          "like_count": 10596,
+          "listed_count": 0,
+          "tweet_count": 1180
+        },
+        "username": "EAzure19511",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:30:59.000Z",
+        "description": "一个废物大一学生，大概活不过这学期了",
+        "id": "1678773839403319302",
+        "location": "基沃托斯",
+        "name": "浦岛隧道",
+        "pinned_tweet_id": "1796167812404150397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781694386117689345/oAiJ8KYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 107,
+          "like_count": 6254,
+          "listed_count": 0,
+          "tweet_count": 2022
+        },
+        "username": "shenchun14496",
+        "verified": false
+      }
+    ]
+  }
+}

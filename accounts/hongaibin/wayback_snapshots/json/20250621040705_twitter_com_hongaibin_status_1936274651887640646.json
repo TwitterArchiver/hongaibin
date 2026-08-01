@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1936213596138090885",
+    "created_at": "2025-06-21T04:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936274651887640646"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Israel",
+          "probability": 0.9631,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Iran",
+          "probability": 0.9429,
+          "start": 41,
+          "type": "Place"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Israel",
+          "probability": 0.9643,
+          "start": 47,
+          "type": "Place"
+        },
+        {
+          "end": 109,
+          "normalized_text": "Israel",
+          "probability": 0.9378,
+          "start": 104,
+          "type": "Place"
+        },
+        {
+          "end": 121,
+          "normalized_text": "Iran",
+          "probability": 0.8998,
+          "start": 118,
+          "type": "Place"
+        },
+        {
+          "end": 161,
+          "normalized_text": "Iran",
+          "probability": 0.8933,
+          "start": 158,
+          "type": "Place"
+        },
+        {
+          "end": 199,
+          "normalized_text": "Netanyahu",
+          "probability": 0.5983,
+          "start": 191,
+          "type": "Person"
+        },
+        {
+          "end": 265,
+          "normalized_text": "Court",
+          "probability": 0.4161,
+          "start": 261,
+          "type": "Place"
+        },
+        {
+          "end": 276,
+          "normalized_text": "Justice",
+          "probability": 0.3626,
+          "start": 270,
+          "type": "Place"
+        },
+        {
+          "end": 289,
+          "normalized_text": "The Hague",
+          "probability": 0.8561,
+          "start": 281,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "219433787",
+          "start": 0,
+          "username": "ME_Observer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936274651887640646",
+    "in_reply_to_user_id": "219433787",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936213596138090885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ME_Observer_ Damn Israel, but thanks to Iran, Israel has received its comeuppance. It's laughable that Israel claims Iran is violating international law; if Iran is indeed guilty, shouldn't Netanyahu be sentenced to 10,000 years in prison by the International Court of Justice in The Hague?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27376,
+        "height": 720,
+        "media_key": "13_1936213463388319744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936213463388319744/img/G8lgFRD-96vY5dbv.jpg",
+        "public_metrics": {
+          "view_count": 15887
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936213463388319744/vid/avc1/480x270/C19JK9JJx6XVKoki.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936213463388319744/vid/avc1/640x360/4YaJI8Luh2euYtaL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936213463388319744/vid/avc1/1280x720/R8sOdkctunfoIO2W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936213463388319744/pl/TWkuSnStZTVMi_80.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1936213596138090885",
+        "created_at": "2025-06-21T04:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936274651887640646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Israel",
+              "probability": 0.9631,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Iran",
+              "probability": 0.9429,
+              "start": 41,
+              "type": "Place"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Israel",
+              "probability": 0.9643,
+              "start": 47,
+              "type": "Place"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Israel",
+              "probability": 0.9378,
+              "start": 104,
+              "type": "Place"
+            },
+            {
+              "end": 121,
+              "normalized_text": "Iran",
+              "probability": 0.8998,
+              "start": 118,
+              "type": "Place"
+            },
+            {
+              "end": 161,
+              "normalized_text": "Iran",
+              "probability": 0.8933,
+              "start": 158,
+              "type": "Place"
+            },
+            {
+              "end": 199,
+              "normalized_text": "Netanyahu",
+              "probability": 0.5983,
+              "start": 191,
+              "type": "Person"
+            },
+            {
+              "end": 265,
+              "normalized_text": "Court",
+              "probability": 0.4161,
+              "start": 261,
+              "type": "Place"
+            },
+            {
+              "end": 276,
+              "normalized_text": "Justice",
+              "probability": 0.3626,
+              "start": 270,
+              "type": "Place"
+            },
+            {
+              "end": 289,
+              "normalized_text": "The Hague",
+              "probability": 0.8561,
+              "start": 281,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "219433787",
+              "start": 0,
+              "username": "ME_Observer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936274651887640646",
+        "in_reply_to_user_id": "219433787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936213596138090885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ME_Observer_ Damn Israel, but thanks to Iran, Israel has received its comeuppance. It's laughable that Israel claims Iran is violating international law; if Iran is indeed guilty, shouldn't Netanyahu be sentenced to 10,000 years in prison by the International Court of Justice in The Hague?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936213463388319744"
+          ]
+        },
+        "author_id": "219433787",
+        "conversation_id": "1936213596138090885",
+        "created_at": "2025-06-21T00:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936213596138090885"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 92,
+              "normalized_text": "Nasser Medical Complex",
+              "probability": 0.498,
+              "start": 71,
+              "type": "Organization"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Gaza",
+              "probability": 0.9871,
+              "start": 97,
+              "type": "Place"
+            },
+            {
+              "end": 243,
+              "normalized_text": "Nasser Hospital",
+              "probability": 0.9395,
+              "start": 229,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J06dqvSHL5",
+              "end": 301,
+              "expanded_url": "https://x.com/ME_Observer_/status/1936213596138090885/video/1",
+              "media_key": "13_1936213463388319744",
+              "start": 278,
+              "url": "https://t.co/J06dqvSHL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936213596138090885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "⚡️ 🚨\"Depletion and shortage of milk for premature infants and babies\".\nNasser Medical Complex in Gaza:\nOnly 48 hours separate us from a real humanitarian catastrophe. Hundreds of premature infants and babies in the incubators at Nasser Hospital are threatened with death due to the shortage of their essential milk, as milk is not available in the hospital, nor in the markets, nor with institutions.\nThe Ministry of Health appeals to the world: Save their lives before it is too late**"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 38208,
+          "like_count": 1351,
+          "quote_count": 61,
+          "reply_count": 55,
+          "retweet_count": 1018
+        },
+        "reply_settings": "everyone",
+        "text": "⚡️ 🚨\"Depletion and shortage of milk for premature infants and babies\".\nNasser Medical Complex in Gaza:\nOnly 48 hours separate us from a real humanitarian catastrophe. Hundreds of premature infants and babies in the incubators at Nasser Hospital are threatened with death due to https://t.co/J06dqvSHL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2080,
+          "like_count": 19829,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 5439
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-24T21:20:24.000Z",
+        "description": "🇱🇧 Galilean\nMiddle East Analysis/History/Politics/Memes reporting \nSubtitling Videos for you\nSupport the subtitling project here:\nhttps://t.co/7UPdbUoegq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/meomedia/",
+                "end": 153,
+                "expanded_url": "https://ko-fi.com/meomedia/",
+                "start": 130,
+                "url": "https://t.co/7UPdbUoegq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/meo.media",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/meo.media",
+                "start": 0,
+                "url": "https://t.co/yzdm2TC5zi"
+              }
+            ]
+          }
+        },
+        "id": "219433787",
+        "name": "Middle East Observer",
+        "pinned_tweet_id": "1923436102158843972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741869681315627008/JhnYaNAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293621,
+          "following_count": 1183,
+          "like_count": 30233,
+          "listed_count": 1531,
+          "media_count": 14601,
+          "tweet_count": 68893
+        },
+        "url": "https://t.co/yzdm2TC5zi",
+        "username": "ME_Observer_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1814958627868069888"
+      ],
+      "media_source_tweet_id": [
+        "1814958642938138765"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1818294741982962149",
+    "created_at": "2024-07-30T14:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T15:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818294741982962149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624392561740906497",
+          "start": 3,
+          "username": "oysi_mysi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/3qGJBynpKN",
+          "end": 43,
+          "expanded_url": "https://twitter.com/oysi_mysi_/status/1814958642938138765/photo/1",
+          "media_key": "3_1814958627868069888",
+          "start": 20,
+          "url": "https://t.co/3qGJBynpKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818294741982962149",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814958642938138765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oysi_mysi_: 🐈‍⬛ https://t.co/3qGJBynpKN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3638,
+        "media_key": "3_1814958627868069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTAHQYgbUAAq6ZB.jpg",
+        "width": 2409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1814958627868069888"
+          ],
+          "media_source_tweet_id": [
+            "1814958642938138765"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1818294741982962149",
+        "created_at": "2024-07-30T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818294741982962149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624392561740906497",
+              "start": 3,
+              "username": "oysi_mysi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3qGJBynpKN",
+              "end": 43,
+              "expanded_url": "https://twitter.com/oysi_mysi_/status/1814958642938138765/photo/1",
+              "media_key": "3_1814958627868069888",
+              "start": 20,
+              "url": "https://t.co/3qGJBynpKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818294741982962149",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814958642938138765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oysi_mysi_: 🐈‍⬛ https://t.co/3qGJBynpKN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1814958627868069888"
+          ]
+        },
+        "author_id": "1624392561740906497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1814958642938138765",
+        "created_at": "2024-07-21T09:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T10:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814958642938138765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3qGJBynpKN",
+              "end": 27,
+              "expanded_url": "https://twitter.com/oysi_mysi_/status/1814958642938138765/photo/1",
+              "media_key": "3_1814958627868069888",
+              "start": 4,
+              "url": "https://t.co/3qGJBynpKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814958642938138765",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1270,
+          "impression_count": 291441,
+          "like_count": 14599,
+          "quote_count": 32,
+          "reply_count": 12,
+          "retweet_count": 1251
+        },
+        "reply_settings": "everyone",
+        "text": "🐈‍⬛ https://t.co/3qGJBynpKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 1188,
+          "like_count": 3768,
+          "listed_count": 2,
+          "tweet_count": 2109
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T12:59:13.000Z",
+        "description": "お題箱https://t.co/TytCXMJXDk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/oysi_mysi_",
+                "end": 26,
+                "expanded_url": "https://odaibako.net/u/oysi_mysi_",
+                "start": 3,
+                "url": "https://t.co/TytCXMJXDk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/oysimysi",
+                "end": 23,
+                "expanded_url": "https://lit.link/oysimysi",
+                "start": 0,
+                "url": "https://t.co/OFY4uzVJkE"
+              }
+            ]
+          }
+        },
+        "id": "1624392561740906497",
+        "location": "ご依頼の詳細はこちら→",
+        "name": "ྀི ｵﾔｻｲ ྀི",
+        "pinned_tweet_id": "1813866355806097642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811725238281056256/cqGsn7Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12582,
+          "following_count": 138,
+          "like_count": 3802,
+          "listed_count": 122,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/OFY4uzVJkE",
+        "username": "oysi_mysi_",
+        "verified": false
+      }
+    ]
+  }
+}

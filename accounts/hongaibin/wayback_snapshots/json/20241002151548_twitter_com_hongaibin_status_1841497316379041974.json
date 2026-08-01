@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841497305159274496",
+        "3_1841497306010689536",
+        "3_1841497305813573632"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1841497316379041974",
+    "created_at": "2024-10-02T15:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T16:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841497316379041974"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 2,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "愈美"
+        },
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "巴鲁芬"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "塞来昔布"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JcdWZGfCyj",
+          "end": 72,
+          "expanded_url": "https://x.com/hongaibin/status/1841497316379041974/photo/1",
+          "media_key": "3_1841497305159274496",
+          "start": 49,
+          "url": "https://t.co/JcdWZGfCyj"
+        },
+        {
+          "display_url": "pic.x.com/JcdWZGfCyj",
+          "end": 72,
+          "expanded_url": "https://x.com/hongaibin/status/1841497316379041974/photo/1",
+          "media_key": "3_1841497306010689536",
+          "start": 49,
+          "url": "https://t.co/JcdWZGfCyj"
+        },
+        {
+          "display_url": "pic.x.com/JcdWZGfCyj",
+          "end": 72,
+          "expanded_url": "https://x.com/hongaibin/status/1841497316379041974/photo/1",
+          "media_key": "3_1841497305813573632",
+          "start": 49,
+          "url": "https://t.co/JcdWZGfCyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841497316379041974",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽 #普瑞巴林 8t #愈美 24t #巴鲁芬 2t 西柚汁 可乐 #塞来昔布 2t \no大 爽 https://t.co/JcdWZGfCyj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841497316379041974].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841497316379041974",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841497316379041974"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1841497305159274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY5QCtjbkAAo0nS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1841497306010689536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY5QCwubIAAWHEg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1841497305813573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY5QCv_bYAAOuM_.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1525,
+          "like_count": 8394,
+          "listed_count": 3,
+          "tweet_count": 3207
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809041536103108609"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1809041543531249871",
+    "created_at": "2024-07-05T01:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T02:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809041543531249871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 140,
+          "start": 136,
+          "tag": "愈美片"
+        },
+        {
+          "end": 146,
+          "start": 141,
+          "tag": "右美沙芬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 88,
+          "id": "1700948552078467072",
+          "start": 75,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/0Kxdxd2T8a",
+          "end": 170,
+          "expanded_url": "https://twitter.com/hongaibin/status/1809041543531249871/photo/1",
+          "media_key": "3_1809041536103108609",
+          "start": 147,
+          "url": "https://t.co/0Kxdxd2T8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809041543531249871",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随着右美沙芬单方制剂的管制\n我也该转向复方了 \n但现在问题是我正在服用抗抑郁的ssrl药物。。舍曲林早上两片 阿普唑仑早上中午一片 晚上阿立哌唑一片\n@Overdose_DBD 喝西柚汁之后血清素综合症中毒的概率大不大？有点担心 所以能o吗？在晚上舍曲林药效退下去的时候。#愈美片 #右美沙芬 https://t.co/0Kxdxd2T8a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809041543531249871].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809041543531249871",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809041543531249871"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1809041536103108609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRsBsT9aUAEUMiN.jpg",
+        "width": 716
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1060,
+          "like_count": 2015,
+          "listed_count": 1,
+          "tweet_count": 1431
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1ur4y1…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1ur4y1374o",
+                "start": 0,
+                "url": "https://t.co/Cg7MmwkvxA"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": ".suomynonA",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806974791645356032/BVO70Bqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 50,
+          "like_count": 2,
+          "listed_count": 7,
+          "tweet_count": 5080
+        },
+        "url": "https://t.co/Cg7MmwkvxA",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

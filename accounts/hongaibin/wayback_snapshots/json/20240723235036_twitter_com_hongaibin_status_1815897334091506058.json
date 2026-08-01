@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1776402440944074965",
+    "created_at": "2024-07-23T23:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T00:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815897334091506058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1575319528766054401",
+          "start": 0,
+          "username": "rukisloser"
+        },
+        {
+          "end": 18,
+          "id": "1629424076145184768",
+          "start": 12,
+          "username": "k4z2K"
+        },
+        {
+          "end": 41,
+          "id": "1629424076145184768",
+          "start": 35,
+          "username": "k4z2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815897334091506058",
+    "in_reply_to_user_id": "1575319528766054401",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1776715978266550563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukisloser @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    },
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1776402440944074965",
+        "created_at": "2024-07-23T23:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T00:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815897334091506058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1575319528766054401",
+              "start": 0,
+              "username": "rukisloser"
+            },
+            {
+              "end": 18,
+              "id": "1629424076145184768",
+              "start": 12,
+              "username": "k4z2K"
+            },
+            {
+              "end": 41,
+              "id": "1629424076145184768",
+              "start": 35,
+              "username": "k4z2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815897334091506058",
+        "in_reply_to_user_id": "1575319528766054401",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776715978266550563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukisloser @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1776715965733990400"
+          ]
+        },
+        "author_id": "1575319528766054401",
+        "conversation_id": "1776402440944074965",
+        "created_at": "2024-04-06T20:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-06T21:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1776715978266550563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629424076145184768",
+              "start": 0,
+              "username": "k4z2K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/62EeWVvfqT",
+              "end": 69,
+              "expanded_url": "https://twitter.com/yoshissideho/status/1776715978266550563/photo/1",
+              "media_key": "3_1776715965733990400",
+              "start": 46,
+              "url": "https://t.co/62EeWVvfqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1776715978266550563",
+        "in_reply_to_user_id": "1629424076145184768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776402440944074965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4z2K YOU LOOK LIKE SOUL😭😭 (KINDA REF PIC??) https://t.co/62EeWVvfqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1151,
+          "like_count": 3201,
+          "listed_count": 1,
+          "tweet_count": 1841
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T03:01:55.000Z",
+        "description": "block instead of reporting please!!  i try to censor pics ❗️  -   I use any pronouns :3",
+        "id": "1575319528766054401",
+        "location": "yomama",
+        "name": "☆cyrus☆ (shedtwt!!)",
+        "pinned_tweet_id": "1692002210647863360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787317193207664641/tjPeN-qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 469,
+          "like_count": 34859,
+          "listed_count": 4,
+          "tweet_count": 2532
+        },
+        "username": "rukisloser",
+        "verified": false
+      }
+    ]
+  }
+}

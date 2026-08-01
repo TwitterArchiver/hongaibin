@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1851775272023937024"
+      ],
+      "media_source_tweet_id": [
+        "1851776431082344687"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1852479082929533136",
+    "created_at": "2024-11-01T22:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T23:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852479082929533136"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 111,
+          "normalized_text": "MAGA2024",
+          "probability": 0.8266,
+          "start": 104,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 103,
+          "tag": "MAGA2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "25073877",
+          "start": 3,
+          "username": "realDonaldTrump"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUR8urg2bT",
+          "end": 136,
+          "expanded_url": "https://x.com/TrumpWarRoom/status/1851776431082344687/video/1",
+          "media_key": "13_1851775272023937024",
+          "start": 113,
+          "url": "https://t.co/OUR8urg2bT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852479082929533136",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851826897904373990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realDonaldTrump: 250 MILLION AMERICANS ARE NOT GARBAGE—I CALL YOU THE HEART AND SOUL OF AMERICA!!! #MAGA2024 https://t.co/OUR8urg2bT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 765300,
+        "height": 720,
+        "media_key": "13_1851775272023937024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1851775272023937024/img/eyheY1rPnC1JIy2y.jpg",
+        "public_metrics": {
+          "view_count": 6194216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851775272023937024/vid/avc1/480x270/EhHhxdN-2cHfFHqC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851775272023937024/vid/avc1/640x360/eqVK9-9ItCYbeY_u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851775272023937024/vid/avc1/1280x720/F1-IaJiTxWiprUuD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1851775272023937024/pl/mlu_mqXNGYlTYsfY.m3u8?tag=14&v=b1f"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1851775272023937024"
+          ],
+          "media_source_tweet_id": [
+            "1851776431082344687"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1852479082929533136",
+        "created_at": "2024-11-01T22:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T23:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852479082929533136"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "MAGA2024",
+              "probability": 0.8266,
+              "start": 104,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "MAGA2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "25073877",
+              "start": 3,
+              "username": "realDonaldTrump"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUR8urg2bT",
+              "end": 136,
+              "expanded_url": "https://x.com/TrumpWarRoom/status/1851776431082344687/video/1",
+              "media_key": "13_1851775272023937024",
+              "start": 113,
+              "url": "https://t.co/OUR8urg2bT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852479082929533136",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851826897904373990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realDonaldTrump: 250 MILLION AMERICANS ARE NOT GARBAGE—I CALL YOU THE HEART AND SOUL OF AMERICA!!! #MAGA2024 https://t.co/OUR8urg2bT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1851775272023937024"
+          ],
+          "media_source_tweet_id": [
+            "1851776431082344687"
+          ]
+        },
+        "author_id": "25073877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1851826897904373990",
+        "created_at": "2024-10-31T03:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T04:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851826897904373990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "GARBAGE",
+              "probability": 0.3634,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "MAGA2024",
+              "probability": 0.8536,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 82,
+              "tag": "MAGA2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUR8urg2bT",
+              "end": 115,
+              "expanded_url": "https://x.com/TrumpWarRoom/status/1851776431082344687/video/1",
+              "media_key": "13_1851775272023937024",
+              "start": 92,
+              "url": "https://t.co/OUR8urg2bT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851826897904373990",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7230,
+          "impression_count": 18306715,
+          "like_count": 386971,
+          "quote_count": 2123,
+          "reply_count": 12429,
+          "retweet_count": 61136
+        },
+        "reply_settings": "everyone",
+        "text": "250 MILLION AMERICANS ARE NOT GARBAGE—I CALL YOU THE HEART AND SOUL OF AMERICA!!! #MAGA2024 https://t.co/OUR8urg2bT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 155,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 132,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 1571,
+          "like_count": 9528,
+          "listed_count": 3,
+          "tweet_count": 3515
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-18T13:46:38.000Z",
+        "description": "45th President of the United States of America🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "end": 23,
+                "expanded_url": "http://DonaldJTrump.com",
+                "start": 0,
+                "url": "https://t.co/mjKdTvQzae"
+              }
+            ]
+          }
+        },
+        "id": "25073877",
+        "name": "Donald J. Trump",
+        "pinned_tweet_id": "1852185579968172140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92110799,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 116667,
+          "tweet_count": 59521
+        },
+        "url": "https://t.co/mjKdTvQzae",
+        "username": "realDonaldTrump",
+        "verified": true
+      }
+    ]
+  }
+}

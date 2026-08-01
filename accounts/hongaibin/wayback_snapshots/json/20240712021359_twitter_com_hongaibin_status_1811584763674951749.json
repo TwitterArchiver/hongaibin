@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1811584763674951749",
+    "created_at": "2024-07-12T02:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T03:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811584763674951749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1613707562473644033",
+          "start": 3,
+          "username": "bimomo818616681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811584763674951749",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811578601147633901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bimomo818616681: 我骗我爸说普瑞80是治头痛的，等普瑞80什么时候变成精二，我就老实了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1811584763674951749",
+        "created_at": "2024-07-12T02:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T03:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811584763674951749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1613707562473644033",
+              "start": 3,
+              "username": "bimomo818616681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811584763674951749",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811578601147633901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bimomo818616681: 我骗我爸说普瑞80是治头痛的，等普瑞80什么时候变成精二，我就老实了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1613707562473644033",
+        "conversation_id": "1811578601147633901",
+        "created_at": "2024-07-12T01:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T02:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811578601147633901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811578601147633901",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我骗我爸说普瑞80是治头痛的，等普瑞80什么时候变成精二，我就老实了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1118,
+          "like_count": 2480,
+          "listed_count": 1,
+          "tweet_count": 1572
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T01:20:48.000Z",
+        "description": "(●'◡'●)\n我是中國人，正在學日語，日語評論一般都是翻譯器的，請勿見怪\n中国人、現在日本語を勉強しています。コメントは全て通訳機で書きなので、おかしいなどころはどうかお許しください。私は日本人の友達ができたい、お互いfo大歓迎です。どうぞよろしくお願いします！！！！\n来自好心的推友帮我优化后的版本ww",
+        "id": "1613707562473644033",
+        "location": "空のような海🧊",
+        "name": "潺易",
+        "pinned_tweet_id": "1811533014595412358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809968325268815872/majAJoM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 183,
+          "like_count": 15066,
+          "listed_count": 0,
+          "tweet_count": 3174
+        },
+        "username": "bimomo818616681",
+        "verified": false
+      }
+    ]
+  }
+}

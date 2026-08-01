@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880908807234330624"
+      ],
+      "media_source_tweet_id": [
+        "1880908809876770826"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1886243039104094223",
+    "created_at": "2025-02-03T02:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T03:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886243039104094223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478661506338549762",
+          "start": 3,
+          "username": "mugi_oyasumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hxOKlnXfnT",
+          "end": 56,
+          "expanded_url": "https://x.com/mugi_oyasumi/status/1880908809876770826/photo/1",
+          "media_key": "3_1880908807234330624",
+          "start": 33,
+          "url": "https://t.co/hxOKlnXfnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886243039104094223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880908809876770826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugi_oyasumi: ﾊｱﾊｱ(訳:楽しみにしてて https://t.co/hxOKlnXfnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_1880908807234330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhpUmD4bIAAqpBr.jpg",
+        "width": 1245
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880908807234330624"
+          ],
+          "media_source_tweet_id": [
+            "1880908809876770826"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1886243039104094223",
+        "created_at": "2025-02-03T02:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T03:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886243039104094223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478661506338549762",
+              "start": 3,
+              "username": "mugi_oyasumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxOKlnXfnT",
+              "end": 56,
+              "expanded_url": "https://x.com/mugi_oyasumi/status/1880908809876770826/photo/1",
+              "media_key": "3_1880908807234330624",
+              "start": 33,
+              "url": "https://t.co/hxOKlnXfnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886243039104094223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880908809876770826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugi_oyasumi: ﾊｱﾊｱ(訳:楽しみにしてて https://t.co/hxOKlnXfnT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880908807234330624"
+          ]
+        },
+        "author_id": "1478661506338549762",
+        "conversation_id": "1880908809876770826",
+        "created_at": "2025-01-19T09:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880908809876770826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxOKlnXfnT",
+              "end": 38,
+              "expanded_url": "https://x.com/mugi_oyasumi/status/1880908809876770826/photo/1",
+              "media_key": "3_1880908807234330624",
+              "start": 15,
+              "url": "https://t.co/hxOKlnXfnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880908809876770826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 447,
+          "impression_count": 80275,
+          "like_count": 6434,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "ﾊｱﾊｱ(訳:楽しみにしてて https://t.co/hxOKlnXfnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1710,
+          "like_count": 14906,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 4388
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T09:35:58.000Z",
+        "description": "ゲーム会社勤務/生きている絵が描きたい/創作 Bitter Rain/Myタグ #むぎさんち /依頼︰7月納期募集中  企業様、相互さんのみ受付\nご依頼はメールにて ✉️mugitaya.926@gmail.com\n納期要相談",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "むぎさんち"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mugioyasumi",
+                "end": 23,
+                "expanded_url": "https://lit.link/mugioyasumi",
+                "start": 0,
+                "url": "https://t.co/bLsZKVy4Bi"
+              }
+            ]
+          }
+        },
+        "id": "1478661506338549762",
+        "location": "無断転載、使用、自作発言、AI学習等禁止",
+        "name": "麦田屋",
+        "pinned_tweet_id": "1857030293254713693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731161916922605568/J1b9stQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109565,
+          "following_count": 388,
+          "like_count": 21485,
+          "listed_count": 383,
+          "media_count": 310,
+          "tweet_count": 13761
+        },
+        "url": "https://t.co/bLsZKVy4Bi",
+        "username": "mugi_oyasumi",
+        "verified": false
+      }
+    ]
+  }
+}

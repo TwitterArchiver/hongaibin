@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950482567162945536"
+      ],
+      "media_source_tweet_id": [
+        "1950482658976571696"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952301764511936537",
+    "created_at": "2025-08-04T09:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952301764511936537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMm0UexbUA",
+          "end": 79,
+          "expanded_url": "https://x.com/loolzaozimin/status/1950482658976571696/video/1",
+          "media_key": "13_1950482567162945536",
+          "start": 56,
+          "url": "https://t.co/lMm0UexbUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952301764511936537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950482658976571696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozimin: 我昨天又在路边睡了一夜 没人管我 无人在意 像我这种人死路边都不会有人管我 https://t.co/lMm0UexbUA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952301764511936537].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952301764511936537",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952301764511936537"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10233,
+        "height": 1280,
+        "media_key": "13_1950482567162945536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950482567162945536/img/eMjuk_VbdnKpDwgI.jpg",
+        "public_metrics": {
+          "view_count": 3270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950482567162945536/vid/avc1/320x568/SlckFixesDIimd5p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950482567162945536/vid/avc1/480x852/lfvimO6PGakimoMP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950482567162945536/vid/avc1/720x1280/ysBLuTtkf6aap31h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950482567162945536/pl/w3lN-mWwdAnyZyyr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950482567162945536"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1950482658976571696",
+        "created_at": "2025-07-30T09:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950482658976571696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMm0UexbUA",
+              "end": 61,
+              "expanded_url": "https://x.com/loolzaozimin/status/1950482658976571696/video/1",
+              "media_key": "13_1950482567162945536",
+              "start": 38,
+              "url": "https://t.co/lMm0UexbUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950482658976571696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7133,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天又在路边睡了一夜 没人管我 无人在意 像我这种人死路边都不会有人管我 https://t.co/lMm0UexbUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2097,
+          "like_count": 21176,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5706
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16465,
+          "following_count": 54,
+          "like_count": 834,
+          "listed_count": 22,
+          "media_count": 177,
+          "tweet_count": 447
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

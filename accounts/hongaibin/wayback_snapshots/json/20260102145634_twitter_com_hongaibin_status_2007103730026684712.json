@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007037831563407360"
+      ],
+      "media_source_tweet_id": [
+        "2007037850618069419"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2007103730026684712",
+    "created_at": "2026-01-02T14:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007103730026684712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvqFpsqi6D",
+          "end": 43,
+          "expanded_url": "https://x.com/ggdxfulan/status/2007037850618069419/photo/1",
+          "media_key": "3_2007037831563407360",
+          "start": 20,
+          "url": "https://t.co/tvqFpsqi6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007103730026684712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007037850618069419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 啊…啊？ https://t.co/tvqFpsqi6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2007037831563407360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9puRikbcAAoHf3.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007037831563407360"
+          ],
+          "media_source_tweet_id": [
+            "2007037850618069419"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2007103730026684712",
+        "created_at": "2026-01-02T14:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007103730026684712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvqFpsqi6D",
+              "end": 43,
+              "expanded_url": "https://x.com/ggdxfulan/status/2007037850618069419/photo/1",
+              "media_key": "3_2007037831563407360",
+              "start": 20,
+              "url": "https://t.co/tvqFpsqi6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007103730026684712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007037850618069419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 啊…啊？ https://t.co/tvqFpsqi6D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007037831563407360"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2007037850618069419",
+        "created_at": "2026-01-02T10:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007037850618069419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvqFpsqi6D",
+              "end": 28,
+              "expanded_url": "https://x.com/ggdxfulan/status/2007037850618069419/photo/1",
+              "media_key": "3_2007037831563407360",
+              "start": 5,
+              "url": "https://t.co/tvqFpsqi6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007037850618069419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 157808,
+          "like_count": 2190,
+          "quote_count": 20,
+          "reply_count": 109,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "啊…啊？ https://t.co/tvqFpsqi6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 2213,
+          "like_count": 23671,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6287
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15136,
+          "following_count": 483,
+          "like_count": 32227,
+          "listed_count": 25,
+          "media_count": 3366,
+          "tweet_count": 10908
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

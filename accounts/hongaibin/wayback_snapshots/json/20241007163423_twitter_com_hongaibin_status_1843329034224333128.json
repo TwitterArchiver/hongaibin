@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843245394761035776"
+      ],
+      "media_source_tweet_id": [
+        "1843246490023821596"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1843329034224333128",
+    "created_at": "2024-10-07T16:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T17:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843329034224333128"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "酔いどれ知らず",
+          "probability": 0.5554,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "めておら"
+        },
+        {
+          "end": 99,
+          "start": 93,
+          "tag": "めてのーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "250941492",
+          "start": 3,
+          "username": "Azuma_Hatori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8deQmQaaiA",
+          "end": 123,
+          "expanded_url": "https://x.com/Azuma_Hatori/status/1843246490023821596/photo/1",
+          "media_key": "3_1843245394761035776",
+          "start": 100,
+          "url": "https://t.co/8deQmQaaiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843329034224333128",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843246490023821596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Azuma_Hatori: 【お知らせ】\nめておらの皆様の「酔いどれ知らず」カバーMVイラストを担当させて頂きました！✨\n\n↓ツリーにお一人ずつ掲載させて頂きます！\n#めておら #めてのーと https://t.co/8deQmQaaiA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1843245394761035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZSF66ybMAABN_g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843245394761035776"
+          ],
+          "media_source_tweet_id": [
+            "1843246490023821596"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1843329034224333128",
+        "created_at": "2024-10-07T16:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T17:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843329034224333128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "酔いどれ知らず",
+              "probability": 0.5554,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "めておら"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "めてのーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "250941492",
+              "start": 3,
+              "username": "Azuma_Hatori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8deQmQaaiA",
+              "end": 123,
+              "expanded_url": "https://x.com/Azuma_Hatori/status/1843246490023821596/photo/1",
+              "media_key": "3_1843245394761035776",
+              "start": 100,
+              "url": "https://t.co/8deQmQaaiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843329034224333128",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843246490023821596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Azuma_Hatori: 【お知らせ】\nめておらの皆様の「酔いどれ知らず」カバーMVイラストを担当させて頂きました！✨\n\n↓ツリーにお一人ずつ掲載させて頂きます！\n#めておら #めてのーと https://t.co/8deQmQaaiA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843245394761035776"
+          ]
+        },
+        "author_id": "250941492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "1843246490023821596",
+        "created_at": "2024-10-07T11:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T12:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843246490023821596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "酔いどれ知らず",
+              "probability": 0.5917,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "めておら"
+            },
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "めてのーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8deQmQaaiA",
+              "end": 105,
+              "expanded_url": "https://x.com/Azuma_Hatori/status/1843246490023821596/photo/1",
+              "media_key": "3_1843245394761035776",
+              "start": 82,
+              "url": "https://t.co/8deQmQaaiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843246490023821596",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 28737,
+          "like_count": 624,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\nめておらの皆様の「酔いどれ知らず」カバーMVイラストを担当させて頂きました！✨\n\n↓ツリーにお一人ずつ掲載させて頂きます！\n#めておら #めてのーと https://t.co/8deQmQaaiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1533,
+          "like_count": 8572,
+          "listed_count": 3,
+          "tweet_count": 3274
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-12T03:34:53.000Z",
+        "description": "illustrator 和と男の子を描くのが好き 創作FA配信背景 ｜  skeb ▶︎https://t.co/cghPuXaZPX ｜ booth ▶︎ https://t.co/Elkc0SI0NX ｜ mail▶︎azumadori72@gmail.com ｜無断転載･AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Azuma_Hatori",
+                "end": 67,
+                "expanded_url": "http://skeb.jp/@Azuma_Hatori",
+                "start": 44,
+                "url": "https://t.co/cghPuXaZPX"
+              },
+              {
+                "display_url": "azumahatori.booth.pm",
+                "end": 102,
+                "expanded_url": "https://azumahatori.booth.pm/",
+                "start": 79,
+                "url": "https://t.co/Elkc0SI0NX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumahatori",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumahatori",
+                "start": 0,
+                "url": "https://t.co/dpqyQ9eJCK"
+              }
+            ]
+          }
+        },
+        "id": "250941492",
+        "location": "企業様ご依頼募集中/litlinkご一読下さい",
+        "name": "東茉はとり@お仕事募集中",
+        "pinned_tweet_id": "1843246490023821596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788444810971602944/0iMZEIJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22462,
+          "following_count": 544,
+          "like_count": 73647,
+          "listed_count": 187,
+          "tweet_count": 39068
+        },
+        "url": "https://t.co/dpqyQ9eJCK",
+        "username": "Azuma_Hatori",
+        "verified": true
+      }
+    ]
+  }
+}

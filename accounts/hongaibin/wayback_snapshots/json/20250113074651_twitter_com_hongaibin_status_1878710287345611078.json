@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1878710287345611078",
+    "created_at": "2025-01-13T07:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T08:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878710287345611078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1709369832947564544",
+          "start": 3,
+          "username": "MayomatiMeari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878710287345611078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878646314424270936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MayomatiMeari: 今天学到了一个知识：原来亚硝酸钠是喝不死人的，可以用它来假装紫砂收割一波圣母然后删推白赚followers继续炒作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1878710287345611078",
+        "created_at": "2025-01-13T07:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T08:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878710287345611078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1709369832947564544",
+              "start": 3,
+              "username": "MayomatiMeari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878710287345611078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878646314424270936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MayomatiMeari: 今天学到了一个知识：原来亚硝酸钠是喝不死人的，可以用它来假装紫砂收割一波圣母然后删推白赚followers继续炒作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709369832947564544",
+        "conversation_id": "1878646314424270936",
+        "created_at": "2025-01-13T03:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T04:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878646314424270936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878646314424270936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3174,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天学到了一个知识：原来亚硝酸钠是喝不死人的，可以用它来假装紫砂收割一波圣母然后删推白赚followers继续炒作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 1696,
+          "like_count": 14099,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 4191
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T00:48:45.000Z",
+        "description": "灭绝人性的支白、人民教师、碎碎念可follow状态☄️。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ChatXiJinPing.com",
+                "end": 23,
+                "expanded_url": "http://ChatXiJinPing.com",
+                "start": 0,
+                "url": "https://t.co/KvQHLSthV3"
+              }
+            ]
+          }
+        },
+        "id": "1709369832947564544",
+        "location": "Je t'aime",
+        "name": "网友M氏谈心理健康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861050784449982464/qM8w3wLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 583,
+          "like_count": 20958,
+          "listed_count": 22,
+          "media_count": 1066,
+          "tweet_count": 7268
+        },
+        "url": "https://t.co/KvQHLSthV3",
+        "username": "MayomatiMeari",
+        "verified": false
+      }
+    ]
+  }
+}

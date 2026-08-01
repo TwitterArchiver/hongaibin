@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938198058808008704"
+      ],
+      "media_source_tweet_id": [
+        "1938198198298021975"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1938767825327530435",
+    "created_at": "2025-06-28T01:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T02:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938767825327530435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OtklVS5PxO",
+          "end": 53,
+          "expanded_url": "https://x.com/KagurazakaAzure/status/1938198198298021975/video/1",
+          "media_key": "13_1938198058808008704",
+          "start": 30,
+          "url": "https://t.co/OtklVS5PxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938767825327530435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938198198298021975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 哇，还有旋转寿尸 https://t.co/OtklVS5PxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20831,
+        "height": 1280,
+        "media_key": "13_1938198058808008704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938198058808008704/img/_siWClsFGc6hCqBK.jpg",
+        "public_metrics": {
+          "view_count": 572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938198058808008704/vid/avc1/320x568/nXmqsFIn5XSDwygZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938198058808008704/vid/avc1/480x852/jlwscSKMOO3iYvpa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938198058808008704/vid/avc1/720x1280/S3eZ_7J_1DUWA4qW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938198058808008704/pl/mmuOs5MHhXvA1qCI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938198058808008704"
+          ],
+          "media_source_tweet_id": [
+            "1938198198298021975"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938767825327530435",
+        "created_at": "2025-06-28T01:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938767825327530435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtklVS5PxO",
+              "end": 53,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1938198198298021975/video/1",
+              "media_key": "13_1938198058808008704",
+              "start": 30,
+              "url": "https://t.co/OtklVS5PxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938767825327530435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938198198298021975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaAzure: 哇，还有旋转寿尸 https://t.co/OtklVS5PxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938198058808008704"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1938198198298021975",
+        "created_at": "2025-06-26T11:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938198198298021975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtklVS5PxO",
+              "end": 32,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1938198198298021975/video/1",
+              "media_key": "13_1938198058808008704",
+              "start": 9,
+              "url": "https://t.co/OtklVS5PxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938198198298021975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1804,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哇，还有旋转寿尸 https://t.co/OtklVS5PxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2080,
+          "like_count": 20029,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5467
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🕯🧊🌊⁉️ | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜179cm55kg｜可能是🇬🇧预备役英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "minokakay"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🕯",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938293505996296195/LQW0jQLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7191,
+          "following_count": 996,
+          "like_count": 32315,
+          "listed_count": 9,
+          "media_count": 2232,
+          "tweet_count": 17642
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

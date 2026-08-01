@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1904434455747629056"
+      ],
+      "media_source_tweet_id": [
+        "1904434799269327189"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1930249299990065526",
+    "created_at": "2025-06-04T13:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930249299990065526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByC25bBJPa",
+          "end": 41,
+          "expanded_url": "https://x.com/loolzaozmin/status/1904434799269327189/video/1",
+          "media_key": "13_1904434455747629056",
+          "start": 18,
+          "url": "https://t.co/ByC25bBJPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930249299990065526",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904434799269327189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozimin: https://t.co/ByC25bBJPa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930249299990065526].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930249299990065526",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930249299990065526"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41751,
+        "height": 960,
+        "media_key": "13_1904434455747629056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1904434455747629056/img/MaDn96A6-7MFyvpC.jpg",
+        "public_metrics": {
+          "view_count": 44090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904434455747629056/vid/avc1/320x426/N41K59b6Let0-cx4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904434455747629056/vid/avc1/480x640/Jju-_ZdlPQAw7AZv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904434455747629056/vid/avc1/720x960/fgHh9xtvzdU76Szx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1904434455747629056/pl/bXDmhR6JrA2Q2_6F.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904434455747629056"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1904434799269327189",
+        "created_at": "2025-03-25T07:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904434799269327189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByC25bBJPa",
+              "end": 23,
+              "expanded_url": "https://x.com/loolzaozmin/status/1904434799269327189/video/1",
+              "media_key": "13_1904434455747629056",
+              "start": 0,
+              "url": "https://t.co/ByC25bBJPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904434799269327189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 115317,
+          "like_count": 4657,
+          "quote_count": 24,
+          "reply_count": 35,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ByC25bBJPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 2035,
+          "like_count": 19071,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5265
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我要颠簸我不要命",
+        "id": "1467368317258248192",
+        "location": "门 188 6666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925879228634968064/mOXGzU5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15632,
+          "following_count": 20,
+          "like_count": 729,
+          "listed_count": 21,
+          "media_count": 185,
+          "tweet_count": 528
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

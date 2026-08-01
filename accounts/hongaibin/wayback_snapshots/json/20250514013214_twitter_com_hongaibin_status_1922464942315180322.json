@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918984341675503616",
+        "3_1918984341746765824"
+      ],
+      "media_source_tweet_id": [
+        "1918984349455663378",
+        "1918984349455663378"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1922464942315180322",
+    "created_at": "2025-05-14T01:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T02:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922464942315180322"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "ゴールデンウィークSNS展覧会2025"
+        },
+        {
+          "end": 59,
+          "start": 41,
+          "tag": "GWはフォロワーさんが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1240281768420204545",
+          "start": 3,
+          "username": "Alare32446233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8PbiypaJpU",
+          "end": 100,
+          "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+          "media_key": "3_1918984341675503616",
+          "start": 77,
+          "url": "https://t.co/8PbiypaJpU"
+        },
+        {
+          "display_url": "pic.x.com/8PbiypaJpU",
+          "end": 100,
+          "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+          "media_key": "3_1918984341746765824",
+          "start": 77,
+          "url": "https://t.co/8PbiypaJpU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922464942315180322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918984349455663378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alare32446233: #ゴールデンウィークSNS展覧会2025 \n#GWはフォロワーさんが増えるらしい \n\n白と黒使うのが好きです❕❕❕ https://t.co/8PbiypaJpU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918984341675503616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGaF28a8AAQ3Ek.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918984341746765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGaF3NaUAA_o4s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918984341675503616",
+            "3_1918984341746765824"
+          ],
+          "media_source_tweet_id": [
+            "1918984349455663378",
+            "1918984349455663378"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922464942315180322",
+        "created_at": "2025-05-14T01:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T02:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922464942315180322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "ゴールデンウィークSNS展覧会2025"
+            },
+            {
+              "end": 59,
+              "start": 41,
+              "tag": "GWはフォロワーさんが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1240281768420204545",
+              "start": 3,
+              "username": "Alare32446233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PbiypaJpU",
+              "end": 100,
+              "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+              "media_key": "3_1918984341675503616",
+              "start": 77,
+              "url": "https://t.co/8PbiypaJpU"
+            },
+            {
+              "display_url": "pic.x.com/8PbiypaJpU",
+              "end": 100,
+              "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+              "media_key": "3_1918984341746765824",
+              "start": 77,
+              "url": "https://t.co/8PbiypaJpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922464942315180322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918984349455663378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alare32446233: #ゴールデンウィークSNS展覧会2025 \n#GWはフォロワーさんが増えるらしい \n\n白と黒使うのが好きです❕❕❕ https://t.co/8PbiypaJpU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918984341675503616",
+            "3_1918984341746765824"
+          ]
+        },
+        "author_id": "1240281768420204545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918984349455663378",
+        "created_at": "2025-05-04T11:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918984349455663378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "ゴールデンウィークSNS展覧会2025"
+            },
+            {
+              "end": 40,
+              "start": 22,
+              "tag": "GWはフォロワーさんが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PbiypaJpU",
+              "end": 81,
+              "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+              "media_key": "3_1918984341675503616",
+              "start": 58,
+              "url": "https://t.co/8PbiypaJpU"
+            },
+            {
+              "display_url": "pic.x.com/8PbiypaJpU",
+              "end": 81,
+              "expanded_url": "https://x.com/Alare32446233/status/1918984349455663378/photo/1",
+              "media_key": "3_1918984341746765824",
+              "start": 58,
+              "url": "https://t.co/8PbiypaJpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918984349455663378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11119,
+          "like_count": 370,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#ゴールデンウィークSNS展覧会2025 \n#GWはフォロワーさんが増えるらしい \n\n白と黒使うのが好きです❕❕❕ https://t.co/8PbiypaJpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1991,
+          "like_count": 17707,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4973
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T14:20:51.000Z",
+        "description": "✙ 絵を描いてます✙￤メール・DMにてご依頼受付中￤ご依頼について・実績▷▷https://t.co/ThJHiyQKk5￤Skeb▷▷ https://t.co/PlFA7temvy￤鍵▷▷ @23poEu3kvx4yIle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "23poEu3kvx4yIle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/amealare",
+                "end": 61,
+                "expanded_url": "http://lit.link/amealare",
+                "start": 38,
+                "url": "https://t.co/ThJHiyQKk5"
+              },
+              {
+                "display_url": "skeb.jp/@Alare32446233",
+                "end": 92,
+                "expanded_url": "http://skeb.jp/@Alare32446233",
+                "start": 69,
+                "url": "https://t.co/PlFA7temvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/Alar…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/Alare_Illust",
+                "start": 0,
+                "url": "https://t.co/3N75x0CowL"
+              }
+            ]
+          }
+        },
+        "id": "1240281768420204545",
+        "location": "無断使用× 転載×",
+        "name": "霰 -Alare-",
+        "pinned_tweet_id": "1906995004498923559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641953354984349696/wZxXPUvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18033,
+          "following_count": 171,
+          "like_count": 19892,
+          "listed_count": 125,
+          "media_count": 241,
+          "tweet_count": 6294
+        },
+        "url": "https://t.co/3N75x0CowL",
+        "username": "Alare32446233",
+        "verified": false
+      }
+    ]
+  }
+}

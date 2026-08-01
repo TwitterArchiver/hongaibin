@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1837482385379938612",
+    "created_at": "2024-09-21T13:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T14:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837482385379938612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1745811425501802496",
+          "start": 3,
+          "username": "EscapeFromNET"
+        },
+        {
+          "end": 35,
+          "id": "1244543552652054528",
+          "start": 19,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837482385379938612",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837145721969197214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EscapeFromNET: @Greenfish_insky 这脑瘫还配当医生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1837482385379938612",
+        "created_at": "2024-09-21T13:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T14:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837482385379938612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1745811425501802496",
+              "start": 3,
+              "username": "EscapeFromNET"
+            },
+            {
+              "end": 35,
+              "id": "1244543552652054528",
+              "start": 19,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837482385379938612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837145721969197214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EscapeFromNET: @Greenfish_insky 这脑瘫还配当医生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745811425501802496",
+        "conversation_id": "1837145042236101054",
+        "created_at": "2024-09-20T15:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837145721969197214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837145721969197214",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 936,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837145042236101054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 这脑瘫还配当医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1509,
+          "like_count": 7934,
+          "listed_count": 2,
+          "tweet_count": 3070
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T14:14:31.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Melodyunovo",
+                "end": 23,
+                "expanded_url": "https://x.com/Melodyunovo",
+                "start": 0,
+                "url": "https://t.co/jVTIqU0gtS"
+              }
+            ]
+          }
+        },
+        "id": "1745811425501802496",
+        "location": "自用女友👉",
+        "name": "我是南无地藏王菩萨",
+        "pinned_tweet_id": "1817229656501981287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827366531917082626/gv1c50XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 9828,
+          "listed_count": 0,
+          "tweet_count": 3057
+        },
+        "url": "https://t.co/jVTIqU0gtS",
+        "username": "EscapeFromNET",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以凡人的身份在地球游历  紫鸟vpn https://t.co/RthE3LvTbi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.top/#/login?code=0…",
+                "end": 57,
+                "expanded_url": "https://ziniao.top/#/login?code=0Pd5ZrBj",
+                "start": 34,
+                "url": "https://t.co/RthE3LvTbi"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1837354615383413138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796457507369652225/H-J0Fpp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 453,
+          "like_count": 8735,
+          "listed_count": 8,
+          "tweet_count": 8208
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

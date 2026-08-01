@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1844019221422026752"
+      ],
+      "media_source_tweet_id": [
+        "1844019234579656792"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1844176729180602691",
+    "created_at": "2024-10-10T00:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T01:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844176729180602691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "od_wiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHj4ojfHMk",
+          "end": 48,
+          "expanded_url": "https://x.com/od_wiki/status/1844019234579656792/photo/1",
+          "media_key": "3_1844019221422026752",
+          "start": 25,
+          "url": "https://t.co/bHj4ojfHMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844176729180602691",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844019234579656792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_wiki: 赌狗就喜欢赌高价买入的 https://t.co/bHj4ojfHMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1844019221422026752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZdFtjvaMAA88lz.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844019221422026752"
+          ],
+          "media_source_tweet_id": [
+            "1844019234579656792"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1844176729180602691",
+        "created_at": "2024-10-10T00:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T01:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844176729180602691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "od_wiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHj4ojfHMk",
+              "end": 48,
+              "expanded_url": "https://x.com/od_wiki/status/1844019234579656792/photo/1",
+              "media_key": "3_1844019221422026752",
+              "start": 25,
+              "url": "https://t.co/bHj4ojfHMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844176729180602691",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844019234579656792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @od_wiki: 赌狗就喜欢赌高价买入的 https://t.co/bHj4ojfHMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844019221422026752"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "conversation_id": "1844019234579656792",
+        "created_at": "2024-10-09T14:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T15:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844019234579656792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHj4ojfHMk",
+              "end": 35,
+              "expanded_url": "https://x.com/od_wiki/status/1844019234579656792/photo/1",
+              "media_key": "3_1844019221422026752",
+              "start": 12,
+              "url": "https://t.co/bHj4ojfHMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844019234579656792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赌狗就喜欢赌高价买入的 https://t.co/bHj4ojfHMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1549,
+          "like_count": 8778,
+          "listed_count": 3,
+          "tweet_count": 3331
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hiv.icu",
+                "end": 28,
+                "expanded_url": "https://hiv.icu/",
+                "start": 5,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 58,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 35,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "胖猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1843322174725292528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13632,
+          "following_count": 5793,
+          "like_count": 5726,
+          "listed_count": 11,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

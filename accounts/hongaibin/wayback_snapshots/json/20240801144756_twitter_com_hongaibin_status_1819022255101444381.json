@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1818990418480291840"
+      ],
+      "media_source_tweet_id": [
+        "1818990493390541184"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819022255101444381",
+    "created_at": "2024-08-01T14:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T15:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819022255101444381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736712034811785216",
+          "start": 3,
+          "username": "BY801333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/i1AN5gcSYr",
+          "end": 37,
+          "expanded_url": "https://twitter.com/BY801333/status/1818990493390541184/video/1",
+          "media_key": "7_1818990418480291840",
+          "start": 14,
+          "url": "https://t.co/i1AN5gcSYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819022255101444381",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818990493390541184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BY801333: https://t.co/i1AN5gcSYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89466,
+        "height": 1280,
+        "media_key": "7_1818990418480291840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1818990418480291840/pu/img/8LRdkpaL3iifJjUW.jpg",
+        "public_metrics": {
+          "view_count": 337
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818990418480291840/pu/vid/avc1/320x568/aBj3XHAn27kBIzBm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818990418480291840/pu/vid/avc1/480x852/LB_vuSHIE8IOv2kP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1818990418480291840/pu/vid/avc1/720x1280/p21F6HJC9k3uoGK0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1818990418480291840/pu/pl/jwaMH-c3GDmM6-1Q.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818990418480291840"
+          ],
+          "media_source_tweet_id": [
+            "1818990493390541184"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819022255101444381",
+        "created_at": "2024-08-01T14:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819022255101444381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736712034811785216",
+              "start": 3,
+              "username": "BY801333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/i1AN5gcSYr",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BY801333/status/1818990493390541184/video/1",
+              "media_key": "7_1818990418480291840",
+              "start": 14,
+              "url": "https://t.co/i1AN5gcSYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819022255101444381",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818990493390541184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BY801333: https://t.co/i1AN5gcSYr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818990418480291840"
+          ]
+        },
+        "author_id": "1736712034811785216",
+        "conversation_id": "1818990493390541184",
+        "created_at": "2024-08-01T12:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T13:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818990493390541184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/i1AN5gcSYr",
+              "end": 23,
+              "expanded_url": "https://twitter.com/BY801333/status/1818990493390541184/video/1",
+              "media_key": "7_1818990418480291840",
+              "start": 0,
+              "url": "https://t.co/i1AN5gcSYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818990493390541184",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i1AN5gcSYr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1206,
+          "like_count": 4065,
+          "listed_count": 2,
+          "tweet_count": 2185
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:36:39.000Z",
+        "description": "薬のカフェ→ https://t.co/0Vw0m5dHyr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 30,
+                "expanded_url": "http://t.me/OLAIYA000",
+                "start": 7,
+                "url": "https://t.co/0Vw0m5dHyr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYAFZ",
+                "end": 23,
+                "expanded_url": "http://t.me/OLAIYAFZ",
+                "start": 0,
+                "url": "https://t.co/dklqSxlyk2"
+              }
+            ]
+          }
+        },
+        "id": "1736712034811785216",
+        "location": "反诈曝光频道→",
+        "name": "OLAIYA_2.0",
+        "pinned_tweet_id": "1810586931430133896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806369873452474368/ymiEfsTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 3394,
+          "like_count": 1880,
+          "listed_count": 3,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/dklqSxlyk2",
+        "username": "BY801333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840678820715876352"
+      ],
+      "media_source_tweet_id": [
+        "1840678831772074345"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1841009267580813827",
+    "created_at": "2024-10-01T06:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T07:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841009267580813827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1443908496580251656",
+          "start": 3,
+          "username": "nayoyoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CgtjGF2NN",
+          "end": 43,
+          "expanded_url": "https://x.com/nayoyoki/status/1840678831772074345/photo/1",
+          "media_key": "3_1840678820715876352",
+          "start": 20,
+          "url": "https://t.co/1CgtjGF2NN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841009267580813827",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840678831772074345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nayoyoki: \"雪景色\" https://t.co/1CgtjGF2NN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2849,
+        "media_key": "3_1840678820715876352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYtnopZa0AAArc0.jpg",
+        "width": 1949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840678820715876352"
+          ],
+          "media_source_tweet_id": [
+            "1840678831772074345"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1841009267580813827",
+        "created_at": "2024-10-01T06:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841009267580813827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1443908496580251656",
+              "start": 3,
+              "username": "nayoyoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CgtjGF2NN",
+              "end": 43,
+              "expanded_url": "https://x.com/nayoyoki/status/1840678831772074345/photo/1",
+              "media_key": "3_1840678820715876352",
+              "start": 20,
+              "url": "https://t.co/1CgtjGF2NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841009267580813827",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840678831772074345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nayoyoki: \"雪景色\" https://t.co/1CgtjGF2NN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840678820715876352"
+          ]
+        },
+        "author_id": "1443908496580251656",
+        "conversation_id": "1840678831772074345",
+        "created_at": "2024-09-30T09:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840678831772074345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CgtjGF2NN",
+              "end": 29,
+              "expanded_url": "https://x.com/nayoyoki/status/1840678831772074345/photo/1",
+              "media_key": "3_1840678820715876352",
+              "start": 6,
+              "url": "https://t.co/1CgtjGF2NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840678831772074345",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12051,
+          "like_count": 376,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "\"雪景色\" https://t.co/1CgtjGF2NN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1519,
+          "like_count": 8355,
+          "listed_count": 3,
+          "tweet_count": 3194
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T11:59:56.000Z",
+        "description": "illustration🛸 暗い宇宙を漂う女の子を描いています。FA▶ #なよよきちゃんへの手紙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 36,
+                "tag": "なよよきちゃんへの手紙"
+              }
+            ]
+          }
+        },
+        "id": "1443908496580251656",
+        "location": "転載、学習禁止",
+        "name": "なよよき",
+        "pinned_tweet_id": "1831535285873836518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837097112468869124/gya2hTCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 446,
+          "like_count": 17886,
+          "listed_count": 55,
+          "tweet_count": 7633
+        },
+        "username": "nayoyoki",
+        "verified": false
+      }
+    ]
+  }
+}

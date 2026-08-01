@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1788321497859162179",
+    "created_at": "2024-07-23T23:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T00:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815897065114959940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760391878711631873",
+          "start": 0,
+          "username": "ripurins"
+        },
+        {
+          "end": 16,
+          "id": "1629424076145184768",
+          "start": 10,
+          "username": "k4z2K"
+        },
+        {
+          "end": 39,
+          "id": "1629424076145184768",
+          "start": 33,
+          "username": "k4z2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815897065114959940",
+    "in_reply_to_user_id": "1760391878711631873",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788410667810099328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripurins @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    },
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1788321497859162179",
+        "created_at": "2024-07-23T23:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T00:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815897065114959940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760391878711631873",
+              "start": 0,
+              "username": "ripurins"
+            },
+            {
+              "end": 16,
+              "id": "1629424076145184768",
+              "start": 10,
+              "username": "k4z2K"
+            },
+            {
+              "end": 39,
+              "id": "1629424076145184768",
+              "start": 33,
+              "username": "k4z2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815897065114959940",
+        "in_reply_to_user_id": "1760391878711631873",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788410667810099328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripurins @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788410663016017920",
+            "3_1788410663024427008"
+          ]
+        },
+        "author_id": "1760391878711631873",
+        "conversation_id": "1788321497859162179",
+        "created_at": "2024-05-09T03:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T04:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788410667810099328"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "kuina",
+              "probability": 0.5174,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629424076145184768",
+              "start": 0,
+              "username": "k4z2K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gJIhdzQEHm",
+              "end": 89,
+              "expanded_url": "https://twitter.com/ripurins/status/1788410667810099328/photo/1",
+              "media_key": "3_1788410663016017920",
+              "start": 66,
+              "url": "https://t.co/gJIhdzQEHm"
+            },
+            {
+              "display_url": "pic.twitter.com/gJIhdzQEHm",
+              "end": 89,
+              "expanded_url": "https://twitter.com/ripurins/status/1788410667810099328/photo/1",
+              "media_key": "3_1788410663024427008",
+              "start": 66,
+              "url": "https://t.co/gJIhdzQEHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788410667810099328",
+        "in_reply_to_user_id": "1629424076145184768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788321497859162179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4z2K when kuina went from 21 piercings to snakebites and bridge https://t.co/gJIhdzQEHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1151,
+          "like_count": 3201,
+          "listed_count": 1,
+          "tweet_count": 1839
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T19:51:50.000Z",
+        "description": "i love kiryu, royz and kebyo | priv ; @yyoniryu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "yyoniryu"
+              }
+            ]
+          }
+        },
+        "id": "1760391878711631873",
+        "location": "BMI : ? (lbmi 15) | 杙凪 ᡣ𐭩",
+        "name": "yoni 🐻 || shedtwt",
+        "pinned_tweet_id": "1793243919813132481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770612239562682368/FENPHMH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 677,
+          "like_count": 21452,
+          "listed_count": 15,
+          "tweet_count": 4522
+        },
+        "username": "ripurins",
+        "verified": false
+      }
+    ]
+  }
+}

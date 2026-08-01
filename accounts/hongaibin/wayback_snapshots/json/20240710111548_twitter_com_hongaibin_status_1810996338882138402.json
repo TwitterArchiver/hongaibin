@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1810996338882138402",
+    "created_at": "2024-07-10T11:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T12:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810996338882138402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jentezen/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Jentezen/status/1773153028411195899",
+          "start": 16,
+          "url": "https://t.co/91l6kLZURQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810996338882138402",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1773153028411195899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "so？他是一个洗厕所的人吗。😂 https://t.co/91l6kLZURQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1810996338882138402",
+        "created_at": "2024-07-10T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810996338882138402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jentezen/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Jentezen/status/1773153028411195899",
+              "start": 16,
+              "url": "https://t.co/91l6kLZURQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810996338882138402",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1773153028411195899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "so？他是一个洗厕所的人吗。😂 https://t.co/91l6kLZURQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1773067159784050688"
+          ]
+        },
+        "author_id": "71059280",
+        "conversation_id": "1773153028411195899",
+        "created_at": "2024-03-28T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-28T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1773153028411195899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/STBgFAKGkr",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Jentezen/status/1773153028411195899/photo/1",
+              "media_key": "3_1773067159784050688",
+              "start": 59,
+              "url": "https://t.co/STBgFAKGkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1773153028411195899",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5909,
+          "impression_count": 17432124,
+          "like_count": 236213,
+          "quote_count": 1305,
+          "reply_count": 2965,
+          "retweet_count": 28453
+        },
+        "reply_settings": "everyone",
+        "text": "God is working on your behalf. He will never let you down. https://t.co/STBgFAKGkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1115,
+          "like_count": 2401,
+          "listed_count": 1,
+          "tweet_count": 1552
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-02T19:57:16.000Z",
+        "description": "Senior Pastor of @freechapel, New York Times Best-Selling Author, and Director of JFM Media.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "freechapel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jentezen",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/jentezen",
+                "start": 0,
+                "url": "https://t.co/YgSwL3xMZZ"
+              }
+            ]
+          }
+        },
+        "id": "71059280",
+        "location": "Gainesville, GA",
+        "name": "Jentezen Franklin",
+        "pinned_tweet_id": "1761488672543674669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243261207576002562/ieU6eldt_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048467,
+          "following_count": 726,
+          "like_count": 7085,
+          "listed_count": 1454,
+          "tweet_count": 10237
+        },
+        "url": "https://t.co/YgSwL3xMZZ",
+        "username": "Jentezen",
+        "verified": true
+      }
+    ]
+  }
+}

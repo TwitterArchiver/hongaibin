@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1862078164945793523",
+    "created_at": "2024-11-28T22:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T23:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862261923955581090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689136531913785346",
+          "start": 0,
+          "username": "foooxww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862261923955581090",
+    "in_reply_to_user_id": "1689136531913785346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862078164945793523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foooxww 怎么坏的  我帮你看看 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1862078164945793523",
+        "created_at": "2024-11-28T22:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T23:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862261923955581090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689136531913785346",
+              "start": 0,
+              "username": "foooxww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862261923955581090",
+        "in_reply_to_user_id": "1689136531913785346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862078164945793523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxww 怎么坏的  我帮你看看 😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689136531913785346",
+        "conversation_id": "1862078164945793523",
+        "created_at": "2024-11-28T10:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862078164945793523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862078164945793523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的电脑坏了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 1626,
+          "like_count": 11676,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 3816
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T04:48:34.000Z",
+        "description": "男孩子嗷，🚪20，现居成都。你想让我做什么都可以",
+        "id": "1689136531913785346",
+        "location": "地球",
+        "name": "🧀☃小狐狸🦊（混吃等死版）",
+        "pinned_tweet_id": "1862079101139636519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809321246758432774/s0hqb67K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 1136,
+          "like_count": 27749,
+          "listed_count": 5,
+          "media_count": 594,
+          "tweet_count": 9731
+        },
+        "username": "foooxww",
+        "verified": false
+      }
+    ]
+  }
+}

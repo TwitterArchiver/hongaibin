@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1914448257193050367",
+    "created_at": "2025-04-21T22:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T23:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914448257193050367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844025283676094464",
+          "start": 3,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914448257193050367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913794100534579312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konekoutena: 我感觉像我爹一样的70后是中国道德最烂的一代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1914448257193050367",
+        "created_at": "2025-04-21T22:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914448257193050367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844025283676094464",
+              "start": 3,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914448257193050367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913794100534579312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konekoutena: 我感觉像我爹一样的70后是中国道德最烂的一代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "1913794100534579312",
+        "created_at": "2025-04-20T03:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T04:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913794100534579312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi36760/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yi36760/status/1913793732119503287",
+              "start": 23,
+              "url": "https://t.co/OJrB83m7PO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913794100534579312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3082,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913793732119503287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉像我爹一样的70后是中国道德最烂的一代 https://t.co/OJrB83m7PO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1897,
+          "like_count": 16560,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4741
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "出生于不幸的原生家庭的小说家，遭受过其父（北京高通律师事务所律师张海秦）的极端家暴。现在正努力完成自己的作品。YouTube：@夜昕时光 接受网友提问（单价100RMB，油管视频解答）邮箱：konekoutena@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1913579130786103421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911940891087933440/rQttHo5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7618,
+          "following_count": 1546,
+          "like_count": 5348,
+          "listed_count": 29,
+          "media_count": 3778,
+          "tweet_count": 11583
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

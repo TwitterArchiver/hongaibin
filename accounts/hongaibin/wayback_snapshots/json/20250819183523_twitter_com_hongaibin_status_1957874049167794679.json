@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957377051448737792"
+      ],
+      "media_source_tweet_id": [
+        "1957377132255985775"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1957874049167794679",
+    "created_at": "2025-08-19T18:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T19:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957874049167794679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860317861568536576",
+          "start": 3,
+          "username": "Finalvent1114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgXK4QMYRY",
+          "end": 54,
+          "expanded_url": "https://x.com/Finalvent1114/status/1957377132255985775/video/1",
+          "media_key": "13_1957377051448737792",
+          "start": 31,
+          "url": "https://t.co/OgXK4QMYRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957874049167794679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957377132255985775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Finalvent1114: 喝完酒一直臭美臭美嘻嘻 https://t.co/OgXK4QMYRY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47833,
+        "height": 960,
+        "media_key": "13_1957377051448737792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957377051448737792/img/p3Mziorm0SqEYfQu.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957377051448737792/vid/avc1/320x426/s_pf57s1BsZrCYg6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957377051448737792/vid/avc1/480x640/DCccB-9O6Uq3BteF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957377051448737792/vid/avc1/720x960/MYjVpzsZiKPKDxlj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957377051448737792/pl/UM5oow1DczoKke74.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957377051448737792"
+          ],
+          "media_source_tweet_id": [
+            "1957377132255985775"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1957874049167794679",
+        "created_at": "2025-08-19T18:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T19:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957874049167794679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860317861568536576",
+              "start": 3,
+              "username": "Finalvent1114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgXK4QMYRY",
+              "end": 54,
+              "expanded_url": "https://x.com/Finalvent1114/status/1957377132255985775/video/1",
+              "media_key": "13_1957377051448737792",
+              "start": 31,
+              "url": "https://t.co/OgXK4QMYRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957874049167794679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957377132255985775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Finalvent1114: 喝完酒一直臭美臭美嘻嘻 https://t.co/OgXK4QMYRY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957377051448737792"
+          ]
+        },
+        "author_id": "1860317861568536576",
+        "conversation_id": "1957377132255985775",
+        "created_at": "2025-08-18T09:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957377132255985775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgXK4QMYRY",
+              "end": 35,
+              "expanded_url": "https://x.com/Finalvent1114/status/1957377132255985775/video/1",
+              "media_key": "13_1957377051448737792",
+              "start": 12,
+              "url": "https://t.co/OgXK4QMYRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957377132255985775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喝完酒一直臭美臭美嘻嘻 https://t.co/OgXK4QMYRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2153,
+          "like_count": 21754,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5846
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T13:42:06.000Z",
+        "description": "男的 小男女孩 高p 纯4 sub brat🚪100 好兄弟 ：@suicidenote_315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "suicidenote_315"
+              }
+            ]
+          }
+        },
+        "id": "1860317861568536576",
+        "location": "小熊神的墓碑🪦",
+        "name": "Finalvent",
+        "pinned_tweet_id": "1861476229901361335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900146141318307844/irFqTyBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 138,
+          "like_count": 1497,
+          "listed_count": 6,
+          "media_count": 299,
+          "tweet_count": 1454
+        },
+        "username": "Finalvent1114",
+        "verified": false
+      }
+    ]
+  }
+}

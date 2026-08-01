@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950468673539624966"
+      ],
+      "media_source_tweet_id": [
+        "1950468725469229235"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952354969266630708",
+    "created_at": "2025-08-04T13:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952354969266630708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Ip3TGa4Lc",
+          "end": 47,
+          "expanded_url": "https://x.com/LXL0102/status/1950468725469229235/photo/1",
+          "media_key": "3_1950468673539624966",
+          "start": 24,
+          "url": "https://t.co/6Ip3TGa4Lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952354969266630708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950468725469229235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 谁的一辈子，谁想要？ https://t.co/6Ip3TGa4Lc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950468673539624966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxF07K_bUAYl3Pl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950468673539624966"
+          ],
+          "media_source_tweet_id": [
+            "1950468725469229235"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1952354969266630708",
+        "created_at": "2025-08-04T13:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952354969266630708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Ip3TGa4Lc",
+              "end": 47,
+              "expanded_url": "https://x.com/LXL0102/status/1950468725469229235/photo/1",
+              "media_key": "3_1950468673539624966",
+              "start": 24,
+              "url": "https://t.co/6Ip3TGa4Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952354969266630708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950468725469229235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 谁的一辈子，谁想要？ https://t.co/6Ip3TGa4Lc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950468673539624966"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1950468725469229235",
+        "created_at": "2025-07-30T08:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950468725469229235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Ip3TGa4Lc",
+              "end": 34,
+              "expanded_url": "https://x.com/LXL0102/status/1950468725469229235/photo/1",
+              "media_key": "3_1950468673539624966",
+              "start": 11,
+              "url": "https://t.co/6Ip3TGa4Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950468725469229235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1930,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁的一辈子，谁想要？ https://t.co/6Ip3TGa4Lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 2108,
+          "like_count": 21339,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5755
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 256,
+          "like_count": 1320,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

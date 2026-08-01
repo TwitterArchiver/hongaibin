@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1774410040369393664"
+      ],
+      "media_source_tweet_id": [
+        "1774410142739755057"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1819923050982486490",
+    "created_at": "2024-08-04T02:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T03:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819923050982486490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1081496788341731328",
+          "start": 3,
+          "username": "uenomigi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/5EcatXxyho",
+          "end": 37,
+          "expanded_url": "https://twitter.com/uenomigi/status/1774410142739755057/video/1",
+          "media_key": "7_1774410040369393664",
+          "start": 14,
+          "url": "https://t.co/5EcatXxyho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819923050982486490",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774410142739755057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uenomigi: https://t.co/5EcatXxyho"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3610,
+        "height": 3000,
+        "media_key": "7_1774410040369393664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1774410040369393664/pu/img/XvomyZkUuxKGco5e.jpg",
+        "public_metrics": {
+          "view_count": 15656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1774410040369393664/pu/vid/avc1/320x384/S2ly75NaSTOCzzSd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1774410040369393664/pu/vid/avc1/480x576/L8e1yeqn05ygBZog.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1774410040369393664/pu/vid/avc1/720x862/VCwH1Kg3rW2mfF0j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1774410040369393664/pu/pl/W0MmpoU9bAai-XCK.m3u8?tag=12"
+          }
+        ],
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1774410040369393664"
+          ],
+          "media_source_tweet_id": [
+            "1774410142739755057"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1819923050982486490",
+        "created_at": "2024-08-04T02:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T03:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819923050982486490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1081496788341731328",
+              "start": 3,
+              "username": "uenomigi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5EcatXxyho",
+              "end": 37,
+              "expanded_url": "https://twitter.com/uenomigi/status/1774410142739755057/video/1",
+              "media_key": "7_1774410040369393664",
+              "start": 14,
+              "url": "https://t.co/5EcatXxyho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819923050982486490",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774410142739755057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uenomigi: https://t.co/5EcatXxyho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1774410040369393664"
+          ]
+        },
+        "author_id": "1081496788341731328",
+        "conversation_id": "1774410142739755057",
+        "created_at": "2024-03-31T12:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-31T13:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774410142739755057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5EcatXxyho",
+              "end": 23,
+              "expanded_url": "https://twitter.com/uenomigi/status/1774410142739755057/video/1",
+              "media_key": "7_1774410040369393664",
+              "start": 0,
+              "url": "https://t.co/5EcatXxyho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774410142739755057",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 70355,
+          "like_count": 4174,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5EcatXxyho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 1216,
+          "like_count": 4227,
+          "listed_count": 2,
+          "tweet_count": 2242
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T10:25:02.000Z",
+        "description": "かわいいものいろんなの グループ創作垢(@shitanohidari)\nSkeb(https://t.co/h59p9QSeWW) ✉uenomigi〇https://t.co/3kgT24dBV7(〇→@) ご依頼(commission)停止中❌\n 無断転載・ 無断使用・AI学習禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "shitanohidari"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uenomigi",
+                "end": 64,
+                "expanded_url": "http://skeb.jp/@uenomigi",
+                "start": 41,
+                "url": "https://t.co/h59p9QSeWW"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 99,
+                "expanded_url": "http://gmail.com",
+                "start": 76,
+                "url": "https://t.co/3kgT24dBV7"
+              }
+            ]
+          }
+        },
+        "id": "1081496788341731328",
+        "name": "うえのみぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750817800128774144/5PbF50fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64403,
+          "following_count": 214,
+          "like_count": 5593,
+          "listed_count": 536,
+          "tweet_count": 3682
+        },
+        "username": "uenomigi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877987234462543872"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1877987247963967812",
+    "created_at": "2025-01-11T07:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T08:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877987247963967812"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "overdose"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "愈美片"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "od"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 51,
+          "id": "1798724969695977472",
+          "start": 38,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 67,
+          "id": "1804587925805596672",
+          "start": 52,
+          "username": "OverSpeed_Wiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYrwG4dGOE",
+          "end": 102,
+          "expanded_url": "https://x.com/hongaibin/status/1877987247963967812/photo/1",
+          "media_key": "3_1877987234462543872",
+          "start": 79,
+          "url": "https://t.co/UYrwG4dGOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877987247963967812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#overdose  #愈美片 可能有肾结石的风险 （我还真的有肾结石🙃）\n@overdosewiki @OverSpeed_Wiki \n#od #普瑞巴林 https://t.co/UYrwG4dGOE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877987247963967812].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877987247963967812",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877987247963967812"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877987234462543872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg_zcJLbsAAWeYb.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1690,
+          "like_count": 13862,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 4143
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/w0mFDxhZLC站点方面的问题可以私信我，只有这边才能收到反馈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "忠！诚！",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1815754831950475530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 8,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1873900073341641201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 490,
+          "like_count": 8599,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

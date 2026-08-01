@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1857833474289508352"
+      ],
+      "media_source_tweet_id": [
+        "1857833503028920552"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1858574607604928712",
+    "created_at": "2024-11-18T18:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T19:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858574607604928712"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "药娘"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814009535587323904",
+          "start": 3,
+          "username": "FufuOw0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsWDNWMEFw",
+          "end": 56,
+          "expanded_url": "https://x.com/FufuOw0/status/1857833503028920552/video/1",
+          "media_key": "7_1857833474289508352",
+          "start": 33,
+          "url": "https://t.co/IsWDNWMEFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858574607604928712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857833503028920552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FufuOw0: #药娘 #mtf\n你在看着我，是么👁️ https://t.co/IsWDNWMEFw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858574607604928712].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858574607604928712",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858574607604928712"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11215,
+        "height": 720,
+        "media_key": "7_1857833474289508352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1857833474289508352/pu/img/xxJTpcMzancfXrKD.jpg",
+        "public_metrics": {
+          "view_count": 23804
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857833474289508352/pu/vid/avc1/480x270/O5j4W9dQU-5w0mn9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857833474289508352/pu/vid/avc1/640x360/2vC5udQUzSGZRYIM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857833474289508352/pu/vid/avc1/1280x720/xlC9Tg_TwYt9yny8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1857833474289508352/pu/pl/l8P_VVKDiRM2QWwn.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857833474289508352"
+          ]
+        },
+        "author_id": "1814009535587323904",
+        "conversation_id": "1857833503028920552",
+        "created_at": "2024-11-16T17:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T18:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857833503028920552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "药娘"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsWDNWMEFw",
+              "end": 43,
+              "expanded_url": "https://x.com/FufuOw0/status/1857833503028920552/video/1",
+              "media_key": "7_1857833474289508352",
+              "start": 20,
+              "url": "https://t.co/IsWDNWMEFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857833503028920552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 76016,
+          "like_count": 757,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#药娘 #mtf\n你在看着我，是么👁️ https://t.co/IsWDNWMEFw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 155,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 132,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1600,
+          "like_count": 10751,
+          "listed_count": 2,
+          "tweet_count": 3679
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T18:49:21.000Z",
+        "description": "B站账号: 秋羽AkiHane_(b站账号暂无内容更新)\nBlueSky: https://t.co/97LNWkJrN6\n\n社交能力极弱，随缘扩列，无门槛，不线下!不约!发图只是想纯粹分享，感兴趣可以关注，随缘更新，偶尔可能会说点胡话",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "akihaneow0.bsky.social",
+                "end": 61,
+                "expanded_url": "http://akihaneow0.bsky.social",
+                "start": 38,
+                "url": "https://t.co/97LNWkJrN6"
+              }
+            ]
+          }
+        },
+        "id": "1814009535587323904",
+        "location": "巨山精神病院",
+        "name": "秋羽",
+        "pinned_tweet_id": "1858357414010986655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814317278378508288/B0ixogwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 139,
+          "like_count": 1842,
+          "listed_count": 8,
+          "tweet_count": 656
+        },
+        "username": "FufuOw0",
+        "verified": false
+      }
+    ]
+  }
+}

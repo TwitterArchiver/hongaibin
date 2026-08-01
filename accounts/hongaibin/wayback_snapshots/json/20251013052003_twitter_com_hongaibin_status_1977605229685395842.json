@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975960581246222336"
+      ],
+      "media_source_tweet_id": [
+        "1975960587801927801"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977605229685395842",
+    "created_at": "2025-10-13T05:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977605229685395842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eax9uqg2B1",
+          "end": 53,
+          "expanded_url": "https://x.com/FxxkApexLegend/status/1975960587801927801/photo/1",
+          "media_key": "3_1975960581246222336",
+          "start": 30,
+          "url": "https://t.co/Eax9uqg2B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977605229685395842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975960587801927801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 父母眼中留长发的你 https://t.co/Eax9uqg2B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1975960581246222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wFrfdbAAAgmd-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975960581246222336"
+          ],
+          "media_source_tweet_id": [
+            "1975960587801927801"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977605229685395842",
+        "created_at": "2025-10-13T05:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977605229685395842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eax9uqg2B1",
+              "end": 53,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1975960587801927801/photo/1",
+              "media_key": "3_1975960581246222336",
+              "start": 30,
+              "url": "https://t.co/Eax9uqg2B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977605229685395842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975960587801927801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 父母眼中留长发的你 https://t.co/Eax9uqg2B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975960581246222336"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975960587801927801",
+        "created_at": "2025-10-08T16:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975960587801927801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eax9uqg2B1",
+              "end": 33,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1975960587801927801/photo/1",
+              "media_key": "3_1975960581246222336",
+              "start": 10,
+              "url": "https://t.co/Eax9uqg2B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975960587801927801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 84117,
+          "like_count": 1423,
+          "quote_count": 10,
+          "reply_count": 106,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "父母眼中留长发的你 https://t.co/Eax9uqg2B1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 2200,
+          "like_count": 23347,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6151
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 181cm 54kg🏳️‍⚧️🍥MtX💛🤍💜🖤(they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 // 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "juhao0721"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 248,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

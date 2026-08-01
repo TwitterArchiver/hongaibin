@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927352203473301504",
+        "3_1927352203313905664"
+      ],
+      "media_source_tweet_id": [
+        "1927352209903087756",
+        "1927352209903087756"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927405840530633144",
+    "created_at": "2025-05-27T16:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927405840530633144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780282643789291524",
+          "start": 3,
+          "username": "_xtyvqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuVz267zJm",
+          "end": 45,
+          "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+          "media_key": "3_1927352203473301504",
+          "start": 22,
+          "url": "https://t.co/BuVz267zJm"
+        },
+        {
+          "display_url": "pic.x.com/BuVz267zJm",
+          "end": 45,
+          "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+          "media_key": "3_1927352203313905664",
+          "start": 22,
+          "url": "https://t.co/BuVz267zJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927405840530633144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927352209903087756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_xtyvqr: 似ても似つかない https://t.co/BuVz267zJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1927352203473301504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9UnhUXsAAUeWC.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927352203313905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr9UnguXgAA4JRX.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927352203473301504",
+            "3_1927352203313905664"
+          ],
+          "media_source_tweet_id": [
+            "1927352209903087756",
+            "1927352209903087756"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927405840530633144",
+        "created_at": "2025-05-27T16:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927405840530633144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780282643789291524",
+              "start": 3,
+              "username": "_xtyvqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuVz267zJm",
+              "end": 45,
+              "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+              "media_key": "3_1927352203473301504",
+              "start": 22,
+              "url": "https://t.co/BuVz267zJm"
+            },
+            {
+              "display_url": "pic.x.com/BuVz267zJm",
+              "end": 45,
+              "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+              "media_key": "3_1927352203313905664",
+              "start": 22,
+              "url": "https://t.co/BuVz267zJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927405840530633144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927352209903087756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_xtyvqr: 似ても似つかない https://t.co/BuVz267zJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927352203473301504",
+            "3_1927352203313905664"
+          ]
+        },
+        "author_id": "1780282643789291524",
+        "conversation_id": "1927352209903087756",
+        "created_at": "2025-05-27T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927352209903087756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuVz267zJm",
+              "end": 32,
+              "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+              "media_key": "3_1927352203473301504",
+              "start": 9,
+              "url": "https://t.co/BuVz267zJm"
+            },
+            {
+              "display_url": "pic.x.com/BuVz267zJm",
+              "end": 32,
+              "expanded_url": "https://x.com/_xtyvqr/status/1927352209903087756/photo/1",
+              "media_key": "3_1927352203313905664",
+              "start": 9,
+              "url": "https://t.co/BuVz267zJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927352209903087756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4201,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "似ても似つかない https://t.co/BuVz267zJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2016,
+          "like_count": 18492,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5153
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T17:10:43.000Z",
+        "description": "ぁ？酒飲めｺﾞﾙｧ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/d_kinxtama_o?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/d_kinxtama_o?s=21",
+                "start": 0,
+                "url": "https://t.co/q1SYCurV4e"
+              }
+            ]
+          }
+        },
+        "id": "1780282643789291524",
+        "location": "亡命中",
+        "name": "中辛は死んだ",
+        "pinned_tweet_id": "1901255754272706846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841899215179460608/xqGfFkQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4024,
+          "following_count": 60,
+          "like_count": 8353,
+          "listed_count": 13,
+          "media_count": 83,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/q1SYCurV4e",
+        "username": "_xtyvqr",
+        "verified": false
+      }
+    ]
+  }
+}

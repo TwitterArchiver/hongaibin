@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975961322539155456"
+      ],
+      "media_source_tweet_id": [
+        "1975961324992749623"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1977273250188345726",
+    "created_at": "2025-10-12T07:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977273250188345726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893446766",
+          "start": 3,
+          "username": "gloomy__duck"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GdsPaIUaU",
+          "end": 47,
+          "expanded_url": "https://x.com/gloomy__duck/status/1975961324992749623/photo/1",
+          "media_key": "3_1975961322539155456",
+          "start": 24,
+          "url": "https://t.co/3GdsPaIUaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977273250188345726",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29450
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975961324992749623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gloomy__duck: 봄의 제전 https://t.co/3GdsPaIUaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1975961322539155456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wGWo_bgAAc5fE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975961322539155456"
+          ],
+          "media_source_tweet_id": [
+            "1975961324992749623"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1977273250188345726",
+        "created_at": "2025-10-12T07:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273250188345726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893446766",
+              "start": 3,
+              "username": "gloomy__duck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GdsPaIUaU",
+              "end": 47,
+              "expanded_url": "https://x.com/gloomy__duck/status/1975961324992749623/photo/1",
+              "media_key": "3_1975961322539155456",
+              "start": 24,
+              "url": "https://t.co/3GdsPaIUaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273250188345726",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29450
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975961324992749623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gloomy__duck: 봄의 제전 https://t.co/3GdsPaIUaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975961322539155456"
+          ]
+        },
+        "author_id": "1893446766",
+        "conversation_id": "1975961324992749623",
+        "created_at": "2025-10-08T16:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975961324992749623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GdsPaIUaU",
+              "end": 29,
+              "expanded_url": "https://x.com/gloomy__duck/status/1975961324992749623/photo/1",
+              "media_key": "3_1975961322539155456",
+              "start": 6,
+              "url": "https://t.co/3GdsPaIUaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975961324992749623",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5745,
+          "impression_count": 2633322,
+          "like_count": 79923,
+          "quote_count": 1608,
+          "reply_count": 18,
+          "retweet_count": 29450
+        },
+        "reply_settings": "everyone",
+        "text": "봄의 제전 https://t.co/3GdsPaIUaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 2195,
+          "like_count": 23291,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6133
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-22T11:51:23.000Z",
+        "description": "동방신기_김준수 덕질하면서 뮤덕까지\n🩷🦊햇살대장 순애중🩷",
+        "id": "1893446766",
+        "name": "울보오리",
+        "pinned_tweet_id": "1975971153001971735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683853327271104513/M_zGtU5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 337,
+          "like_count": 13734,
+          "listed_count": 4,
+          "media_count": 1820,
+          "tweet_count": 55729
+        },
+        "username": "gloomy__duck",
+        "verified": false
+      }
+    ]
+  }
+}

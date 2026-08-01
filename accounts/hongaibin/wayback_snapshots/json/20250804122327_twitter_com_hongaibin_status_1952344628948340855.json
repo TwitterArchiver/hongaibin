@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1951611108877640126",
+    "created_at": "2025-08-04T12:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952344628948340855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952344628948340855",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951611108877640126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 看起来像丧尸😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24397,
+        "height": 412,
+        "media_key": "7_1951610993723019264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951610993723019264/pu/img/6OckXqyhAFsTsYFF.jpg",
+        "public_metrics": {
+          "view_count": 152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951610993723019264/pu/vid/avc1/628x270/ced5lMS2ziPhGQsR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951610993723019264/pu/vid/avc1/960x412/FvZQROL-WGJnt7a_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951610993723019264/pu/pl/gKLv0P7x_icar9Qw.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1951611108877640126",
+        "created_at": "2025-08-04T12:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952344628948340855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952344628948340855",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951611108877640126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 看起来像丧尸😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951610993723019264"
+          ]
+        },
+        "author_id": "708700717",
+        "conversation_id": "1951611108877640126",
+        "created_at": "2025-08-02T11:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T12:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951611108877640126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zHeTk1leJ",
+              "end": 30,
+              "expanded_url": "https://x.com/GuajavaDuo/status/1951611108877640126/video/1",
+              "media_key": "7_1951610993723019264",
+              "start": 7,
+              "url": "https://t.co/8zHeTk1leJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951611108877640126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 646,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高级演唱会（ https://t.co/8zHeTk1leJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 2106,
+          "like_count": 21297,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5749
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "让我醉了再来回答你的问题\n醒着，我确实不知道他们的区别",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "何何猫猫",
+        "pinned_tweet_id": "1949730757645402154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946582960691388417/Ty5xBbAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7370,
+          "following_count": 1522,
+          "like_count": 7410,
+          "listed_count": 54,
+          "media_count": 22072,
+          "tweet_count": 345410
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952293500432920667",
+    "created_at": "2025-08-04T09:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952293500432920667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1638893284218261504",
+          "start": 3,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952293500432920667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950901111210070224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Benzyl_titanium: 不仅是挪位置，里面居然有新的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1952293500432920667",
+        "created_at": "2025-08-04T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952293500432920667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1638893284218261504",
+              "start": 3,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952293500432920667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950901111210070224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Benzyl_titanium: 不仅是挪位置，里面居然有新的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638893284218261504",
+        "conversation_id": "1950901111210070224",
+        "created_at": "2025-07-31T12:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950901111210070224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Benzyl_titaniu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Benzyl_titanium/status/1950025000766853445",
+              "start": 18,
+              "url": "https://t.co/p8ylZbtjRf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950901111210070224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2852,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950025000766853445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不仅是挪位置，里面居然有新的... https://t.co/p8ylZbtjRf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2096,
+          "like_count": 21132,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5697
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合不成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 131,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 108,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Benzyl-titanium",
+                "end": 23,
+                "expanded_url": "https://github.com/Benzyl-titanium",
+                "start": 0,
+                "url": "https://t.co/TYSAJHRX5k"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 528,
+          "like_count": 8305,
+          "listed_count": 6,
+          "media_count": 361,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/TYSAJHRX5k",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "2020324001688744308",
+    "created_at": "2026-04-29T19:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T20:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049579372169031895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4880436965",
+          "start": 0,
+          "username": "ANA7_6_7"
+        },
+        {
+          "end": 26,
+          "id": "1370501129805590528",
+          "start": 10,
+          "username": "aKSfsTTJEu4Krxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049579372169031895",
+    "in_reply_to_user_id": "4880436965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034599839980515570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANA7_6_7 @aKSfsTTJEu4Krxv 这是我一直想做到的😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034599832858607616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxZxKmbQAAAiIQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034599832858632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxZxKmboAAFFWg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034599832858583040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxZxKma4AAfNBu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034599832858542080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxZxKmaQAAgP34.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "2020324001688744308",
+        "created_at": "2026-04-29T19:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049579372169031895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4880436965",
+              "start": 0,
+              "username": "ANA7_6_7"
+            },
+            {
+              "end": 26,
+              "id": "1370501129805590528",
+              "start": 10,
+              "username": "aKSfsTTJEu4Krxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049579372169031895",
+        "in_reply_to_user_id": "4880436965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034599839980515570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANA7_6_7 @aKSfsTTJEu4Krxv 这是我一直想做到的😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034599832858607616",
+            "3_2034599832858632192",
+            "3_2034599832858583040",
+            "3_2034599832858542080"
+          ]
+        },
+        "author_id": "4880436965",
+        "conversation_id": "2020324001688744308",
+        "created_at": "2026-03-19T11:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034599839980515570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370501129805590528",
+              "start": 0,
+              "username": "aKSfsTTJEu4Krxv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZUuSAhsnX",
+              "end": 90,
+              "expanded_url": "https://x.com/ANA7_6_7/status/2034599839980515570/photo/1",
+              "media_key": "3_2034599832858607616",
+              "start": 67,
+              "url": "https://t.co/nZUuSAhsnX"
+            },
+            {
+              "display_url": "pic.x.com/nZUuSAhsnX",
+              "end": 90,
+              "expanded_url": "https://x.com/ANA7_6_7/status/2034599839980515570/photo/1",
+              "media_key": "3_2034599832858632192",
+              "start": 67,
+              "url": "https://t.co/nZUuSAhsnX"
+            },
+            {
+              "display_url": "pic.x.com/nZUuSAhsnX",
+              "end": 90,
+              "expanded_url": "https://x.com/ANA7_6_7/status/2034599839980515570/photo/1",
+              "media_key": "3_2034599832858583040",
+              "start": 67,
+              "url": "https://t.co/nZUuSAhsnX"
+            },
+            {
+              "display_url": "pic.x.com/nZUuSAhsnX",
+              "end": 90,
+              "expanded_url": "https://x.com/ANA7_6_7/status/2034599839980515570/photo/1",
+              "media_key": "3_2034599832858542080",
+              "start": 67,
+              "url": "https://t.co/nZUuSAhsnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034599839980515570",
+        "in_reply_to_user_id": "1370501129805590528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020324001688744308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKSfsTTJEu4Krxv コレは違うけど、セーラー服を買った時\n夜中にセーラー服着てやるビデオ撮って\nそれを見ながらやります https://t.co/nZUuSAhsnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 2307,
+          "like_count": 24814,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 6488
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:49:51.000Z",
+        "description": "新潟県でセーラー服が好きな方居ますか？DMお願いします 尼･CB･DCRやってます イートンWとセーラー服が好き 、巫女装束・矢絣袴・白の剣道着・無線・デコトラ・ヌコ・飛行機・国鉄JNRも好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChmSu…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UChmSucTk4VxFHEKejpVpaBg?feature=shared",
+                "start": 0,
+                "url": "https://t.co/xAkEmKoci7"
+              }
+            ]
+          }
+        },
+        "id": "4880436965",
+        "location": "新潟 ",
+        "name": "ANA8376",
+        "pinned_tweet_id": "1966382025826558009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002143404587954181/CmEuBOFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 2806,
+          "like_count": 186901,
+          "listed_count": 3,
+          "media_count": 3803,
+          "tweet_count": 9863
+        },
+        "url": "https://t.co/xAkEmKoci7",
+        "username": "ANA7_6_7",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-12T22:25:22.000Z",
+        "description": "自宅で制服女装&学ラン着込みの記録。メイク出来ないので顔はぼかしてます。\n\nJKJC制服大好き！かわいい女子&女装子さん大好き！\n学ラン、短ランボンタン大好き！♥\n\n無言フォローすみません、&歓迎です\n\n#女装さんと繋がりたい \n#男の娘と繋がりたい\n#学ラン好きと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 102,
+                "tag": "女装さんと繋がりたい"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "tag": "男の娘と繋がりたい"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "tag": "学ラン好きと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1370501129805590528",
+        "location": "日本 岡山",
+        "name": "ゆうき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428328637107900421/hAoAoktM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 422,
+          "like_count": 13555,
+          "listed_count": 7,
+          "media_count": 115,
+          "tweet_count": 283
+        },
+        "username": "aKSfsTTJEu4Krxv",
+        "verified": false
+      }
+    ]
+  }
+}

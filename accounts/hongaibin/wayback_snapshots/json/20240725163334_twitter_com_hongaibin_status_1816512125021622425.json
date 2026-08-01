@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1816512125021622425",
+    "created_at": "2024-07-25T16:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T17:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816512125021622425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464586716010921985",
+          "start": 3,
+          "username": "RDrugLab"
+        },
+        {
+          "end": 23,
+          "id": "1481172876589821952",
+          "start": 14,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816512125021622425",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816469030846476721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RDrugLab: @pyke2076 我认识一个人的朋友吸这种未知成分的大麻素吸得脑损伤（记忆力严重下降，持续头痛等）了。说是劲特大，一口升天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1816512125021622425",
+        "created_at": "2024-07-25T16:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T17:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816512125021622425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464586716010921985",
+              "start": 3,
+              "username": "RDrugLab"
+            },
+            {
+              "end": 23,
+              "id": "1481172876589821952",
+              "start": 14,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816512125021622425",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816469030846476721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RDrugLab: @pyke2076 我认识一个人的朋友吸这种未知成分的大麻素吸得脑损伤（记忆力严重下降，持续头痛等）了。说是劲特大，一口升天。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1464586716010921985",
+        "conversation_id": "1816456837920960525",
+        "created_at": "2024-07-25T13:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T14:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816469030846476721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816469030846476721",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816468594722836559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 我认识一个人的朋友吸这种未知成分的大麻素吸得脑损伤（记忆力严重下降，持续头痛等）了。说是劲特大，一口升天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 1152,
+          "like_count": 3322,
+          "listed_count": 1,
+          "tweet_count": 1929
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "旨在教育及危害管理，通过非世俗及道德偏见的方式，追求真实的知识与反馈。",
+        "id": "1464586716010921985",
+        "location": "距您7945km",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1816121161216057358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815428011342393344/QemfBxZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 3,
+          "tweet_count": 168
+        },
+        "username": "RDrugLab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1806167215785615755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 655,
+          "like_count": 29185,
+          "listed_count": 4,
+          "tweet_count": 7847
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

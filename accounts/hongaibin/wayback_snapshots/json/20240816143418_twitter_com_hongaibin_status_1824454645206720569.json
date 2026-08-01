@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1824454645206720569",
+    "created_at": "2024-08-16T14:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T15:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824454645206720569"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "kanaria",
+          "probability": 0.3539,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "Dec"
+        },
+        {
+          "end": 106,
+          "start": 98,
+          "tag": "kanaria"
+        },
+        {
+          "end": 113,
+          "start": 107,
+          "tag": "歌ってみた"
+        },
+        {
+          "end": 120,
+          "start": 114,
+          "tag": "新人歌い手"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732253332255997952",
+          "start": 3,
+          "username": "mgr_am_0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/ueMrVSBbuB8?si…",
+          "end": 91,
+          "expanded_url": "https://youtu.be/ueMrVSBbuB8?si=mdSL_7XuJPQxUfV3",
+          "start": 68,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?si=mdSL_7XuJPQxUfV3&v=ueMrVSBbuB8&feature=youtu.be",
+          "url": "https://t.co/wvpA6tBpc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824454645206720569",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822241047436492895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mgr_am_0: 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃\n\nDec. / kanaria（cover）\n\n✧︎ full ▶︎ https://t.co/wvpA6tBpc9\n\n#Dec #kanaria #歌ってみた #新人歌い手 #歌い手さんMIX師さん絵師さん動画…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1824454645206720569",
+        "created_at": "2024-08-16T14:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T15:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824454645206720569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "kanaria",
+              "probability": 0.3539,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "Dec"
+            },
+            {
+              "end": 106,
+              "start": 98,
+              "tag": "kanaria"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "歌ってみた"
+            },
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "新人歌い手"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732253332255997952",
+              "start": 3,
+              "username": "mgr_am_0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/ueMrVSBbuB8?si…",
+              "end": 91,
+              "expanded_url": "https://youtu.be/ueMrVSBbuB8?si=mdSL_7XuJPQxUfV3",
+              "start": 68,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?si=mdSL_7XuJPQxUfV3&v=ueMrVSBbuB8&feature=youtu.be",
+              "url": "https://t.co/wvpA6tBpc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824454645206720569",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822241047436492895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mgr_am_0: 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃\n\nDec. / kanaria（cover）\n\n✧︎ full ▶︎ https://t.co/wvpA6tBpc9\n\n#Dec #kanaria #歌ってみた #新人歌い手 #歌い手さんMIX師さん絵師さん動画…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822240983066574849"
+          ]
+        },
+        "author_id": "1732253332255997952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1822241047436492895",
+        "created_at": "2024-08-10T11:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T12:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822241047436492895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "Dec"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "kanaria"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "歌ってみた"
+            },
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "新人歌い手"
+            },
+            {
+              "end": 137,
+              "start": 107,
+              "tag": "歌い手さんMIX師さん絵師さん動画師さんとPさん繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/ueMrVSBbuB8?si…",
+              "end": 77,
+              "expanded_url": "https://youtu.be/ueMrVSBbuB8?si=mdSL_7XuJPQxUfV3",
+              "start": 54,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?si=mdSL_7XuJPQxUfV3&v=ueMrVSBbuB8&feature=youtu.be",
+              "url": "https://t.co/wvpA6tBpc9"
+            },
+            {
+              "display_url": "pic.x.com/ipekfaxgv1",
+              "end": 161,
+              "expanded_url": "https://twitter.com/mgr_am_0/status/1822241047436492895/video/1",
+              "media_key": "7_1822240983066574849",
+              "start": 138,
+              "url": "https://t.co/IpEKFaXgv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822241047436492895",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9044,
+          "like_count": 309,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃\n\nDec. / kanaria（cover）\n\n✧︎ full ▶︎ https://t.co/wvpA6tBpc9\n\n#Dec #kanaria #歌ってみた #新人歌い手 #歌い手さんMIX師さん絵師さん動画師さんとPさん繋がりたい https://t.co/IpEKFaXgv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1280,
+          "like_count": 5354,
+          "listed_count": 2,
+          "tweet_count": 2515
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T04:19:21.000Z",
+        "description": "歌うジャージメイド †❤︎┊︎読み‣ あまみ めぐる┊︎FM‣ ❤️‍🩹🪽┊︎Tag‣ #起きてよめぐるちゃん┊︎FA‣ #巡るAtelier┊︎ sub‣ @nya__mgmg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 44,
+                "tag": "起きてよめぐるちゃん"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "tag": "巡るAtelier"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "nya__mgmg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@megu_ru_0?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@megu_ru_0?si=HG8IU5BV8cJyg5qE",
+                "start": 0,
+                "url": "https://t.co/Vr9kpvbgWi"
+              }
+            ]
+          }
+        },
+        "id": "1732253332255997952",
+        "location": "start / 2024. 02. 05 ~",
+        "name": "天水 めぐる ໒꒱",
+        "pinned_tweet_id": "1822241047436492895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774057323469881344/Cvrmzfoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 290,
+          "like_count": 9251,
+          "listed_count": 10,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/Vr9kpvbgWi",
+        "username": "mgr_am_0",
+        "verified": false
+      }
+    ]
+  }
+}

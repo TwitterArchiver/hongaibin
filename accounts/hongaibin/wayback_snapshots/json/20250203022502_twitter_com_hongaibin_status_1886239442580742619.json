@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885938269856448512"
+      ],
+      "media_source_tweet_id": [
+        "1885938456687444060"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886239442580742619",
+    "created_at": "2025-02-03T02:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T03:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886239442580742619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1182158764419403776",
+          "start": 3,
+          "username": "SilenceGvq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5dDRwbOZ1C",
+          "end": 53,
+          "expanded_url": "https://x.com/SilenceGvq/status/1885938456687444060/photo/1",
+          "media_key": "3_1885938269856448512",
+          "start": 30,
+          "url": "https://t.co/5dDRwbOZ1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886239442580742619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885938456687444060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SilenceGvq: 這個女生骨子裏透著滿滿的坏 https://t.co/5dDRwbOZ1C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1885938269856448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giwy3UMbwAAbjT3.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885938269856448512"
+          ],
+          "media_source_tweet_id": [
+            "1885938456687444060"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886239442580742619",
+        "created_at": "2025-02-03T02:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T03:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886239442580742619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1182158764419403776",
+              "start": 3,
+              "username": "SilenceGvq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dDRwbOZ1C",
+              "end": 53,
+              "expanded_url": "https://x.com/SilenceGvq/status/1885938456687444060/photo/1",
+              "media_key": "3_1885938269856448512",
+              "start": 30,
+              "url": "https://t.co/5dDRwbOZ1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886239442580742619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885938456687444060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SilenceGvq: 這個女生骨子裏透著滿滿的坏 https://t.co/5dDRwbOZ1C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885938269856448512"
+          ]
+        },
+        "author_id": "1182158764419403776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885938456687444060",
+        "created_at": "2025-02-02T06:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T07:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885938456687444060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dDRwbOZ1C",
+              "end": 37,
+              "expanded_url": "https://x.com/SilenceGvq/status/1885938456687444060/photo/1",
+              "media_key": "3_1885938269856448512",
+              "start": 14,
+              "url": "https://t.co/5dDRwbOZ1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885938456687444060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 693557,
+          "like_count": 3892,
+          "quote_count": 39,
+          "reply_count": 359,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "這個女生骨子裏透著滿滿的坏 https://t.co/5dDRwbOZ1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1709,
+          "like_count": 14861,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 4379
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109108,
+          "following_count": 561,
+          "like_count": 151304,
+          "listed_count": 360,
+          "media_count": 7575,
+          "tweet_count": 23896
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

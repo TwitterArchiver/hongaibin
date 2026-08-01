@@ -1,0 +1,294 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1814357984967045120"
+      ],
+      "media_source_tweet_id": [
+        "1814358025312055296"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1814363318515278038",
+    "created_at": "2024-07-19T18:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T19:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814363318515278038"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "剛烷胺",
+          "probability": 0.4874,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/N05IFSfeMY",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/1814358025312055296/video/1",
+          "media_key": "7_1814357984967045120",
+          "start": 26,
+          "url": "https://t.co/N05IFSfeMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814363318515278038",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814358025312055296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: 殺死！金剛烷胺 https://t.co/N05IFSfeMY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26033,
+        "height": 720,
+        "media_key": "7_1814357984967045120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1814357984967045120/pu/img/YB6WTaWurCQsi2Ig.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814357984967045120/pu/vid/avc1/360x270/Sx7GAxGSvvjAnZhJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814357984967045120/pu/vid/avc1/480x360/IIrlByJ8x6XFG0Xz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814357984967045120/pu/vid/avc1/960x720/pzKWoggRnfy62WZs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1814357984967045120/pu/pl/F1Vykn4sFWwJAhfo.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814357984967045120"
+          ],
+          "media_source_tweet_id": [
+            "1814358025312055296"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1814363318515278038",
+        "created_at": "2024-07-19T18:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T19:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814363318515278038"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "剛烷胺",
+              "probability": 0.4874,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/N05IFSfeMY",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1814358025312055296/video/1",
+              "media_key": "7_1814357984967045120",
+              "start": 26,
+              "url": "https://t.co/N05IFSfeMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814363318515278038",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814358025312055296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: 殺死！金剛烷胺 https://t.co/N05IFSfeMY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1814357984967045120"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "1814358025312055296",
+        "created_at": "2024-07-19T17:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T18:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814358025312055296"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "剛烷胺",
+              "probability": 0.482,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/N05IFSfeMY",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1814358025312055296/video/1",
+              "media_key": "7_1814357984967045120",
+              "start": 8,
+              "url": "https://t.co/N05IFSfeMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814358025312055296",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "殺死！金剛烷胺 https://t.co/N05IFSfeMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1150,
+          "like_count": 3016,
+          "listed_count": 1,
+          "tweet_count": 1792
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "“事已至此！”无论你再怎么思考二度，你已经存在于这个世界的事实并不会改变。正如她在烟火节中所看到的风景，五百克纸皮，七百五十六克火药，一点二五克氧化锶，即使只是为了一分二十七秒的烟火火，便要让锶付出一生的代价！如果你还能听见既视感的声音，那暂时的念头祝福你，因为你仍然存在于这个荒缪的世界里！\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 147,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV17b421…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV17b421p7aC",
+                "start": 0,
+                "url": "https://t.co/yNJGdWdQ1L"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "エフェメラリズム ~ Ephemeralism 刹那之物主义",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812051682609569792/8qRZNt0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3480,
+          "following_count": 53,
+          "like_count": 2,
+          "listed_count": 7,
+          "tweet_count": 5170
+        },
+        "url": "https://t.co/yNJGdWdQ1L",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951622565438590976"
+      ],
+      "media_source_tweet_id": [
+        "1951622568558932443"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952285613069398134",
+    "created_at": "2025-08-04T08:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T09:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952285613069398134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740188738469367808",
+          "start": 3,
+          "username": "HJS_2403_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QNxOIO9r72",
+          "end": 59,
+          "expanded_url": "https://x.com/HJS_2403_0/status/1951622568558932443/photo/1",
+          "media_key": "3_1951622565438590976",
+          "start": 36,
+          "url": "https://t.co/QNxOIO9r72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952285613069398134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951622568558932443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HJS_2403_0: 没关系\n又活了一天已经很厉害了\n你真棒 https://t.co/QNxOIO9r72"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1951622565438590976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWOYhSakAAtSmH.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951622565438590976"
+          ],
+          "media_source_tweet_id": [
+            "1951622568558932443"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1952285613069398134",
+        "created_at": "2025-08-04T08:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952285613069398134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740188738469367808",
+              "start": 3,
+              "username": "HJS_2403_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNxOIO9r72",
+              "end": 59,
+              "expanded_url": "https://x.com/HJS_2403_0/status/1951622568558932443/photo/1",
+              "media_key": "3_1951622565438590976",
+              "start": 36,
+              "url": "https://t.co/QNxOIO9r72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952285613069398134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951622568558932443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HJS_2403_0: 没关系\n又活了一天已经很厉害了\n你真棒 https://t.co/QNxOIO9r72"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951622565438590976"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "conversation_id": "1951622568558932443",
+        "created_at": "2025-08-02T12:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951622568558932443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNxOIO9r72",
+              "end": 43,
+              "expanded_url": "https://x.com/HJS_2403_0/status/1951622568558932443/photo/1",
+              "media_key": "3_1951622565438590976",
+              "start": 20,
+              "url": "https://t.co/QNxOIO9r72"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1951622568558932443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 350,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没关系\n又活了一天已经很厉害了\n你真棒 https://t.co/QNxOIO9r72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2095,
+          "like_count": 21080,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5684
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  荒景肆(Arakei Shi)\n⚠️精神疾患 | LGBTQ | 文學向@HJS_2403_2\n勘測系統 | INFP-A |🩵🩶心裏建設供給\n虛無|理想|開拓|荒誕 主義患者？\n無政治立場 無參與圈子\nEx2403 程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1857305945015296224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 287,
+          "like_count": 30340,
+          "listed_count": 4,
+          "media_count": 804,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

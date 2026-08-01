@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024055198310858752"
+      ],
+      "media_source_tweet_id": [
+        "2024055280716161100"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024159516288590111",
+    "created_at": "2026-02-18T16:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024159516288590111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811888010088316932",
+          "start": 3,
+          "username": "cuichenghao7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrCOH0cxzH",
+          "end": 90,
+          "expanded_url": "https://x.com/cuichenghao7/status/2024055280716161100/video/1",
+          "media_key": "13_2024055198310858752",
+          "start": 67,
+          "url": "https://t.co/FrCOH0cxzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024159516288590111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024055280716161100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuichenghao7: 第一起机器人伤人事故？一个宇树机器人表演时摔倒，操控者上前扶助时，被机器人一脚把其鼻子踢破出血。 https://t.co/FrCOH0cxzH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14100,
+        "height": 1628,
+        "media_key": "13_2024055198310858752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024055198310858752/img/qjhYogXG4r5tuu-5.jpg",
+        "public_metrics": {
+          "view_count": 114369
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024055198310858752/vid/avc1/480x878/Ntkz5jTNzWaCQYSC.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024055198310858752/vid/avc1/320x586/jrBnVbePAYaGi7gz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024055198310858752/vid/avc1/888x1628/8pDqmMe67RB9JSTV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024055198310858752/vid/avc1/720x1320/LbSes0_S19g7npyf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024055198310858752/pl/1veO0eSNx162g2IW.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024055198310858752"
+          ],
+          "media_source_tweet_id": [
+            "2024055280716161100"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024159516288590111",
+        "created_at": "2026-02-18T16:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024159516288590111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811888010088316932",
+              "start": 3,
+              "username": "cuichenghao7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrCOH0cxzH",
+              "end": 90,
+              "expanded_url": "https://x.com/cuichenghao7/status/2024055280716161100/video/1",
+              "media_key": "13_2024055198310858752",
+              "start": 67,
+              "url": "https://t.co/FrCOH0cxzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024159516288590111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024055280716161100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuichenghao7: 第一起机器人伤人事故？一个宇树机器人表演时摔倒，操控者上前扶助时，被机器人一脚把其鼻子踢破出血。 https://t.co/FrCOH0cxzH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024055198310858752"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2024055280716161100",
+        "created_at": "2026-02-18T09:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024055280716161100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrCOH0cxzH",
+              "end": 72,
+              "expanded_url": "https://x.com/cuichenghao7/status/2024055280716161100/video/1",
+              "media_key": "13_2024055198310858752",
+              "start": 49,
+              "url": "https://t.co/FrCOH0cxzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024055280716161100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 196832,
+          "like_count": 611,
+          "quote_count": 18,
+          "reply_count": 89,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "第一起机器人伤人事故？一个宇树机器人表演时摔倒，操控者上前扶助时，被机器人一脚把其鼻子踢破出血。 https://t.co/FrCOH0cxzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 2316,
+          "like_count": 24377,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 6386
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81356,
+          "following_count": 629,
+          "like_count": 4860,
+          "listed_count": 283,
+          "media_count": 2331,
+          "tweet_count": 2488
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

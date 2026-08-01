@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1828394761637765287",
+    "created_at": "2024-08-27T11:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T12:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828394761637765287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650760116918943744",
+          "start": 3,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828394761637765287",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825707369239609821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusanyyy8: 当白月光挺惨的，对方啥也没做，就出一张嘴，一开口就是喜欢你七八九十年，不知道的还以为你糟蹋人家十年青春。而且很可能这十年，人家女友位也一直没闲着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1828394761637765287",
+        "created_at": "2024-08-27T11:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T12:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828394761637765287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650760116918943744",
+              "start": 3,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828394761637765287",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825707369239609821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusanyyy8: 当白月光挺惨的，对方啥也没做，就出一张嘴，一开口就是喜欢你七八九十年，不知道的还以为你糟蹋人家十年青春。而且很可能这十年，人家女友位也一直没闲着。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1825707369239609821",
+        "created_at": "2024-08-20T01:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T02:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825707369239609821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825707369239609821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8493,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "当白月光挺惨的，对方啥也没做，就出一张嘴，一开口就是喜欢你七八九十年，不知道的还以为你糟蹋人家十年青春。而且很可能这十年，人家女友位也一直没闲着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1364,
+          "like_count": 6171,
+          "listed_count": 3,
+          "tweet_count": 2656
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "紫罗兰的美 在于它的细小",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yusanyyy8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yusanyyy8",
+                "start": 0,
+                "url": "https://t.co/1aIiKMVfgb"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "連線世界",
+        "name": "✟击穿紫罗兰💉",
+        "pinned_tweet_id": "1826286908072477092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826304706077229056/524bQ3ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 779,
+          "like_count": 36874,
+          "listed_count": 4,
+          "tweet_count": 12661
+        },
+        "url": "https://t.co/1aIiKMVfgb",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

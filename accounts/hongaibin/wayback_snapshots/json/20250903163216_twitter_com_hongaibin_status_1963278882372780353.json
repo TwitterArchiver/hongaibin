@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962860702349090817"
+      ],
+      "media_source_tweet_id": [
+        "1962860704823935084"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1963278882372780353",
+    "created_at": "2025-09-03T16:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963278882372780353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798724969695977472",
+          "start": 3,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "overdose.day",
+          "end": 55,
+          "expanded_url": "http://overdose.day",
+          "images": [
+            {
+              "height": 2400,
+              "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "化学极乐百科",
+          "unwound_url": "https://overdose.day/",
+          "url": "https://t.co/9x9Mg9uIUe"
+        },
+        {
+          "display_url": "pic.x.com/0W8OzplMqi",
+          "end": 88,
+          "expanded_url": "https://x.com/overdosewiki/status/1962860704823935084/photo/1",
+          "media_key": "3_1962860702349090817",
+          "start": 65,
+          "url": "https://t.co/0W8OzplMqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963278882372780353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962860704823935084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdosewiki: 这位是参与过后土百科采访的\nhttps://t.co/9x9Mg9uIUe wiki主\n沐雨 https://t.co/0W8OzplMqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_1962860702349090817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz17aLsXYAEsX1n.jpg",
+        "width": 673
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962860702349090817"
+          ],
+          "media_source_tweet_id": [
+            "1962860704823935084"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1963278882372780353",
+        "created_at": "2025-09-03T16:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963278882372780353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798724969695977472",
+              "start": 3,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 55,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 2400,
+                  "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "化学极乐百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/9x9Mg9uIUe"
+            },
+            {
+              "display_url": "pic.x.com/0W8OzplMqi",
+              "end": 88,
+              "expanded_url": "https://x.com/overdosewiki/status/1962860704823935084/photo/1",
+              "media_key": "3_1962860702349090817",
+              "start": 65,
+              "url": "https://t.co/0W8OzplMqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963278882372780353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962860704823935084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdosewiki: 这位是参与过后土百科采访的\nhttps://t.co/9x9Mg9uIUe wiki主\n沐雨 https://t.co/0W8OzplMqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962860702349090817"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1962860704823935084",
+        "created_at": "2025-09-02T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962860704823935084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 37,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 2400,
+                  "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962339683360542720/lzWsHMpY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "化学极乐百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/9x9Mg9uIUe"
+            },
+            {
+              "display_url": "pic.x.com/0W8OzplMqi",
+              "end": 70,
+              "expanded_url": "https://x.com/overdosewiki/status/1962860704823935084/photo/1",
+              "media_key": "3_1962860702349090817",
+              "start": 47,
+              "url": "https://t.co/0W8OzplMqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962860704823935084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7045,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这位是参与过后土百科采访的\nhttps://t.co/9x9Mg9uIUe wiki主\n沐雨 https://t.co/0W8OzplMqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2171,
+          "like_count": 22253,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 5964
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1963109499503255683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 11,
+          "like_count": 353,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

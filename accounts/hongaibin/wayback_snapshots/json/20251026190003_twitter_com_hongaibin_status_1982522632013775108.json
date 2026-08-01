@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982378486535720960"
+      ],
+      "media_source_tweet_id": [
+        "1982378492802310526"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1982522632013775108",
+    "created_at": "2025-10-26T19:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T20:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982522632013775108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "mnhr_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRhkfuGG2N",
+          "end": 38,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/1982378492802310526/photo/1",
+          "media_key": "3_1982378486535720960",
+          "start": 15,
+          "url": "https://t.co/QRhkfuGG2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982522632013775108",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982378492802310526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr_hkmn: https://t.co/QRhkfuGG2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_1982378486535720960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LSuvxWkAAKVM4.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982378486535720960"
+          ],
+          "media_source_tweet_id": [
+            "1982378492802310526"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1982522632013775108",
+        "created_at": "2025-10-26T19:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T20:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982522632013775108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "mnhr_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRhkfuGG2N",
+              "end": 38,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/1982378492802310526/photo/1",
+              "media_key": "3_1982378486535720960",
+              "start": 15,
+              "url": "https://t.co/QRhkfuGG2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982522632013775108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982378492802310526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr_hkmn: https://t.co/QRhkfuGG2N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982378486535720960"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "conversation_id": "1982378492802310526",
+        "created_at": "2025-10-26T09:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982378492802310526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRhkfuGG2N",
+              "end": 23,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/1982378492802310526/photo/1",
+              "media_key": "3_1982378486535720960",
+              "start": 0,
+              "url": "https://t.co/QRhkfuGG2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982378492802310526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 9766,
+          "like_count": 683,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QRhkfuGG2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 2211,
+          "like_count": 23448,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6184
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません Discord鯖:https://t.co/3O01i9Pa4Gサブ垢@ODdaisukinTV 自我垢@the_last09s コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 54,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 31,
+                "url": "https://t.co/3O01i9Pa4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/132701830…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/132701830?ref=nicoiphone_other",
+                "start": 0,
+                "url": "https://t.co/ebgFGJNDCO"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975136555204493312/5pT0MMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3267,
+          "following_count": 1926,
+          "like_count": 292,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/ebgFGJNDCO",
+        "username": "mnhr_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

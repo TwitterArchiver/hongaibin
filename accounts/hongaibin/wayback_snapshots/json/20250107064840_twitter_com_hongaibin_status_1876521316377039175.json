@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876314048360574976",
+        "3_1876314048582885376",
+        "3_1876314048805183488",
+        "3_1876314049191059456"
+      ],
+      "media_source_tweet_id": [
+        "1876314058766630954",
+        "1876314058766630954",
+        "1876314058766630954",
+        "1876314058766630954"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876521316377039175",
+    "created_at": "2025-01-07T06:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T07:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876521316377039175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609844142313553921",
+          "start": 3,
+          "username": "Nijika_overdose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmhTxePAAV",
+          "end": 59,
+          "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+          "media_key": "3_1876314048360574976",
+          "start": 36,
+          "url": "https://t.co/PmhTxePAAV"
+        },
+        {
+          "display_url": "pic.x.com/PmhTxePAAV",
+          "end": 59,
+          "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+          "media_key": "3_1876314048582885376",
+          "start": 36,
+          "url": "https://t.co/PmhTxePAAV"
+        },
+        {
+          "display_url": "pic.x.com/PmhTxePAAV",
+          "end": 59,
+          "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+          "media_key": "3_1876314048805183488",
+          "start": 36,
+          "url": "https://t.co/PmhTxePAAV"
+        },
+        {
+          "display_url": "pic.x.com/PmhTxePAAV",
+          "end": 59,
+          "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+          "media_key": "3_1876314049191059456",
+          "start": 36,
+          "url": "https://t.co/PmhTxePAAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876521316377039175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876314058766630954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_overdose: 吃波后藤的黑流量😃\n啃啃尸体 https://t.co/PmhTxePAAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_1876314048360574976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoBr5ObcAABrPC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 925,
+        "media_key": "3_1876314048582885376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoBr6DboAAZNSV.jpg",
+        "width": 822
+      },
+      {
+        "height": 2132,
+        "media_key": "3_1876314048805183488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoBr64boAAFZsw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1624,
+        "media_key": "3_1876314049191059456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgoBr8UboAAoo4-.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876314048360574976",
+            "3_1876314048582885376",
+            "3_1876314048805183488",
+            "3_1876314049191059456"
+          ],
+          "media_source_tweet_id": [
+            "1876314058766630954",
+            "1876314058766630954",
+            "1876314058766630954",
+            "1876314058766630954"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876521316377039175",
+        "created_at": "2025-01-07T06:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T07:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876521316377039175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609844142313553921",
+              "start": 3,
+              "username": "Nijika_overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 59,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048360574976",
+              "start": 36,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 59,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048582885376",
+              "start": 36,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 59,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048805183488",
+              "start": 36,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 59,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314049191059456",
+              "start": 36,
+              "url": "https://t.co/PmhTxePAAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876521316377039175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876314058766630954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_overdose: 吃波后藤的黑流量😃\n啃啃尸体 https://t.co/PmhTxePAAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876314048360574976",
+            "3_1876314048582885376",
+            "3_1876314048805183488",
+            "3_1876314049191059456"
+          ]
+        },
+        "author_id": "1609844142313553921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876314058766630954",
+        "created_at": "2025-01-06T17:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876314058766630954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 38,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048360574976",
+              "start": 15,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 38,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048582885376",
+              "start": 15,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 38,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314048805183488",
+              "start": 15,
+              "url": "https://t.co/PmhTxePAAV"
+            },
+            {
+              "display_url": "pic.x.com/PmhTxePAAV",
+              "end": 38,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1876314058766630954/photo/1",
+              "media_key": "3_1876314049191059456",
+              "start": 15,
+              "url": "https://t.co/PmhTxePAAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876314058766630954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃波后藤的黑流量😃\n啃啃尸体 https://t.co/PmhTxePAAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1677,
+          "like_count": 13357,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 4049
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），医学🐶，战地一睾手，友跨，阳痿，不定时上推回消息。另外药物相关会转到@Nijika_Dark\n请不要将内容搬至墙内，谢谢\noverdose wiki 已死，但感谢所有曾经的来过，期待并相信后人的智慧\n主包建小群辣！！！群号883781732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Nijika_Dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/Dl8WczpH27"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1873762961397047594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 142,
+          "like_count": 2369,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/Dl8WczpH27",
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

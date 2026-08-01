@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1833836189234999500",
+    "created_at": "2024-09-11T11:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T12:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833836189234999500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "98395025",
+          "start": 3,
+          "username": "urassholes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833836189234999500",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832655103146508627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @urassholes: 读了这么多年书\n得到了近视的眼睛\n侧弯的脊柱\n死掉的屁股\n扭曲的手指\n脆弱的胃\n然后换来一份3000块钱的工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1833836189234999500",
+        "created_at": "2024-09-11T11:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T12:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833836189234999500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "98395025",
+              "start": 3,
+              "username": "urassholes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833836189234999500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832655103146508627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @urassholes: 读了这么多年书\n得到了近视的眼睛\n侧弯的脊柱\n死掉的屁股\n扭曲的手指\n脆弱的胃\n然后换来一份3000块钱的工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98395025",
+        "conversation_id": "1832655103146508627",
+        "created_at": "2024-09-08T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832655103146508627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832655103146508627",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 104665,
+          "like_count": 1428,
+          "quote_count": 15,
+          "reply_count": 36,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "读了这么多年书\n得到了近视的眼睛\n侧弯的脊柱\n死掉的屁股\n扭曲的手指\n脆弱的胃\n然后换来一份3000块钱的工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1478,
+          "like_count": 7393,
+          "listed_count": 3,
+          "tweet_count": 2913
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-21T14:49:09.000Z",
+        "description": "现在是一名教师，理想是成为一名自由艺术家。\n爱书、爱国画、爱动漫，爱一切小工艺品。\n#教育 #艺术",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "教育"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "艺术"
+              }
+            ]
+          }
+        },
+        "id": "98395025",
+        "location": "Changsha",
+        "name": "豆小豆",
+        "pinned_tweet_id": "1807593465124896971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1041272742752841728/HHdm4FUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19330,
+          "following_count": 44,
+          "like_count": 2294,
+          "listed_count": 137,
+          "tweet_count": 16463
+        },
+        "username": "urassholes",
+        "verified": false
+      }
+    ]
+  }
+}

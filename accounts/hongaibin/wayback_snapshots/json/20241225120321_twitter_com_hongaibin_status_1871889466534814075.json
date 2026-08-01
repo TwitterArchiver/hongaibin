@@ -1,0 +1,711 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1871889466534814075",
+    "created_at": "2024-12-25T12:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871889466534814075"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Santa Claus",
+          "probability": 0.498,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "Saint Nick",
+          "probability": 0.4226,
+          "start": 110,
+          "type": "Person"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Rud",
+          "probability": 0.3287,
+          "start": 136,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "BREAKING"
+        },
+        {
+          "end": 40,
+          "start": 26,
+          "tag": "Christmas2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1306618124851195907",
+          "start": 3,
+          "username": "cielrobruh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871889466534814075",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871750255915815286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cielrobruh: #BREAKING #Christmas2024 cancelled: Santa Claus shot down after violating Turkish airspace. \n\nSaint Nick warned against Rud…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871889466534814075",
+        "created_at": "2024-12-25T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871889466534814075"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Santa Claus",
+              "probability": 0.498,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Saint Nick",
+              "probability": 0.4226,
+              "start": 110,
+              "type": "Person"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Rud",
+              "probability": 0.3287,
+              "start": 136,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "BREAKING"
+            },
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "Christmas2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1306618124851195907",
+              "start": 3,
+              "username": "cielrobruh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871889466534814075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871750255915815286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cielrobruh: #BREAKING #Christmas2024 cancelled: Santa Claus shot down after violating Turkish airspace. \n\nSaint Nick warned against Rud…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871748427891044352"
+          ]
+        },
+        "author_id": "1306618124851195907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Turkey Recep Erdoğan",
+              "id": "907657363670188032",
+              "name": "Recep Tayyip Erdoğan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Turkey Recep Erdoğan",
+              "id": "907657363670188032",
+              "name": "Recep Tayyip Erdoğan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Turkey Recep Erdoğan",
+              "id": "907657363670188032",
+              "name": "Recep Tayyip Erdoğan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1871750255915815286",
+        "created_at": "2024-12-25T02:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T03:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871750255915815286"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Santa Claus",
+              "probability": 0.4052,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Saint Nick",
+              "probability": 0.3506,
+              "start": 94,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Rudolf",
+              "probability": 0.4981,
+              "start": 120,
+              "type": "Person"
+            },
+            {
+              "end": 147,
+              "normalized_text": "NORAD",
+              "probability": 0.3868,
+              "start": 143,
+              "type": "Place"
+            },
+            {
+              "end": 173,
+              "normalized_text": "Erdogan",
+              "probability": 0.5909,
+              "start": 167,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "BREAKING"
+            },
+            {
+              "end": 24,
+              "start": 10,
+              "tag": "Christmas2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpDhiv8i22",
+              "end": 300,
+              "expanded_url": "https://x.com/cielrobruh/status/1871750255915815286/video/1",
+              "media_key": "7_1871748427891044352",
+              "start": 277,
+              "url": "https://t.co/mpDhiv8i22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871750255915815286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#BREAKING #Christmas2024 cancelled: Santa Claus shot down after violating Turkish airspace. \n\nSaint Nick warned against Rudolf's \"shiny nose\", NORAD commander says. \n\nErdogan confirms sleigh, bodies, gifts recovered, says North Polean technology powered by \"Christmas Spirit\". https://t.co/mpDhiv8i22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1667,
+          "like_count": 13148,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 4018
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T15:37:02.000Z",
+        "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=umshau…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=umshaukVaIo",
+                "start": 0,
+                "url": "https://t.co/cxuL7HiUjO"
+              }
+            ]
+          }
+        },
+        "id": "1306618124851195907",
+        "location": "Chinese Taipei ",
+        "name": "Cielrooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675589682464169991/7i5kod87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/cxuL7HiUjO",
+        "username": "cielrobruh",
+        "verified": false
+      }
+    ]
+  }
+}

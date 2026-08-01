@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1817817743347097600"
+      ],
+      "media_source_tweet_id": [
+        "1817817768114196493"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1818050957911146973",
+    "created_at": "2024-07-29T22:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T23:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818050957911146973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "813508414211063808",
+          "start": 3,
+          "username": "heIIpopstar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/JpxLjTWkX7",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Absolunar/status/1817817768114196493/video/1",
+          "media_key": "7_1817817743347097600",
+          "start": 35,
+          "url": "https://t.co/JpxLjTWkX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818050957911146973",
+    "lang": "es",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3757
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817929784069869967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heIIpopstar: hoy me siento asi https://t.co/JpxLjTWkX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16068,
+        "height": 726,
+        "media_key": "7_1817817743347097600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1817817743347097600/pu/img/EpQtYOLRtHW9pr-s.jpg",
+        "public_metrics": {
+          "view_count": 1959130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817817743347097600/pu/vid/avc1/320x322/JrrKeA_swm9yQK4r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817817743347097600/pu/vid/avc1/480x484/g2s_4cYZcwOUeMxq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817817743347097600/pu/vid/avc1/720x726/MnKWhAWA6MV3oJ1l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1817817743347097600/pu/pl/XOXQ7aVeskuHhznh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817817743347097600"
+          ],
+          "media_source_tweet_id": [
+            "1817817768114196493"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1818050957911146973",
+        "created_at": "2024-07-29T22:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T23:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818050957911146973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "813508414211063808",
+              "start": 3,
+              "username": "heIIpopstar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JpxLjTWkX7",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Absolunar/status/1817817768114196493/video/1",
+              "media_key": "7_1817817743347097600",
+              "start": 35,
+              "url": "https://t.co/JpxLjTWkX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818050957911146973",
+        "lang": "es",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3757
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817929784069869967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heIIpopstar: hoy me siento asi https://t.co/JpxLjTWkX7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817817743347097600"
+          ],
+          "media_source_tweet_id": [
+            "1817817768114196493"
+          ]
+        },
+        "author_id": "813508414211063808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1817929784069869967",
+        "created_at": "2024-07-29T14:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T15:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817929784069869967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JpxLjTWkX7",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Absolunar/status/1817817768114196493/video/1",
+              "media_key": "7_1817817743347097600",
+              "start": 18,
+              "url": "https://t.co/JpxLjTWkX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817929784069869967",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2383,
+          "impression_count": 729147,
+          "like_count": 26613,
+          "quote_count": 407,
+          "reply_count": 111,
+          "retweet_count": 3757
+        },
+        "reply_settings": "everyone",
+        "text": "hoy me siento asi https://t.co/JpxLjTWkX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1176,
+          "like_count": 3739,
+          "listed_count": 2,
+          "tweet_count": 2099
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-26T22:14:55.000Z",
+        "description": "en descontrucción \nhttps://t.co/FaS2WQKMEc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/roman_2212",
+                "end": 42,
+                "expanded_url": "http://open.spotify.com/user/roman_2212",
+                "start": 19,
+                "url": "https://t.co/FaS2WQKMEc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/roman9am",
+                "end": 23,
+                "expanded_url": "http://instagram.com/roman9am",
+                "start": 0,
+                "url": "https://t.co/R4C1sr08CH"
+              }
+            ]
+          }
+        },
+        "id": "813508414211063808",
+        "name": "roman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804799832659263490/s1xLtQrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 527,
+          "like_count": 61885,
+          "listed_count": 5,
+          "tweet_count": 51544
+        },
+        "url": "https://t.co/R4C1sr08CH",
+        "username": "heIIpopstar",
+        "verified": false
+      }
+    ]
+  }
+}

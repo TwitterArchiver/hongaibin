@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789576576247755069",
+    "created_at": "2024-05-12T08:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T09:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789576576247755069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbblue777_/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bbblue777_/status/1789293507674624395",
+          "start": 4,
+          "url": "https://t.co/6jOOxdR7GD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789576576247755069",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789293507674624395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/6jOOxdR7GD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789576576247755069",
+        "created_at": "2024-05-12T08:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T09:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789576576247755069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbblue777_/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bbblue777_/status/1789293507674624395",
+              "start": 4,
+              "url": "https://t.co/6jOOxdR7GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789576576247755069",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789293507674624395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/6jOOxdR7GD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789293500871430145"
+          ]
+        },
+        "author_id": "1673910841010446336",
+        "conversation_id": "1789293507674624395",
+        "created_at": "2024-05-11T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789293507674624395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1N3ZofBWcu",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bbblue777_/status/1789293507674624395/photo/1",
+              "media_key": "3_1789293500871430145",
+              "start": 4,
+              "url": "https://t.co/1N3ZofBWcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789293507674624395",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8196,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我爹妈 https://t.co/1N3ZofBWcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 748,
+          "like_count": 1160,
+          "listed_count": 0,
+          "tweet_count": 201
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T04:27:06.000Z",
+        "description": "我只是想和我的小手机说说话",
+        "id": "1673910841010446336",
+        "location": "🚪188",
+        "name": "我眼底的蓝色不是忧郁",
+        "pinned_tweet_id": "1789244078523396367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756044816746713088/NLRy2oCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14020,
+          "following_count": 86,
+          "like_count": 623,
+          "listed_count": 20,
+          "tweet_count": 2186
+        },
+        "username": "bbblue777_",
+        "verified": false
+      }
+    ]
+  }
+}

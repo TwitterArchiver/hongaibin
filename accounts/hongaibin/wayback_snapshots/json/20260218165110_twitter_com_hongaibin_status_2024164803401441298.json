@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024164760544301058"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2023950507526521305",
+    "created_at": "2026-02-18T16:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024164803401441298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O8ITgkAfsR",
+          "end": 44,
+          "expanded_url": "https://x.com/hongaibin/status/2024164803401441298/photo/1",
+          "media_key": "3_2024164760544301058",
+          "start": 21,
+          "url": "https://t.co/O8ITgkAfsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024164803401441298",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023950507526521305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 😂😂😂 https://t.co/O8ITgkAfsR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024164803401441298].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024164803401441298",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024164803401441298"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2024164760544301058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdHIA8bUAImbf3.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950548412140494848",
+        "conversation_id": "2023950507526521305",
+        "created_at": "2026-02-18T02:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023950507526521305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023950507526521305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10723,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸，这大过年的，那些大人为什么要站到楼顶上去？\n\n拿不到钱，为什么还要给别人打工呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 2316,
+          "like_count": 24414,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 6388
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "2021772087744938017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18547,
+          "following_count": 272,
+          "like_count": 1063,
+          "listed_count": 57,
+          "media_count": 924,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

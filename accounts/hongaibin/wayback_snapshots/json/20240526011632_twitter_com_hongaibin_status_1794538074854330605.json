@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1794538074854330605",
+    "created_at": "2024-05-26T01:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T02:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794538074854330605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1723436323758047232",
+          "start": 3,
+          "username": "QiuTtang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794538074854330605",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794007441275076967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QiuTtang: 有没有可以让自己患上癌症的方法呀..?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1794538074854330605",
+        "created_at": "2024-05-26T01:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T02:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794538074854330605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1723436323758047232",
+              "start": 3,
+              "username": "QiuTtang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794538074854330605",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794007441275076967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QiuTtang: 有没有可以让自己患上癌症的方法呀..?"
+      },
+      {
+        "attachments": {},
+        "author_id": "1723436323758047232",
+        "conversation_id": "1794007441275076967",
+        "created_at": "2024-05-24T14:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T15:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794007441275076967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794007441275076967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28380,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 123,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有没有可以让自己患上癌症的方法呀..?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1003,
+          "like_count": 1354,
+          "listed_count": 1,
+          "tweet_count": 845
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T20:23:47.000Z",
+        "description": "本体是只猫 | 大家可以叫我秋秋~♥ | INFP-T | 无证含糖🍥 | 19岁 166cm 小只(有待商榷)xyn | 确认是同类会回fo | 如果想要的话，可以随时来找秋秋聊天捏~ 秋秋也想要很多很多的朋友 | 不定时发癫ww | 秋秋音乐台 @QiuTtangMusic | 还有可爱哒老婆 @Red_6015",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "QiuTtangMusic"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "Red_6015"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QiuTtang",
+                "end": 23,
+                "expanded_url": "https://t.me/QiuTtang",
+                "start": 0,
+                "url": "https://t.co/dj3E2zC40L"
+              }
+            ]
+          }
+        },
+        "id": "1723436323758047232",
+        "location": "未名の地",
+        "name": "▸ 秋棠棠 ✘",
+        "pinned_tweet_id": "1769780487890067695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789529247272583168/iiQqyoR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 694,
+          "like_count": 692,
+          "listed_count": 5,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/dj3E2zC40L",
+        "username": "QiuTtang",
+        "verified": false
+      }
+    ]
+  }
+}

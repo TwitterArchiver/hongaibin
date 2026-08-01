@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1909452389599612928"
+      ],
+      "media_source_tweet_id": [
+        "1909452485133320591"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1909683356922696031",
+    "created_at": "2025-04-08T19:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T20:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909683356922696031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozmin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRi7dTYA6i",
+          "end": 45,
+          "expanded_url": "https://x.com/loolzaozmin/status/1909452485133320591/video/1",
+          "media_key": "13_1909452389599612928",
+          "start": 22,
+          "url": "https://t.co/lRi7dTYA6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909683356922696031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909452485133320591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozmin: 记忆闪帧 https://t.co/lRi7dTYA6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28035,
+        "height": 1280,
+        "media_key": "13_1909452389599612928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909452389599612928/img/QShXG_bLBqVz12l4.jpg",
+        "public_metrics": {
+          "view_count": 1125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909452389599612928/vid/avc1/320x568/OpUiH2SD-7Dq4Y9y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909452389599612928/vid/avc1/480x852/WDmQZf6ye4iGVm2l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909452389599612928/vid/avc1/720x1280/GnMD0RSY1k3gpblg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909452389599612928/pl/uvxI8Dk4LvTQu23W.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909452389599612928"
+          ],
+          "media_source_tweet_id": [
+            "1909452485133320591"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1909683356922696031",
+        "created_at": "2025-04-08T19:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T20:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909683356922696031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467368317258248192",
+              "start": 3,
+              "username": "loolzaozmin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRi7dTYA6i",
+              "end": 45,
+              "expanded_url": "https://x.com/loolzaozmin/status/1909452485133320591/video/1",
+              "media_key": "13_1909452389599612928",
+              "start": 22,
+              "url": "https://t.co/lRi7dTYA6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909683356922696031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909452485133320591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loolzaozmin: 记忆闪帧 https://t.co/lRi7dTYA6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909452389599612928"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1909452485133320591",
+        "created_at": "2025-04-08T03:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909452485133320591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRi7dTYA6i",
+              "end": 28,
+              "expanded_url": "https://x.com/loolzaozmin/status/1909452485133320591/video/1",
+              "media_key": "13_1909452389599612928",
+              "start": 5,
+              "url": "https://t.co/lRi7dTYA6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909452485133320591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2799,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "记忆闪帧 https://t.co/lRi7dTYA6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1804,
+          "like_count": 15990,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 4619
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "",
+        "id": "1467368317258248192",
+        "location": "门 188 6666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14429,
+          "following_count": 198,
+          "like_count": 705,
+          "listed_count": 20,
+          "media_count": 173,
+          "tweet_count": 421
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

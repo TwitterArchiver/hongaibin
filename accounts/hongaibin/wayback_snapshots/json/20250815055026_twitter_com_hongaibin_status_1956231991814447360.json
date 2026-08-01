@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954525759286185985",
+        "3_1954525759311380480"
+      ],
+      "media_source_tweet_id": [
+        "1954525767976554991",
+        "1954525767976554991"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1956231991814447360",
+    "created_at": "2025-08-15T05:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T06:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956231991814447360"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 66,
+          "tag": "三連休はフォロワーさんが増えるらしい"
+        },
+        {
+          "end": 98,
+          "start": 86,
+          "tag": "絵描きさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394624180943917057",
+          "start": 3,
+          "username": "AKATSUKI_IZU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBHmxJGgXE",
+          "end": 122,
+          "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+          "media_key": "3_1954525759286185985",
+          "start": 99,
+          "url": "https://t.co/mBHmxJGgXE"
+        },
+        {
+          "display_url": "pic.x.com/mBHmxJGgXE",
+          "end": 122,
+          "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+          "media_key": "3_1954525759311380480",
+          "start": 99,
+          "url": "https://t.co/mBHmxJGgXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956231991814447360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954525767976554991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKATSUKI_IZU: 自分好みのイケメン描いてますよ！！！！\nRP中心に気になった方無言フォローでお迎えです〜！！\n\n#三連休はフォロワーさんが増えるらしい\n#絵描きさんと繋がりたい https://t.co/mBHmxJGgXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954525759286185985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_e0pKakAE4soH.jpg",
+        "width": 1334
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954525759311380480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_e0pQbAAAk2VH.jpg",
+        "width": 1307
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954525759286185985",
+            "3_1954525759311380480"
+          ],
+          "media_source_tweet_id": [
+            "1954525767976554991",
+            "1954525767976554991"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1956231991814447360",
+        "created_at": "2025-08-15T05:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956231991814447360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 66,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 98,
+              "start": 86,
+              "tag": "絵描きさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394624180943917057",
+              "start": 3,
+              "username": "AKATSUKI_IZU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBHmxJGgXE",
+              "end": 122,
+              "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+              "media_key": "3_1954525759286185985",
+              "start": 99,
+              "url": "https://t.co/mBHmxJGgXE"
+            },
+            {
+              "display_url": "pic.x.com/mBHmxJGgXE",
+              "end": 122,
+              "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+              "media_key": "3_1954525759311380480",
+              "start": 99,
+              "url": "https://t.co/mBHmxJGgXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956231991814447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954525767976554991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKATSUKI_IZU: 自分好みのイケメン描いてますよ！！！！\nRP中心に気になった方無言フォローでお迎えです〜！！\n\n#三連休はフォロワーさんが増えるらしい\n#絵描きさんと繋がりたい https://t.co/mBHmxJGgXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954525759286185985",
+            "3_1954525759311380480"
+          ]
+        },
+        "author_id": "1394624180943917057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1954525767976554991",
+        "created_at": "2025-08-10T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954525767976554991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 48,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "絵描きさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBHmxJGgXE",
+              "end": 104,
+              "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+              "media_key": "3_1954525759286185985",
+              "start": 81,
+              "url": "https://t.co/mBHmxJGgXE"
+            },
+            {
+              "display_url": "pic.x.com/mBHmxJGgXE",
+              "end": 104,
+              "expanded_url": "https://x.com/AKATSUKI_IZU/status/1954525767976554991/photo/1",
+              "media_key": "3_1954525759311380480",
+              "start": 81,
+              "url": "https://t.co/mBHmxJGgXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954525767976554991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 15956,
+          "like_count": 565,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "自分好みのイケメン描いてますよ！！！！\nRP中心に気になった方無言フォローでお迎えです〜！！\n\n#三連休はフォロワーさんが増えるらしい\n#絵描きさんと繋がりたい https://t.co/mBHmxJGgXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 2138,
+          "like_count": 21639,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5828
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T12:02:25.000Z",
+        "description": "￤illustration￤雑多￤ご依頼▶@IZU_IRAI ￤ﾏﾛ https://t.co/qAVsyyfrWZ ￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "IZU_IRAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7sefh4duefhga2x",
+                "end": 58,
+                "expanded_url": "http://marshmallow-qa.com/7sefh4duefhga2x",
+                "start": 35,
+                "url": "https://t.co/qAVsyyfrWZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@AKATSUKI_IZU",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@AKATSUKI_IZU",
+                "start": 0,
+                "url": "https://t.co/SEePOOm4NU"
+              }
+            ]
+          }
+        },
+        "id": "1394624180943917057",
+        "location": "￤無断使用 転載 AI学習 ﾄﾚｽ 加工 すべて禁止❌￤",
+        "name": "IZUMO💤",
+        "pinned_tweet_id": "1896859618661528058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809538571981975553/P9z3mnZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5761,
+          "following_count": 913,
+          "like_count": 65800,
+          "listed_count": 62,
+          "media_count": 658,
+          "tweet_count": 8635
+        },
+        "url": "https://t.co/SEePOOm4NU",
+        "username": "AKATSUKI_IZU",
+        "verified": false
+      }
+    ]
+  }
+}

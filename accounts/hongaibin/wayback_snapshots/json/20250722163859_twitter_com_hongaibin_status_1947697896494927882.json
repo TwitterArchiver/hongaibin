@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947283972133883904"
+      ],
+      "media_source_tweet_id": [
+        "1947283983026503998"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1947697896494927882",
+    "created_at": "2025-07-22T16:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T17:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947697896494927882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569966034035134464",
+          "start": 3,
+          "username": "sukixi_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvJtVoCNdd",
+          "end": 51,
+          "expanded_url": "https://x.com/sukixi_ovo/status/1947283983026503998/photo/1",
+          "media_key": "3_1947283972133883904",
+          "start": 28,
+          "url": "https://t.co/zvJtVoCNdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947697896494927882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947283983026503998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukixi_ovo: ぼんやりしていればいい https://t.co/zvJtVoCNdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3895,
+        "media_key": "3_1947283972133883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYkdJvaEAAgVaN.jpg",
+        "width": 2923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947283972133883904"
+          ],
+          "media_source_tweet_id": [
+            "1947283983026503998"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1947697896494927882",
+        "created_at": "2025-07-22T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947697896494927882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569966034035134464",
+              "start": 3,
+              "username": "sukixi_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvJtVoCNdd",
+              "end": 51,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1947283983026503998/photo/1",
+              "media_key": "3_1947283972133883904",
+              "start": 28,
+              "url": "https://t.co/zvJtVoCNdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947697896494927882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947283983026503998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukixi_ovo: ぼんやりしていればいい https://t.co/zvJtVoCNdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947283972133883904"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "conversation_id": "1947283983026503998",
+        "created_at": "2025-07-21T13:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947283983026503998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvJtVoCNdd",
+              "end": 35,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1947283983026503998/photo/1",
+              "media_key": "3_1947283972133883904",
+              "start": 12,
+              "url": "https://t.co/zvJtVoCNdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947283983026503998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4690,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ぼんやりしていればいい https://t.co/zvJtVoCNdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 2094,
+          "like_count": 21173,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5667
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨shtwt丨病み垢丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "歌舞伎町",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1944105592580452853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870634739520135168/nt3RQBjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 134,
+          "like_count": 758,
+          "listed_count": 7,
+          "media_count": 109,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1933223894170939523",
+    "created_at": "2025-06-12T18:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T19:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933223894170939523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693881438268256256",
+          "start": 3,
+          "username": "lilk1kopops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933223894170939523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932344501194068087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilk1kopops: 第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1933223894170939523",
+        "created_at": "2025-06-12T18:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T19:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933223894170939523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693881438268256256",
+              "start": 3,
+              "username": "lilk1kopops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933223894170939523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932344501194068087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilk1kopops: 第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693881438268256256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1932344501194068087",
+        "created_at": "2025-06-10T07:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932344501194068087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/memeland009/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/memeland009/status/1932327651508617602",
+              "start": 120,
+              "url": "https://t.co/V8WCWkr7oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932344501194068087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。\n\n但是公安会遵循法律办事，就事论事只查阅你这次案件相关的内容。至于个人隐私或其他内容，看一眼就滑过去了。不至于为了你的案件违反纪律。\n\n地方派出所很繁忙，每天可能都会导入几十只手机。本地存储量有限，大概会在365天或一个时间段清空一次存储内容。\n\n第二点，如果你不配合，苹果手机不提供密码，公安插入设备后可以破解苹果手机。这一步在派出所可以直接做到，不需要上升到其它部门。\n\n如果你是杠精，觉得iPhone手机很安全，天王老子也破解不了，或者你认为一定要出具执法文书给苹果公司或三方平台才能破解。那么你杠就是你对。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 175981,
+          "like_count": 186,
+          "quote_count": 10,
+          "reply_count": 90,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932327651508617602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一点，如果你被派出所传唤，你有义务提供手机密码。否则不配合调查的话，阻碍办案会再加一罪。\n\n电脑桌面端是一个界面类似91手机助手的软件，会导出你所有的手机序列号、微信、图片、Gmail、Outlook、telegram、推特等一切内容。 https://t.co/V8WCWkr7oR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 2047,
+          "like_count": 19253,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5324
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T07:03:38.000Z",
+        "description": "| TradFi turned Degen, ex Startup Founder, HF/PE Investor\n| 支付宝微信刷USDT消费，美团滴滴携程 ChatGPT 谷歌微软苹果商店，限高也能用\n| 链上银行@0xinfini 开卡🔗https://t.co/Lir6XbscpR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "0xinfini"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.infini.money/signup?ref=JBO…",
+                "end": 145,
+                "expanded_url": "http://app.infini.money/signup?ref=JBOBKRD",
+                "start": 122,
+                "url": "https://t.co/Lir6XbscpR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/4742118",
+                "end": 23,
+                "expanded_url": "http://okx.com/join/4742118",
+                "start": 0,
+                "url": "https://t.co/UgUIzlULHc"
+              }
+            ]
+          }
+        },
+        "id": "1693881438268256256",
+        "location": "Hong Kong SAR",
+        "name": "K1ko妹妹的爸比",
+        "pinned_tweet_id": "1917442079447474462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875211415285612545/biwCTFto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6751,
+          "following_count": 588,
+          "like_count": 2670,
+          "listed_count": 17,
+          "media_count": 65,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/UgUIzlULHc",
+        "username": "lilk1kopops",
+        "verified": true
+      }
+    ]
+  }
+}

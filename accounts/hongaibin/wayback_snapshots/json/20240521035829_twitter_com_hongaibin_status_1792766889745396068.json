@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1792766889745396068",
+    "created_at": "2024-05-21T03:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T04:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792766889745396068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780208570098688000",
+          "start": 3,
+          "username": "hongaibin"
+        },
+        {
+          "end": 26,
+          "id": "1767323943529050112",
+          "start": 15,
+          "username": "Hhjhjbbbbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792766889745396068",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792765082809799083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongaibin: @Hhjhjbbbbb 这会死人的很危险。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792766889745396068",
+        "created_at": "2024-05-21T03:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T04:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792766889745396068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780208570098688000",
+              "start": 3,
+              "username": "hongaibin"
+            },
+            {
+              "end": 26,
+              "id": "1767323943529050112",
+              "start": 15,
+              "username": "Hhjhjbbbbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792766889745396068",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792765082809799083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongaibin: @Hhjhjbbbbb 这会死人的很危险。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792571448923390022",
+        "created_at": "2024-05-21T03:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T04:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792765082809799083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767323943529050112",
+              "start": 0,
+              "username": "Hhjhjbbbbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792765082809799083",
+        "in_reply_to_user_id": "1767323943529050112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792571448923390022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hhjhjbbbbb 这会死人的很危险。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 877,
+          "like_count": 1266,
+          "listed_count": 1,
+          "tweet_count": 522
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T22:57:44.000Z",
+        "description": "shedtwt                 VENT ACC",
+        "id": "1767323943529050112",
+        "name": ",",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792574246545133570/i2U4ml6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 89,
+          "like_count": 6418,
+          "listed_count": 1,
+          "tweet_count": 2199
+        },
+        "username": "Hhjhjbbbbb",
+        "verified": false
+      }
+    ]
+  }
+}

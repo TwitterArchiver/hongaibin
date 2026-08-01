@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1790603235457409024"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1790603268445675942",
+    "created_at": "2024-05-15T04:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T05:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790603268445675942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/EaxMCBPLvx",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hongaibin/status/1790603268445675942/video/1",
+          "media_key": "7_1790603235457409024",
+          "start": 25,
+          "url": "https://t.co/EaxMCBPLvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790603268445675942",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“能不能别和我作对了？我活不久了”把我看哭了。。 https://t.co/EaxMCBPLvx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19833,
+        "height": 974,
+        "media_key": "7_1790603235457409024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1790603235457409024/pu/img/JohfUuNE23girghL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790603235457409024/pu/vid/avc1/320x432/dO8vmTrltwwVAkwL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790603235457409024/pu/vid/avc1/480x648/MxlGFTJZfR81hIYY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790603235457409024/pu/vid/avc1/720x974/NMQwxJNFrXPJEaK2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1790603235457409024/pu/pl/68th0dYDaqGVqW3Q.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1790603235457409024"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1790603268445675942",
+        "created_at": "2024-05-15T04:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T05:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790603268445675942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EaxMCBPLvx",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hongaibin/status/1790603268445675942/video/1",
+              "media_key": "7_1790603235457409024",
+              "start": 25,
+              "url": "https://t.co/EaxMCBPLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790603268445675942",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“能不能别和我作对了？我活不久了”把我看哭了。。 https://t.co/EaxMCBPLvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 792,
+          "like_count": 1217,
+          "listed_count": 0,
+          "tweet_count": 312
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

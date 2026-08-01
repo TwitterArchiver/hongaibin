@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912980903355355136"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1912981753138122898",
+    "created_at": "2025-04-17T21:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T22:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912981753138122898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "overdose"
+        },
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "金刚烷胺"
+        },
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "Amantadine"
+        },
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "Symmetrel"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "od"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOBWkLcaA4",
+          "end": 72,
+          "expanded_url": "https://x.com/hongaibin/status/1912981753138122898/video/1",
+          "media_key": "13_1912980903355355136",
+          "start": 49,
+          "url": "https://t.co/HOBWkLcaA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912981753138122898",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#overdose #金刚烷胺 #Amantadine #Symmetrel #普瑞巴林 #od https://t.co/HOBWkLcaA4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912981753138122898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912981753138122898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912981753138122898"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22037,
+        "height": 720,
+        "media_key": "13_1912980903355355136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912980903355355136/img/FhJhfp_R0Dmn4AC1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912980903355355136/vid/avc1/360x270/LorUQf8E7cKhr457.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912980903355355136/vid/avc1/480x360/R6PO-mGLC0_PiK-7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912980903355355136/vid/avc1/960x720/krgGdlVrPg_FcrFS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912980903355355136/pl/d3ecNqseso78Zart.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1852,
+          "like_count": 16218,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 4671
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

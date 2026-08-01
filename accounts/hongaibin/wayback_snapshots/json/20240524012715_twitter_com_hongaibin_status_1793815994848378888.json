@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1793690079019278336"
+      ],
+      "media_source_tweet_id": [
+        "1793690095935189239"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1793815994848378888",
+    "created_at": "2024-05-24T01:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T02:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793815994848378888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1646576457198567433",
+          "start": 3,
+          "username": "_cryingkcal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OZrubCSHQG",
+          "end": 52,
+          "expanded_url": "https://twitter.com/gatit0s2/status/1793690095935189239/video/1",
+          "media_key": "7_1793690079019278336",
+          "start": 29,
+          "url": "https://t.co/OZrubCSHQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793815994848378888",
+    "lang": "pt",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793748086508199953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_cryingkcal: Eu quero... https://t.co/OZrubCSHQG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793815994848378888].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793815994848378888",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793815994848378888"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31834,
+        "height": 480,
+        "media_key": "7_1793690079019278336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1793690079019278336/pu/img/P2mqSpl02p-v_bSa.jpg",
+        "public_metrics": {
+          "view_count": 258
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1793690079019278336/pu/vid/avc1/272x480/cHPczT5hnyS4rb2Y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1793690079019278336/pu/pl/jb73kbimr2tMsOzE.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 272
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1793690079019278336"
+          ],
+          "media_source_tweet_id": [
+            "1793690095935189239"
+          ]
+        },
+        "author_id": "1646576457198567433",
+        "conversation_id": "1793748086508199953",
+        "created_at": "2024-05-23T20:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T21:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793748086508199953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OZrubCSHQG",
+              "end": 35,
+              "expanded_url": "https://twitter.com/gatit0s2/status/1793690095935189239/video/1",
+              "media_key": "7_1793690079019278336",
+              "start": 12,
+              "url": "https://t.co/OZrubCSHQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793748086508199953",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 319,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Eu quero... https://t.co/OZrubCSHQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 963,
+          "like_count": 1311,
+          "listed_count": 1,
+          "tweet_count": 743
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T18:10:58.000Z",
+        "description": "𝓗𝑒/𝓗𝑖𝑚  ♱  𝙴𝚍, 𝚂𝚑 𝚎 𝙶𝚘𝚛𝚎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "curiouscat.live/chupagreggg",
+                "end": 23,
+                "expanded_url": "https://curiouscat.live/chupagreggg",
+                "start": 0,
+                "url": "https://t.co/dwpYuRRNFn"
+              }
+            ]
+          }
+        },
+        "id": "1646576457198567433",
+        "location": "ִֶָ𖤐˚.𝕸𝖎𝖓𝖔𝖗",
+        "name": ". .⃗ . ⩩ › Ᏽregory や!✦ ࣪",
+        "pinned_tweet_id": "1776654431464861916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791664039380099074/KYRi75eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1847,
+          "like_count": 16788,
+          "listed_count": 43,
+          "tweet_count": 39400
+        },
+        "url": "https://t.co/dwpYuRRNFn",
+        "username": "_cryingkcal",
+        "verified": false
+      }
+    ]
+  }
+}

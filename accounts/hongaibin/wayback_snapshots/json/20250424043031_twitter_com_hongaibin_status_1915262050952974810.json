@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914998068535263232"
+      ],
+      "media_source_tweet_id": [
+        "1914998091905929280"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915262050952974810",
+    "created_at": "2025-04-24T04:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915262050952974810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3010370624",
+          "start": 3,
+          "username": "AOInaning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFxojZlRPd",
+          "end": 41,
+          "expanded_url": "https://x.com/AOInaning/status/1914998091905929280/photo/1",
+          "media_key": "3_1914998068535263232",
+          "start": 18,
+          "url": "https://t.co/pFxojZlRPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915262050952974810",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914998091905929280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AOInaning: ❤️ https://t.co/pFxojZlRPd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915262050952974810].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915262050952974810",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915262050952974810"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1914998068535263232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNwmOSagAAiYuF.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914998068535263232"
+          ]
+        },
+        "author_id": "3010370624",
+        "conversation_id": "1914998091905929280",
+        "created_at": "2025-04-23T11:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T12:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914998091905929280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFxojZlRPd",
+              "end": 26,
+              "expanded_url": "https://x.com/AOInaning/status/1914998091905929280/photo/1",
+              "media_key": "3_1914998068535263232",
+              "start": 3,
+              "url": "https://t.co/pFxojZlRPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914998091905929280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 7427,
+          "like_count": 979,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "❤️ https://t.co/pFxojZlRPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1905,
+          "like_count": 16643,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 4777
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T16:18:13.000Z",
+        "description": "・＝纳柠｜中文&日本語｜多忙中\n・イラストレーター/漫画家\n・ご依頼はお知り合い様と企業様のみ(新規様は５月をお待ちください)、納期９月から\n・📨:naningwork@gmail.com \n・一迅社月刊ComicREX『どうも、物欲の聖女です』連載中\n・既刊‐スクエニ「変な竜～」全五巻\n・サブ:@NN_NCJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 149,
+                "username": "NN_NCJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/aoinaning",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/aoinaning",
+                "start": 0,
+                "url": "https://t.co/J8h8jx8vqz"
+              }
+            ]
+          }
+        },
+        "id": "3010370624",
+        "location": "陰キャLOVE",
+        "name": "ナニン",
+        "pinned_tweet_id": "1899488082854101069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774631136897167360/RXReMsvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58219,
+          "following_count": 850,
+          "like_count": 43152,
+          "listed_count": 280,
+          "media_count": 408,
+          "tweet_count": 45063
+        },
+        "url": "https://t.co/J8h8jx8vqz",
+        "username": "AOInaning",
+        "verified": true
+      }
+    ]
+  }
+}

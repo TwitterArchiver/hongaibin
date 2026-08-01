@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947627404413046787"
+      ],
+      "media_source_tweet_id": [
+        "1947627407030292975"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1947710253711429697",
+    "created_at": "2025-07-22T17:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947710253711429697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1691385929968062464",
+          "start": 3,
+          "username": "zhou1919456789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mniOggsbnp",
+          "end": 51,
+          "expanded_url": "https://x.com/zhou1919456789/status/1947627407030292975/photo/1",
+          "media_key": "3_1947627404413046787",
+          "start": 28,
+          "url": "https://t.co/mniOggsbnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947710253711429697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947627407030292975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhou1919456789: 给你们看点好的 https://t.co/mniOggsbnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1947627404413046787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwdczirbEAMAP53.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947627404413046787"
+          ],
+          "media_source_tweet_id": [
+            "1947627407030292975"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1947710253711429697",
+        "created_at": "2025-07-22T17:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947710253711429697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1691385929968062464",
+              "start": 3,
+              "username": "zhou1919456789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mniOggsbnp",
+              "end": 51,
+              "expanded_url": "https://x.com/zhou1919456789/status/1947627407030292975/photo/1",
+              "media_key": "3_1947627404413046787",
+              "start": 28,
+              "url": "https://t.co/mniOggsbnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947710253711429697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947627407030292975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhou1919456789: 给你们看点好的 https://t.co/mniOggsbnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947627404413046787"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1947627407030292975",
+        "created_at": "2025-07-22T11:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947627407030292975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mniOggsbnp",
+              "end": 31,
+              "expanded_url": "https://x.com/zhou1919456789/status/1947627407030292975/photo/1",
+              "media_key": "3_1947627404413046787",
+              "start": 8,
+              "url": "https://t.co/mniOggsbnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947627407030292975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看点好的 https://t.co/mniOggsbnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 2094,
+          "like_count": 21172,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5668
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中生/可互fo",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1945008058809376956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 914,
+          "like_count": 2273,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 869
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

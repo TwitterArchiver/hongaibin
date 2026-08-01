@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821828276253573120"
+      ],
+      "media_source_tweet_id": [
+        "1821828281911632145"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1822083110085009473",
+    "created_at": "2024-08-10T01:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T02:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822083110085009473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426753435806756866",
+          "start": 3,
+          "username": "hosikage4040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mo1t49j8k",
+          "end": 45,
+          "expanded_url": "https://twitter.com/hosikage4040/status/1821828281911632145/photo/1",
+          "media_key": "3_1821828276253573120",
+          "start": 22,
+          "url": "https://t.co/9mo1t49J8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822083110085009473",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821828281911632145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosikage4040: 嘔吐🩸 https://t.co/9mo1t49J8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821828276253573120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUhvKi_bQAAnkbE.jpg",
+        "width": 1397
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821828276253573120"
+          ],
+          "media_source_tweet_id": [
+            "1821828281911632145"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1822083110085009473",
+        "created_at": "2024-08-10T01:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T02:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822083110085009473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426753435806756866",
+              "start": 3,
+              "username": "hosikage4040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mo1t49j8k",
+              "end": 45,
+              "expanded_url": "https://twitter.com/hosikage4040/status/1821828281911632145/photo/1",
+              "media_key": "3_1821828276253573120",
+              "start": 22,
+              "url": "https://t.co/9mo1t49J8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822083110085009473",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821828281911632145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosikage4040: 嘔吐🩸 https://t.co/9mo1t49J8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821828276253573120"
+          ]
+        },
+        "author_id": "1426753435806756866",
+        "conversation_id": "1821828281911632145",
+        "created_at": "2024-08-09T08:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T09:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821828281911632145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mo1t49j8k",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hosikage4040/status/1821828281911632145/photo/1",
+              "media_key": "3_1821828276253573120",
+              "start": 4,
+              "url": "https://t.co/9mo1t49J8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821828281911632145",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 20405,
+          "like_count": 2642,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "嘔吐🩸 https://t.co/9mo1t49J8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1252,
+          "like_count": 4840,
+          "listed_count": 2,
+          "tweet_count": 2432
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T03:52:08.000Z",
+        "description": "創作｜不穏ﾒｲﾝ｜FAﾀｸﾞ▶#星ぽすと｜🐈‍⬛現在依頼受付中🩸｜ご依頼はメールまたはDMにて※Link必読",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "星ぽすと"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 23,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 0,
+                "url": "https://t.co/1rwrtUPaDA"
+              }
+            ]
+          }
+        },
+        "id": "1426753435806756866",
+        "location": "サブ垢▶@hosikun_2：お別れはB",
+        "name": "星影",
+        "pinned_tweet_id": "1801902490314850809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772398678638292992/zaWX1m1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18983,
+          "following_count": 272,
+          "like_count": 28656,
+          "listed_count": 81,
+          "tweet_count": 12629
+        },
+        "url": "https://t.co/1rwrtUPaDA",
+        "username": "hosikage4040",
+        "verified": false
+      }
+    ]
+  }
+}

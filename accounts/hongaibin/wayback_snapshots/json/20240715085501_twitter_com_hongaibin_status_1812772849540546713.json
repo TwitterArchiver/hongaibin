@@ -1,0 +1,321 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Chiitan (ちぃたん)",
+          "id": "1040305487097389056",
+          "name": "Chiitan (ちぃたん)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "description": "Chiitan (ちぃたん)",
+          "id": "1040305487097389056",
+          "name": "Chiitan (ちぃたん)"
+        }
+      }
+    ],
+    "conversation_id": "1812772849540546713",
+    "created_at": "2024-07-15T08:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T09:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812772849540546713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1134790899290988544",
+          "start": 3,
+          "username": "kamechan7407"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "talk.up-t.jp/universal-link…",
+          "end": 87,
+          "expanded_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+          "start": 64,
+          "status": 200,
+          "title": "Up-T Talk",
+          "unwound_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+          "url": "https://t.co/bp1WW7icHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812772849540546713",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812767850949382551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamechan7407: 7月23日19時から『UP-T TALK』でちぃたん☆とトーク会するで＾＾\nみんな来てな🐢\nhttps://t.co/bp1WW7icHV\n※1枠3分で1対1のビデオ通話です。\n※オンライン２ショット写メorちぃたん☆ソロ写メ付き！\nhttp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          }
+        ],
+        "conversation_id": "1812772849540546713",
+        "created_at": "2024-07-15T08:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T09:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812772849540546713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1134790899290988544",
+              "start": 3,
+              "username": "kamechan7407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "talk.up-t.jp/universal-link…",
+              "end": 87,
+              "expanded_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+              "start": 64,
+              "status": 200,
+              "title": "Up-T Talk",
+              "unwound_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+              "url": "https://t.co/bp1WW7icHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812772849540546713",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812767850949382551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamechan7407: 7月23日19時から『UP-T TALK』でちぃたん☆とトーク会するで＾＾\nみんな来てな🐢\nhttps://t.co/bp1WW7icHV\n※1枠3分で1対1のビデオ通話です。\n※オンライン２ショット写メorちぃたん☆ソロ写メ付き！\nhttp…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1425448199771156484"
+          ],
+          "media_source_tweet_id": [
+            "1425448236844679172"
+          ]
+        },
+        "author_id": "1134790899290988544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "description": "Chiitan (ちぃたん)",
+              "id": "1040305487097389056",
+              "name": "Chiitan (ちぃたん)"
+            }
+          }
+        ],
+        "conversation_id": "1812767850949382551",
+        "created_at": "2024-07-15T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812767850949382551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "UP-T TALK",
+              "probability": 0.7569,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "talk.up-t.jp/universal-link…",
+              "end": 69,
+              "expanded_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+              "start": 46,
+              "status": 200,
+              "title": "Up-T Talk",
+              "unwound_url": "https://talk.up-t.jp/universal-link?type=event&id=697",
+              "url": "https://t.co/bp1WW7icHV"
+            },
+            {
+              "display_url": "pic.twitter.com/MURjqPjv4S",
+              "end": 140,
+              "expanded_url": "https://twitter.com/chiitan7407/status/1425448236844679172/video/1",
+              "media_key": "7_1425448199771156484",
+              "start": 117,
+              "url": "https://t.co/MURjqPjv4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812767850949382551",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13083,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "7月23日19時から『UP-T TALK』でちぃたん☆とトーク会するで＾＾\nみんな来てな🐢\nhttps://t.co/bp1WW7icHV\n※1枠3分で1対1のビデオ通話です。\n※オンライン２ショット写メorちぃたん☆ソロ写メ付き！\nhttps://t.co/MURjqPjv4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1128,
+          "like_count": 2632,
+          "listed_count": 1,
+          "tweet_count": 1626
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-01T11:56:48.000Z",
+        "description": "保護猫🐈爬虫類は仲間🐢料理、音楽、手作り大好き、ドラム叩くの🥁LOVE ROCK！ゆるキャラと保護ネコ小判の生活🐈‍⬛動物愛護 @chiitan7407の頭の上にいる🔸SNS→https://t.co/7Sdnm912hq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "chiitan7407"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/chiitan7407",
+                "end": 111,
+                "expanded_url": "https://linktr.ee/chiitan7407",
+                "start": 88,
+                "url": "https://t.co/7Sdnm912hq"
+              }
+            ]
+          }
+        },
+        "id": "1134790899290988544",
+        "location": "📩お問い合わせ：chiitan@chiitan.love",
+        "name": "カメちゃん🐢",
+        "pinned_tweet_id": "1639252960684421120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1134796298148728832/uEWA3X0X_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166274,
+          "following_count": 143549,
+          "like_count": 1664,
+          "listed_count": 445,
+          "tweet_count": 5188
+        },
+        "username": "kamechan7407",
+        "verified": true
+      }
+    ]
+  }
+}

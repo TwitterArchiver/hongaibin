@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "2019834981867221087",
+    "created_at": "2026-02-06T18:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T19:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019834981867221087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629688098505510912",
+          "start": 3,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019834981867221087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019787191816257656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Unknow_CVC: 我们学校有个唐人，自己第一次翻墙没思想意识当粉红和别人对线被别人把全家开出来了，还报警结果警察来学校把他抓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "2019834981867221087",
+        "created_at": "2026-02-06T18:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019834981867221087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629688098505510912",
+              "start": 3,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019834981867221087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019787191816257656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Unknow_CVC: 我们学校有个唐人，自己第一次翻墙没思想意识当粉红和别人对线被别人把全家开出来了，还报警结果警察来学校把他抓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629688098505510912",
+        "conversation_id": "2019787191816257656",
+        "created_at": "2026-02-06T14:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019787191816257656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019787191816257656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1797,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们学校有个唐人，自己第一次翻墙没思想意识当粉红和别人对线被别人把全家开出来了，还报警结果警察来学校把他抓了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 2275,
+          "like_count": 23751,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 6317
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9dLjU"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級のCenVCee🍤",
+        "pinned_tweet_id": "2002402192716632415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1502,
+          "like_count": 24311,
+          "listed_count": 0,
+          "media_count": 2102,
+          "tweet_count": 15775
+        },
+        "url": "https://t.co/3dxIv9dLjU",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

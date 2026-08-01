@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1812670936300327054",
+    "created_at": "2024-07-15T02:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T03:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812670936300327054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714679432739430400",
+          "start": 3,
+          "username": "zoshe099"
+        },
+        {
+          "end": 29,
+          "id": "1598872816560246784",
+          "start": 14,
+          "username": "akanei6no_Sora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812670936300327054",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812080432709767565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zoshe099: @akanei6no_Sora 表情も血もよすぎる……😭😭😭好きです……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1812670936300327054",
+        "created_at": "2024-07-15T02:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T03:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812670936300327054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714679432739430400",
+              "start": 3,
+              "username": "zoshe099"
+            },
+            {
+              "end": 29,
+              "id": "1598872816560246784",
+              "start": 14,
+              "username": "akanei6no_Sora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812670936300327054",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812080432709767565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zoshe099: @akanei6no_Sora 表情も血もよすぎる……😭😭😭好きです……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1714679432739430400",
+        "conversation_id": "1812047695449829425",
+        "created_at": "2024-07-13T11:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812080432709767565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1598872816560246784",
+              "start": 0,
+              "username": "akanei6no_Sora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812080432709767565",
+        "in_reply_to_user_id": "1598872816560246784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2024,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812047695449829425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanei6no_Sora 表情も血もよすぎる……😭😭😭好きです……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1123,
+          "like_count": 2619,
+          "listed_count": 1,
+          "tweet_count": 1618
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T16:26:56.000Z",
+        "description": "無断転載・無断使用・AI学習等禁止/Prohibits using its content to train AI models.　https://t.co/zmKldsMXez（停止中）✉️→https://t.co/3LtYWA0TN2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@zoshe099",
+                "end": 89,
+                "expanded_url": "https://skeb.jp/@zoshe099",
+                "start": 66,
+                "url": "https://t.co/zmKldsMXez"
+              },
+              {
+                "display_url": "x.gd/xzSSs",
+                "end": 120,
+                "expanded_url": "https://x.gd/xzSSs",
+                "start": 97,
+                "url": "https://t.co/3LtYWA0TN2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/imude",
+                "end": 23,
+                "expanded_url": "https://lit.link/imude",
+                "start": 0,
+                "url": "https://t.co/UVjNqP1T8M"
+              }
+            ]
+          }
+        },
+        "id": "1714679432739430400",
+        "location": "RTOFF推奨・通知最近見れてない！",
+        "name": "ゐむで",
+        "pinned_tweet_id": "1812420535932125336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790039150735044608/bVGL9ttL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8274,
+          "following_count": 68,
+          "like_count": 13738,
+          "listed_count": 26,
+          "tweet_count": 5461
+        },
+        "url": "https://t.co/UVjNqP1T8M",
+        "username": "zoshe099",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "黒髪好き⚠️🩸\nSkeb‣‣https://t.co/52Qf2eE4dM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 14,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810659475436814336/RoYwm8QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18983,
+          "following_count": 45,
+          "like_count": 3428,
+          "listed_count": 42,
+          "tweet_count": 3414
+        },
+        "username": "akanei6no_Sora",
+        "verified": false
+      }
+    ]
+  }
+}

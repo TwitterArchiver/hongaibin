@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1911087836402712866",
+    "created_at": "2025-04-12T16:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T17:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911087836402712866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909402154701668356",
+          "start": 3,
+          "username": "psy__doll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911087836402712866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910625289757220887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psy__doll: ChatGPT的关于DMT与DPT的区分：\n\nDMT 与 DPT：主要区别\n\nDMT（N,N-二甲基色胺）和 DPT（二丙基色胺）都是强效的色胺类致幻剂，但它们在作用方式、起效时间和体验特质上有显著不同。\n\n1. 起效速度与持续时间\n•DMT 起效…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1911087836402712866",
+        "created_at": "2025-04-12T16:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T17:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911087836402712866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909402154701668356",
+              "start": 3,
+              "username": "psy__doll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911087836402712866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910625289757220887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psy__doll: ChatGPT的关于DMT与DPT的区分：\n\nDMT 与 DPT：主要区别\n\nDMT（N,N-二甲基色胺）和 DPT（二丙基色胺）都是强效的色胺类致幻剂，但它们在作用方式、起效时间和体验特质上有显著不同。\n\n1. 起效速度与持续时间\n•DMT 起效…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909402154701668356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1910625289757220887",
+        "created_at": "2025-04-11T09:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T10:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910625289757220887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910625289757220887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ChatGPT的关于DMT与DPT的区分：\n\nDMT 与 DPT：主要区别\n\nDMT（N,N-二甲基色胺）和 DPT（二丙基色胺）都是强效的色胺类致幻剂，但它们在作用方式、起效时间和体验特质上有显著不同。\n\n1. 起效速度与持续时间\n•DMT 起效非常快（吸入后几秒内），但持续时间短，通常只5–15分钟。\n•DPT 起效较慢（根据使用方式不同，15–60分钟不等），持续时间约1.5–3小时（经鼻吸或注射时）。\n\n2. 强度与视觉效果\n•DMT 非常强烈、视觉感极强，常使使用者进入完全不同的“维度”或与“实体”接触。\n•DPT 虽然也可能有视觉效果，但更以强烈的情绪、认知和灵性体验著称，常常让人感到压倒性甚至存在性的冲击。\n\n3. 身体负担与不适感\n•DPT 经常带来明显的身体负担，如恶心、焦虑，尤其在高剂量时。\n•DMT 通常相对“干净”，但本身强度就极高。\n\n4. 风格与特质\n•DMT 给人的感觉是“异世界的”，快速、绚烂、神话般。\n•DPT 更黑暗、神秘，往往引导人深入内心或体验自我崩解。\n\n总结：\n•DMT 像一场超维度的过山车；\n•DPT 更像是缓慢坠入虚空的深潜。\n两者都极具力量，但体验风格完全不同。\n\n——————————————————\n\n说白了就是dpt更容易坠机，还是dmt好。但假如你喜欢像我一样作死去触摸什么所谓「真实」，也不怕bad trip的话可以用dpt，但有很高的迷失风险。spring风就在服用dmt后迷失了。而dpt相较dmt来说危险度不止增加了一点两点。使用前务必保证自己有充分的准备和药理生理学知识再从低剂量开始尝试。否则你的结局将会和Spring风一样——肉体死亡（或变成植物人），精神永远迷失在异世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1091,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT的关于DMT与DPT的区分：\n\nDMT 与 DPT：主要区别\n\nDMT（N,N-二甲基色胺）和 DPT（二丙基色胺）都是强效的色胺类致幻剂，但它们在作用方式、起效时间和体验特质上有显著不同。\n\n1. 起效速度与持续时间\n•DMT 起效非常快（吸入后几秒内），但持续时间短，通常只5–15分钟。\n•DPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1832,
+          "like_count": 16121,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 4636
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T00:25:31.000Z",
+        "description": "🔴⚠️Where sanity fades, the visions begin.⚠️🔴 #Drugtwt *DXM/PSY* *でんぱ系*。提供自杀干预/心理安慰。难过了请来找我聊聊吧！🚪40尽量给...谢谢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1909402154701668356",
+        "name": "💊PsyDoll64🎆🌸",
+        "pinned_tweet_id": "1910168413886136605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909402418665881600/z1pt-rjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 89,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 707
+        },
+        "username": "psy__doll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926540649408434176"
+      ],
+      "media_source_tweet_id": [
+        "1926540661852983456"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1926681174648271319",
+    "created_at": "2025-05-25T16:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T17:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926681174648271319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809274316900691969",
+          "start": 3,
+          "username": "killkillovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QQdKaIXXZ",
+          "end": 40,
+          "expanded_url": "https://x.com/killkillovo/status/1926540661852983456/photo/1",
+          "media_key": "3_1926540649408434176",
+          "start": 17,
+          "url": "https://t.co/4QQdKaIXXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926681174648271319",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926540661852983456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killkillovo: https://t.co/4QQdKaIXXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_1926540649408434176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grxyg21XEAAZ_Cb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926540649408434176"
+          ],
+          "media_source_tweet_id": [
+            "1926540661852983456"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1926681174648271319",
+        "created_at": "2025-05-25T16:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926681174648271319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809274316900691969",
+              "start": 3,
+              "username": "killkillovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QQdKaIXXZ",
+              "end": 40,
+              "expanded_url": "https://x.com/killkillovo/status/1926540661852983456/photo/1",
+              "media_key": "3_1926540649408434176",
+              "start": 17,
+              "url": "https://t.co/4QQdKaIXXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926681174648271319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926540661852983456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killkillovo: https://t.co/4QQdKaIXXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926540649408434176"
+          ]
+        },
+        "author_id": "1809274316900691969",
+        "conversation_id": "1926540661852983456",
+        "created_at": "2025-05-25T07:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926540661852983456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QQdKaIXXZ",
+              "end": 23,
+              "expanded_url": "https://x.com/killkillovo/status/1926540661852983456/photo/1",
+              "media_key": "3_1926540649408434176",
+              "start": 0,
+              "url": "https://t.co/4QQdKaIXXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926540661852983456",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4QQdKaIXXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2010,
+          "like_count": 18257,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5096
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T17:13:15.000Z",
+        "description": "連死亡也是一種錯誤",
+        "id": "1809274316900691969",
+        "name": "・ω・",
+        "pinned_tweet_id": "1921543244891947183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653966419013632/jiNaTSxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 77,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 293
+        },
+        "username": "killkillovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1835612492246163456"
+      ],
+      "media_source_tweet_id": [
+        "1835612536026341519"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1835620573214347596",
+    "created_at": "2024-09-16T10:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T11:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835620573214347596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782969184147927040",
+          "start": 3,
+          "username": "scar_xxxll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufv3xdy8aa",
+          "end": 46,
+          "expanded_url": "https://twitter.com/scar_xxxll/status/1835612536026341519/video/1",
+          "media_key": "7_1835612492246163456",
+          "start": 23,
+          "url": "https://t.co/uFV3xdy8aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835620573214347596",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835612536026341519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scar_xxxll: ⚠️🩸🔪⚠️ https://t.co/uFV3xdy8aa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835620573214347596].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835620573214347596",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835620573214347596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22075,
+        "height": 720,
+        "media_key": "7_1835612492246163456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1835612492246163456/pu/img/hqbLf7XI83-Qt-dJ.jpg",
+        "public_metrics": {
+          "view_count": 232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835612492246163456/pu/vid/avc1/396x270/f_0nAIcjI0LQv0-f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835612492246163456/pu/vid/avc1/528x360/_CjaeQUFZQS917-d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835612492246163456/pu/vid/avc1/1056x720/c30Sf2yiv92VtG_V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1835612492246163456/pu/pl/dHDSmoYXbzA7z1xD.m3u8?tag=12"
+          }
+        ],
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1835612492246163456"
+          ]
+        },
+        "author_id": "1782969184147927040",
+        "conversation_id": "1835612536026341519",
+        "created_at": "2024-09-16T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835612536026341519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufv3xdy8aa",
+              "end": 30,
+              "expanded_url": "https://twitter.com/scar_xxxll/status/1835612536026341519/video/1",
+              "media_key": "7_1835612492246163456",
+              "start": 7,
+              "url": "https://t.co/uFV3xdy8aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835612536026341519",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1256,
+          "like_count": 114,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️🩸🔪⚠️ https://t.co/uFV3xdy8aa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1495,
+          "like_count": 7537,
+          "listed_count": 3,
+          "tweet_count": 2993
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T03:06:05.000Z",
+        "description": "⚠︎︎열람 주의 어카운트",
+        "id": "1782969184147927040",
+        "name": "ɹɐɔS",
+        "pinned_tweet_id": "1798599483175186624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782973242820677632/bWHlbjrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9134,
+          "following_count": 126,
+          "like_count": 1231,
+          "listed_count": 15,
+          "tweet_count": 957
+        },
+        "username": "scar_xxxll",
+        "verified": false
+      }
+    ]
+  }
+}

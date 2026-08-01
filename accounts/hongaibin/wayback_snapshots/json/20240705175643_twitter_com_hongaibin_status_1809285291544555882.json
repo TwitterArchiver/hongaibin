@@ -1,0 +1,254 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1809285246858457088"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809281882821156874",
+    "created_at": "2024-07-05T17:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T18:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809285291544555882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "v.douyin.com/i6XTYEjy",
+          "end": 23,
+          "expanded_url": "https://v.douyin.com/i6XTYEjy",
+          "start": 0,
+          "url": "https://t.co/MJH8Hqtgc5"
+        },
+        {
+          "display_url": "pic.twitter.com/wG5jrI46mK",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hongaibin/status/1809285291544555882/video/1",
+          "media_key": "7_1809285246858457088",
+          "start": 24,
+          "url": "https://t.co/wG5jrI46mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809285291544555882",
+    "in_reply_to_user_id": "1780208570098688000",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809281882821156874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/MJH8Hqtgc5 https://t.co/wG5jrI46mK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809285291544555882].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809285291544555882",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809285291544555882"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10081,
+        "height": 1280,
+        "media_key": "7_1809285246858457088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1809285246858457088/pu/img/O4aA9Y_W6QmOFXdA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809285246858457088/pu/vid/avc1/320x568/dxRzEPcibglQx4VP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809285246858457088/pu/vid/avc1/480x852/PUrN8G9tcQYnXzCK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809285246858457088/pu/vid/avc1/720x1280/BD1FSTQDB54RmBk0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1809285246858457088/pu/pl/ZSVMvyscx0pcnb6P.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1809281614150778880",
+            "7_1809281685919526917",
+            "7_1809281755092058113",
+            "7_1809281829511593984"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809281882821156874",
+        "created_at": "2024-07-05T17:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T18:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809281882821156874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "洛笙le"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "玉米症"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "抑郁症"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "自伤"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "自杀"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "紫砂"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "舍曲林"
+            },
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "富马酸喹硫平"
+            },
+            {
+              "end": 160,
+              "start": 156,
+              "tag": "碳酸锂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "iesdouyin.com/share/video/73…",
+              "end": 23,
+              "expanded_url": "https://www.iesdouyin.com/share/video/7386149131250666790/?region=CN&mid=7382495249630907146&u_code=46201mf6l9l3&did=MS4wLjABAAAAz3nx7wigX2G8JiOYfiudCIKr7zpbEnzqB0UvMVppFo5nQcozSbIGIQk_WSbhdY0w&iid=MS4wLjABAAAAFgdgxvAEos2HHRPmYgG9naqnvsLKrIRSLTnFhDDoOUrWDNxQTeZ-iit1pUfXFPt5&with_sec_did=1&titleType=title&share_sign=2tBFq_IKoui4Q5o5CGoyQ8oEzQP6Zj4S8n22uZP4wRM-&share_version=300301&ts=1720198637&from_aid=2329&from_ssr=1&utm_source=copy&utm_campaign=client_share&utm_medium=android&app=aweme",
+              "start": 0,
+              "url": "https://t.co/JoxTdRrLqp"
+            },
+            {
+              "display_url": "pic.twitter.com/mk7CL8rLgc",
+              "end": 184,
+              "expanded_url": "https://twitter.com/hongaibin/status/1809281882821156874/video/1",
+              "media_key": "7_1809281614150778880",
+              "start": 161,
+              "url": "https://t.co/mk7CL8rLgc"
+            },
+            {
+              "display_url": "pic.twitter.com/mk7CL8rLgc",
+              "end": 184,
+              "expanded_url": "https://twitter.com/hongaibin/status/1809281882821156874/video/1",
+              "media_key": "7_1809281685919526917",
+              "start": 161,
+              "url": "https://t.co/mk7CL8rLgc"
+            },
+            {
+              "display_url": "pic.twitter.com/mk7CL8rLgc",
+              "end": 184,
+              "expanded_url": "https://twitter.com/hongaibin/status/1809281882821156874/video/1",
+              "media_key": "7_1809281755092058113",
+              "start": 161,
+              "url": "https://t.co/mk7CL8rLgc"
+            },
+            {
+              "display_url": "pic.twitter.com/mk7CL8rLgc",
+              "end": 184,
+              "expanded_url": "https://twitter.com/hongaibin/status/1809281882821156874/video/1",
+              "media_key": "7_1809281829511593984",
+              "start": 161,
+              "url": "https://t.co/mk7CL8rLgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809281882821156874",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JoxTdRrLqp\n虽然跟她只认识了几个月 \n但 #洛笙le 她一直触动着我\n虽然我刚确诊 中抑焦 但我实在无法想象，她居然已经重度[双相]零散反复6年了 呕吐的躯体化让她很痛苦\n她一直触动着我，让我继续坚持下去\n#玉米症 #抑郁症 #自伤 #自杀 #紫砂 #舍曲林 #富马酸喹硫平 #碳酸锂 https://t.co/mk7CL8rLgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 1076,
+          "like_count": 2080,
+          "listed_count": 1,
+          "tweet_count": 1462
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

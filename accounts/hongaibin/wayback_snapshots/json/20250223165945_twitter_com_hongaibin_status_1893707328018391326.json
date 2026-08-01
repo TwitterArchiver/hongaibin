@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893608957014638592",
+        "3_1893608957014589440",
+        "3_1893608957018865664"
+      ],
+      "media_source_tweet_id": [
+        "1893608965239718021",
+        "1893608965239718021",
+        "1893608965239718021"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1893707328018391326",
+    "created_at": "2025-02-23T16:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893707328018391326"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 16,
+          "tag": "三連休はフォロワーさんが増えるらしい"
+        },
+        {
+          "end": 55,
+          "start": 37,
+          "tag": "絵柄が好みって人にフォローされたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1739156346854060032",
+          "start": 3,
+          "username": "noahmtearc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DF62Ishoec",
+          "end": 104,
+          "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+          "media_key": "3_1893608957014638592",
+          "start": 81,
+          "url": "https://t.co/DF62Ishoec"
+        },
+        {
+          "display_url": "pic.x.com/DF62Ishoec",
+          "end": 104,
+          "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+          "media_key": "3_1893608957014589440",
+          "start": 81,
+          "url": "https://t.co/DF62Ishoec"
+        },
+        {
+          "display_url": "pic.x.com/DF62Ishoec",
+          "end": 104,
+          "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+          "media_key": "3_1893608957018865664",
+          "start": 81,
+          "url": "https://t.co/DF62Ishoec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893707328018391326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893608965239718021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noahmtearc: #三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい \n復帰後初タグよろしくお願いします💝人外好きです https://t.co/DF62Ishoec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893608957014638592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdzUEpbAAA5ByJ.jpg",
+        "width": 1436
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1893608957014589440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdzUEpaQAARGJP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893608957018865664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdzUEqbgAAMDqt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893608957014638592",
+            "3_1893608957014589440",
+            "3_1893608957018865664"
+          ],
+          "media_source_tweet_id": [
+            "1893608965239718021",
+            "1893608965239718021",
+            "1893608965239718021"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1893707328018391326",
+        "created_at": "2025-02-23T16:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893707328018391326"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 16,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 55,
+              "start": 37,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739156346854060032",
+              "start": 3,
+              "username": "noahmtearc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 104,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957014638592",
+              "start": 81,
+              "url": "https://t.co/DF62Ishoec"
+            },
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 104,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957014589440",
+              "start": 81,
+              "url": "https://t.co/DF62Ishoec"
+            },
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 104,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957018865664",
+              "start": 81,
+              "url": "https://t.co/DF62Ishoec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893707328018391326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893608965239718021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noahmtearc: #三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい \n復帰後初タグよろしくお願いします💝人外好きです https://t.co/DF62Ishoec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893608957014638592",
+            "3_1893608957014589440",
+            "3_1893608957018865664"
+          ]
+        },
+        "author_id": "1739156346854060032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1893608965239718021",
+        "created_at": "2025-02-23T10:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893608965239718021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 39,
+              "start": 21,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 88,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957014638592",
+              "start": 65,
+              "url": "https://t.co/DF62Ishoec"
+            },
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 88,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957014589440",
+              "start": 65,
+              "url": "https://t.co/DF62Ishoec"
+            },
+            {
+              "display_url": "pic.x.com/DF62Ishoec",
+              "end": 88,
+              "expanded_url": "https://x.com/noahmtearc/status/1893608965239718021/photo/1",
+              "media_key": "3_1893608957018865664",
+              "start": 65,
+              "url": "https://t.co/DF62Ishoec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893608965239718021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 419,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい \n復帰後初タグよろしくお願いします💝人外好きです https://t.co/DF62Ishoec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/LquCIRpHrM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@laichongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@laichongaibinc",
+                "start": 129,
+                "url": "https://t.co/LquCIRpHrM"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1736,
+          "like_count": 14986,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 4439
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T05:29:32.000Z",
+        "description": "【@matecharon】's自創作LOOK BOOK  ご依頼相談/活動場所等▶︎https://t.co/fJfb3a3PMN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "matecharon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/psOv2iaupZTX…",
+                "end": 65,
+                "expanded_url": "https://profcard.info/u/psOv2iaupZTXS7W8AE3DLFVvw652",
+                "start": 42,
+                "url": "https://t.co/fJfb3a3PMN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/psOv2iaupZTX…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/psOv2iaupZTXS7W8AE3DLFVvw652",
+                "start": 0,
+                "url": "https://t.co/fJfb3a3PMN"
+              }
+            ]
+          }
+        },
+        "id": "1739156346854060032",
+        "name": "あみゅる",
+        "pinned_tweet_id": "1892952680064319927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739157615614320640/W3P8qz1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 30,
+          "like_count": 1645,
+          "listed_count": 8,
+          "media_count": 116,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/fJfb3a3PMN",
+        "username": "noahmtearc",
+        "verified": false
+      }
+    ]
+  }
+}

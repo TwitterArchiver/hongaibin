@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1443241089482190850",
+          "name": "Dril / wint"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1443241089482190850",
+          "name": "Dril / wint"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1443241089482190850",
+          "name": "Dril / wint"
+        }
+      }
+    ],
+    "conversation_id": "1960049537038659856",
+    "created_at": "2025-08-25T18:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960049537038659856"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 104,
+          "normalized_text": "skeleton",
+          "probability": 0.513,
+          "start": 97,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "16298441",
+          "start": 3,
+          "username": "dril"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960049537038659856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14536
+    },
+    "referenced_tweets": [
+      {
+        "id": "1673478733523722240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dril: If your grave doesn't say \"rest in peace\" on it you are automatically drafted into the skeleton war . Like and retweet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          }
+        ],
+        "conversation_id": "1960049537038659856",
+        "created_at": "2025-08-25T18:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960049537038659856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "skeleton",
+              "probability": 0.513,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "16298441",
+              "start": 3,
+              "username": "dril"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960049537038659856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14536
+        },
+        "referenced_tweets": [
+          {
+            "id": "1673478733523722240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dril: If your grave doesn't say \"rest in peace\" on it you are automatically drafted into the skeleton war . Like and retweet"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16298441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443241089482190850",
+              "name": "Dril / wint"
+            }
+          }
+        ],
+        "conversation_id": "1673478733523722240",
+        "created_at": "2023-06-26T23:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-27T00:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1673478733523722240"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "skeleton",
+              "probability": 0.5314,
+              "start": 87,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1673478733523722240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 2840891,
+          "like_count": 82442,
+          "quote_count": 419,
+          "reply_count": 278,
+          "retweet_count": 14536
+        },
+        "reply_settings": "everyone",
+        "text": "If your grave doesn't say \"rest in peace\" on it you are automatically drafted into the skeleton war . Like and retweet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2164,
+          "like_count": 21923,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5886
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-15T17:21:54.000Z",
+        "description": "welcome to my shit\nhttps://t.co/SuXccfQtN7\nhttps://t.co/kHbbE12Ftx\nhttps://t.co/uXYQZrfYdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/dril",
+                "end": 42,
+                "expanded_url": "https://www.patreon.com/dril",
+                "start": 19,
+                "url": "https://t.co/SuXccfQtN7"
+              },
+              {
+                "display_url": "bsky.app/profile/dril.b…",
+                "end": 66,
+                "expanded_url": "https://bsky.app/profile/dril.bsky.social",
+                "start": 43,
+                "url": "https://t.co/kHbbE12Ftx"
+              },
+              {
+                "display_url": "instagram.com/dril",
+                "end": 90,
+                "expanded_url": "https://instagram.com/dril",
+                "start": 67,
+                "url": "https://t.co/uXYQZrfYdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/drilreal",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/drilreal",
+                "start": 0,
+                "url": "https://t.co/LNyX15RFBe"
+              }
+            ]
+          }
+        },
+        "id": "16298441",
+        "location": "LA",
+        "name": "wint",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510917391533830145/XW-zSFDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715703,
+          "following_count": 416,
+          "like_count": 30,
+          "listed_count": 4559,
+          "media_count": 1474,
+          "tweet_count": 14541
+        },
+        "url": "https://t.co/LNyX15RFBe",
+        "username": "dril",
+        "verified": true
+      }
+    ]
+  }
+}

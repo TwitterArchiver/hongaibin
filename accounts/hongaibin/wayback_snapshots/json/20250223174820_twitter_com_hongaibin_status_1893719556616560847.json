@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893282218337845248"
+      ],
+      "media_source_tweet_id": [
+        "1893282225560658025"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1893719556616560847",
+    "created_at": "2025-02-23T17:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T18:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893719556616560847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604154566206926848",
+          "start": 3,
+          "username": "OoRe02086112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqDfcehU5M",
+          "end": 50,
+          "expanded_url": "https://x.com/OoRe02086112/status/1893282225560658025/photo/1",
+          "media_key": "3_1893282218337845248",
+          "start": 27,
+          "url": "https://t.co/SqDfcehU5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893719556616560847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893282225560658025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoRe02086112: 就是这个闷骚男！ https://t.co/SqDfcehU5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1893282218337845248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZKJYOXQAAvBW1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893282218337845248"
+          ],
+          "media_source_tweet_id": [
+            "1893282225560658025"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1893719556616560847",
+        "created_at": "2025-02-23T17:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T18:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893719556616560847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604154566206926848",
+              "start": 3,
+              "username": "OoRe02086112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqDfcehU5M",
+              "end": 50,
+              "expanded_url": "https://x.com/OoRe02086112/status/1893282225560658025/photo/1",
+              "media_key": "3_1893282218337845248",
+              "start": 27,
+              "url": "https://t.co/SqDfcehU5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893719556616560847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893282225560658025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoRe02086112: 就是这个闷骚男！ https://t.co/SqDfcehU5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893282218337845248"
+          ]
+        },
+        "author_id": "1604154566206926848",
+        "conversation_id": "1893282225560658025",
+        "created_at": "2025-02-22T12:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893282225560658025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqDfcehU5M",
+              "end": 32,
+              "expanded_url": "https://x.com/OoRe02086112/status/1893282225560658025/photo/1",
+              "media_key": "3_1893282218337845248",
+              "start": 9,
+              "url": "https://t.co/SqDfcehU5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893282225560658025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 659,
+          "impression_count": 485007,
+          "like_count": 6264,
+          "quote_count": 89,
+          "reply_count": 178,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "就是这个闷骚男！ https://t.co/SqDfcehU5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/LquCIRpHrM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@laichongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@laichongaibinc",
+                "start": 129,
+                "url": "https://t.co/LquCIRpHrM"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1738,
+          "like_count": 15027,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 4448
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜不算正经台本娘，兴趣使然且好色罢了｜不喜欢请不要骂我｜学业繁忙没办法及时回复信息｜接定制｜看置顶🔝！！",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1881253591241158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28276,
+          "following_count": 247,
+          "like_count": 4127,
+          "listed_count": 47,
+          "media_count": 120,
+          "tweet_count": 1254
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

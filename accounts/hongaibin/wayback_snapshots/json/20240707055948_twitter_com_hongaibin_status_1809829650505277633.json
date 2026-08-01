@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809829650505277633",
+    "created_at": "2024-07-07T05:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809829650505277633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708922145039134720",
+          "start": 3,
+          "username": "Wwwme698348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809829650505277633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809525824477098359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wwwme698348: I know when she died,her eyes were closed,and her heart was open.\n姬姬吞了一堆药外加亚硝酸钠 初步判断死亡时间为2024年5日23点至6日1点。\n逝者为大 节哀\n稍后 获知确切死…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809829650505277633].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809829650505277633",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809829650505277633"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809525812355620864",
+            "3_1809525812359815168",
+            "3_1809525812355559424",
+            "3_1809525812791767041"
+          ]
+        },
+        "author_id": "1708922145039134720",
+        "conversation_id": "1809525824477098359",
+        "created_at": "2024-07-06T09:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T10:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809525824477098359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 146,
+              "id": "1647247348534489092",
+              "start": 139,
+              "username": "zzj876"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GUihoigwJG",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Wwwme698348/status/1809525824477098359/photo/1",
+              "media_key": "3_1809525812355620864",
+              "start": 147,
+              "url": "https://t.co/GUihoigwJG"
+            },
+            {
+              "display_url": "pic.twitter.com/GUihoigwJG",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Wwwme698348/status/1809525824477098359/photo/1",
+              "media_key": "3_1809525812359815168",
+              "start": 147,
+              "url": "https://t.co/GUihoigwJG"
+            },
+            {
+              "display_url": "pic.twitter.com/GUihoigwJG",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Wwwme698348/status/1809525824477098359/photo/1",
+              "media_key": "3_1809525812355559424",
+              "start": 147,
+              "url": "https://t.co/GUihoigwJG"
+            },
+            {
+              "display_url": "pic.twitter.com/GUihoigwJG",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Wwwme698348/status/1809525824477098359/photo/1",
+              "media_key": "3_1809525812791767041",
+              "start": 147,
+              "url": "https://t.co/GUihoigwJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809525824477098359",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 18038,
+          "like_count": 139,
+          "quote_count": 13,
+          "reply_count": 85,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "I know when she died,her eyes were closed,and her heart was open.\n姬姬吞了一堆药外加亚硝酸钠 初步判断死亡时间为2024年5日23点至6日1点。\n逝者为大 节哀\n稍后 获知确切死亡时间以及药物名称时 我将发布讣告@zzj876 https://t.co/GUihoigwJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1093,
+          "like_count": 2183,
+          "listed_count": 1,
+          "tweet_count": 1502
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T19:09:36.000Z",
+        "description": "友跨高中生 可能是MTX🤔 不一定会回fo 见谅🙏🏻 女装学习中😈简介装修 敬请期待 感谢好朋友@tabo127238倾情奉献的手绘头像！🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "tabo127238"
+              }
+            ]
+          }
+        },
+        "id": "1708922145039134720",
+        "name": "晚春拾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781511093351022592/v5YIWIEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 511,
+          "like_count": 5099,
+          "listed_count": 2,
+          "tweet_count": 1977
+        },
+        "username": "Wwwme698348",
+        "verified": false
+      }
+    ]
+  }
+}

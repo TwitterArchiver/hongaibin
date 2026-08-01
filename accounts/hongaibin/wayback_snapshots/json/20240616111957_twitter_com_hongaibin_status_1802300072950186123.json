@@ -1,0 +1,431 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801975043276365824"
+      ],
+      "media_source_tweet_id": [
+        "1801975048972239108"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1802300072950186123",
+    "created_at": "2024-06-16T11:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802300072950186123"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "chan",
+          "probability": 0.6256,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "Life",
+          "probability": 0.5933,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "Kagamine",
+          "probability": 0.7452,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721736749926567936",
+          "start": 3,
+          "username": "Dr0gsneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/chCUQ7YrHW",
+          "end": 99,
+          "expanded_url": "https://twitter.com/Dr0gsneko/status/1801975048972239108/photo/1",
+          "media_key": "3_1801975043276365824",
+          "start": 76,
+          "url": "https://t.co/chCUQ7YrHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802300072950186123",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801975048972239108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr0gsneko: Drugs ruiner chan and Life ruiner chan cosplaying Kagamine,, https://t.co/chCUQ7YrHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1801975043276365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQHmwSybYAAq2in.jpg",
+        "width": 1615
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801975043276365824"
+          ],
+          "media_source_tweet_id": [
+            "1801975048972239108"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1802300072950186123",
+        "created_at": "2024-06-16T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802300072950186123"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "chan",
+              "probability": 0.6256,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Life",
+              "probability": 0.5933,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Kagamine",
+              "probability": 0.7452,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721736749926567936",
+              "start": 3,
+              "username": "Dr0gsneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/chCUQ7YrHW",
+              "end": 99,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1801975048972239108/photo/1",
+              "media_key": "3_1801975043276365824",
+              "start": 76,
+              "url": "https://t.co/chCUQ7YrHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802300072950186123",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801975048972239108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr0gsneko: Drugs ruiner chan and Life ruiner chan cosplaying Kagamine,, https://t.co/chCUQ7YrHW"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801975043276365824"
+          ]
+        },
+        "author_id": "1721736749926567936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1801975048972239108",
+        "created_at": "2024-06-15T13:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801975048972239108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "chan",
+              "probability": 0.5378,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Life",
+              "probability": 0.6273,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Kagamine",
+              "probability": 0.6865,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/chCUQ7YrHW",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Dr0gsneko/status/1801975048972239108/photo/1",
+              "media_key": "3_1801975043276365824",
+              "start": 61,
+              "url": "https://t.co/chCUQ7YrHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801975048972239108",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 15361,
+          "like_count": 1725,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "Drugs ruiner chan and Life ruiner chan cosplaying Kagamine,, https://t.co/chCUQ7YrHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1053,
+          "like_count": 1730,
+          "listed_count": 1,
+          "tweet_count": 1312
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "🐼💉 #麻薬ねこ / @Drugsneko18 🥩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "麻薬ねこ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Drugsneko18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dr0gsneko.carrd.co",
+                "end": 23,
+                "expanded_url": "https://dr0gsneko.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/FuVy59oADt"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "Cm closed",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1758206847855837321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799297019577872384/nBu2P9zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15820,
+          "following_count": 39,
+          "like_count": 4123,
+          "listed_count": 18,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/FuVy59oADt",
+        "username": "Dr0gsneko",
+        "verified": true
+      }
+    ]
+  }
+}

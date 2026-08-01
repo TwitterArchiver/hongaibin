@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892901647330004993"
+      ],
+      "media_source_tweet_id": [
+        "1892901662626304018"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915248538235347288",
+    "created_at": "2025-04-24T03:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915248538235347288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870447511539785728",
+          "start": 3,
+          "username": "miku668866"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvMWThtTBf",
+          "end": 39,
+          "expanded_url": "https://x.com/miku668866/status/1892901662626304018/photo/1",
+          "media_key": "3_1892901647330004993",
+          "start": 16,
+          "url": "https://t.co/bvMWThtTBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915248538235347288",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892901662626304018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miku668866: https://t.co/bvMWThtTBf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915248538235347288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915248538235347288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915248538235347288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1892901647330004993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTwBOvbUAEE_Fm.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892901647330004993"
+          ]
+        },
+        "author_id": "1870447511539785728",
+        "conversation_id": "1892901662626304018",
+        "created_at": "2025-02-21T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892901662626304018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvMWThtTBf",
+              "end": 23,
+              "expanded_url": "https://x.com/miku668866/status/1892901662626304018/photo/1",
+              "media_key": "3_1892901647330004993",
+              "start": 0,
+              "url": "https://t.co/bvMWThtTBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892901662626304018",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 666,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bvMWThtTBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1902,
+          "like_count": 16604,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4757
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:33:47.000Z",
+        "description": "MTF Partner：@chianyu57i    坐标：苏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "chianyu57i"
+              }
+            ]
+          }
+        },
+        "id": "1870447511539785728",
+        "name": "Missing🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "1890640998247571829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909816007000227840/7CdVN6i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 63,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "username": "miku668866",
+        "verified": false
+      }
+    ]
+  }
+}

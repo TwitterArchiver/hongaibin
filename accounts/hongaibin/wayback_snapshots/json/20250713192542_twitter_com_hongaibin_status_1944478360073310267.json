@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944350748080222208"
+      ],
+      "media_source_tweet_id": [
+        "1944350758050369888"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1944478360073310267",
+    "created_at": "2025-07-13T19:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T20:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944478360073310267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729782382386126848",
+          "start": 3,
+          "username": "gogh1988174"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8oAZQHlmDv",
+          "end": 80,
+          "expanded_url": "https://x.com/gogh1988174/status/1944350758050369888/photo/1",
+          "media_key": "3_1944350748080222208",
+          "start": 57,
+          "url": "https://t.co/8oAZQHlmDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944478360073310267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944350758050369888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gogh1988174: 炸柜了，糖，药，小玩具，假发，cos服全扔了\n这是每个家暴党都会必经的流程吗？ https://t.co/8oAZQHlmDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944350748080222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvu4tCoWMAAy6mV.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944350748080222208"
+          ],
+          "media_source_tweet_id": [
+            "1944350758050369888"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1944478360073310267",
+        "created_at": "2025-07-13T19:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T20:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944478360073310267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729782382386126848",
+              "start": 3,
+              "username": "gogh1988174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oAZQHlmDv",
+              "end": 80,
+              "expanded_url": "https://x.com/gogh1988174/status/1944350758050369888/photo/1",
+              "media_key": "3_1944350748080222208",
+              "start": 57,
+              "url": "https://t.co/8oAZQHlmDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944478360073310267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944350758050369888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gogh1988174: 炸柜了，糖，药，小玩具，假发，cos服全扔了\n这是每个家暴党都会必经的流程吗？ https://t.co/8oAZQHlmDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944350748080222208"
+          ]
+        },
+        "author_id": "1729782382386126848",
+        "conversation_id": "1944350758050369888",
+        "created_at": "2025-07-13T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944350758050369888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oAZQHlmDv",
+              "end": 63,
+              "expanded_url": "https://x.com/gogh1988174/status/1944350758050369888/photo/1",
+              "media_key": "3_1944350748080222208",
+              "start": 40,
+              "url": "https://t.co/8oAZQHlmDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944350758050369888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10698,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了，糖，药，小玩具，假发，cos服全扔了\n这是每个家暴党都会必经的流程吗？ https://t.co/8oAZQHlmDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 2084,
+          "like_count": 20424,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5539
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T08:40:57.000Z",
+        "description": "友跨顺男/性别认知障碍/02大龄/天残党/无证含糖/不再od了/HRT2025.3.11/不太成熟/ISFP拖延症/m/主人 @Tang_1019 /会互fo的\n之前有的照片都不太好看，就只发了一点点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Tang_1019"
+              }
+            ]
+          }
+        },
+        "id": "1729782382386126848",
+        "name": "沃沃",
+        "pinned_tweet_id": "1909167006815027273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923436857150537730/VetELcJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 943,
+          "like_count": 3642,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 237
+        },
+        "username": "gogh1988174",
+        "verified": false
+      }
+    ]
+  }
+}

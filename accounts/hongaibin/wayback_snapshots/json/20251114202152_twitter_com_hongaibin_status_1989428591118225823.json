@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989270241793183744"
+      ],
+      "media_source_tweet_id": [
+        "1989270250358190581"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1989428591118225823",
+    "created_at": "2025-11-14T20:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989428591118225823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1708301558516207616",
+          "start": 3,
+          "username": "arou_overdose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/04fwHS4Baf",
+          "end": 96,
+          "expanded_url": "https://x.com/arou_overdose/status/1989270250358190581/photo/1",
+          "media_key": "3_1989270241793183744",
+          "start": 73,
+          "url": "https://t.co/04fwHS4Baf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989428591118225823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989270250358190581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arou_overdose: 往国内平台上发的全是傻逼死全家，但是我想问什么时候o玉米能胖了啊？我怎么不知道o玉米还能胖啊 你特么逗我？ https://t.co/04fwHS4Baf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1989270241793183744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tOvsxWkAAvOE-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989270241793183744"
+          ],
+          "media_source_tweet_id": [
+            "1989270250358190581"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1989428591118225823",
+        "created_at": "2025-11-14T20:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989428591118225823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1708301558516207616",
+              "start": 3,
+              "username": "arou_overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04fwHS4Baf",
+              "end": 96,
+              "expanded_url": "https://x.com/arou_overdose/status/1989270250358190581/photo/1",
+              "media_key": "3_1989270241793183744",
+              "start": 73,
+              "url": "https://t.co/04fwHS4Baf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989428591118225823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989270250358190581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arou_overdose: 往国内平台上发的全是傻逼死全家，但是我想问什么时候o玉米能胖了啊？我怎么不知道o玉米还能胖啊 你特么逗我？ https://t.co/04fwHS4Baf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989270241793183744"
+          ]
+        },
+        "author_id": "1708301558516207616",
+        "conversation_id": "1989270250358190581",
+        "created_at": "2025-11-14T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989270250358190581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04fwHS4Baf",
+              "end": 77,
+              "expanded_url": "https://x.com/arou_overdose/status/1989270250358190581/photo/1",
+              "media_key": "3_1989270241793183744",
+              "start": 54,
+              "url": "https://t.co/04fwHS4Baf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989270250358190581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9118,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "往国内平台上发的全是傻逼死全家，但是我想问什么时候o玉米能胖了啊？我怎么不知道o玉米还能胖啊 你特么逗我？ https://t.co/04fwHS4Baf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 2226,
+          "like_count": 23639,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6240
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "污秽不堪的你最可愛了｜@Yuu_sa_ri💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Yuu_sa_ri"
+              }
+            ]
+          }
+        },
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "吐き気",
+        "pinned_tweet_id": "1868600204129419570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982832575639883776/uwmtgmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 129,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 598
+        },
+        "username": "arou_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

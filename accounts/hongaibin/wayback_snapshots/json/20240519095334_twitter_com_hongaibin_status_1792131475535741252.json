@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1792093221558026468",
+    "created_at": "2024-05-19T09:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T10:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792131475535741252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789158388880015361",
+          "start": 0,
+          "username": "mgn255317826267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792131475535741252",
+    "in_reply_to_user_id": "1789158388880015361",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792095884895011254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgn255317826267 这话的确是真的 有钱直接出市出省都没问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792093221558026468",
+        "created_at": "2024-05-19T09:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T10:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792131475535741252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789158388880015361",
+              "start": 0,
+              "username": "mgn255317826267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792131475535741252",
+        "in_reply_to_user_id": "1789158388880015361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792095884895011254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgn255317826267 这话的确是真的 有钱直接出市出省都没问题"
+      },
+      {
+        "attachments": {},
+        "author_id": "1789158388880015361",
+        "conversation_id": "1792093221558026468",
+        "created_at": "2024-05-19T07:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T08:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792095884895011254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792095884895011254",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792095642040533357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 给你个建议，攒钱，偷偷攒钱，当你有钱了，去哪里谁还能管你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 858,
+          "like_count": 1247,
+          "listed_count": 1,
+          "tweet_count": 450
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:00:07.000Z",
+        "description": "喜欢涩涩的一个普通人，但是困难的人，没有倾诉的人，可以找我呀，我会很乐意帮助（无偿）",
+        "id": "1789158388880015361",
+        "location": "湖北襄阳",
+        "name": "墨乾",
+        "pinned_tweet_id": "1792063870636531826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789372095199137793/ghNaJxca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 153,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "mgn255317826267",
+        "verified": false
+      }
+    ]
+  }
+}

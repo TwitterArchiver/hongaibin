@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1977607805302718743",
+    "created_at": "2025-10-13T05:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977607805302718743"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "#劇場版チェンソーマン",
+          "probability": 0.3965,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 23,
+          "tag": "劇場版チェンソーマン"
+        },
+        {
+          "end": 136,
+          "start": 128,
+          "tag": "チェンソーマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1706270746862141440",
+          "start": 3,
+          "username": "mtt_75058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977607805302718743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975553405109318034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtt_75058: 【19日目】\n『#劇場版チェンソーマン』興行収入実況\n\n本日…0.87億円\n累計…45.85億円(※推定)\n\n本日も高いホールド率で累計45億円を突破。\n今週の三連休明けの成績次第では最終100億円も実現可能かもしれません！\n#チェンソーマン #c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1975553396322230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qTWNaaYAAkUmK.jpg",
+        "width": 2618
+      },
+      {
+        "height": 1088,
+        "media_key": "3_1975553396083204098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qTWMhbIAIhmcV.jpg",
+        "width": 2618
+      },
+      {
+        "height": 1088,
+        "media_key": "3_1975553396091592710",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qTWMjbIAYubPK.jpg",
+        "width": 2618
+      },
+      {
+        "height": 1087,
+        "media_key": "3_1975553396095717376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qTWMkaEAA4wl_.jpg",
+        "width": 2618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1977607805302718743",
+        "created_at": "2025-10-13T05:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977607805302718743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "#劇場版チェンソーマン",
+              "probability": 0.3965,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "劇場版チェンソーマン"
+            },
+            {
+              "end": 136,
+              "start": 128,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1706270746862141440",
+              "start": 3,
+              "username": "mtt_75058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977607805302718743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975553405109318034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtt_75058: 【19日目】\n『#劇場版チェンソーマン』興行収入実況\n\n本日…0.87億円\n累計…45.85億円(※推定)\n\n本日も高いホールド率で累計45億円を突破。\n今週の三連休明けの成績次第では最終100億円も実現可能かもしれません！\n#チェンソーマン #c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975553396322230272",
+            "3_1975553396083204098",
+            "3_1975553396091592710",
+            "3_1975553396095717376"
+          ]
+        },
+        "author_id": "1706270746862141440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1975553405109318034",
+        "created_at": "2025-10-07T13:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975553405109318034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "#劇場版チェンソーマン",
+              "probability": 0.4092,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "劇場版チェンソーマン"
+            },
+            {
+              "end": 121,
+              "start": 113,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 134,
+              "start": 122,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYTvgmmyls",
+              "end": 158,
+              "expanded_url": "https://x.com/mtt_75058/status/1975553405109318034/photo/1",
+              "media_key": "3_1975553396322230272",
+              "start": 135,
+              "url": "https://t.co/mYTvgmmyls"
+            },
+            {
+              "display_url": "pic.x.com/mYTvgmmyls",
+              "end": 158,
+              "expanded_url": "https://x.com/mtt_75058/status/1975553405109318034/photo/1",
+              "media_key": "3_1975553396083204098",
+              "start": 135,
+              "url": "https://t.co/mYTvgmmyls"
+            },
+            {
+              "display_url": "pic.x.com/mYTvgmmyls",
+              "end": 158,
+              "expanded_url": "https://x.com/mtt_75058/status/1975553405109318034/photo/1",
+              "media_key": "3_1975553396091592710",
+              "start": 135,
+              "url": "https://t.co/mYTvgmmyls"
+            },
+            {
+              "display_url": "pic.x.com/mYTvgmmyls",
+              "end": 158,
+              "expanded_url": "https://x.com/mtt_75058/status/1975553405109318034/photo/1",
+              "media_key": "3_1975553396095717376",
+              "start": 135,
+              "url": "https://t.co/mYTvgmmyls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975553405109318034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 148064,
+          "like_count": 3803,
+          "quote_count": 23,
+          "reply_count": 12,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "【19日目】\n『#劇場版チェンソーマン』興行収入実況\n\n本日…0.87億円\n累計…45.85億円(※推定)\n\n本日も高いホールド率で累計45億円を突破。\n今週の三連休明けの成績次第では最終100億円も実現可能かもしれません！\n#チェンソーマン #chainsawman https://t.co/mYTvgmmyls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 2200,
+          "like_count": 23366,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6153
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T11:34:04.000Z",
+        "description": "ただの映画好きな者です(洋画&邦画なんでも鑑賞)🎬🍿｜映画の感想、紹介、最新情報＆興行収入を投稿してます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mimorin2014.com",
+                "end": 23,
+                "expanded_url": "https://mimorin2014.com/",
+                "start": 0,
+                "url": "https://t.co/lNLjYyat63"
+              }
+            ]
+          }
+        },
+        "id": "1706270746862141440",
+        "location": "興行収入参考サイト▶︎",
+        "name": "ベーダーの興行収入速報",
+        "pinned_tweet_id": "1976494042482606265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875081078198956032/rvZaMXW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19656,
+          "following_count": 1133,
+          "like_count": 3966,
+          "listed_count": 65,
+          "media_count": 1417,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/lNLjYyat63",
+        "username": "mtt_75058",
+        "verified": true
+      }
+    ]
+  }
+}

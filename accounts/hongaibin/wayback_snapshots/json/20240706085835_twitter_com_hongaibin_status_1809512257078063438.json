@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809512257078063438",
+    "created_at": "2024-07-06T08:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T09:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809512257078063438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798724969695977472",
+          "start": 3,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809512257078063438",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808890865332764681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdosewiki: 最开始，Chicken与后藤搭建odwiki，即为两名管理人员。自始至终都是Chicken（搭建管理）管理网站搭建，后藤（内容主编）管理网站内容。所谓”wiki主“一直都是Chicken，不存在转手相让\n大家都知道Chicken犯了什么事。后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809512257078063438",
+        "created_at": "2024-07-06T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809512257078063438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798724969695977472",
+              "start": 3,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809512257078063438",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808890865332764681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdosewiki: 最开始，Chicken与后藤搭建odwiki，即为两名管理人员。自始至终都是Chicken（搭建管理）管理网站搭建，后藤（内容主编）管理网站内容。所谓”wiki主“一直都是Chicken，不存在转手相让\n大家都知道Chicken犯了什么事。后…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1808890865332764681",
+        "created_at": "2024-07-04T15:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T16:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808890865332764681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808890865332764681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2253,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最开始，Chicken与后藤搭建odwiki，即为两名管理人员。自始至终都是Chicken（搭建管理）管理网站搭建，后藤（内容主编）管理网站内容。所谓”wiki主“一直都是Chicken，不存在转手相让\n大家都知道Chicken犯了什么事。后藤错在让如此情绪不稳定者管理网站搭建，事件结束后，因立刻问责批判后藤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 1087,
+          "like_count": 2119,
+          "listed_count": 1,
+          "tweet_count": 1488
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "忠！诚！\n这边的人员组成 = 原odwiki全体编辑 = 原odwiki - \"wiki主\"\n。除了wiki主都在这边集合避难了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1808884230971404618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 5,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

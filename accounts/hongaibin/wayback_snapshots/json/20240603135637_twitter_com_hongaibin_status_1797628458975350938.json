@@ -1,0 +1,101 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797628447088689152"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1797628458975350938",
+    "created_at": "2024-06-03T13:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T14:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797628458975350938"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "抑郁症"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "右美沙芬"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uIT53L6Pku",
+          "end": 109,
+          "expanded_url": "https://twitter.com/hongaibin/status/1797628458975350938/photo/1",
+          "media_key": "3_1797628447088689152",
+          "start": 86,
+          "url": "https://t.co/uIT53L6Pku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797628458975350938",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎 今天下午一直在看医生 成功考上 #抑郁症 虽然只是有个报告单证明 🤣🤣🤣 #右美沙芬\n本来还让我住院 我直接拒绝了 虽然半封闭病房好一点。。\n我在思考🤔要不要去住 🤔 https://t.co/uIT53L6Pku"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797628458975350938].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797628458975350938",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797628458975350938"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1797628447088689152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPJ1jGLbwAAfEdy.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 1061,
+          "like_count": 1565,
+          "listed_count": 1,
+          "tweet_count": 1063
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

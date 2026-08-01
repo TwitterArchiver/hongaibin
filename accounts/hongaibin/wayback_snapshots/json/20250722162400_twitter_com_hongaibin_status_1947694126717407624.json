@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947686005882163205",
+        "3_1947686005898928128"
+      ],
+      "media_source_tweet_id": [
+        "1947686015675863311",
+        "1947686015675863311"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1947694126717407624",
+    "created_at": "2025-07-22T16:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T17:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947694126717407624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557839863151337473",
+          "start": 3,
+          "username": "scutigera_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LDJidmbys",
+          "end": 50,
+          "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+          "media_key": "3_1947686005882163205",
+          "start": 27,
+          "url": "https://t.co/9LDJidmbys"
+        },
+        {
+          "display_url": "pic.x.com/9LDJidmbys",
+          "end": 50,
+          "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+          "media_key": "3_1947686005898928128",
+          "start": 27,
+          "url": "https://t.co/9LDJidmbys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947694126717407624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947686015675863311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scutigera_8964: 已经充能完毕 https://t.co/9LDJidmbys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1947686005882163205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweSGmKbEAUFix9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1947686005898928128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweSGmOa4AADePS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947686005882163205",
+            "3_1947686005898928128"
+          ],
+          "media_source_tweet_id": [
+            "1947686015675863311",
+            "1947686015675863311"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1947694126717407624",
+        "created_at": "2025-07-22T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947694126717407624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557839863151337473",
+              "start": 3,
+              "username": "scutigera_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LDJidmbys",
+              "end": 50,
+              "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+              "media_key": "3_1947686005882163205",
+              "start": 27,
+              "url": "https://t.co/9LDJidmbys"
+            },
+            {
+              "display_url": "pic.x.com/9LDJidmbys",
+              "end": 50,
+              "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+              "media_key": "3_1947686005898928128",
+              "start": 27,
+              "url": "https://t.co/9LDJidmbys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947694126717407624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947686015675863311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scutigera_8964: 已经充能完毕 https://t.co/9LDJidmbys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947686005882163205",
+            "3_1947686005898928128"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1947686015675863311",
+        "created_at": "2025-07-22T15:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947686015675863311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LDJidmbys",
+              "end": 30,
+              "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+              "media_key": "3_1947686005882163205",
+              "start": 7,
+              "url": "https://t.co/9LDJidmbys"
+            },
+            {
+              "display_url": "pic.x.com/9LDJidmbys",
+              "end": 30,
+              "expanded_url": "https://x.com/scutigera_8964/status/1947686015675863311/photo/1",
+              "media_key": "3_1947686005898928128",
+              "start": 7,
+              "url": "https://t.co/9LDJidmbys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947686015675863311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "已经充能完毕 https://t.co/9LDJidmbys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 2091,
+          "like_count": 21126,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5659
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "♂/お幸せに/無言フォローすいません/dm大歓迎/我的一生从头到尾写满了失败",
+        "id": "1557839863151337473",
+        "name": "くま",
+        "pinned_tweet_id": "1945378719742444007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942869238462517248/n6B-64Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 3203,
+          "like_count": 32764,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 8009
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

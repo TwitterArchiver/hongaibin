@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1790402943629619554",
+    "created_at": "2024-05-14T15:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T16:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790402943629619554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735363934889361409",
+          "start": 3,
+          "username": "xia_shu13688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790402943629619554",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790251243417596328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xia_shu13688: 我o太多药 尿不出来怎么办😿😿\n救命啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1790402943629619554",
+        "created_at": "2024-05-14T15:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T16:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790402943629619554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735363934889361409",
+              "start": 3,
+              "username": "xia_shu13688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790402943629619554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790251243417596328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xia_shu13688: 我o太多药 尿不出来怎么办😿😿\n救命啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1735363934889361409",
+        "conversation_id": "1790251243417596328",
+        "created_at": "2024-05-14T05:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T06:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790251243417596328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790251243417596328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5126,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我o太多药 尿不出来怎么办😿😿\n救命啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 788,
+          "like_count": 1202,
+          "listed_count": 0,
+          "tweet_count": 292
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T18:19:49.000Z",
+        "description": "感受不到幸福",
+        "id": "1735363934889361409",
+        "name": "美咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790032830824878080/C9co6qTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1581,
+          "like_count": 8602,
+          "listed_count": 1,
+          "tweet_count": 4192
+        },
+        "username": "xia_shu13688",
+        "verified": false
+      }
+    ]
+  }
+}

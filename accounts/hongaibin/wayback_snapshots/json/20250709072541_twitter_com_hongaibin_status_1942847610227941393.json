@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1941494640747679744"
+      ],
+      "media_source_tweet_id": [
+        "1941607266622320842"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942847610227941393",
+    "created_at": "2025-07-09T07:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T08:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942847610227941393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756512429377294336",
+          "start": 3,
+          "username": "ChiefofIsaac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0FzcsRxUW",
+          "end": 66,
+          "expanded_url": "https://x.com/ChiefofIsaac/status/1941607266622320842/video/1",
+          "media_key": "13_1941494640747679744",
+          "start": 43,
+          "url": "https://t.co/J0FzcsRxUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942847610227941393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 987
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941607266622320842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChiefofIsaac: did this actually happen https://t.co/J0FzcsRxUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14466,
+        "height": 1024,
+        "media_key": "13_1941494640747679744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941494640747679744/img/ZRaGtMq3dC54zLre.jpg",
+        "public_metrics": {
+          "view_count": 363290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941494640747679744/vid/avc1/320x568/jlZKYHzSIHMhZjyH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941494640747679744/vid/avc1/480x852/HRSBrQ3pauqZxpzE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941494640747679744/vid/avc1/576x1024/j7vF8jv7f1v-rqbG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941494640747679744/pl/VP1mRg4MvZCYZLCb.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941494640747679744"
+          ],
+          "media_source_tweet_id": [
+            "1941607266622320842"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942847610227941393",
+        "created_at": "2025-07-09T07:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942847610227941393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756512429377294336",
+              "start": 3,
+              "username": "ChiefofIsaac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0FzcsRxUW",
+              "end": 66,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/1941607266622320842/video/1",
+              "media_key": "13_1941494640747679744",
+              "start": 43,
+              "url": "https://t.co/J0FzcsRxUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942847610227941393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 987
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941607266622320842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChiefofIsaac: did this actually happen https://t.co/J0FzcsRxUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941494640747679744"
+          ]
+        },
+        "author_id": "1756512429377294336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941607266622320842",
+        "created_at": "2025-07-05T21:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T22:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941607266622320842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0FzcsRxUW",
+              "end": 48,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/1941607266622320842/video/1",
+              "media_key": "13_1941494640747679744",
+              "start": 25,
+              "url": "https://t.co/J0FzcsRxUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941607266622320842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1784,
+          "impression_count": 677089,
+          "like_count": 9187,
+          "quote_count": 10,
+          "reply_count": 35,
+          "retweet_count": 987
+        },
+        "reply_settings": "everyone",
+        "text": "did this actually happen https://t.co/J0FzcsRxUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 2086,
+          "like_count": 20366,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5526
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:56:19.000Z",
+        "description": "Chief of the funnies on twt 👉BACKUPS: @CeoAvenged @ 👈 (if yall ever made anything for me, dm me it I’ll 100% see it and rt it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "CeoAvenged"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JetwQECqSA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JetwQECqSA",
+                "start": 0,
+                "url": "https://t.co/atm8e35kis"
+              }
+            ]
+          }
+        },
+        "id": "1756512429377294336",
+        "location": "PFP by @Real_Animal",
+        "name": "Chief ⚔️ ‼️ (Dinosaurs Are Real)",
+        "pinned_tweet_id": "1937850415028027765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927170265005301760/sJPx2l3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98712,
+          "following_count": 1714,
+          "like_count": 27094,
+          "listed_count": 141,
+          "media_count": 9098,
+          "tweet_count": 17062
+        },
+        "url": "https://t.co/atm8e35kis",
+        "username": "ChiefofIsaac",
+        "verified": true
+      }
+    ]
+  }
+}

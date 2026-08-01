@@ -1,0 +1,261 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789270407209771041",
+    "created_at": "2024-07-23T23:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T00:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815897460361028029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286627742289743872",
+          "start": 0,
+          "username": "AntiHateComms"
+        },
+        {
+          "end": 21,
+          "id": "1629424076145184768",
+          "start": 15,
+          "username": "k4z2K"
+        },
+        {
+          "end": 44,
+          "id": "1629424076145184768",
+          "start": 38,
+          "username": "k4z2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815897460361028029",
+    "in_reply_to_user_id": "1286627742289743872",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790124687474790659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntiHateComms @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    },
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789270407209771041",
+        "created_at": "2024-07-23T23:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T00:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815897460361028029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286627742289743872",
+              "start": 0,
+              "username": "AntiHateComms"
+            },
+            {
+              "end": 21,
+              "id": "1629424076145184768",
+              "start": 15,
+              "username": "k4z2K"
+            },
+            {
+              "end": 44,
+              "id": "1629424076145184768",
+              "start": 38,
+              "username": "k4z2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815897460361028029",
+        "in_reply_to_user_id": "1286627742289743872",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790124687474790659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntiHateComms @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790124683129466881"
+          ]
+        },
+        "author_id": "1286627742289743872",
+        "conversation_id": "1789270407209771041",
+        "created_at": "2024-05-13T20:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T21:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790124687474790659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629424076145184768",
+              "start": 0,
+              "username": "k4z2K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HndbSBjNPk",
+              "end": 56,
+              "expanded_url": "https://twitter.com/AntiHateComms/status/1790124687474790659/photo/1",
+              "media_key": "3_1790124683129466881",
+              "start": 33,
+              "url": "https://t.co/HndbSBjNPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790124687474790659",
+        "in_reply_to_user_id": "1629424076145184768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789270407209771041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4z2K Another reason not to sh! https://t.co/HndbSBjNPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1151,
+          "like_count": 3201,
+          "listed_count": 1,
+          "tweet_count": 1844
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T11:42:41.000Z",
+        "description": "Priv: @ProLoveComms, Tejanx🇺🇸🇲🇽 BIBOC buddy ✊🏿sensitive young thuggee😾Ordo Pagan🔨Sneedcel🌾Kultural enricher👨🏿‍⚕️Est.1861💙❤️🤍Respektfl Moderate🫏🐘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "ProLoveComms"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rdrama.net/signup?ref=3149",
+                "end": 23,
+                "expanded_url": "https://rdrama.net/signup?ref=3149",
+                "start": 0,
+                "url": "https://t.co/MpDhEGcE6I"
+              }
+            ]
+          }
+        },
+        "id": "1286627742289743872",
+        "location": "Kuru Nation",
+        "name": "🤰🏼🔫🦍Nigga🫃🏿Numb🙀Nuts🥜9000🤯🤯🤯",
+        "pinned_tweet_id": "1599232769543979008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808589661637349376/meB1nof7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 915,
+          "like_count": 148735,
+          "listed_count": 17,
+          "tweet_count": 16347
+        },
+        "url": "https://t.co/MpDhEGcE6I",
+        "username": "AntiHateComms",
+        "verified": false
+      }
+    ]
+  }
+}

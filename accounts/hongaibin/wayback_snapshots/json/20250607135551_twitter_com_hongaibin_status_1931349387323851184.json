@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930874164149424128"
+      ],
+      "media_source_tweet_id": [
+        "1930874166829609451"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1931349387323851184",
+    "created_at": "2025-06-07T13:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T14:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931349387323851184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1109080684419670017",
+          "start": 3,
+          "username": "KillerBeeSweety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGXKAe0Lsg",
+          "end": 85,
+          "expanded_url": "https://x.com/KillerBeeSweety/status/1930874166829609451/photo/1",
+          "media_key": "3_1930874164149424128",
+          "start": 62,
+          "url": "https://t.co/tGXKAe0Lsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931349387323851184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930874166829609451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillerBeeSweety: 差不多得了，我们不过是好友和聊天记录一删就从彼此的生活中消失到再也见不到的关系。 https://t.co/tGXKAe0Lsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1930874164149424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvX0nQbEAA8EAr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930874164149424128"
+          ],
+          "media_source_tweet_id": [
+            "1930874166829609451"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1931349387323851184",
+        "created_at": "2025-06-07T13:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931349387323851184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1109080684419670017",
+              "start": 3,
+              "username": "KillerBeeSweety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGXKAe0Lsg",
+              "end": 85,
+              "expanded_url": "https://x.com/KillerBeeSweety/status/1930874166829609451/photo/1",
+              "media_key": "3_1930874164149424128",
+              "start": 62,
+              "url": "https://t.co/tGXKAe0Lsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931349387323851184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930874166829609451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillerBeeSweety: 差不多得了，我们不过是好友和聊天记录一删就从彼此的生活中消失到再也见不到的关系。 https://t.co/tGXKAe0Lsg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930874164149424128"
+          ]
+        },
+        "author_id": "1109080684419670017",
+        "conversation_id": "1930874166829609451",
+        "created_at": "2025-06-06T06:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930874166829609451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGXKAe0Lsg",
+              "end": 64,
+              "expanded_url": "https://x.com/KillerBeeSweety/status/1930874166829609451/photo/1",
+              "media_key": "3_1930874164149424128",
+              "start": 41,
+              "url": "https://t.co/tGXKAe0Lsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930874166829609451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1644,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "差不多得了，我们不过是好友和聊天记录一删就从彼此的生活中消失到再也见不到的关系。 https://t.co/tGXKAe0Lsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 2046,
+          "like_count": 19131,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5290
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1929051226844397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16817,
+          "following_count": 1699,
+          "like_count": 29413,
+          "listed_count": 21,
+          "media_count": 2496,
+          "tweet_count": 20459
+        },
+        "username": "KillerBeeSweety",
+        "verified": true
+      }
+    ]
+  }
+}

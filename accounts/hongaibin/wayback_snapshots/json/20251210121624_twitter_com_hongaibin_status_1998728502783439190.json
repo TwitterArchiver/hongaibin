@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996617704984432641"
+      ],
+      "media_source_tweet_id": [
+        "1996617789889757606"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1998728502783439190",
+    "created_at": "2025-12-10T12:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T13:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998728502783439190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "T8O9K6Y4O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gsr4TvvERz",
+          "end": 47,
+          "expanded_url": "https://x.com/T8O9K6Y4O/status/1996617789889757606/video/1",
+          "media_key": "13_1996617704984432641",
+          "start": 24,
+          "url": "https://t.co/gsr4TvvERz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998728502783439190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996617789889757606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T8O9K6Y4O: 高市早苗你听着！ https://t.co/gsr4TvvERz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53186,
+        "height": 1280,
+        "media_key": "13_1996617704984432641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996617704984432641/img/MW2huM2TYmqAha81.jpg",
+        "public_metrics": {
+          "view_count": 14708
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996617704984432641/vid/avc1/320x568/TiR4xgNHCb1DwyD7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996617704984432641/vid/avc1/480x852/OnWXXn74pIiCaYUw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996617704984432641/vid/avc1/720x1280/AdCr1EvZPeCRCLla.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996617704984432641/pl/m_0skP47xg8WRQSo.m3u8?v=115"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996617704984432641"
+          ],
+          "media_source_tweet_id": [
+            "1996617789889757606"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998728502783439190",
+        "created_at": "2025-12-10T12:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T13:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998728502783439190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "T8O9K6Y4O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsr4TvvERz",
+              "end": 47,
+              "expanded_url": "https://x.com/T8O9K6Y4O/status/1996617789889757606/video/1",
+              "media_key": "13_1996617704984432641",
+              "start": 24,
+              "url": "https://t.co/gsr4TvvERz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998728502783439190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996617789889757606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T8O9K6Y4O: 高市早苗你听着！ https://t.co/gsr4TvvERz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996617704984432641"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1996617789889757606",
+        "created_at": "2025-12-04T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996617789889757606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsr4TvvERz",
+              "end": 32,
+              "expanded_url": "https://x.com/T8O9K6Y4O/status/1996617789889757606/video/1",
+              "media_key": "13_1996617704984432641",
+              "start": 9,
+              "url": "https://t.co/gsr4TvvERz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996617789889757606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 32714,
+          "like_count": 159,
+          "quote_count": 5,
+          "reply_count": 112,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "高市早苗你听着！ https://t.co/gsr4TvvERz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 2210,
+          "like_count": 23628,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6255
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵東京在住｜🌊冲浪乐子人｜自由主义｜日本語勉強中｜東雪蓮推し｜女装爱好者｜舞萌痴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3nPaPIv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3nPaPIv",
+                "start": 0,
+                "url": "https://t.co/WHM5vAWoaJ"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "Toshima-ku, Tokyo",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996296469574488064/gveR7_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8916,
+          "following_count": 680,
+          "like_count": 1134,
+          "listed_count": 38,
+          "media_count": 618,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/WHM5vAWoaJ",
+        "username": "T8O9K6Y4O",
+        "verified": false
+      }
+    ]
+  }
+}

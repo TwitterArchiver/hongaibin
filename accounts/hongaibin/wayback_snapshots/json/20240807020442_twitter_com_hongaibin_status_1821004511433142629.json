@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820780156690305024"
+      ],
+      "media_source_tweet_id": [
+        "1820780186859974665"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1821004511433142629",
+    "created_at": "2024-08-07T02:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T03:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821004511433142629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qXXxKEO6io",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Aichijiandanxyz/status/1820780186859974665/photo/1",
+          "media_key": "3_1820780156690305024",
+          "start": 58,
+          "url": "https://t.co/qXXxKEO6io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821004511433142629",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820780186859974665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aichijiandanxyz: 本是务农命阴差阳错读了几年书，看惯了网上的高质量生活别忘了自己是哪个村的 https://t.co/qXXxKEO6io"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1820780156690305024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUS159WbEAA6m0p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820780156690305024"
+          ],
+          "media_source_tweet_id": [
+            "1820780186859974665"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1821004511433142629",
+        "created_at": "2024-08-07T02:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T03:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821004511433142629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421851995355369477",
+              "start": 3,
+              "username": "Aichijiandanxyz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qXXxKEO6io",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Aichijiandanxyz/status/1820780186859974665/photo/1",
+              "media_key": "3_1820780156690305024",
+              "start": 58,
+              "url": "https://t.co/qXXxKEO6io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821004511433142629",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820780186859974665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aichijiandanxyz: 本是务农命阴差阳错读了几年书，看惯了网上的高质量生活别忘了自己是哪个村的 https://t.co/qXXxKEO6io"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820780156690305024"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "conversation_id": "1820780186859974665",
+        "created_at": "2024-08-06T11:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820780186859974665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qXXxKEO6io",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Aichijiandanxyz/status/1820780186859974665/photo/1",
+              "media_key": "3_1820780156690305024",
+              "start": 37,
+              "url": "https://t.co/qXXxKEO6io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820780186859974665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3848,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本是务农命阴差阳错读了几年书，看惯了网上的高质量生活别忘了自己是哪个村的 https://t.co/qXXxKEO6io"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1248,
+          "like_count": 4609,
+          "listed_count": 2,
+          "tweet_count": 2391
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "趁早滚蛋！\n@eggyyybaby\nvpn⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=im9TsgPc",
+                "start": 0,
+                "url": "https://t.co/3h044FxkV4"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1694768407147917551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773734861385453568/RauNYdco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13766,
+          "following_count": 404,
+          "like_count": 129383,
+          "listed_count": 62,
+          "tweet_count": 53488
+        },
+        "url": "https://t.co/3h044FxkV4",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

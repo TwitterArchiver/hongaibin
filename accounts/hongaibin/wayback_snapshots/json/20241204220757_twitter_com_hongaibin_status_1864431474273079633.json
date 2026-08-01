@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1864355857242140873",
+    "created_at": "2024-12-04T22:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T23:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864431474273079633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764513078585270272",
+          "start": 0,
+          "username": "k4zuk4zu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864431474273079633",
+    "in_reply_to_user_id": "1764513078585270272",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864355857242140873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4zuk4zu_ jojo😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1864355857242140873",
+        "created_at": "2024-12-04T22:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T23:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864431474273079633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764513078585270272",
+              "start": 0,
+              "username": "k4zuk4zu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864431474273079633",
+        "in_reply_to_user_id": "1764513078585270272",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864355857242140873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4zuk4zu_ jojo😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1864355851563356162"
+          ]
+        },
+        "author_id": "1764513078585270272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033215624",
+              "name": "ワンピース"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "ジョルノ・ジョバァーナは、ジョースター家の宿敵・DIOの血を継ぐ息子である。幼少時代に迫害を受けて荒んでいた彼は、1人のギャングの男がきっかけで、「ギャング・スター」にあこがれるようになった。15歳になったジョルノは、イタリアの裏社会を牛耳るギャング組織「パッショーネ」とトラブルを起こし、狙われることとなり…。\n\n@anime_jojoさんの画像",
+              "id": "10043632267",
+              "name": "ジョジョの奇妙な冒険"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1103042720212246528",
+              "name": "ONE PIECE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1864355857242140873",
+        "created_at": "2024-12-04T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864355857242140873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlpVwBzBoL",
+              "end": 287,
+              "expanded_url": "https://x.com/k4zuk4zu_/status/1864355857242140873/photo/1",
+              "media_key": "16_1864355851563356162",
+              "start": 264,
+              "url": "https://t.co/NlpVwBzBoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864355857242140873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I actually haven't been so heavily in love with an anime other than jjba before and when I was in love with jojo i had all this music to listen to cuz the soundtrack was just so good and all the bands referenced too but with one piece what do i even listen to.... https://t.co/NlpVwBzBoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1626,
+          "like_count": 12087,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 3865
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:48:04.000Z",
+        "description": "🍽18🍼♂️\nかず狂った海賊🏴‍☠️💣🦜 #kazutwt\nv系ネットギャ男+地雷男子👻\n⚠️14 and under dni, I post about my sh and ed⚠️\npriv: @k4zu_k4zu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 21,
+                "tag": "kazutwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "k4zu_k4zu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazukazu.straw.page",
+                "end": 23,
+                "expanded_url": "https://kazukazu.straw.page",
+                "start": 0,
+                "url": "https://t.co/qhDKdiyDFw"
+              }
+            ]
+          }
+        },
+        "id": "1764513078585270272",
+        "location": "Dressrosa",
+        "name": "かず🎁🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863257895283859457/ZApc6TrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 275,
+          "like_count": 51912,
+          "listed_count": 5,
+          "media_count": 2075,
+          "tweet_count": 9246
+        },
+        "url": "https://t.co/qhDKdiyDFw",
+        "username": "k4zuk4zu_",
+        "verified": false
+      }
+    ]
+  }
+}

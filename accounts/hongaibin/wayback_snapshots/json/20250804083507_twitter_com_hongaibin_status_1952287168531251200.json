@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951554350599512066",
+        "3_1951554350306021376"
+      ],
+      "media_source_tweet_id": [
+        "1951554492715196839",
+        "1951554492715196839"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952287168531251200",
+    "created_at": "2025-08-04T08:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T09:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952287168531251200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699421377520951296",
+          "start": 3,
+          "username": "Maorou_K8M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgsgHabsvb",
+          "end": 45,
+          "expanded_url": "https://x.com/Maorou_K8M/status/1951554492715196839/video/1",
+          "media_key": "13_1951554350599512066",
+          "start": 22,
+          "url": "https://t.co/rgsgHabsvb"
+        },
+        {
+          "display_url": "pic.x.com/rgsgHabsvb",
+          "end": 45,
+          "expanded_url": "https://x.com/Maorou_K8M/status/1951554492715196839/video/1",
+          "media_key": "3_1951554350306021376",
+          "start": 22,
+          "url": "https://t.co/rgsgHabsvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952287168531251200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951554492715196839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maorou_K8M: 溜了溜了🌚 https://t.co/rgsgHabsvb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952287168531251200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952287168531251200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952287168531251200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 960,
+        "media_key": "13_1951554350599512066",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951554350599512066/img/DfDkiAFDoC29zv8k.jpg",
+        "public_metrics": {
+          "view_count": 5818
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951554350599512066/vid/avc1/320x426/gpUXVKTSjDj26o5u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951554350599512066/vid/avc1/480x640/dtSiQx5bDn82imnh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951554350599512066/vid/avc1/720x960/hBvAc-iLVdrl1C_u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951554350599512066/pl/fIznPwa1N9u_dREf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951554350306021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVQV4Hb0AA_pcY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951554350599512066",
+            "3_1951554350306021376"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1951554492715196839",
+        "created_at": "2025-08-02T08:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T09:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951554492715196839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgsgHabsvb",
+              "end": 29,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1951554492715196839/video/1",
+              "media_key": "13_1951554350599512066",
+              "start": 6,
+              "url": "https://t.co/rgsgHabsvb"
+            },
+            {
+              "display_url": "pic.x.com/rgsgHabsvb",
+              "end": 29,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1951554492715196839/video/1",
+              "media_key": "3_1951554350306021376",
+              "start": 6,
+              "url": "https://t.co/rgsgHabsvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951554492715196839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18351,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "溜了溜了🌚 https://t.co/rgsgHabsvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2095,
+          "like_count": 21085,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5686
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪888zfb口令红包带姓 （过门可解锁菜单 ）私信只回复门槛💗只接绿色线下陪玩 一日女友～～本人只玩X/ins x唯二小号：@minminshummk8 @mingmingshummk8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "minminshummk8"
+              },
+              {
+                "end": 142,
+                "start": 126,
+                "username": "mingmingshummk8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtRyLF"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219625,
+          "following_count": 46,
+          "like_count": 384,
+          "listed_count": 565,
+          "media_count": 253,
+          "tweet_count": 1530
+        },
+        "url": "https://t.co/nxyoMtRyLF",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

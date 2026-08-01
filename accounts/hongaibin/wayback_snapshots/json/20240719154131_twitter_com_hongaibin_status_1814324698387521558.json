@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1814324698387521558",
+    "created_at": "2024-07-19T15:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T16:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814324698387521558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675106165133287429",
+          "start": 3,
+          "username": "0Ua586844"
+        },
+        {
+          "end": 24,
+          "id": "1808495745072521216",
+          "start": 15,
+          "username": "NoneDrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814324698387521558",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814063370204516802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0Ua586844: @NoneDrug 我对卖家的不专业行为感到不满，他们将扑热息痛粉末装入胶囊，却声称是pea。这种行为不仅不诚实，还可能对我的健康构成风险。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1814324698387521558",
+        "created_at": "2024-07-19T15:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T16:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814324698387521558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675106165133287429",
+              "start": 3,
+              "username": "0Ua586844"
+            },
+            {
+              "end": 24,
+              "id": "1808495745072521216",
+              "start": 15,
+              "username": "NoneDrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814324698387521558",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814063370204516802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0Ua586844: @NoneDrug 我对卖家的不专业行为感到不满，他们将扑热息痛粉末装入胶囊，却声称是pea。这种行为不仅不诚实，还可能对我的健康构成风险。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1675106165133287429",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1813991549371564449",
+        "created_at": "2024-07-18T22:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T23:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814063370204516802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1808495745072521216",
+              "start": 0,
+              "username": "NoneDrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814063370204516802",
+        "in_reply_to_user_id": "1808495745072521216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813991549371564449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoneDrug 我对卖家的不专业行为感到不满，他们将扑热息痛粉末装入胶囊，却声称是pea。这种行为不仅不诚实，还可能对我的健康构成风险。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1150,
+          "like_count": 2955,
+          "listed_count": 1,
+          "tweet_count": 1767
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T11:37:04.000Z",
+        "description": "起风了",
+        "id": "1675106165133287429",
+        "location": "Encinitas, CA",
+        "name": "Jay555 ~花花研究院",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677342407510114306/y8rWrit6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 167
+        },
+        "username": "0Ua586844",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T13:39:33.000Z",
+        "description": "赛博医师，提供科学用药方法，部分药品暂无现货 但我们会保证价格经济实惠！药物使用以及其他药物咨询均无偿接受！（前提是合理）还会有其它货源的加入！敬请期待！！！该账号由两人运营！诚信度可信！",
+        "id": "1808495745072521216",
+        "name": "乱七八糟的药商！",
+        "pinned_tweet_id": "1813991549371564449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808495881278418944/30jTbdIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 7,
+          "like_count": 100,
+          "listed_count": 0,
+          "tweet_count": 66
+        },
+        "username": "NoneDrug",
+        "verified": false
+      }
+    ]
+  }
+}

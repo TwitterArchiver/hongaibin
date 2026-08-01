@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809510953492611140",
+    "created_at": "2024-07-06T08:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T09:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809510953492611140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606287837896200192",
+          "start": 3,
+          "username": "ouo_duck_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809510953492611140",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798277813440843871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouo_duck_: 我是小多꒰՞⸝⸝⊃ ·̫ &lt;՞꒱\n\n13歲陰暗死宅\n\nod 割手 負面 藥物治療\n\n我要永遠待在這裡\n\n小女生們歡迎互fo認識！\n\n健全b們我嫉妒別來找我 -᷅ - -᷄\n\n血圖🤏🏻\n\n不接受請自行繞道⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝♡ ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809510953492611140].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809510953492611140",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809510953492611140"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798277790271434752",
+            "3_1798277790250459136",
+            "3_1798277790267224064",
+            "3_1798277790267273216"
+          ]
+        },
+        "author_id": "1606287837896200192",
+        "conversation_id": "1798277813440843871",
+        "created_at": "2024-06-05T08:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T09:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798277813440843871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KPsDjMrjUN",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ouo_duck_/status/1798277813440843871/video/1",
+              "media_key": "7_1798277790271434752",
+              "start": 125,
+              "url": "https://t.co/KPsDjMrjUN"
+            },
+            {
+              "display_url": "pic.twitter.com/KPsDjMrjUN",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ouo_duck_/status/1798277813440843871/video/1",
+              "media_key": "3_1798277790250459136",
+              "start": 125,
+              "url": "https://t.co/KPsDjMrjUN"
+            },
+            {
+              "display_url": "pic.twitter.com/KPsDjMrjUN",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ouo_duck_/status/1798277813440843871/video/1",
+              "media_key": "3_1798277790267224064",
+              "start": 125,
+              "url": "https://t.co/KPsDjMrjUN"
+            },
+            {
+              "display_url": "pic.twitter.com/KPsDjMrjUN",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ouo_duck_/status/1798277813440843871/video/1",
+              "media_key": "3_1798277790267273216",
+              "start": 125,
+              "url": "https://t.co/KPsDjMrjUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798277813440843871",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12991,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我是小多꒰՞⸝⸝⊃ ·̫ &lt;՞꒱\n\n13歲陰暗死宅\n\nod 割手 負面 藥物治療\n\n我要永遠待在這裡\n\n小女生們歡迎互fo認識！\n\n健全b們我嫉妒別來找我 -᷅ - -᷄\n\n血圖🤏🏻\n\n不接受請自行繞道⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝♡ https://t.co/KPsDjMrjUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 1087,
+          "like_count": 2111,
+          "listed_count": 1,
+          "tweet_count": 1483
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T13:57:32.000Z",
+        "description": "不喜欢读私信 女孩子例外 ^_^ 药物妹 ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎春日野穹 ！激推！",
+        "id": "1606287837896200192",
+        "location": "Hyuga-shi, Miyazaki",
+        "name": "✞小宅",
+        "pinned_tweet_id": "1798277813440843871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809266589616963584/emTy1W-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 196,
+          "like_count": 2943,
+          "listed_count": 0,
+          "tweet_count": 345
+        },
+        "username": "ouo_duck_",
+        "verified": false
+      }
+    ]
+  }
+}

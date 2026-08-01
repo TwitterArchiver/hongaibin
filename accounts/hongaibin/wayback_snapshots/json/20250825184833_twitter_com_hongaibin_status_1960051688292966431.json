@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "1960051688292966431",
+    "created_at": "2025-08-25T18:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960051688292966431"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Fent",
+          "probability": 0.5397,
+          "start": 72,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "515823830",
+          "start": 3,
+          "username": "RomulanJake"
+        },
+        {
+          "end": 33,
+          "id": "1792233906605019136",
+          "start": 17,
+          "username": "noveltygiftseed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960051688292966431",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957853303406227746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RomulanJake: @noveltygiftseed Police can smell weed. People who use Fent aren't exactly cruising around in their cars bumping music whi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1960051688292966431",
+        "created_at": "2025-08-25T18:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960051688292966431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Fent",
+              "probability": 0.5397,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "515823830",
+              "start": 3,
+              "username": "RomulanJake"
+            },
+            {
+              "end": 33,
+              "id": "1792233906605019136",
+              "start": 17,
+              "username": "noveltygiftseed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960051688292966431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957853303406227746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RomulanJake: @noveltygiftseed Police can smell weed. People who use Fent aren't exactly cruising around in their cars bumping music whi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "515823830",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1957522302025007526",
+        "created_at": "2025-08-19T17:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957853303406227746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Fent",
+              "probability": 0.4376,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 210,
+              "normalized_text": "fent",
+              "probability": 0.4649,
+              "start": 207,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792233906605019136",
+              "start": 0,
+              "username": "noveltygiftseed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957853303406227746",
+        "in_reply_to_user_id": "1792233906605019136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Police can smell weed. People who use Fent aren't exactly cruising around in their cars bumping music while smoking a J. Many more people use weed than fent. Most cops who bust someone with fent are only catching an addict. But most weed people get arrested for sales because anything over a small amount is (in their world), sales. So.. little lesson here. Weed equals easy arrests. Fent, not so much. Think of it like this: if it was you.. would you wanna search, cuff and transport a fent addict.. consider all the logistics.. or would you be more apt to bust a Mom smoking weed with her kids in the car and she's got 3 oz on her? Since most cops don't smoke.. its an easy answer. The fent user is wild, sketchy, and what they have can literally kill you.. the weed smoker is calm, clean, and an easy arrest. Cops get performance reviews based on arrests. Fent users typically get released without prosecution. Simply because it's understood that they have almost zero choice or chance. And they make for horrible inmates. High costs to take care of, etc.. This is why. It has nothing to do with Big Pharma. Nothing at all."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 516,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957522302025007526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noveltygiftseed Police can smell weed. People who use Fent aren't exactly cruising around in their cars bumping music while smoking a J. Many more people use weed than fent. Most cops who bust someone with fent are only catching an addict. But most weed people get arrested for sales because"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2167,
+          "like_count": 21934,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5890
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-05T20:15:25.000Z",
+        "description": "Cannabis Seeds - 100% Veteran Owned\nIG: @ RomulanGeneticsOfficial",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "romulangenetics.com",
+                "end": 23,
+                "expanded_url": "https://www.romulangenetics.com/",
+                "start": 0,
+                "url": "https://t.co/1pdsQ2XhAK"
+              }
+            ]
+          }
+        },
+        "id": "515823830",
+        "location": "Norcal",
+        "name": "Romulan Genetics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848861504894078978/BZlEZgZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3896,
+          "following_count": 420,
+          "like_count": 21667,
+          "listed_count": 14,
+          "media_count": 840,
+          "tweet_count": 5843
+        },
+        "url": "https://t.co/1pdsQ2XhAK",
+        "username": "RomulanJake",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T16:40:52.000Z",
+        "description": "🌳CA Legacy Grower since 04’ 🏆 High quality auto-flower seeds and low quality memes.  15% off our website with code TWITTER",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noveltygift.shop",
+                "end": 23,
+                "expanded_url": "http://noveltygift.shop",
+                "start": 0,
+                "url": "https://t.co/AhtukAKtOM"
+              }
+            ]
+          }
+        },
+        "id": "1792233906605019136",
+        "name": "Novelty Gift Seed🌱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822867396035776512/2FEgPaDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10487,
+          "following_count": 1202,
+          "like_count": 62381,
+          "listed_count": 12,
+          "media_count": 2928,
+          "tweet_count": 28267
+        },
+        "url": "https://t.co/AhtukAKtOM",
+        "username": "noveltygiftseed",
+        "verified": true
+      }
+    ]
+  }
+}

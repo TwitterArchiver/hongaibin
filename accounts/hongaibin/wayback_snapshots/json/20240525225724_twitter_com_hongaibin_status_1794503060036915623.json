@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1794444771701977284",
+    "created_at": "2024-05-25T22:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T23:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794503060036915623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504522200321335302",
+          "start": 0,
+          "username": "PrimoLongfellow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794503060036915623",
+    "in_reply_to_user_id": "1504522200321335302",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794490363199336760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrimoLongfellow 有点吓人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1794444771701977284",
+        "created_at": "2024-05-25T22:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T23:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794503060036915623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504522200321335302",
+              "start": 0,
+              "username": "PrimoLongfellow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794503060036915623",
+        "in_reply_to_user_id": "1504522200321335302",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794490363199336760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrimoLongfellow 有点吓人。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1504522200321335302",
+        "conversation_id": "1794444771701977284",
+        "created_at": "2024-05-25T22:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T23:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794490363199336760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794490363199336760",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794444771701977284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 晚安是这样的🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1000,
+          "like_count": 1354,
+          "listed_count": 1,
+          "tweet_count": 841
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T18:17:00.000Z",
+        "description": "If like you is a kind of work, I want to love you full-time.",
+        "id": "1504522200321335302",
+        "name": "Primo Longfellow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794473917555654656/8hM1wcYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "PrimoLongfellow",
+        "verified": false
+      }
+    ]
+  }
+}

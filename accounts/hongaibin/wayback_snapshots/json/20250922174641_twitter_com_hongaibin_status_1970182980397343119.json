@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969783001379684352",
+        "13_1969783001350365185",
+        "13_1969783001383858176"
+      ],
+      "media_source_tweet_id": [
+        "1969783089397158150",
+        "1969783089397158150",
+        "1969783089397158150"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1970182980397343119",
+    "created_at": "2025-09-22T17:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970182980397343119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1287452162038136833",
+          "start": 3,
+          "username": "jason27873170"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R8fmknz8Dd",
+          "end": 68,
+          "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+          "media_key": "13_1969783001379684352",
+          "start": 45,
+          "url": "https://t.co/R8fmknz8Dd"
+        },
+        {
+          "display_url": "pic.x.com/R8fmknz8Dd",
+          "end": 68,
+          "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+          "media_key": "13_1969783001350365185",
+          "start": 45,
+          "url": "https://t.co/R8fmknz8Dd"
+        },
+        {
+          "display_url": "pic.x.com/R8fmknz8Dd",
+          "end": 68,
+          "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+          "media_key": "13_1969783001383858176",
+          "start": 45,
+          "url": "https://t.co/R8fmknz8Dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970182980397343119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969783089397158150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jason27873170: 一个温州群友的小区，业主私自挖地下室，把河道挖通了 https://t.co/R8fmknz8Dd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59705,
+        "height": 1280,
+        "media_key": "13_1969783001379684352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969783001379684352/img/oBwwL70OxciFRaSZ.jpg",
+        "public_metrics": {
+          "view_count": 242579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001379684352/vid/avc1/320x568/OWiBD7wyqXkpZ78o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001379684352/vid/avc1/480x852/-MhaJOw2rt3JTcFl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001379684352/vid/avc1/720x1280/F4b-3vCtwMddMvvo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969783001379684352/pl/rAnT1kfX-DhFqfL2.m3u8?v=1f3"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 40030,
+        "height": 960,
+        "media_key": "13_1969783001350365185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969783001350365185/img/1tf3BQaMYs2UZncZ.jpg",
+        "public_metrics": {
+          "view_count": 42983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001350365185/vid/avc1/320x564/FJBSejBkhjbIacNB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001350365185/vid/avc1/480x846/UExqk8BEuMeC6u23.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001350365185/vid/avc1/544x960/uekqlIXV-pQrxBlr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969783001350365185/pl/j-fTvgXt29gfBe8H.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 8939,
+        "height": 960,
+        "media_key": "13_1969783001383858176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969783001383858176/img/SsB8U7ib-oShFWZ5.jpg",
+        "public_metrics": {
+          "view_count": 31488
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001383858176/vid/avc1/320x568/gw0olHgWrEJ-1E0k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001383858176/vid/avc1/480x852/GLe-4IETM2AtYJAc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969783001383858176/vid/avc1/540x960/wMFTVAY9h9f_l7Ja.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969783001383858176/pl/IJQQaozLFrIkL8m8.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969783001379684352",
+            "13_1969783001350365185",
+            "13_1969783001383858176"
+          ],
+          "media_source_tweet_id": [
+            "1969783089397158150",
+            "1969783089397158150",
+            "1969783089397158150"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1970182980397343119",
+        "created_at": "2025-09-22T17:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970182980397343119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1287452162038136833",
+              "start": 3,
+              "username": "jason27873170"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 68,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001379684352",
+              "start": 45,
+              "url": "https://t.co/R8fmknz8Dd"
+            },
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 68,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001350365185",
+              "start": 45,
+              "url": "https://t.co/R8fmknz8Dd"
+            },
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 68,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001383858176",
+              "start": 45,
+              "url": "https://t.co/R8fmknz8Dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970182980397343119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969783089397158150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jason27873170: 一个温州群友的小区，业主私自挖地下室，把河道挖通了 https://t.co/R8fmknz8Dd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969783001379684352",
+            "13_1969783001350365185",
+            "13_1969783001383858176"
+          ]
+        },
+        "author_id": "1287452162038136833",
+        "conversation_id": "1969783089397158150",
+        "created_at": "2025-09-21T15:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969783089397158150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 49,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001379684352",
+              "start": 26,
+              "url": "https://t.co/R8fmknz8Dd"
+            },
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 49,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001350365185",
+              "start": 26,
+              "url": "https://t.co/R8fmknz8Dd"
+            },
+            {
+              "display_url": "pic.x.com/R8fmknz8Dd",
+              "end": 49,
+              "expanded_url": "https://x.com/jason27873170/status/1969783089397158150/video/1",
+              "media_key": "13_1969783001383858176",
+              "start": 26,
+              "url": "https://t.co/R8fmknz8Dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969783089397158150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 609224,
+          "like_count": 1463,
+          "quote_count": 16,
+          "reply_count": 169,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "一个温州群友的小区，业主私自挖地下室，把河道挖通了 https://t.co/R8fmknz8Dd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2182,
+          "like_count": 22895,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 6063
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T18:18:47.000Z",
+        "description": "我的网站：https://t.co/6xmsUyleEa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 28,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 5,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 23,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 0,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          }
+        },
+        "id": "1287452162038136833",
+        "location": "旧金山，CA",
+        "name": "jason wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967557972986368000/_ANB6rQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129155,
+          "following_count": 73247,
+          "like_count": 10011,
+          "listed_count": 294,
+          "media_count": 47225,
+          "tweet_count": 59621
+        },
+        "url": "https://t.co/6xmsUyleEa",
+        "username": "jason27873170",
+        "verified": false
+      }
+    ]
+  }
+}

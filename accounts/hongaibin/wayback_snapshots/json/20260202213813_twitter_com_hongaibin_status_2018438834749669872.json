@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014930093135822851",
+        "3_2014930093118996480"
+      ],
+      "media_source_tweet_id": [
+        "2014930115562741788",
+        "2014930115562741788"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2018438834749669872",
+    "created_at": "2026-02-02T21:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T22:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018438834749669872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735700650472955904",
+          "start": 3,
+          "username": "ErQiu8013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITEti5osgE",
+          "end": 47,
+          "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+          "media_key": "3_2014930093135822851",
+          "start": 24,
+          "url": "https://t.co/ITEti5osgE"
+        },
+        {
+          "display_url": "pic.x.com/ITEti5osgE",
+          "end": 47,
+          "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+          "media_key": "3_2014930093118996480",
+          "start": 24,
+          "url": "https://t.co/ITEti5osgE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018438834749669872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014930115562741788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ErQiu8013: 精神科最锋利的剑 https://t.co/ITEti5osgE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2014930093135822851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z4PoCbAAMIsQJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2014930093118996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z4Pn-aQAAeyX8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014930093135822851",
+            "3_2014930093118996480"
+          ],
+          "media_source_tweet_id": [
+            "2014930115562741788",
+            "2014930115562741788"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2018438834749669872",
+        "created_at": "2026-02-02T21:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018438834749669872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735700650472955904",
+              "start": 3,
+              "username": "ErQiu8013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITEti5osgE",
+              "end": 47,
+              "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+              "media_key": "3_2014930093135822851",
+              "start": 24,
+              "url": "https://t.co/ITEti5osgE"
+            },
+            {
+              "display_url": "pic.x.com/ITEti5osgE",
+              "end": 47,
+              "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+              "media_key": "3_2014930093118996480",
+              "start": 24,
+              "url": "https://t.co/ITEti5osgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018438834749669872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014930115562741788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ErQiu8013: 精神科最锋利的剑 https://t.co/ITEti5osgE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014930093135822851",
+            "3_2014930093118996480"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "2014930115562741788",
+        "created_at": "2026-01-24T05:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014930115562741788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITEti5osgE",
+              "end": 32,
+              "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+              "media_key": "3_2014930093135822851",
+              "start": 9,
+              "url": "https://t.co/ITEti5osgE"
+            },
+            {
+              "display_url": "pic.x.com/ITEti5osgE",
+              "end": 32,
+              "expanded_url": "https://x.com/ErQiu8013/status/2014930115562741788/photo/1",
+              "media_key": "3_2014930093118996480",
+              "start": 9,
+              "url": "https://t.co/ITEti5osgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014930115562741788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5319,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "精神科最锋利的剑 https://t.co/ITEti5osgE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 2273,
+          "like_count": 23755,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 6313
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物changing……，低能量changing……，日常/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By4Bns"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2002789104795492724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 1682,
+          "like_count": 22960,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 4651
+        },
+        "url": "https://t.co/Azm3By4Bns",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

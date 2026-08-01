@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071636283395543040"
+      ],
+      "media_source_tweet_id": [
+        "2071636286398689731"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2071982570842276265",
+    "created_at": "2026-06-30T15:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071982570842276265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976887419841695744",
+          "start": 3,
+          "username": "MMJ_qwq"
+        },
+        {
+          "end": 25,
+          "id": "2054099511279296512",
+          "start": 13,
+          "username": "666666666ZT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKEfXMqrtX",
+          "end": 55,
+          "expanded_url": "https://x.com/MMJ_qwq/status/2071636286398689731/photo/1",
+          "media_key": "3_2071636283395543040",
+          "start": 32,
+          "url": "https://t.co/HKEfXMqrtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071982570842276265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071636286398689731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MMJ_qwq: @666666666ZT 同理可得： https://t.co/HKEfXMqrtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071636283395543040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_uOUeaEAA1viV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071636283395543040"
+          ],
+          "media_source_tweet_id": [
+            "2071636286398689731"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2071982570842276265",
+        "created_at": "2026-06-30T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071982570842276265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976887419841695744",
+              "start": 3,
+              "username": "MMJ_qwq"
+            },
+            {
+              "end": 25,
+              "id": "2054099511279296512",
+              "start": 13,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKEfXMqrtX",
+              "end": 55,
+              "expanded_url": "https://x.com/MMJ_qwq/status/2071636286398689731/photo/1",
+              "media_key": "3_2071636283395543040",
+              "start": 32,
+              "url": "https://t.co/HKEfXMqrtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071982570842276265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071636286398689731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MMJ_qwq: @666666666ZT 同理可得： https://t.co/HKEfXMqrtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071636283395543040"
+          ]
+        },
+        "author_id": "1976887419841695744",
+        "conversation_id": "2071535893597544959",
+        "created_at": "2026-06-29T16:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071636286398689731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKEfXMqrtX",
+              "end": 42,
+              "expanded_url": "https://x.com/MMJ_qwq/status/2071636286398689731/photo/1",
+              "media_key": "3_2071636283395543040",
+              "start": 19,
+              "url": "https://t.co/HKEfXMqrtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071636286398689731",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1290,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071535893597544959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 同理可得： https://t.co/HKEfXMqrtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 2334,
+          "like_count": 24641,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 6463
+        },
+        "url": "",
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "结束了....吗？\n小号  @MomijiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "MomijiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1976887419841695744",
+        "name": "Momiji",
+        "pinned_tweet_id": "2011038502197325893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 67,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "MMJ_qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 166,
+          "like_count": 21,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

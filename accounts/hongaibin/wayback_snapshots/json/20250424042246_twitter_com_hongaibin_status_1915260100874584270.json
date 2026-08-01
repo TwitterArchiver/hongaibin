@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915247553790300160"
+      ],
+      "media_source_tweet_id": [
+        "1915247565332963673"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915260100874584270",
+    "created_at": "2025-04-24T04:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915260100874584270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBN1eW41gC",
+          "end": 88,
+          "expanded_url": "https://x.com/meiyujijie/status/1915247565332963673/photo/1",
+          "media_key": "3_1915247553790300160",
+          "start": 65,
+          "url": "https://t.co/GBN1eW41gC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915260100874584270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915247565332963673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 我和我妈去吃日料\n我：生鸡蛋吃起来像精液一样\n我妈：难道生鸡蛋和精液你都吃过😨\n我：我不是我没有 https://t.co/GBN1eW41gC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915247553790300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRTgLSbUAAH5xS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915247553790300160"
+          ],
+          "media_source_tweet_id": [
+            "1915247565332963673"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1915260100874584270",
+        "created_at": "2025-04-24T04:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915260100874584270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858186854526562304",
+              "start": 3,
+              "username": "meiyujijie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBN1eW41gC",
+              "end": 88,
+              "expanded_url": "https://x.com/meiyujijie/status/1915247565332963673/photo/1",
+              "media_key": "3_1915247553790300160",
+              "start": 65,
+              "url": "https://t.co/GBN1eW41gC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915260100874584270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915247565332963673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiyujijie: 我和我妈去吃日料\n我：生鸡蛋吃起来像精液一样\n我妈：难道生鸡蛋和精液你都吃过😨\n我：我不是我没有 https://t.co/GBN1eW41gC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915247553790300160"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1915247565332963673",
+        "created_at": "2025-04-24T03:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915247565332963673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBN1eW41gC",
+              "end": 72,
+              "expanded_url": "https://x.com/meiyujijie/status/1915247565332963673/photo/1",
+              "media_key": "3_1915247553790300160",
+              "start": 49,
+              "url": "https://t.co/GBN1eW41gC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915247565332963673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1642,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我和我妈去吃日料\n我：生鸡蛋吃起来像精液一样\n我妈：难道生鸡蛋和精液你都吃过😨\n我：我不是我没有 https://t.co/GBN1eW41gC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1905,
+          "like_count": 16642,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4775
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "全网唯一账号，不收钱不盈利，没有任何打赏途径，内容仅供娱乐，请注意甄别防止被骗",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63393,
+          "following_count": 83,
+          "like_count": 1367,
+          "listed_count": 124,
+          "media_count": 120,
+          "tweet_count": 389
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

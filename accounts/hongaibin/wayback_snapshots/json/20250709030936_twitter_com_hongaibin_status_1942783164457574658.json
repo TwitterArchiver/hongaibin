@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938545602905948160"
+      ],
+      "media_source_tweet_id": [
+        "1938545608421417104"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1942783164457574658",
+    "created_at": "2025-07-09T03:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942783164457574658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707296036879007744",
+          "start": 3,
+          "username": "mp72718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHjP69SKYq",
+          "end": 71,
+          "expanded_url": "https://x.com/mp72718/status/1938545608421417104/photo/1",
+          "media_key": "3_1938545602905948160",
+          "start": 48,
+          "url": "https://t.co/bHjP69SKYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942783164457574658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938545608421417104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mp72718: 「じゃあ、オーバードーズとかっていうのは...」\n「やりますねぇ！」 https://t.co/bHjP69SKYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_1938545602905948160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucY9HoawAA1Ycz.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938545602905948160"
+          ],
+          "media_source_tweet_id": [
+            "1938545608421417104"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1942783164457574658",
+        "created_at": "2025-07-09T03:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942783164457574658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707296036879007744",
+              "start": 3,
+              "username": "mp72718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHjP69SKYq",
+              "end": 71,
+              "expanded_url": "https://x.com/mp72718/status/1938545608421417104/photo/1",
+              "media_key": "3_1938545602905948160",
+              "start": 48,
+              "url": "https://t.co/bHjP69SKYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942783164457574658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938545608421417104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mp72718: 「じゃあ、オーバードーズとかっていうのは...」\n「やりますねぇ！」 https://t.co/bHjP69SKYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938545602905948160"
+          ]
+        },
+        "author_id": "1707296036879007744",
+        "conversation_id": "1938545608421417104",
+        "created_at": "2025-06-27T10:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938545608421417104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHjP69SKYq",
+              "end": 58,
+              "expanded_url": "https://x.com/mp72718/status/1938545608421417104/photo/1",
+              "media_key": "3_1938545602905948160",
+              "start": 35,
+              "url": "https://t.co/bHjP69SKYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938545608421417104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9889,
+          "like_count": 452,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "「じゃあ、オーバードーズとかっていうのは...」\n「やりますねぇ！」 https://t.co/bHjP69SKYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 2083,
+          "like_count": 20259,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5507
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T07:27:56.000Z",
+        "description": "レスタミン愛好家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Restamin.com",
+                "end": 23,
+                "expanded_url": "http://Restamin.com",
+                "start": 0,
+                "url": "https://t.co/E6Cwdh7sAc"
+              }
+            ]
+          }
+        },
+        "id": "1707296036879007744",
+        "location": " 躁鬱ASD不眠ガイジやないかーい",
+        "name": "なぎフライ",
+        "pinned_tweet_id": "1939868447221198939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940291010803695616/VgTnJYe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 788,
+          "like_count": 3154,
+          "listed_count": 23,
+          "media_count": 387,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/E6Cwdh7sAc",
+        "username": "mp72718",
+        "verified": false
+      }
+    ]
+  }
+}

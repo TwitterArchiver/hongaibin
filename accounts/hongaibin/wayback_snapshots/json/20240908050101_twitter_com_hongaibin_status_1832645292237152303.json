@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1832645292237152303",
+    "created_at": "2024-09-08T05:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T06:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832645292237152303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1530440641489997824",
+          "start": 3,
+          "username": "nimenhaoshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832645292237152303",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832302235738665076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nimenhaoshiwo: 昨天上思政课的时候，老师说有很多东西是不能改变的，比如说:父母，身高，出身等，就有同学\"补充\"性别也是不能改变的，然后老师说性别是可以改变(通过srs等途径)的，就有同学跟老师说我们班有男女孩，于是全班同学都不约而同地将目光转向了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1832645292237152303",
+        "created_at": "2024-09-08T05:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832645292237152303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1530440641489997824",
+              "start": 3,
+              "username": "nimenhaoshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832645292237152303",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832302235738665076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nimenhaoshiwo: 昨天上思政课的时候，老师说有很多东西是不能改变的，比如说:父母，身高，出身等，就有同学\"补充\"性别也是不能改变的，然后老师说性别是可以改变(通过srs等途径)的，就有同学跟老师说我们班有男女孩，于是全班同学都不约而同地将目光转向了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530440641489997824",
+        "conversation_id": "1832302235738665076",
+        "created_at": "2024-09-07T06:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T07:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832302235738665076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832302235738665076",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 23182,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "昨天上思政课的时候，老师说有很多东西是不能改变的，比如说:父母，身高，出身等，就有同学\"补充\"性别也是不能改变的，然后老师说性别是可以改变(通过srs等途径)的，就有同学跟老师说我们班有男女孩，于是全班同学都不约而同地将目光转向了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1444,
+          "like_count": 6980,
+          "listed_count": 3,
+          "tweet_count": 2807
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T06:47:50.000Z",
+        "description": "无证含糖xyn，失足少鲨，喜欢穿漂亮衣服，喜欢鲨鲨，08年的，Hrt 2022.7.17，80b，🚪68发口令红包",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shashadepindao",
+                "end": 23,
+                "expanded_url": "https://t.me/shashadepindao",
+                "start": 0,
+                "url": "https://t.co/9gpEHJvw8b"
+              }
+            ]
+          }
+        },
+        "id": "1530440641489997824",
+        "location": "上海",
+        "name": "✟想死的淫鹰✟🍥",
+        "pinned_tweet_id": "1785248914838561245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736325203553378304/87TicWaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 1418,
+          "like_count": 3379,
+          "listed_count": 16,
+          "tweet_count": 1559
+        },
+        "url": "https://t.co/9gpEHJvw8b",
+        "username": "nimenhaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

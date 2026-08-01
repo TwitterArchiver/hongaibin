@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942615872503173120"
+      ],
+      "media_source_tweet_id": [
+        "1942615891897901364"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1944767247626727549",
+    "created_at": "2025-07-14T14:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944767247626727549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1490543758160527361",
+          "start": 3,
+          "username": "Qiu1647"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kyTPSps2i",
+          "end": 38,
+          "expanded_url": "https://x.com/Qiu1647/status/1942615891897901364/photo/1",
+          "media_key": "3_1942615872503173120",
+          "start": 15,
+          "url": "https://t.co/0kyTPSps2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944767247626727549",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942615891897901364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiu1647: 🚬 https://t.co/0kyTPSps2i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_1942615872503173120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWO1_eWUAAz6ja.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942615872503173120"
+          ],
+          "media_source_tweet_id": [
+            "1942615891897901364"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1944767247626727549",
+        "created_at": "2025-07-14T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944767247626727549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490543758160527361",
+              "start": 3,
+              "username": "Qiu1647"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kyTPSps2i",
+              "end": 38,
+              "expanded_url": "https://x.com/Qiu1647/status/1942615891897901364/photo/1",
+              "media_key": "3_1942615872503173120",
+              "start": 15,
+              "url": "https://t.co/0kyTPSps2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944767247626727549",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942615891897901364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qiu1647: 🚬 https://t.co/0kyTPSps2i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942615872503173120"
+          ]
+        },
+        "author_id": "1490543758160527361",
+        "conversation_id": "1942615891897901364",
+        "created_at": "2025-07-08T16:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942615891897901364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kyTPSps2i",
+              "end": 25,
+              "expanded_url": "https://x.com/Qiu1647/status/1942615891897901364/photo/1",
+              "media_key": "3_1942615872503173120",
+              "start": 2,
+              "url": "https://t.co/0kyTPSps2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942615891897901364",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 32375,
+          "like_count": 127,
+          "quote_count": 23,
+          "reply_count": 9,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 https://t.co/0kyTPSps2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 2089,
+          "like_count": 20611,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5570
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男人，没事找事在老子面前乱叫，直接拉黑。选择和我互关的意思是我们无条件在推特维护彼此\n(互关可以私我＋v",
+        "id": "1490543758160527361",
+        "location": "注意，+v我默认我们可以做现生朋友",
+        "name": "PHILLIP.H.U(call me LIP",
+        "pinned_tweet_id": "1941120970313650618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930243285861502976/JrxNmSPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1368,
+          "like_count": 34504,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 10480
+        },
+        "username": "Qiu1647",
+        "verified": false
+      }
+    ]
+  }
+}

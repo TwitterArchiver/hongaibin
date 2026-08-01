@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937373402882539520"
+      ],
+      "media_source_tweet_id": [
+        "1937373406212817372"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1937688255958515955",
+    "created_at": "2025-06-25T01:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T02:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937688255958515955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837201124673343490",
+          "start": 3,
+          "username": "mikan_mezikon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8TAYT9LpUt",
+          "end": 46,
+          "expanded_url": "https://x.com/mikan_mezikon/status/1937373406212817372/photo/1",
+          "media_key": "3_1937373402882539520",
+          "start": 23,
+          "url": "https://t.co/8TAYT9LpUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937688255958515955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937373406212817372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikan_mezikon: お前ら https://t.co/8TAYT9LpUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_1937373402882539520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLu2GQagAAglSC.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937373402882539520"
+          ],
+          "media_source_tweet_id": [
+            "1937373406212817372"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1937688255958515955",
+        "created_at": "2025-06-25T01:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T02:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937688255958515955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837201124673343490",
+              "start": 3,
+              "username": "mikan_mezikon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TAYT9LpUt",
+              "end": 46,
+              "expanded_url": "https://x.com/mikan_mezikon/status/1937373406212817372/photo/1",
+              "media_key": "3_1937373402882539520",
+              "start": 23,
+              "url": "https://t.co/8TAYT9LpUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937688255958515955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937373406212817372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikan_mezikon: お前ら https://t.co/8TAYT9LpUt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937373402882539520"
+          ]
+        },
+        "author_id": "1837201124673343490",
+        "conversation_id": "1937373406212817372",
+        "created_at": "2025-06-24T04:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937373406212817372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TAYT9LpUt",
+              "end": 27,
+              "expanded_url": "https://x.com/mikan_mezikon/status/1937373406212817372/photo/1",
+              "media_key": "3_1937373402882539520",
+              "start": 4,
+              "url": "https://t.co/8TAYT9LpUt"
+            },
+            {
+              "display_url": "x.com/Miaw/status/19…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Miaw/status/1936800613779861818",
+              "start": 28,
+              "url": "https://t.co/P6tsytTi4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937373406212817372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 18724,
+          "like_count": 847,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936800613779861818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "お前ら https://t.co/8TAYT9LpUt https://t.co/P6tsytTi4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 2076,
+          "like_count": 19859,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 5430
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T18:44:51.000Z",
+        "description": "狸と猫が好きです\nポンタマン たぬきに圧殺されたい\n健全垢 @sirasudayo2525 俺は男ですよ はい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "sirasudayo2525"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "不健全な毒ポーション.xxx",
+                "end": 23,
+                "expanded_url": "http://xn--q9j9h6dsb6c8b8485af6dvscb26i.xxx",
+                "start": 0,
+                "url": "https://t.co/rJKP8mdPqR"
+              }
+            ]
+          }
+        },
+        "id": "1837201124673343490",
+        "location": "自害",
+        "name": "閑寺 みかん",
+        "pinned_tweet_id": "1928776202707153209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897239978654203904/FDMKveA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 449,
+          "like_count": 21764,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 4146
+        },
+        "url": "https://t.co/rJKP8mdPqR",
+        "username": "mikan_mezikon",
+        "verified": false
+      }
+    ]
+  }
+}

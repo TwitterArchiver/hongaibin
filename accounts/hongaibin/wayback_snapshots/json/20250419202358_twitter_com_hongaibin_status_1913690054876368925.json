@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913690051457978368",
+        "3_1913690051483238400"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1913690054876368925",
+    "created_at": "2025-04-19T20:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T21:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913690054876368925"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "od"
+        },
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "愈美片"
+        },
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4RwSidKBhC",
+          "end": 191,
+          "expanded_url": "https://x.com/hongaibin/status/1913690054876368925/photo/1",
+          "media_key": "3_1913690051457978368",
+          "start": 168,
+          "url": "https://t.co/4RwSidKBhC"
+        },
+        {
+          "display_url": "pic.x.com/4RwSidKBhC",
+          "end": 191,
+          "expanded_url": "https://x.com/hongaibin/status/1913690054876368925/photo/1",
+          "media_key": "3_1913690051483238400",
+          "start": 168,
+          "url": "https://t.co/4RwSidKBhC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913690054876368925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#od 仔 省钱买 #愈美片 #普瑞巴林 \n关于我 39.3 （劵后32.54）吃六晚宵夜 \n你需要一个冰箱 \n36/6=一顿6个湾仔码头水饺\n30/6=一顿5个韭菜鸡蛋饺子\n一个小电锅 带蒸架的 \npdd蒸架防粘纸 几块钱几百张 \n大功率蒸20分钟然后饺子放进蒸的水里 加点酱油 可以开始享用 😋\n虽然可能吃不饱也不至于方便面的油腻 https://t.co/4RwSidKBhC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913690054876368925].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913690054876368925",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913690054876368925"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1913690051457978368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go7K9m9aEAA75Cb.jpg",
+        "width": 716
+      },
+      {
+        "height": 864,
+        "media_key": "3_1913690051483238400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go7K9nDbgAAhLCa.jpg",
+        "width": 716
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1890,
+          "like_count": 16400,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 4699
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

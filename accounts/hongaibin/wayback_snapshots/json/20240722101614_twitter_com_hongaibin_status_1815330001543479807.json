@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1815322868432969728"
+      ],
+      "media_source_tweet_id": [
+        "1815322941589950747"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1815330001543479807",
+    "created_at": "2024-07-22T10:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T11:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815330001543479807"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "双相"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "精分"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "边缘性人格"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808448563191402496",
+          "start": 3,
+          "username": "lushng236046"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/fPZW65RRq3",
+          "end": 67,
+          "expanded_url": "https://twitter.com/lushng236046/status/1815322941589950747/video/1",
+          "media_key": "7_1815322868432969728",
+          "start": 44,
+          "url": "https://t.co/fPZW65RRq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815330001543479807",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815322941589950747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lushng236046: 第一次给自己扎针放血 #双相 #精分 #边缘性人格 https://t.co/fPZW65RRq3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1815330001543479807].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1815330001543479807",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1815330001543479807"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16689,
+        "height": 1280,
+        "media_key": "7_1815322868432969728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1815322868432969728/pu/img/pLkd4PScG-1ayTcJ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815322868432969728/pu/vid/avc1/320x568/pTX7l08OU2H7VjcS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815322868432969728/pu/vid/avc1/480x852/MiS77KrjeWUWdheN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815322868432969728/pu/vid/avc1/720x1280/kJKzT438YVK8VpH0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1815322868432969728/pu/pl/SmgTq8ZwHC3f0D-V.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1815322868432969728"
+          ]
+        },
+        "author_id": "1808448563191402496",
+        "conversation_id": "1815322941589950747",
+        "created_at": "2024-07-22T09:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T10:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815322941589950747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "双相"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "精分"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "边缘性人格"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fPZW65RRq3",
+              "end": 49,
+              "expanded_url": "https://twitter.com/lushng236046/status/1815322941589950747/video/1",
+              "media_key": "7_1815322868432969728",
+              "start": 26,
+              "url": "https://t.co/fPZW65RRq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815322941589950747",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次给自己扎针放血 #双相 #精分 #边缘性人格 https://t.co/fPZW65RRq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1141,
+          "like_count": 3058,
+          "listed_count": 1,
+          "tweet_count": 1807
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T10:32:08.000Z",
+        "description": "ESFP，les，边缘性人格/双相/精分，生病六年，正在吃药努力康复中",
+        "id": "1808448563191402496",
+        "name": "洛笙",
+        "pinned_tweet_id": "1809009488202191010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810044861602508800/vqFqyWXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "lushng236046",
+        "verified": false
+      }
+    ]
+  }
+}

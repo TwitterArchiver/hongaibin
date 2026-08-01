@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927255937066098688"
+      ],
+      "media_source_tweet_id": [
+        "1927303810319278115"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927389336313397522",
+    "created_at": "2025-05-27T15:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927389336313397522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478661506338549762",
+          "start": 3,
+          "username": "mugi_oyasumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hUAxa9KnP",
+          "end": 47,
+          "expanded_url": "https://x.com/mugi_oyasumi/status/1927303810319278115/photo/1",
+          "media_key": "3_1927255937066098688",
+          "start": 24,
+          "url": "https://t.co/2hUAxa9KnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927389336313397522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927303810319278115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugi_oyasumi: 見ーつけた https://t.co/2hUAxa9KnP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927389336313397522].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927389336313397522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927389336313397522"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2618,
+        "media_key": "3_1927255937066098688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr79EFAWYAAxTnt.jpg",
+        "width": 3951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927255937066098688"
+          ]
+        },
+        "author_id": "1478661506338549762",
+        "conversation_id": "1927303810319278115",
+        "created_at": "2025-05-27T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927303810319278115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hUAxa9KnP",
+              "end": 29,
+              "expanded_url": "https://x.com/mugi_oyasumi/status/1927303810319278115/photo/1",
+              "media_key": "3_1927255937066098688",
+              "start": 6,
+              "url": "https://t.co/2hUAxa9KnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927303810319278115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 18797,
+          "like_count": 1817,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "見ーつけた https://t.co/2hUAxa9KnP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2011,
+          "like_count": 18401,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5131
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T09:35:58.000Z",
+        "description": "ゲーム会社勤務/生きている絵が描きたい/創作 Bitter Rain/Myタグ #むぎさんち /依頼︰ 現在受付停止中❌ ✉️mugitaya.926@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "むぎさんち"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mugioyasumi",
+                "end": 23,
+                "expanded_url": "https://lit.link/mugioyasumi",
+                "start": 0,
+                "url": "https://t.co/bLsZKVy4Bi"
+              }
+            ]
+          }
+        },
+        "id": "1478661506338549762",
+        "location": "無断転載、使用、自作発言、AI学習等禁止",
+        "name": "麦田屋",
+        "pinned_tweet_id": "1857030293254713693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731161916922605568/J1b9stQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115402,
+          "following_count": 410,
+          "like_count": 23559,
+          "listed_count": 388,
+          "media_count": 324,
+          "tweet_count": 14562
+        },
+        "url": "https://t.co/bLsZKVy4Bi",
+        "username": "mugi_oyasumi",
+        "verified": false
+      }
+    ]
+  }
+}

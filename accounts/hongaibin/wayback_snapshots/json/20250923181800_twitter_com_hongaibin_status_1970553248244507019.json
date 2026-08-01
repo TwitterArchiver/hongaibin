@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970322619393331200"
+      ],
+      "media_source_tweet_id": [
+        "1970322774293127298"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1970553248244507019",
+    "created_at": "2025-09-23T18:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T19:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970553248244507019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1920890222738632706",
+          "start": 3,
+          "username": "mAndySHU_YYDS"
+        },
+        {
+          "end": 40,
+          "id": "1389151291050319872",
+          "start": 33,
+          "username": "4uuone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fU6wZpuz0U",
+          "end": 64,
+          "expanded_url": "https://x.com/mAndySHU_YYDS/status/1970322774293127298/video/1",
+          "media_key": "13_1970322619393331200",
+          "start": 41,
+          "url": "https://t.co/fU6wZpuz0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970553248244507019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970322774293127298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mAndySHU_YYDS: *起床\n*睡觉\n可爱提～\n🎭@4uuone https://t.co/fU6wZpuz0U"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970553248244507019].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970553248244507019",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970553248244507019"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6616,
+        "height": 2160,
+        "media_key": "13_1970322619393331200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970322619393331200/img/l7LmXF6Ud2rEBG1O.jpg",
+        "public_metrics": {
+          "view_count": 314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/pl/_yGsmaz0WkdHQ1fz.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/vid/avc1/640x360/V6uzQkoV9bGdwAYn.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/vid/avc1/3840x2160/rOJOSowqTf9X8Sh9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/vid/avc1/1920x1080/4_cfHL4XXg_X1GQ6.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/vid/avc1/480x270/kdXy-O3qTJXOC5p6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970322619393331200/vid/avc1/1280x720/uGmtbVa7w0hRKcRn.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970322619393331200"
+          ]
+        },
+        "author_id": "1920890222738632706",
+        "conversation_id": "1970322774293127298",
+        "created_at": "2025-09-23T03:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T04:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970322774293127298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1389151291050319872",
+              "start": 14,
+              "username": "4uuone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU6wZpuz0U",
+              "end": 45,
+              "expanded_url": "https://x.com/mAndySHU_YYDS/status/1970322774293127298/video/1",
+              "media_key": "13_1970322619393331200",
+              "start": 22,
+              "url": "https://t.co/fU6wZpuz0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970322774293127298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 759,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "*起床\n*睡觉\n可爱提～\n🎭@4uuone https://t.co/fU6wZpuz0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 2197,
+          "like_count": 23054,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6082
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T17:14:58.000Z",
+        "description": "見習填充物 還沒想好寫什麼 但是 feel free to dm！",
+        "id": "1920890222738632706",
+        "location": "Sumeru, Teyvet",
+        "name": "虾堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920890356448849921/ka7n5s7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 86,
+          "like_count": 102,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 122
+        },
+        "username": "mAndySHU_YYDS",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-03T09:34:24.000Z",
+        "description": "4u 闲鱼/淘宝:kigurumi底层人员",
+        "id": "1389151291050319872",
+        "name": "kigurumi底层人员",
+        "pinned_tweet_id": "1922622946373230684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859081014423023616/BM3qCH_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11950,
+          "following_count": 113,
+          "like_count": 1108,
+          "listed_count": 96,
+          "media_count": 263,
+          "tweet_count": 601
+        },
+        "username": "4uuone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024376531678826496",
+        "13_2024376531653709829"
+      ],
+      "media_source_tweet_id": [
+        "2024376611999797698",
+        "2024376611999797698"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2024523069965160488",
+    "created_at": "2026-02-19T16:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024523069965160488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KeYrVOKSiI",
+          "end": 48,
+          "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+          "media_key": "13_2024376531678826496",
+          "start": 25,
+          "url": "https://t.co/KeYrVOKSiI"
+        },
+        {
+          "display_url": "pic.x.com/KeYrVOKSiI",
+          "end": 48,
+          "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+          "media_key": "13_2024376531653709829",
+          "start": 25,
+          "url": "https://t.co/KeYrVOKSiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024523069965160488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024376611999797698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 和尽生 https://t.co/KeYrVOKSiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12896,
+        "height": 1280,
+        "media_key": "13_2024376531678826496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024376531678826496/img/8QDHBAmYymdYCh2x.jpg",
+        "public_metrics": {
+          "view_count": 2280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531678826496/vid/avc1/320x568/u5DAoufPkBdo0UR1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531678826496/vid/avc1/480x852/Lp2_R8eLgunkZp3L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531678826496/vid/avc1/720x1280/WqSOvAdXPRHM0KgV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024376531678826496/pl/rKr8LAWIsE-F2CWY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13200,
+        "height": 1280,
+        "media_key": "13_2024376531653709829",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024376531653709829/img/QXlngmS0oVRyjDBl.jpg",
+        "public_metrics": {
+          "view_count": 323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531653709829/vid/avc1/320x568/L-OTTVnxcSAeZqDc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531653709829/vid/avc1/480x852/aAkK9dzKcFPJ1HXl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024376531653709829/vid/avc1/720x1280/4C-xI09Kc1swELWv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024376531653709829/pl/Pw-zIXTWE2ZtV5Ke.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024376531678826496",
+            "13_2024376531653709829"
+          ],
+          "media_source_tweet_id": [
+            "2024376611999797698",
+            "2024376611999797698"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2024523069965160488",
+        "created_at": "2026-02-19T16:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024523069965160488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeYrVOKSiI",
+              "end": 48,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+              "media_key": "13_2024376531678826496",
+              "start": 25,
+              "url": "https://t.co/KeYrVOKSiI"
+            },
+            {
+              "display_url": "pic.x.com/KeYrVOKSiI",
+              "end": 48,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+              "media_key": "13_2024376531653709829",
+              "start": 25,
+              "url": "https://t.co/KeYrVOKSiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024523069965160488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024376611999797698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 和尽生 https://t.co/KeYrVOKSiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024376531678826496",
+            "13_2024376531653709829"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2024376611999797698",
+        "created_at": "2026-02-19T06:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024376611999797698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeYrVOKSiI",
+              "end": 27,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+              "media_key": "13_2024376531678826496",
+              "start": 4,
+              "url": "https://t.co/KeYrVOKSiI"
+            },
+            {
+              "display_url": "pic.x.com/KeYrVOKSiI",
+              "end": 27,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024376611999797698/video/1",
+              "media_key": "13_2024376531653709829",
+              "start": 4,
+              "url": "https://t.co/KeYrVOKSiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024376611999797698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5442,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "和尽生 https://t.co/KeYrVOKSiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 2315,
+          "like_count": 24459,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 6392
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2012755946506756346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16469,
+          "following_count": 102,
+          "like_count": 7186,
+          "listed_count": 22,
+          "media_count": 903,
+          "tweet_count": 4914
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

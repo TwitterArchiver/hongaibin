@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981358751689920512"
+      ],
+      "media_source_tweet_id": [
+        "1981358824796872846"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1983228913921974301",
+    "created_at": "2025-10-28T17:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983228913921974301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "药物滥用"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "od"
+        },
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "overdose"
+        },
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "sora"
+        },
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "SoraAI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936828090728218624",
+          "start": 3,
+          "username": "Auraw4SNOW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MH6SxGRT5q",
+          "end": 91,
+          "expanded_url": "https://x.com/Auraw4SNOW/status/1981358824796872846/video/1",
+          "media_key": "13_1981358751689920512",
+          "start": 68,
+          "url": "https://t.co/MH6SxGRT5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983228913921974301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981358824796872846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Auraw4SNOW: ai真好玩 🤔药蛆能活到那个时候吗 #药物滥用 #od #overdose #sora #SoraAI https://t.co/MH6SxGRT5q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1280,
+        "media_key": "13_1981358751689920512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981358751689920512/img/_VtftRJFcu8_Fyer.jpg",
+        "public_metrics": {
+          "view_count": 1635
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981358751689920512/vid/avc1/320x580/2bKx_zU-taTYay0J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981358751689920512/vid/avc1/480x872/66NOswsLjtKUu5R4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981358751689920512/vid/avc1/704x1280/9frq01nZZTgBjHtr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981358751689920512/pl/knfG5IItcFvApXR-.m3u8?v=833"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981358751689920512"
+          ],
+          "media_source_tweet_id": [
+            "1981358824796872846"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1983228913921974301",
+        "created_at": "2025-10-28T17:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983228913921974301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "药物滥用"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "od"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "overdose"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "sora"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "SoraAI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936828090728218624",
+              "start": 3,
+              "username": "Auraw4SNOW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH6SxGRT5q",
+              "end": 91,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1981358824796872846/video/1",
+              "media_key": "13_1981358751689920512",
+              "start": 68,
+              "url": "https://t.co/MH6SxGRT5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983228913921974301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981358824796872846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Auraw4SNOW: ai真好玩 🤔药蛆能活到那个时候吗 #药物滥用 #od #overdose #sora #SoraAI https://t.co/MH6SxGRT5q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981358751689920512"
+          ]
+        },
+        "author_id": "1936828090728218624",
+        "conversation_id": "1981358824796872846",
+        "created_at": "2025-10-23T13:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981358824796872846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "药物滥用"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "od"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "overdose"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "sora"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "SoraAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH6SxGRT5q",
+              "end": 75,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1981358824796872846/video/1",
+              "media_key": "13_1981358751689920512",
+              "start": 52,
+              "url": "https://t.co/MH6SxGRT5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981358824796872846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4631,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ai真好玩 🤔药蛆能活到那个时候吗 #药物滥用 #od #overdose #sora #SoraAI https://t.co/MH6SxGRT5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 2216,
+          "like_count": 23521,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 6204
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T16:46:23.000Z",
+        "description": "你好我是静静 /莉莉丝/148cm 45kg女哥布林/BDP/BD/ADHD/东亚精神病人/电波系/药物滥用戒断中/06/INTJ/水瓶座/中文/English/日本語/粤语（可以找我互fo互转喵）坐标郑州 线下在飞机简介有链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yukino216",
+                "end": 23,
+                "expanded_url": "https://t.me/Yukino216",
+                "start": 0,
+                "url": "https://t.co/7TdOAQ1aU3"
+              }
+            ]
+          }
+        },
+        "id": "1936828090728218624",
+        "location": "Tokyo-to, Japan",
+        "name": "我也好想变成你喜欢的样子",
+        "pinned_tweet_id": "1975831779170001195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981317994237034496/Xx8Q2vv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 37,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/7TdOAQ1aU3",
+        "username": "Auraw4SNOW",
+        "verified": true
+      }
+    ]
+  }
+}

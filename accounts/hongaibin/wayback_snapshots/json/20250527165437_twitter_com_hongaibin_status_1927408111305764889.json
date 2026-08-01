@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926993503671791616"
+      ],
+      "media_source_tweet_id": [
+        "1926993511020138684"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927408111305764889",
+    "created_at": "2025-05-27T16:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927408111305764889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1292790609103556610",
+          "start": 3,
+          "username": "uwowo111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EP5iPPZio9",
+          "end": 37,
+          "expanded_url": "https://x.com/uwowo111/status/1926993511020138684/photo/1",
+          "media_key": "3_1926993503671791616",
+          "start": 14,
+          "url": "https://t.co/EP5iPPZio9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927408111305764889",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1594
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926993511020138684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwowo111: https://t.co/EP5iPPZio9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926993503671791616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4OYcbXsAA-N34.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926993503671791616"
+          ],
+          "media_source_tweet_id": [
+            "1926993511020138684"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927408111305764889",
+        "created_at": "2025-05-27T16:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927408111305764889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1292790609103556610",
+              "start": 3,
+              "username": "uwowo111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP5iPPZio9",
+              "end": 37,
+              "expanded_url": "https://x.com/uwowo111/status/1926993511020138684/photo/1",
+              "media_key": "3_1926993503671791616",
+              "start": 14,
+              "url": "https://t.co/EP5iPPZio9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927408111305764889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1594
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926993511020138684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwowo111: https://t.co/EP5iPPZio9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926993503671791616"
+          ]
+        },
+        "author_id": "1292790609103556610",
+        "conversation_id": "1926993511020138684",
+        "created_at": "2025-05-26T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926993511020138684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP5iPPZio9",
+              "end": 23,
+              "expanded_url": "https://x.com/uwowo111/status/1926993511020138684/photo/1",
+              "media_key": "3_1926993503671791616",
+              "start": 0,
+              "url": "https://t.co/EP5iPPZio9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926993511020138684",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2379,
+          "impression_count": 343987,
+          "like_count": 22909,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 1594
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EP5iPPZio9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2017,
+          "like_count": 18498,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5155
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T11:52:14.000Z",
+        "description": "ᗦ↞◃ illustration𓆝 ˜˷ DO NOT repost/use my works!   FA can only be used by the person himself/herself.",
+        "id": "1292790609103556610",
+        "location": "✉相談DMまで",
+        "name": "uwo",
+        "pinned_tweet_id": "1893675393627877551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595371568057618432/VktpnBEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11621,
+          "following_count": 1588,
+          "like_count": 23125,
+          "listed_count": 80,
+          "media_count": 28,
+          "tweet_count": 1930
+        },
+        "username": "uwowo111",
+        "verified": false
+      }
+    ]
+  }
+}

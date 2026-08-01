@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1866652226279838002",
+    "created_at": "2024-12-11T01:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T02:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866652226279838002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748717733569875968",
+          "start": 3,
+          "username": "GLaDOS8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866652226279838002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866128471962898606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GLaDOS8964: 幻想自己上吊安然去死，一开始会蹬腿抽搐什么的，后来一点点的失去气息，然后离开这个世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1866652226279838002",
+        "created_at": "2024-12-11T01:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T02:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866652226279838002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748717733569875968",
+              "start": 3,
+              "username": "GLaDOS8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866652226279838002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866128471962898606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GLaDOS8964: 幻想自己上吊安然去死，一开始会蹬腿抽搐什么的，后来一点点的失去气息，然后离开这个世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748717733569875968",
+        "conversation_id": "1866128471962898606",
+        "created_at": "2024-12-09T14:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T15:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866128471962898606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866128471962898606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8883,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "幻想自己上吊安然去死，一开始会蹬腿抽搐什么的，后来一点点的失去气息，然后离开这个世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1639,
+          "like_count": 12724,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 3910
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "@hood8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hood8964"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "荷兰郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1838205367186333709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866628884919111680/53Yklitk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 885,
+          "like_count": 29823,
+          "listed_count": 2,
+          "media_count": 730,
+          "tweet_count": 16272
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789467368147886322",
+    "created_at": "2024-05-12T01:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T02:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789467368147886322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406774049737297922",
+          "start": 3,
+          "username": "Kugo_eya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789467368147886322",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789420293787640309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kugo_eya: 可愛すぎ⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789467368147886322",
+        "created_at": "2024-05-12T01:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T02:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789467368147886322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406774049737297922",
+              "start": 3,
+              "username": "Kugo_eya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789467368147886322",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789420293787640309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kugo_eya: 可愛すぎ⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1406774049737297922",
+        "conversation_id": "1789420293787640309",
+        "created_at": "2024-05-11T22:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T23:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789420293787640309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/D_D___oO/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/D_D___oO/status/1789286494030717412",
+              "start": 23,
+              "url": "https://t.co/74x692nq2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789420293787640309",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2658,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789286494030717412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可愛すぎ⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️ https://t.co/74x692nq2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 727,
+          "like_count": 1140,
+          "listed_count": 0,
+          "tweet_count": 192
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T00:41:02.000Z",
+        "description": "さなだくご です。   FAタグ▶ #九五に替刃あげる 推し事報告タグ▶ #真田九五に救済を求めます 鍵▶(@Kugo_hasu)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "九五に替刃あげる"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "tag": "真田九五に救済を求めます"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Kugo_hasu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sanadakugo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sanadakugo",
+                "start": 0,
+                "url": "https://t.co/gUnTsxI8YX"
+              }
+            ]
+          }
+        },
+        "id": "1406774049737297922",
+        "location": "ファンネ▶ｸｺﾞﾒｸ",
+        "name": "真田 九五",
+        "pinned_tweet_id": "1788528245841035419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784917740182290432/2_8mBTr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11134,
+          "following_count": 95,
+          "like_count": 11022,
+          "listed_count": 27,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/gUnTsxI8YX",
+        "username": "Kugo_eya",
+        "verified": false
+      }
+    ]
+  }
+}

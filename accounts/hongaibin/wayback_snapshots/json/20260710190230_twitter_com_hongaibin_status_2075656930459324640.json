@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075211048882429952"
+      ],
+      "media_source_tweet_id": [
+        "2075211111591535045"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2075656930459324640",
+    "created_at": "2026-07-10T19:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075656930459324640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1392452107450474499",
+          "start": 3,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ySeDwhgk5",
+          "end": 59,
+          "expanded_url": "https://x.com/_infinity_xxx/status/2075211111591535045/video/1",
+          "media_key": "13_2075211048882429952",
+          "start": 36,
+          "url": "https://t.co/0ySeDwhgk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075656930459324640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075211111591535045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_infinity_xxx: お久しぶりです(ᴖ ̫ᴖ  )♪ https://t.co/0ySeDwhgk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11300,
+        "height": 1280,
+        "media_key": "13_2075211048882429952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075211048882429952/img/5RQbsR4YyQpROlAS.jpg",
+        "public_metrics": {
+          "view_count": 3800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075211048882429952/vid/avc1/320x568/xm2PfULXX1p_H6LL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075211048882429952/vid/avc1/480x852/GYrI8Jur63_woUhV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075211048882429952/vid/avc1/720x1280/P5FUHWZ3KihdqGXf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075211048882429952/pl/7kii9T9GcNBrK78y.m3u8?v=2b0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075211048882429952"
+          ],
+          "media_source_tweet_id": [
+            "2075211111591535045"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2075656930459324640",
+        "created_at": "2026-07-10T19:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075656930459324640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1392452107450474499",
+              "start": 3,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ySeDwhgk5",
+              "end": 59,
+              "expanded_url": "https://x.com/_infinity_xxx/status/2075211111591535045/video/1",
+              "media_key": "13_2075211048882429952",
+              "start": 36,
+              "url": "https://t.co/0ySeDwhgk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075656930459324640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075211111591535045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_infinity_xxx: お久しぶりです(ᴖ ̫ᴖ  )♪ https://t.co/0ySeDwhgk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075211048882429952"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "2075211111591535045",
+        "created_at": "2026-07-09T13:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075211111591535045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ySeDwhgk5",
+              "end": 40,
+              "expanded_url": "https://x.com/_infinity_xxx/status/2075211111591535045/video/1",
+              "media_key": "13_2075211048882429952",
+              "start": 17,
+              "url": "https://t.co/0ySeDwhgk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075211111591535045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 11665,
+          "like_count": 329,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "お久しぶりです(ᴖ ̫ᴖ  )♪ https://t.co/0ySeDwhgk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 2339,
+          "like_count": 24714,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 6477
+        },
+        "url": "",
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "PTSDでピーヒョロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1988654113568215304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995115439303860224/VDH6R3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16924,
+          "following_count": 283,
+          "like_count": 3229,
+          "listed_count": 41,
+          "media_count": 6658,
+          "tweet_count": 26378
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": false
+      }
+    ]
+  }
+}

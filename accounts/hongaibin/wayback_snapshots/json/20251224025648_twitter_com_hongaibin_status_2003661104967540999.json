@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002715459607740416",
+        "3_2002715459649699840",
+        "3_2002715459641380864",
+        "3_2002715459611992065"
+      ],
+      "media_source_tweet_id": [
+        "2002715474778636634",
+        "2002715474778636634",
+        "2002715474778636634",
+        "2002715474778636634"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2003661104967540999",
+    "created_at": "2025-12-24T02:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003661104967540999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1617330523650813953",
+          "start": 3,
+          "username": "ayapani_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/znHXMbx2kj",
+          "end": 51,
+          "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+          "media_key": "3_2002715459607740416",
+          "start": 28,
+          "url": "https://t.co/znHXMbx2kj"
+        },
+        {
+          "display_url": "pic.x.com/znHXMbx2kj",
+          "end": 51,
+          "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+          "media_key": "3_2002715459649699840",
+          "start": 28,
+          "url": "https://t.co/znHXMbx2kj"
+        },
+        {
+          "display_url": "pic.x.com/znHXMbx2kj",
+          "end": 51,
+          "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+          "media_key": "3_2002715459641380864",
+          "start": 28,
+          "url": "https://t.co/znHXMbx2kj"
+        },
+        {
+          "display_url": "pic.x.com/znHXMbx2kj",
+          "end": 51,
+          "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+          "media_key": "3_2002715459611992065",
+          "start": 28,
+          "url": "https://t.co/znHXMbx2kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003661104967540999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002715474778636634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayapani_ai: 加工イラスト① sfw https://t.co/znHXMbx2kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002715459607740416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sTGYQaQAAPZyc.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002715459649699840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sTGYaagAAwcyJ.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002715459641380864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sTGYYbkAA--5D.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002715459611992065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sTGYRbIAEd2Y-.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002715459607740416",
+            "3_2002715459649699840",
+            "3_2002715459641380864",
+            "3_2002715459611992065"
+          ],
+          "media_source_tweet_id": [
+            "2002715474778636634",
+            "2002715474778636634",
+            "2002715474778636634",
+            "2002715474778636634"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2003661104967540999",
+        "created_at": "2025-12-24T02:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003661104967540999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1617330523650813953",
+              "start": 3,
+              "username": "ayapani_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 51,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459607740416",
+              "start": 28,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 51,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459649699840",
+              "start": 28,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 51,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459641380864",
+              "start": 28,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 51,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459611992065",
+              "start": 28,
+              "url": "https://t.co/znHXMbx2kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003661104967540999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002715474778636634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayapani_ai: 加工イラスト① sfw https://t.co/znHXMbx2kj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002715459607740416",
+            "3_2002715459649699840",
+            "3_2002715459641380864",
+            "3_2002715459611992065"
+          ]
+        },
+        "author_id": "1617330523650813953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2002715474778636634",
+        "created_at": "2025-12-21T12:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002715474778636634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 35,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459607740416",
+              "start": 12,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 35,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459649699840",
+              "start": 12,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 35,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459641380864",
+              "start": 12,
+              "url": "https://t.co/znHXMbx2kj"
+            },
+            {
+              "display_url": "pic.x.com/znHXMbx2kj",
+              "end": 35,
+              "expanded_url": "https://x.com/ayapani_ai/status/2002715474778636634/photo/1",
+              "media_key": "3_2002715459611992065",
+              "start": 12,
+              "url": "https://t.co/znHXMbx2kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002715474778636634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2969,
+          "impression_count": 192790,
+          "like_count": 13185,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "加工イラスト① sfw https://t.co/znHXMbx2kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 2218,
+          "like_count": 23637,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6276
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T01:17:14.000Z",
+        "description": "AI https://t.co/wIQbJdgLIG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ayapani_ai?utm…",
+                "end": 26,
+                "expanded_url": "https://patreon.com/ayapani_ai?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+                "start": 3,
+                "url": "https://t.co/wIQbJdgLIG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ayapani_ai?fe…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ayapani_ai?feature=shared",
+                "start": 0,
+                "url": "https://t.co/Q9MKSBgZGK"
+              }
+            ]
+          }
+        },
+        "id": "1617330523650813953",
+        "location": "Music ▶︎",
+        "name": "ayapani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002365869352198144/An8sm9is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33924,
+          "following_count": 917,
+          "like_count": 10959,
+          "listed_count": 224,
+          "media_count": 42,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/Q9MKSBgZGK",
+        "username": "ayapani_ai",
+        "verified": false
+      }
+    ]
+  }
+}

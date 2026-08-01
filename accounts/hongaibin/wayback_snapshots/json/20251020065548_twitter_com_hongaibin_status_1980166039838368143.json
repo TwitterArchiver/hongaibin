@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1979630379024752640"
+      ],
+      "media_source_tweet_id": [
+        "1979630504283607439"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1980166039838368143",
+    "created_at": "2025-10-20T06:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980166039838368143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0lDPt6XkA",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/1979630504283607439/video/1",
+          "media_key": "13_1979630379024752640",
+          "start": 19,
+          "url": "https://t.co/J0lDPt6XkA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980166039838368143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979630504283607439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/J0lDPt6XkA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8584,
+        "height": 960,
+        "media_key": "13_1979630379024752640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979630379024752640/img/3O5D-0_Wj0WqotfV.jpg",
+        "public_metrics": {
+          "view_count": 1343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979630379024752640/vid/avc1/320x568/V3duZZcz-JyVwtzF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979630379024752640/vid/avc1/480x852/dVUc0suHI_C9Qrvk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979630379024752640/vid/avc1/540x960/3av-qeLBspYIBvkc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979630379024752640/pl/N7tiEMLIPyJtE-Od.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979630379024752640"
+          ],
+          "media_source_tweet_id": [
+            "1979630504283607439"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1980166039838368143",
+        "created_at": "2025-10-20T06:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980166039838368143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0lDPt6XkA",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/1979630504283607439/video/1",
+              "media_key": "13_1979630379024752640",
+              "start": 19,
+              "url": "https://t.co/J0lDPt6XkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980166039838368143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979630504283607439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/J0lDPt6XkA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979630379024752640"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1979630504283607439",
+        "created_at": "2025-10-18T19:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979630504283607439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0lDPt6XkA",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1979630504283607439/video/1",
+              "media_key": "13_1979630379024752640",
+              "start": 0,
+              "url": "https://t.co/J0lDPt6XkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979630504283607439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4472,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J0lDPt6XkA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 2198,
+          "like_count": 23370,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 6156
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17153,
+          "following_count": 11,
+          "like_count": 46,
+          "listed_count": 19,
+          "media_count": 34,
+          "tweet_count": 67
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

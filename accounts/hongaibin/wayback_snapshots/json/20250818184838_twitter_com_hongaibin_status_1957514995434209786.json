@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956357551122976773"
+      ],
+      "media_source_tweet_id": [
+        "1956357797869683139"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1957514995434209786",
+    "created_at": "2025-08-18T18:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T19:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957514995434209786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUYt1JWRWt",
+          "end": 59,
+          "expanded_url": "https://x.com/FurinaDF/status/1956357797869683139/photo/1",
+          "media_key": "3_1956357551122976773",
+          "start": 36,
+          "url": "https://t.co/EUYt1JWRWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957514995434209786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956357797869683139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 中华上下五千年，为什么没有诞生民主制度？🤔 https://t.co/EUYt1JWRWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_1956357551122976773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZg09hWkAU5R0H.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956357551122976773"
+          ],
+          "media_source_tweet_id": [
+            "1956357797869683139"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1957514995434209786",
+        "created_at": "2025-08-18T18:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957514995434209786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUYt1JWRWt",
+              "end": 59,
+              "expanded_url": "https://x.com/FurinaDF/status/1956357797869683139/photo/1",
+              "media_key": "3_1956357551122976773",
+              "start": 36,
+              "url": "https://t.co/EUYt1JWRWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957514995434209786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956357797869683139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 中华上下五千年，为什么没有诞生民主制度？🤔 https://t.co/EUYt1JWRWt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956357551122976773"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1956357797869683139",
+        "created_at": "2025-08-15T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956357797869683139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUYt1JWRWt",
+              "end": 45,
+              "expanded_url": "https://x.com/FurinaDF/status/1956357797869683139/photo/1",
+              "media_key": "3_1956357551122976773",
+              "start": 22,
+              "url": "https://t.co/EUYt1JWRWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956357797869683139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 25610,
+          "like_count": 219,
+          "quote_count": 6,
+          "reply_count": 88,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中华上下五千年，为什么没有诞生民主制度？🤔 https://t.co/EUYt1JWRWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 2154,
+          "like_count": 21647,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5831
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "我是老资历了，我从冲浪TV那会儿就开始融了@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42042,
+          "following_count": 2296,
+          "like_count": 28046,
+          "listed_count": 113,
+          "media_count": 6205,
+          "tweet_count": 10573
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

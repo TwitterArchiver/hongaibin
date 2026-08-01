@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1819034680911450112"
+      ],
+      "media_source_tweet_id": [
+        "1819034720560136607"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1819137837901713829",
+    "created_at": "2024-08-01T22:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T23:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819137837901713829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1791537814091313152",
+          "start": 3,
+          "username": "mogolikoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/aNrAQQ4lET",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mogolikoi/status/1819034720560136607/video/1",
+          "media_key": "7_1819034680911450112",
+          "start": 15,
+          "url": "https://t.co/aNrAQQ4lET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819137837901713829",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819034720560136607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogolikoi: https://t.co/aNrAQQ4lET"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "7_1819034680911450112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819034680911450112/pu/img/QWBE_ub-p9tFgyyd.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819034680911450112/pu/vid/avc1/320x568/yg4k9ValxVdWpqV-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819034680911450112/pu/vid/avc1/480x852/IGXsjbH9kzpvVuKf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819034680911450112/pu/vid/avc1/720x1280/7a0_egTUp6osh5L2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819034680911450112/pu/pl/h8NMRuOlnD-WJtHa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819034680911450112"
+          ],
+          "media_source_tweet_id": [
+            "1819034720560136607"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1819137837901713829",
+        "created_at": "2024-08-01T22:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T23:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819137837901713829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1791537814091313152",
+              "start": 3,
+              "username": "mogolikoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aNrAQQ4lET",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mogolikoi/status/1819034720560136607/video/1",
+              "media_key": "7_1819034680911450112",
+              "start": 15,
+              "url": "https://t.co/aNrAQQ4lET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819137837901713829",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819034720560136607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogolikoi: https://t.co/aNrAQQ4lET"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819034680911450112"
+          ]
+        },
+        "author_id": "1791537814091313152",
+        "conversation_id": "1819034720560136607",
+        "created_at": "2024-08-01T15:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819034720560136607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aNrAQQ4lET",
+              "end": 23,
+              "expanded_url": "https://twitter.com/mogolikoi/status/1819034720560136607/video/1",
+              "media_key": "7_1819034680911450112",
+              "start": 0,
+              "url": "https://t.co/aNrAQQ4lET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819034720560136607",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aNrAQQ4lET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1205,
+          "like_count": 4100,
+          "listed_count": 2,
+          "tweet_count": 2198
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T18:34:48.000Z",
+        "description": "seba\n17 !! 100% ARGENTINO🇦🇷🇦🇷🇦🇷",
+        "id": "1791537814091313152",
+        "location": "COFCOFCOF",
+        "name": "mogoliko",
+        "pinned_tweet_id": "1819001203235201171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813385922303475712/9YHdwmMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 280,
+          "like_count": 3723,
+          "listed_count": 3,
+          "tweet_count": 2870
+        },
+        "username": "mogolikoi",
+        "verified": false
+      }
+    ]
+  }
+}

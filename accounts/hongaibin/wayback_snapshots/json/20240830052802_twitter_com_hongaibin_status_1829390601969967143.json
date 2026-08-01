@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1829390601969967143",
+    "created_at": "2024-08-30T05:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T06:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829390601969967143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1108748825689247747",
+          "start": 3,
+          "username": "Sbr97826689"
+        },
+        {
+          "end": 28,
+          "id": "1160164542145429504",
+          "start": 17,
+          "username": "cutemianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829390601969967143",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825513158431351284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sbr97826689: @cutemianye 宁愿花几万把孩子送去“矫正”，也不肯花几百给孩子买点他们想要的东西，哪怕后者实际上比前者有效几百倍……真的想不明白。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1829390601969967143",
+        "created_at": "2024-08-30T05:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T06:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829390601969967143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1108748825689247747",
+              "start": 3,
+              "username": "Sbr97826689"
+            },
+            {
+              "end": 28,
+              "id": "1160164542145429504",
+              "start": 17,
+              "username": "cutemianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829390601969967143",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825513158431351284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sbr97826689: @cutemianye 宁愿花几万把孩子送去“矫正”，也不肯花几百给孩子买点他们想要的东西，哪怕后者实际上比前者有效几百倍……真的想不明白。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108748825689247747",
+        "conversation_id": "1825423361260028316",
+        "created_at": "2024-08-19T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825513158431351284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1160164542145429504",
+              "start": 0,
+              "username": "cutemianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825513158431351284",
+        "in_reply_to_user_id": "1160164542145429504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2272,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825423361260028316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutemianye 宁愿花几万把孩子送去“矫正”，也不肯花几百给孩子买点他们想要的东西，哪怕后者实际上比前者有效几百倍……真的想不明白。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1421,
+          "like_count": 6523,
+          "listed_count": 3,
+          "tweet_count": 2721
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T15:14:54.000Z",
+        "description": "中国うまれで中国に住んでいる男子大学生。日本語へたへた…\n💚日野森志歩\nA college student born and living in China. He/Him/His/His. English ok, not that good at Japanese...",
+        "id": "1108748825689247747",
+        "location": "Zhejiang province, China",
+        "name": "SbrAkr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1108752090816376832/kMPwG82I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 205,
+          "like_count": 786,
+          "listed_count": 1,
+          "tweet_count": 310
+        },
+        "username": "Sbr97826689",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-10T12:22:36.000Z",
+        "description": "I’m dying…dying for love.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/mianye233",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/mianye233",
+                "start": 0,
+                "url": "https://t.co/ujN9prFY5J"
+              }
+            ]
+          }
+        },
+        "id": "1160164542145429504",
+        "location": "猫窝",
+        "name": "棉耶（Mianye）",
+        "pinned_tweet_id": "1693090475803300268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819596787126255616/mZ7QbnND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 403,
+          "like_count": 7170,
+          "listed_count": 10,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/ujN9prFY5J",
+        "username": "cutemianye",
+        "verified": false
+      }
+    ]
+  }
+}

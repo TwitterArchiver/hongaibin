@@ -1,0 +1,301 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1792855925902221312"
+      ],
+      "media_source_tweet_id": [
+        "1792855943127982448"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1809107005015273527",
+    "created_at": "2024-07-05T06:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T07:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809107005015273527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "939535101213384704",
+          "start": 3,
+          "username": "RIP2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/l9LFIOQNWA",
+          "end": 46,
+          "expanded_url": "https://twitter.com/RIP2_/status/1792855943127982448/video/1",
+          "media_key": "13_1792855925902221312",
+          "start": 23,
+          "url": "https://t.co/l9LFIOQNWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809107005015273527",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1850
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792855943127982448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIP2_: 「 よく笑う人だね 」 https://t.co/l9LFIOQNWA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1471,
+        "height": 720,
+        "media_key": "13_1792855925902221312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1792855925902221312/img/tde7YxzGUKjptwZk.jpg",
+        "public_metrics": {
+          "view_count": 121276
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1792855925902221312/vid/avc1/440x270/On2tux3byBEiO2eG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1792855925902221312/vid/avc1/588x360/NWnd9hbo9mHNkWq_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1792855925902221312/vid/avc1/1176x720/82384dzZqoZC90QG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1792855925902221312/pl/iWIptvXUnDyuOk5C.m3u8?tag=14"
+          }
+        ],
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1792855925902221312"
+          ],
+          "media_source_tweet_id": [
+            "1792855943127982448"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809107005015273527",
+        "created_at": "2024-07-05T06:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T07:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809107005015273527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "939535101213384704",
+              "start": 3,
+              "username": "RIP2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l9LFIOQNWA",
+              "end": 46,
+              "expanded_url": "https://twitter.com/RIP2_/status/1792855943127982448/video/1",
+              "media_key": "13_1792855925902221312",
+              "start": 23,
+              "url": "https://t.co/l9LFIOQNWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809107005015273527",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1850
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792855943127982448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIP2_: 「 よく笑う人だね 」 https://t.co/l9LFIOQNWA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1792855925902221312"
+          ]
+        },
+        "author_id": "939535101213384704",
+        "conversation_id": "1792855943127982448",
+        "created_at": "2024-05-21T09:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T10:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792855943127982448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l9LFIOQNWA",
+              "end": 35,
+              "expanded_url": "https://twitter.com/RIP2_/status/1792855943127982448/video/1",
+              "media_key": "13_1792855925902221312",
+              "start": 12,
+              "url": "https://t.co/l9LFIOQNWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792855943127982448",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1793,
+          "impression_count": 469949,
+          "like_count": 21919,
+          "quote_count": 89,
+          "reply_count": 64,
+          "retweet_count": 1850
+        },
+        "reply_settings": "everyone",
+        "text": "「 よく笑う人だね 」 https://t.co/l9LFIOQNWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1072,
+          "like_count": 2075,
+          "listed_count": 1,
+          "tweet_count": 1459
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T16:39:58.000Z",
+        "description": "♱ 狂信崇拝 ♱ クリエイト中毒𝕬𝖗𝖙𝖎𝖘𝖙 ♱#マーダグラム 制作中 ✠ 𝕴𝖓𝖋𝖔 @RIP2_x 𝕾𝖚𝖇 @RIP2x_ ✠ 公式LINE https://t.co/zTP0NVuKt4 ✠ 喋 https://t.co/jOMIRI4DZ9 ✠ #なぐさめろ黒野京",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "マーダグラム"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "tag": "なぐさめろ黒野京"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "RIP2_x"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "username": "RIP2x_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lin.ee/zGtPnC6",
+                "end": 95,
+                "expanded_url": "https://lin.ee/zGtPnC6",
+                "start": 72,
+                "url": "https://t.co/zTP0NVuKt4"
+              },
+              {
+                "display_url": "youtube.com/@RIP2_",
+                "end": 123,
+                "expanded_url": "http://youtube.com/@RIP2_",
+                "start": 100,
+                "url": "https://t.co/jOMIRI4DZ9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RIP2",
+                "end": 23,
+                "expanded_url": "https://lit.link/RIP2",
+                "start": 0,
+                "url": "https://t.co/BQqFvtDm7i"
+              }
+            ]
+          }
+        },
+        "id": "939535101213384704",
+        "location": "ENTP",
+        "name": "♱黒野京♱ マーダグラム制作中",
+        "pinned_tweet_id": "1807360934962167829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762484918041317378/-dJrS0gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95519,
+          "following_count": 27,
+          "like_count": 66185,
+          "listed_count": 679,
+          "tweet_count": 6102
+        },
+        "url": "https://t.co/BQqFvtDm7i",
+        "username": "RIP2_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1801629736160137562",
+    "created_at": "2024-06-14T14:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T15:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801629736160137562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 29,
+          "id": "1444640763070005251",
+          "start": 18,
+          "username": "Hqin_Senki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801629736160137562",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801477638072242200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: @Hqin_Senki 不过问题不在于快感，问题在于那帮子OD药物，优米晚安美金，有药理性的认知危害……从药理上就会导致一系列精神危害，危害到人根本就不知道自己已经在od了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1801629736160137562",
+        "created_at": "2024-06-14T14:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T15:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801629736160137562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 29,
+              "id": "1444640763070005251",
+              "start": 18,
+              "username": "Hqin_Senki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801629736160137562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801477638072242200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: @Hqin_Senki 不过问题不在于快感，问题在于那帮子OD药物，优米晚安美金，有药理性的认知危害……从药理上就会导致一系列精神危害，危害到人根本就不知道自己已经在od了……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1801268115931812344",
+        "created_at": "2024-06-14T04:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T05:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801477638072242200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "Hqin_Senki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801477638072242200",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801294031026327733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hqin_Senki 不过问题不在于快感，问题在于那帮子OD药物，优米晚安美金，有药理性的认知危害……从药理上就会导致一系列精神危害，危害到人根本就不知道自己已经在od了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1060,
+          "like_count": 1679,
+          "listed_count": 1,
+          "tweet_count": 1268
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "精神药理学？精神分析学？\n这是这是药师波奇，研究恢复术——比如反制药物副作用\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/5ftoKDMGdw"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "location": "卡莫纳电视台二楼控电室",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782801215476432896/G1iJf3DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 48,
+          "like_count": 1,
+          "listed_count": 6,
+          "tweet_count": 4677
+        },
+        "url": "https://t.co/5ftoKDMGdw",
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "17 _ Male _ INTP-T\n里：@Hqin_2 ` Ja/En：@Hqin_inter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Hqin_2"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Hqin_inter"
+              }
+            ]
+          }
+        },
+        "id": "1444640763070005251",
+        "location": "Manchuria,China",
+        "name": "Hqin🌈",
+        "pinned_tweet_id": "1704143724668752295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795434602192138242/D_2j3tx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 700,
+          "like_count": 8820,
+          "listed_count": 4,
+          "tweet_count": 4812
+        },
+        "username": "Hqin_Senki",
+        "verified": false
+      }
+    ]
+  }
+}

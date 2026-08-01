@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1960042666382786572",
+    "created_at": "2025-08-25T18:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960042666382786572"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Death by Astonishment",
+          "probability": 0.5401,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "Mystery of the World's Strangest Drug",
+          "probability": 0.5748,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "UK",
+          "probability": 0.9674,
+          "start": 117,
+          "type": "Place"
+        },
+        {
+          "end": 129,
+          "normalized_text": "Europe",
+          "probability": 0.9554,
+          "start": 124,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3197508785",
+          "start": 3,
+          "username": "alieninsect"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960042666382786572",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958493745621696932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alieninsect: 'Death by Astonishment: Confronting the Mystery of the World's Strangest Drug' now available in the UK and Europe wherever…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_1958492728939155457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy32wquakAENkb9.jpg",
+        "width": 1571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1960042666382786572",
+        "created_at": "2025-08-25T18:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960042666382786572"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Death by Astonishment",
+              "probability": 0.5401,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Mystery of the World's Strangest Drug",
+              "probability": 0.5748,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "UK",
+              "probability": 0.9674,
+              "start": 117,
+              "type": "Place"
+            },
+            {
+              "end": 129,
+              "normalized_text": "Europe",
+              "probability": 0.9554,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3197508785",
+              "start": 3,
+              "username": "alieninsect"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960042666382786572",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958493745621696932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alieninsect: 'Death by Astonishment: Confronting the Mystery of the World's Strangest Drug' now available in the UK and Europe wherever…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958492728939155457"
+          ]
+        },
+        "author_id": "3197508785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1958493745621696932",
+        "created_at": "2025-08-21T11:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958493745621696932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Death",
+              "probability": 0.6087,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Mystery of the World's Strangest Drug",
+              "probability": 0.6863,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "UK",
+              "probability": 0.9767,
+              "start": 100,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Europe",
+              "probability": 0.9627,
+              "start": 107,
+              "type": "Place"
+            },
+            {
+              "end": 242,
+              "normalized_text": "McKenna",
+              "probability": 0.8362,
+              "start": 236,
+              "type": "Person"
+            },
+            {
+              "end": 278,
+              "normalized_text": "Narby",
+              "probability": 0.3651,
+              "start": 274,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIZeshPaV1",
+              "end": 304,
+              "expanded_url": "https://x.com/alieninsect/status/1958493745621696932/photo/1",
+              "media_key": "3_1958492728939155457",
+              "start": 281,
+              "url": "https://t.co/AIZeshPaV1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "ae10e4565c20a69b"
+        },
+        "id": "1958493745621696932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 481,
+                "id": "1480734922176438274",
+                "start": 473,
+                "username": "drdluke"
+              }
+            ]
+          },
+          "text": "'Death by Astonishment: Confronting the Mystery of the World's Strangest Drug' now available in the UK and Europe wherever books are sold...\n\n\"A long overdue and brilliant piece of work with nods to many classics: the turn of phrase of McKenna, the anthropological scope of Narby, the historical depth of Mike Jay, the raw and in your faceness of Burroughs, and a hint of Lovecraftian & Poe horror… I think this is somewhat of a masterpiece.\"\n\n-- Dr. David Luke\n\nThank you @drdluke!\n\n\"In a story that begins in the Amazonian rainforests and ends somewhere beyond the stars, the first detailed account of the discovery of DMT and science’s continuing struggle to explain how such a simple and common plant molecule can have such astonishing effects on the human mind...\"\n\n(Inside cover art by Harry Pack and INCEDIGRIS)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6116,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "'Death by Astonishment: Confronting the Mystery of the World's Strangest Drug' now available in the UK and Europe wherever books are sold...\n\n\"A long overdue and brilliant piece of work with nods to many classics: the turn of phrase of McKenna, the anthropological scope of Narby, https://t.co/AIZeshPaV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2161,
+          "like_count": 21882,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5872
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-23T10:33:12.000Z",
+        "description": "Tokyo. 作家. Neurobiologist, pharmacologist, writer on psychedelics, especially DMT. \"Death by Astonishment\", OUT NOW:  https://t.co/F25GjiDSxu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/DeathbyAstonis…",
+                "end": 141,
+                "expanded_url": "http://bit.ly/DeathbyAstonishment",
+                "start": 118,
+                "url": "https://t.co/F25GjiDSxu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alieninsect.net",
+                "end": 23,
+                "expanded_url": "http://www.alieninsect.net",
+                "start": 0,
+                "url": "https://t.co/iH9wooNy4c"
+              }
+            ]
+          }
+        },
+        "id": "3197508785",
+        "location": "Musashino-shi, Tokyo",
+        "name": "Andrew Gallimore",
+        "pinned_tweet_id": "1953396104667828666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509870181161472000/NEsNkHKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36565,
+          "following_count": 753,
+          "like_count": 7640,
+          "listed_count": 255,
+          "media_count": 1476,
+          "tweet_count": 9094
+        },
+        "url": "https://t.co/iH9wooNy4c",
+        "username": "alieninsect",
+        "verified": true
+      }
+    ]
+  }
+}

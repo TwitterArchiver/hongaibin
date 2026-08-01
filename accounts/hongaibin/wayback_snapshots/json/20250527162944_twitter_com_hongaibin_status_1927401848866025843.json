@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926952795854258177",
+        "3_1926952794109468672"
+      ],
+      "media_source_tweet_id": [
+        "1926952799243206951",
+        "1926952799243206951"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927401848866025843",
+    "created_at": "2025-05-27T16:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927401848866025843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1272930023926665216",
+          "start": 3,
+          "username": "JawenZhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIujJwYEXR",
+          "end": 44,
+          "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+          "media_key": "3_1926952795854258177",
+          "start": 21,
+          "url": "https://t.co/uIujJwYEXR"
+        },
+        {
+          "display_url": "pic.x.com/uIujJwYEXR",
+          "end": 44,
+          "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+          "media_key": "3_1926952794109468672",
+          "start": 21,
+          "url": "https://t.co/uIujJwYEXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927401848866025843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926952799243206951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JawenZhu: 幽默b站评论 https://t.co/uIujJwYEXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_1926952795854258177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3pW7_WwAEqOS7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1180,
+        "media_key": "3_1926952794109468672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3pW1fXYAAjfID.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926952795854258177",
+            "3_1926952794109468672"
+          ],
+          "media_source_tweet_id": [
+            "1926952799243206951",
+            "1926952799243206951"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927401848866025843",
+        "created_at": "2025-05-27T16:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927401848866025843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1272930023926665216",
+              "start": 3,
+              "username": "JawenZhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIujJwYEXR",
+              "end": 44,
+              "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+              "media_key": "3_1926952795854258177",
+              "start": 21,
+              "url": "https://t.co/uIujJwYEXR"
+            },
+            {
+              "display_url": "pic.x.com/uIujJwYEXR",
+              "end": 44,
+              "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+              "media_key": "3_1926952794109468672",
+              "start": 21,
+              "url": "https://t.co/uIujJwYEXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927401848866025843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926952799243206951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JawenZhu: 幽默b站评论 https://t.co/uIujJwYEXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926952795854258177",
+            "3_1926952794109468672"
+          ]
+        },
+        "author_id": "1272930023926665216",
+        "conversation_id": "1926952799243206951",
+        "created_at": "2025-05-26T10:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T11:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926952799243206951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIujJwYEXR",
+              "end": 30,
+              "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+              "media_key": "3_1926952795854258177",
+              "start": 7,
+              "url": "https://t.co/uIujJwYEXR"
+            },
+            {
+              "display_url": "pic.x.com/uIujJwYEXR",
+              "end": 30,
+              "expanded_url": "https://x.com/JawenZhu/status/1926952799243206951/photo/1",
+              "media_key": "3_1926952794109468672",
+              "start": 7,
+              "url": "https://t.co/uIujJwYEXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926952799243206951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 253989,
+          "like_count": 1389,
+          "quote_count": 7,
+          "reply_count": 106,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "幽默b站评论 https://t.co/uIujJwYEXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2014,
+          "like_count": 18460,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5149
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T16:32:36.000Z",
+        "description": "老婆 @bfng19325059079\n@Zane_III_Ren @nationalPureVF3 基友 @mlo_yuwancumian 死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "bfng19325059079"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalPureVF3"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "mlo_yuwancumian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilipili.com",
+                "end": 23,
+                "expanded_url": "http://www.pilipili.com",
+                "start": 0,
+                "url": "https://t.co/wylUGcFYaG"
+              }
+            ]
+          }
+        },
+        "id": "1272930023926665216",
+        "location": "대한민국",
+        "name": "🌹Jawen🌹（淡推中）",
+        "pinned_tweet_id": "1910882349757444541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883031013972180992/B3gpAvFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4085,
+          "following_count": 2026,
+          "like_count": 73352,
+          "listed_count": 24,
+          "media_count": 1121,
+          "tweet_count": 22074
+        },
+        "url": "https://t.co/wylUGcFYaG",
+        "username": "JawenZhu",
+        "verified": false
+      }
+    ]
+  }
+}

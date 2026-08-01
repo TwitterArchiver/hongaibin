@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804082887983288320"
+      ],
+      "media_source_tweet_id": [
+        "1804083186709991643"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1804486774342983735",
+    "created_at": "2024-06-22T12:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T13:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804486774342983735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1598872816560246784",
+          "start": 3,
+          "username": "akanei6no_Sora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LfYZhXPCAy",
+          "end": 52,
+          "expanded_url": "https://twitter.com/akanei6no_Sora/status/1804083186709991643/photo/1",
+          "media_key": "3_1804082887983288320",
+          "start": 29,
+          "url": "https://t.co/LfYZhXPCAy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804486774342983735",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804083186709991643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akanei6no_Sora: 悪口を言ったから https://t.co/LfYZhXPCAy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4075,
+        "media_key": "3_1804082887983288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQlj1AOa0AAd53A.jpg",
+        "width": 2318
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804082887983288320"
+          ],
+          "media_source_tweet_id": [
+            "1804083186709991643"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1804486774342983735",
+        "created_at": "2024-06-22T12:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T13:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804486774342983735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1598872816560246784",
+              "start": 3,
+              "username": "akanei6no_Sora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LfYZhXPCAy",
+              "end": 52,
+              "expanded_url": "https://twitter.com/akanei6no_Sora/status/1804083186709991643/photo/1",
+              "media_key": "3_1804082887983288320",
+              "start": 29,
+              "url": "https://t.co/LfYZhXPCAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804486774342983735",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804083186709991643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akanei6no_Sora: 悪口を言ったから https://t.co/LfYZhXPCAy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804082887983288320"
+          ]
+        },
+        "author_id": "1598872816560246784",
+        "conversation_id": "1804083186709991643",
+        "created_at": "2024-06-21T09:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804083186709991643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LfYZhXPCAy",
+              "end": 32,
+              "expanded_url": "https://twitter.com/akanei6no_Sora/status/1804083186709991643/photo/1",
+              "media_key": "3_1804082887983288320",
+              "start": 9,
+              "url": "https://t.co/LfYZhXPCAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804083186709991643",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 44474,
+          "like_count": 3982,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "悪口を言ったから https://t.co/LfYZhXPCAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 1052,
+          "like_count": 1995,
+          "listed_count": 1,
+          "tweet_count": 1424
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "黒髪と暴力的な絵が多いです。⚠️🩸\nSkeb‣‣https://t.co/52Qf2eE4dM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 47,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 24,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789653000786673664/eXq_WVPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17441,
+          "following_count": 44,
+          "like_count": 3318,
+          "listed_count": 39,
+          "tweet_count": 3281
+        },
+        "username": "akanei6no_Sora",
+        "verified": false
+      }
+    ]
+  }
+}

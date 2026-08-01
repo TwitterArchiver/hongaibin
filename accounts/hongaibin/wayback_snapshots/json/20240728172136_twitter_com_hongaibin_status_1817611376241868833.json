@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1817078310100475904"
+      ],
+      "media_source_tweet_id": [
+        "1817078349736607973"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1817611376241868833",
+    "created_at": "2024-07-28T17:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T18:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817611376241868833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1140544939136188416",
+          "start": 3,
+          "username": "majeliskucing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/fCVf9ArFVM",
+          "end": 42,
+          "expanded_url": "https://twitter.com/majeliskucing/status/1817078349736607973/video/1",
+          "media_key": "7_1817078310100475904",
+          "start": 19,
+          "url": "https://t.co/fCVf9ArFVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817611376241868833",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2532
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817078349736607973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majeliskucing: https://t.co/fCVf9ArFVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8450,
+        "height": 1024,
+        "media_key": "7_1817078310100475904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1817078310100475904/pu/img/c0BNimkiZnAd_WIR.jpg",
+        "public_metrics": {
+          "view_count": 106913
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817078310100475904/pu/vid/avc1/320x568/Veo6nKy1LvfTIv18.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817078310100475904/pu/vid/avc1/480x852/Lfm6wfBP-Dox3g4m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817078310100475904/pu/vid/avc1/576x1024/el-Dw159E_u_Gzls.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1817078310100475904/pu/pl/NRGCfSgelkZut_02.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817078310100475904"
+          ],
+          "media_source_tweet_id": [
+            "1817078349736607973"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1817611376241868833",
+        "created_at": "2024-07-28T17:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T18:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817611376241868833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1140544939136188416",
+              "start": 3,
+              "username": "majeliskucing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fCVf9ArFVM",
+              "end": 42,
+              "expanded_url": "https://twitter.com/majeliskucing/status/1817078349736607973/video/1",
+              "media_key": "7_1817078310100475904",
+              "start": 19,
+              "url": "https://t.co/fCVf9ArFVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817611376241868833",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2532
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817078349736607973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majeliskucing: https://t.co/fCVf9ArFVM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817078310100475904"
+          ]
+        },
+        "author_id": "1140544939136188416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "1817078349736607973",
+        "created_at": "2024-07-27T06:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T07:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817078349736607973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fCVf9ArFVM",
+              "end": 23,
+              "expanded_url": "https://twitter.com/majeliskucing/status/1817078349736607973/video/1",
+              "media_key": "7_1817078310100475904",
+              "start": 0,
+              "url": "https://t.co/fCVf9ArFVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817078349736607973",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 252843,
+          "like_count": 20894,
+          "quote_count": 40,
+          "reply_count": 22,
+          "retweet_count": 2532
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fCVf9ArFVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 1167,
+          "like_count": 3615,
+          "listed_count": 2,
+          "tweet_count": 2037
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T09:01:18.000Z",
+        "description": "𝕏 @elonmusk please collab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1140544939136188416",
+        "name": "Meonk!",
+        "pinned_tweet_id": "1808529748194398433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247552378737328128/WZOYPsFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363507,
+          "following_count": 4,
+          "like_count": 140,
+          "listed_count": 1534,
+          "tweet_count": 11856
+        },
+        "username": "majeliskucing",
+        "verified": true
+      }
+    ]
+  }
+}

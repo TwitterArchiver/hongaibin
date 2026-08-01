@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917521455300165632"
+      ],
+      "media_source_tweet_id": [
+        "1917521458789769512"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1917908972289528050",
+    "created_at": "2025-05-01T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917908972289528050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839649045503156225",
+          "start": 3,
+          "username": "oto6011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISGq6lxadZ",
+          "end": 43,
+          "expanded_url": "https://x.com/oto6011/status/1917521458789769512/photo/1",
+          "media_key": "3_1917521455300165632",
+          "start": 20,
+          "url": "https://t.co/ISGq6lxadZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917908972289528050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917521458789769512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oto6011: oc⸺デルタ https://t.co/ISGq6lxadZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1917521455300165632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpxnmqhbQAA93Ca.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917521455300165632"
+          ],
+          "media_source_tweet_id": [
+            "1917521458789769512"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1917908972289528050",
+        "created_at": "2025-05-01T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917908972289528050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839649045503156225",
+              "start": 3,
+              "username": "oto6011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISGq6lxadZ",
+              "end": 43,
+              "expanded_url": "https://x.com/oto6011/status/1917521458789769512/photo/1",
+              "media_key": "3_1917521455300165632",
+              "start": 20,
+              "url": "https://t.co/ISGq6lxadZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917908972289528050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917521458789769512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oto6011: oc⸺デルタ https://t.co/ISGq6lxadZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917521455300165632"
+          ]
+        },
+        "author_id": "1839649045503156225",
+        "conversation_id": "1917521458789769512",
+        "created_at": "2025-04-30T10:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T11:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917521458789769512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISGq6lxadZ",
+              "end": 30,
+              "expanded_url": "https://x.com/oto6011/status/1917521458789769512/photo/1",
+              "media_key": "3_1917521455300165632",
+              "start": 7,
+              "url": "https://t.co/ISGq6lxadZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917521458789769512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 11489,
+          "like_count": 1036,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "oc⸺デルタ https://t.co/ISGq6lxadZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1925,
+          "like_count": 17012,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4858
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T12:51:44.000Z",
+        "description": "おとです⸺絵を描く人間・illustration🇯🇵⸺2025.1.11開設⸺有償実績24件⸺https://t.co/rbeftIOdhi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@oto6011",
+                "end": 70,
+                "expanded_url": "https://skeb.jp/@oto6011",
+                "start": 47,
+                "url": "https://t.co/rbeftIOdhi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/furute76",
+                "end": 23,
+                "expanded_url": "https://lit.link/furute76",
+                "start": 0,
+                "url": "https://t.co/UsTLlbE8dU"
+              }
+            ]
+          }
+        },
+        "id": "1839649045503156225",
+        "location": "無段転載、保存、使用・自作発言・AI学習厳禁",
+        "name": "音透",
+        "pinned_tweet_id": "1878003966409326961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877392729430437891/6BAnDFTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 26,
+          "like_count": 1135,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/UsTLlbE8dU",
+        "username": "oto6011",
+        "verified": false
+      }
+    ]
+  }
+}

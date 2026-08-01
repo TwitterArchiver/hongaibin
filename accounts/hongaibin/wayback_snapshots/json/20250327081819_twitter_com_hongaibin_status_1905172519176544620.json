@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904744211557343235"
+      ],
+      "media_source_tweet_id": [
+        "1904744225239163326"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1905172519176544620",
+    "created_at": "2025-03-27T08:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T09:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905172519176544620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moWMsRPSMc",
+          "end": 87,
+          "expanded_url": "https://x.com/meiyujijie/status/1904744225239163326/photo/1",
+          "media_key": "3_1904744211557343235",
+          "start": 64,
+          "url": "https://t.co/moWMsRPSMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905172519176544620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904744225239163326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 我虽然在镜子前搔首弄姿，吃激素废掉生育能力，把自己开发的稍微一按就流水，但是我还是妈妈的好儿子 https://t.co/moWMsRPSMc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1904744211557343235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8CxMXbYAMzxv8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904744211557343235"
+          ],
+          "media_source_tweet_id": [
+            "1904744225239163326"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1905172519176544620",
+        "created_at": "2025-03-27T08:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T09:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905172519176544620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858186854526562304",
+              "start": 3,
+              "username": "meiyujijie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moWMsRPSMc",
+              "end": 87,
+              "expanded_url": "https://x.com/meiyujijie/status/1904744225239163326/photo/1",
+              "media_key": "3_1904744211557343235",
+              "start": 64,
+              "url": "https://t.co/moWMsRPSMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905172519176544620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904744225239163326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiyujijie: 我虽然在镜子前搔首弄姿，吃激素废掉生育能力，把自己开发的稍微一按就流水，但是我还是妈妈的好儿子 https://t.co/moWMsRPSMc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904744211557343235"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1904744225239163326",
+        "created_at": "2025-03-26T03:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T04:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904744225239163326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/moWMsRPSMc",
+              "end": 71,
+              "expanded_url": "https://x.com/meiyujijie/status/1904744225239163326/photo/1",
+              "media_key": "3_1904744211557343235",
+              "start": 48,
+              "url": "https://t.co/moWMsRPSMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904744225239163326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 196973,
+          "like_count": 1644,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "我虽然在镜子前搔首弄姿，吃激素废掉生育能力，把自己开发的稍微一按就流水，但是我还是妈妈的好儿子 https://t.co/moWMsRPSMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1765,
+          "like_count": 15636,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 4554
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "忠贞招致灾祸，让爱无法复活",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37257,
+          "following_count": 86,
+          "like_count": 1366,
+          "listed_count": 70,
+          "media_count": 94,
+          "tweet_count": 360
+        },
+        "username": "meiyujijie",
+        "verified": true
+      }
+    ]
+  }
+}

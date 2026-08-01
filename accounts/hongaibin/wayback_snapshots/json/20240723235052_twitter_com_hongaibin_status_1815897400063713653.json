@@ -1,0 +1,261 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1789270913600585916",
+    "created_at": "2024-07-23T23:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T00:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815897400063713653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741776582300073984",
+          "start": 0,
+          "username": "furuiniwa"
+        },
+        {
+          "end": 17,
+          "id": "1629424076145184768",
+          "start": 11,
+          "username": "k4z2K"
+        },
+        {
+          "end": 40,
+          "id": "1629424076145184768",
+          "start": 34,
+          "username": "k4z2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815897400063713653",
+    "in_reply_to_user_id": "1741776582300073984",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789285826788036888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furuiniwa @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    },
+    {
+      "detail": "User has been suspended: [k4z2K].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "k4z2K",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "k4z2K"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1789270913600585916",
+        "created_at": "2024-07-23T23:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T00:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815897400063713653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741776582300073984",
+              "start": 0,
+              "username": "furuiniwa"
+            },
+            {
+              "end": 17,
+              "id": "1629424076145184768",
+              "start": 11,
+              "username": "k4z2K"
+            },
+            {
+              "end": 40,
+              "id": "1629424076145184768",
+              "start": 34,
+              "username": "k4z2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815897400063713653",
+        "in_reply_to_user_id": "1741776582300073984",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789285826788036888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furuiniwa @k4z2K Can you contact @k4z2k? His account seems to be frozen, and I have not received a reply to emails for a long time. What happened? I am his friend"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789285819628613632"
+          ]
+        },
+        "author_id": "1741776582300073984",
+        "conversation_id": "1789270913600585916",
+        "created_at": "2024-05-11T13:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T14:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789285826788036888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "xaax flyer",
+              "probability": 0.7533,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629424076145184768",
+              "start": 0,
+              "username": "k4z2K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HSjPLrSUey",
+              "end": 62,
+              "expanded_url": "https://twitter.com/furuiniwa/status/1789285826788036888/photo/1",
+              "media_key": "3_1789285819628613632",
+              "start": 39,
+              "url": "https://t.co/HSjPLrSUey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789285826788036888",
+        "in_reply_to_user_id": "1629424076145184768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789285518267789676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4z2K also i have the same xaax flyer https://t.co/HSjPLrSUey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1151,
+          "like_count": 3201,
+          "listed_count": 1,
+          "tweet_count": 1842
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T11:01:22.000Z",
+        "description": "乃亜だよ。14歳 † リスカ † V系ギャ男。 ブロックして、報告しないで。ASD。basic dni 日本人じゃない",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/furuiniwa",
+                "end": 23,
+                "expanded_url": "https://rentry.co/furuiniwa",
+                "start": 0,
+                "url": "https://t.co/amtHDBWWL4"
+              }
+            ]
+          }
+        },
+        "id": "1741776582300073984",
+        "location": " ౨ৎ ⋮ 160, bmi 15s ",
+        "name": "⨾ 乃亜 (のあ)",
+        "pinned_tweet_id": "1750280521521721511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811378676153638912/ak3MOx2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 445,
+          "like_count": 6797,
+          "listed_count": 10,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/amtHDBWWL4",
+        "username": "furuiniwa",
+        "verified": false
+      }
+    ]
+  }
+}

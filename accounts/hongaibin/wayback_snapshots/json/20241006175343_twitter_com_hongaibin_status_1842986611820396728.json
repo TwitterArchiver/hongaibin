@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842986607701585920"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1842986611820396728",
+    "created_at": "2024-10-06T17:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T18:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842986611820396728"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 8,
+          "tag": "overdose"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "od"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "愈美"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "克拉霉素"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "巴氯芬"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4DGyf5H1us",
+          "end": 80,
+          "expanded_url": "https://x.com/hongaibin/status/1842986611820396728/photo/1",
+          "media_key": "3_1842986607701585920",
+          "start": 57,
+          "url": "https://t.co/4DGyf5H1us"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842986611820396728",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭了 家人们 #overdose #od \n#愈美 24t #克拉霉素 2t #巴氯芬 2t #普瑞巴林 8t https://t.co/4DGyf5H1us"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842986611820396728].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842986611820396728",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842986611820396728"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1842986607701585920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZOajh3a8AAmVeS.jpg",
+        "width": 1560
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1530,
+          "like_count": 8527,
+          "listed_count": 3,
+          "tweet_count": 3254
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

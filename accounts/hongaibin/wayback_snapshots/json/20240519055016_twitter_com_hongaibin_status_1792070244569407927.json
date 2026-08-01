@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1792070244569407927",
+    "created_at": "2024-05-19T05:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T06:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792070244569407927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1711646884924981248",
+          "start": 3,
+          "username": "yun35416045138"
+        },
+        {
+          "end": 36,
+          "id": "1635629184147144709",
+          "start": 20,
+          "username": "LoopSpinner1224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792070244569407927",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792031780662648987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yun35416045138: @LoopSpinner1224 去缅北吧宝宝大家都对你掏心掏肺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792070244569407927",
+        "created_at": "2024-05-19T05:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T06:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792070244569407927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1711646884924981248",
+              "start": 3,
+              "username": "yun35416045138"
+            },
+            {
+              "end": 36,
+              "id": "1635629184147144709",
+              "start": 20,
+              "username": "LoopSpinner1224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792070244569407927",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792031780662648987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yun35416045138: @LoopSpinner1224 去缅北吧宝宝大家都对你掏心掏肺的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1711646884924981248",
+        "conversation_id": "1792021372283281679",
+        "created_at": "2024-05-19T03:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T04:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792031780662648987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1635629184147144709",
+              "start": 0,
+              "username": "LoopSpinner1224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792031780662648987",
+        "in_reply_to_user_id": "1635629184147144709",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792021372283281679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoopSpinner1224 去缅北吧宝宝大家都对你掏心掏肺的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 857,
+          "like_count": 1250,
+          "listed_count": 1,
+          "tweet_count": 441
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T07:37:11.000Z",
+        "description": "男性私信前需熟练背诵卡拉马佐夫三兄弟全名",
+        "id": "1711646884924981248",
+        "name": "yun",
+        "pinned_tweet_id": "1790651931372961875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711647181588017153/GD9Hccbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 169,
+          "like_count": 307,
+          "listed_count": 0,
+          "tweet_count": 735
+        },
+        "username": "yun35416045138",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T13:09:50.000Z",
+        "description": "02/infp/摩羯/丑人多作怪/当成qq空间玩了，吵到您了真的很抱歉…",
+        "id": "1635629184147144709",
+        "name": "空白",
+        "pinned_tweet_id": "1791510279739899993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778208849721458689/Isu4KYWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 435,
+          "like_count": 8514,
+          "listed_count": 0,
+          "tweet_count": 281
+        },
+        "username": "LoopSpinner1224",
+        "verified": false
+      }
+    ]
+  }
+}

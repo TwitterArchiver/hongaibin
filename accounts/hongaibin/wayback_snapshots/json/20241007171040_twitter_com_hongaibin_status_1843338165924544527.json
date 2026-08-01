@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1843192895609663488"
+      ],
+      "media_source_tweet_id": [
+        "1843192930007388226"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1843338165924544527",
+    "created_at": "2024-10-07T17:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843338165924544527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "od_wiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXZwhMTHIc",
+          "end": 50,
+          "expanded_url": "https://x.com/od_wiki/status/1843192930007388226/video/1",
+          "media_key": "7_1843192895609663488",
+          "start": 27,
+          "url": "https://t.co/mXZwhMTHIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843338165924544527",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843192930007388226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_wiki: 点了一个妹妹来家里😍😍😍😍 https://t.co/mXZwhMTHIc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843338165924544527].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843338165924544527",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843338165924544527"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6314,
+        "height": 1280,
+        "media_key": "7_1843192895609663488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1843192895609663488/pu/img/MJn4I4Ywkd_U2opS.jpg",
+        "public_metrics": {
+          "view_count": 903
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843192895609663488/pu/vid/avc1/320x568/zcoF9d-Amtq3uyaq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843192895609663488/pu/vid/avc1/480x852/taZrupg0a9V9W1VR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843192895609663488/pu/vid/avc1/720x1280/lFRC0PVXLAHaL5Uc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1843192895609663488/pu/pl/YiDcjGGnMnk1dRzw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843192895609663488"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "conversation_id": "1843192930007388226",
+        "created_at": "2024-10-07T07:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T08:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843192930007388226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXZwhMTHIc",
+              "end": 37,
+              "expanded_url": "https://x.com/od_wiki/status/1843192930007388226/video/1",
+              "media_key": "7_1843192895609663488",
+              "start": 14,
+              "url": "https://t.co/mXZwhMTHIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843192930007388226",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1814,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "点了一个妹妹来家里😍😍😍😍 https://t.co/mXZwhMTHIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1540,
+          "like_count": 8626,
+          "listed_count": 3,
+          "tweet_count": 3292
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hiv.icu",
+                "end": 28,
+                "expanded_url": "https://hiv.icu/",
+                "start": 5,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 58,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 35,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "胖猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1843322174725292528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13680,
+          "following_count": 5719,
+          "like_count": 5710,
+          "listed_count": 11,
+          "tweet_count": 4474
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

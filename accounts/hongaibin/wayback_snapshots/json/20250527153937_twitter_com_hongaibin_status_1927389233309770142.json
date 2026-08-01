@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927299232626618368",
+        "3_1927299232668516352"
+      ],
+      "media_source_tweet_id": [
+        "1927299239337394609",
+        "1927299239337394609"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927389233309770142",
+    "created_at": "2025-05-27T15:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927389233309770142"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 14,
+          "tag": "クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662133077454495744",
+          "start": 3,
+          "username": "ubuusagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D0SPJYhkbg",
+          "end": 70,
+          "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+          "media_key": "3_1927299232626618368",
+          "start": 47,
+          "url": "https://t.co/D0SPJYhkbg"
+        },
+        {
+          "display_url": "pic.x.com/D0SPJYhkbg",
+          "end": 70,
+          "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+          "media_key": "3_1927299232668516352",
+          "start": 47,
+          "url": "https://t.co/D0SPJYhkbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927389233309770142",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927299239337394609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ubuusagi: #クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか https://t.co/D0SPJYhkbg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_1927299232626618368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8kcNiXsAAbZ7k.jpg",
+        "width": 1000
+      },
+      {
+        "height": 999,
+        "media_key": "3_1927299232668516352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8kcNsXAAAzQIb.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927299232626618368",
+            "3_1927299232668516352"
+          ],
+          "media_source_tweet_id": [
+            "1927299239337394609",
+            "1927299239337394609"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927389233309770142",
+        "created_at": "2025-05-27T15:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927389233309770142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 14,
+              "tag": "クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662133077454495744",
+              "start": 3,
+              "username": "ubuusagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0SPJYhkbg",
+              "end": 70,
+              "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+              "media_key": "3_1927299232626618368",
+              "start": 47,
+              "url": "https://t.co/D0SPJYhkbg"
+            },
+            {
+              "display_url": "pic.x.com/D0SPJYhkbg",
+              "end": 70,
+              "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+              "media_key": "3_1927299232668516352",
+              "start": 47,
+              "url": "https://t.co/D0SPJYhkbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927389233309770142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927299239337394609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ubuusagi: #クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか https://t.co/D0SPJYhkbg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927299232626618368",
+            "3_1927299232668516352"
+          ]
+        },
+        "author_id": "1662133077454495744",
+        "conversation_id": "1927299239337394609",
+        "created_at": "2025-05-27T09:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927299239337394609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 0,
+              "tag": "クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0SPJYhkbg",
+              "end": 56,
+              "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+              "media_key": "3_1927299232626618368",
+              "start": 33,
+              "url": "https://t.co/D0SPJYhkbg"
+            },
+            {
+              "display_url": "pic.x.com/D0SPJYhkbg",
+              "end": 56,
+              "expanded_url": "https://x.com/ubuusagi/status/1927299239337394609/photo/1",
+              "media_key": "3_1927299232668516352",
+              "start": 33,
+              "url": "https://t.co/D0SPJYhkbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927299239337394609",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 539,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#クリエイター様の中に白の作品をお持ちの方はいらっしゃいませんか https://t.co/D0SPJYhkbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2011,
+          "like_count": 18398,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5130
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T16:26:31.000Z",
+        "description": "創作｜Illust｜Any use or reproduction of illustrations are prohibited. 依頼の際はリトリン必読お願いします。 ※DMでのご依頼は受け付けておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ubu404",
+                "end": 23,
+                "expanded_url": "https://lit.link/ubu404",
+                "start": 0,
+                "url": "https://t.co/bcMHv3PCpm"
+              }
+            ]
+          }
+        },
+        "id": "1662133077454495744",
+        "location": "有償依頼受付中です~",
+        "name": "兎不",
+        "pinned_tweet_id": "1924306279666950277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852572828975112192/PskNRpnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 106,
+          "like_count": 4434,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/bcMHv3PCpm",
+        "username": "ubuusagi",
+        "verified": false
+      }
+    ]
+  }
+}

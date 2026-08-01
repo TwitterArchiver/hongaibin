@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1835469402751528980",
+    "created_at": "2024-09-16T00:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T01:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835469402751528980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239352911596941312",
+          "start": 3,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835469402751528980",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834984934521684229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asahisuki0: 我把一切都搞砸了，学业，人际，身体。\n一无所有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1835469402751528980",
+        "created_at": "2024-09-16T00:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T01:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835469402751528980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239352911596941312",
+              "start": 3,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835469402751528980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834984934521684229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asahisuki0: 我把一切都搞砸了，学业，人际，身体。\n一无所有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239352911596941312",
+        "conversation_id": "1834984934521684229",
+        "created_at": "2024-09-14T15:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T16:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834984934521684229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834984934521684229",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22423,
+          "like_count": 319,
+          "quote_count": 6,
+          "reply_count": 66,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我把一切都搞砸了，学业，人际，身体。\n一无所有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 0,
+          "like_count": 11,
+          "listed_count": 3,
+          "tweet_count": 2983
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "小丑皇\n好亲友 @Flowers8964 @hikawarinaOvO\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900\n一个小岛 https://t.co/8Oy1aGVaWs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "milktea_ch51900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+u_eavCTOicAwN…",
+                "end": 103,
+                "expanded_url": "https://t.me/+u_eavCTOicAwNTNl",
+                "start": 80,
+                "url": "https://t.co/8Oy1aGVaWs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1750753191610958012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833445144290594820/GFhgnvQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 810,
+          "like_count": 172966,
+          "listed_count": 6,
+          "tweet_count": 11782
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1866331929622319104"
+      ],
+      "media_source_tweet_id": [
+        "1866392414849802590"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1866646538174501280",
+    "created_at": "2024-12-11T00:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T01:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866646538174501280"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "稲葉曇",
+          "probability": 0.8661,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "歌ってみた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714767612109090816",
+          "start": 3,
+          "username": "x0q_x"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/c6-nq2QJJVw",
+          "end": 46,
+          "expanded_url": "https://youtu.be/c6-nq2QJJVw",
+          "start": 23,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=c6-nq2QJJVw&feature=youtu.be",
+          "url": "https://t.co/i6uuaF6obP"
+        },
+        {
+          "display_url": "pic.x.com/EmEUZFvQyn",
+          "end": 78,
+          "expanded_url": "https://x.com/x0q_x/status/1866392414849802590/video/1",
+          "media_key": "7_1866331929622319104",
+          "start": 55,
+          "url": "https://t.co/EmEUZFvQyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866646538174501280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866392414849802590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x0q_x: アイペース / 稲葉曇\nhttps://t.co/i6uuaF6obP\n\n#歌ってみた https://t.co/EmEUZFvQyn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67434,
+        "height": 1080,
+        "media_key": "7_1866331929622319104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1866331929622319104/pu/img/slzxsQ_BMvH4xrQF.jpg",
+        "public_metrics": {
+          "view_count": 1086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866331929622319104/pu/vid/avc1/480x270/7wMdDp0qVlKyZVsd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866331929622319104/pu/vid/avc1/640x360/rlLXraIEQwBQ0eMI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866331929622319104/pu/vid/avc1/1280x720/pLhysbrPoBD1t40O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1866331929622319104/pu/pl/9JrCsKHiJEYSbfpg.m3u8?tag=12&v=135"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1866331929622319104"
+          ],
+          "media_source_tweet_id": [
+            "1866392414849802590"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1866646538174501280",
+        "created_at": "2024-12-11T00:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T01:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866646538174501280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "稲葉曇",
+              "probability": 0.8661,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "歌ってみた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714767612109090816",
+              "start": 3,
+              "username": "x0q_x"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/c6-nq2QJJVw",
+              "end": 46,
+              "expanded_url": "https://youtu.be/c6-nq2QJJVw",
+              "start": 23,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=c6-nq2QJJVw&feature=youtu.be",
+              "url": "https://t.co/i6uuaF6obP"
+            },
+            {
+              "display_url": "pic.x.com/EmEUZFvQyn",
+              "end": 78,
+              "expanded_url": "https://x.com/x0q_x/status/1866392414849802590/video/1",
+              "media_key": "7_1866331929622319104",
+              "start": 55,
+              "url": "https://t.co/EmEUZFvQyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866646538174501280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866392414849802590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x0q_x: アイペース / 稲葉曇\nhttps://t.co/i6uuaF6obP\n\n#歌ってみた https://t.co/EmEUZFvQyn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1866331929622319104"
+          ]
+        },
+        "author_id": "1714767612109090816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1866392414849802590",
+        "created_at": "2024-12-10T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866392414849802590"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "稲葉曇",
+              "probability": 0.875,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "歌ってみた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/c6-nq2QJJVw",
+              "end": 35,
+              "expanded_url": "https://youtu.be/c6-nq2QJJVw",
+              "start": 12,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=c6-nq2QJJVw&feature=youtu.be",
+              "url": "https://t.co/i6uuaF6obP"
+            },
+            {
+              "display_url": "pic.x.com/EmEUZFvQyn",
+              "end": 67,
+              "expanded_url": "https://x.com/x0q_x/status/1866392414849802590/video/1",
+              "media_key": "7_1866331929622319104",
+              "start": 44,
+              "url": "https://t.co/EmEUZFvQyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866392414849802590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7348,
+          "like_count": 223,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "アイペース / 稲葉曇\nhttps://t.co/i6uuaF6obP\n\n#歌ってみた https://t.co/EmEUZFvQyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1638,
+          "like_count": 12698,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 3906
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T22:17:21.000Z",
+        "description": "#si0art @subx0q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "si0art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "subx0q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/x0qx",
+                "end": 23,
+                "expanded_url": "https://lit.link/x0qx",
+                "start": 0,
+                "url": "https://t.co/phyFkCzf6a"
+              }
+            ]
+          }
+        },
+        "id": "1714767612109090816",
+        "name": "sio",
+        "pinned_tweet_id": "1866392414849802590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858781623321501696/R5uRLJgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 38,
+          "like_count": 221,
+          "listed_count": 9,
+          "media_count": 30,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/phyFkCzf6a",
+        "username": "x0q_x",
+        "verified": false
+      }
+    ]
+  }
+}

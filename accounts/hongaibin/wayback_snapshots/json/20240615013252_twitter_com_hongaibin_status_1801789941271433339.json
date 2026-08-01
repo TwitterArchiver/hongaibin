@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1801789941271433339",
+    "created_at": "2024-06-15T01:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T02:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801789941271433339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1700917352064561152",
+          "start": 3,
+          "username": "jng347990446972"
+        },
+        {
+          "end": 33,
+          "id": "1773814776390713344",
+          "start": 21,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801789941271433339",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801651578891551051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jng347990446972: @Xiaoliaomcy 好像pr可以抗焦虑 还可以辅助缓解社交恐惧症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1801789941271433339",
+        "created_at": "2024-06-15T01:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T02:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801789941271433339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1700917352064561152",
+              "start": 3,
+              "username": "jng347990446972"
+            },
+            {
+              "end": 33,
+              "id": "1773814776390713344",
+              "start": 21,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801789941271433339",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801651578891551051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jng347990446972: @Xiaoliaomcy 好像pr可以抗焦虑 还可以辅助缓解社交恐惧症"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "1801646907581997140",
+        "created_at": "2024-06-14T16:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T17:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801651578891551051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801651578891551051",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801646907581997140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoliaomcy 好像pr可以抗焦虑 还可以辅助缓解社交恐惧症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 1057,
+          "like_count": 1684,
+          "listed_count": 1,
+          "tweet_count": 1282
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪20块钱 过门私信",
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1794419065123184824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 78,
+          "like_count": 5352,
+          "listed_count": 0,
+          "tweet_count": 1698
+        },
+        "username": "jng347990446972",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "滚",
+        "id": "1773814776390713344",
+        "location": "对不起行了吗",
+        "name": "我咋你了",
+        "pinned_tweet_id": "1798969590136840253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801655844393914372/2d1rb7KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 231,
+          "like_count": 24657,
+          "listed_count": 2,
+          "tweet_count": 2425
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

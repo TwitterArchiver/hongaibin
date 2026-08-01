@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865721414420230144"
+      ],
+      "media_source_tweet_id": [
+        "1865721421445624215"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927899604600680466",
+    "created_at": "2025-05-29T01:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T02:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927899604600680466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1308369027417300992",
+          "start": 3,
+          "username": "666daisuchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/htHbJ9ajoO",
+          "end": 43,
+          "expanded_url": "https://x.com/666daisuchan/status/1865721421445624215/photo/1",
+          "media_key": "3_1865721414420230144",
+          "start": 20,
+          "url": "https://t.co/htHbJ9ajoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927899604600680466",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865721421445624215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666daisuchan: 🦊 https://t.co/htHbJ9ajoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1865721414420230144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeRfvcxbcAARaQu.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865721414420230144"
+          ],
+          "media_source_tweet_id": [
+            "1865721421445624215"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1927899604600680466",
+        "created_at": "2025-05-29T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927899604600680466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1308369027417300992",
+              "start": 3,
+              "username": "666daisuchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htHbJ9ajoO",
+              "end": 43,
+              "expanded_url": "https://x.com/666daisuchan/status/1865721421445624215/photo/1",
+              "media_key": "3_1865721414420230144",
+              "start": 20,
+              "url": "https://t.co/htHbJ9ajoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927899604600680466",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865721421445624215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666daisuchan: 🦊 https://t.co/htHbJ9ajoO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865721414420230144"
+          ]
+        },
+        "author_id": "1308369027417300992",
+        "conversation_id": "1865721421445624215",
+        "created_at": "2024-12-08T11:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T12:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865721421445624215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htHbJ9ajoO",
+              "end": 25,
+              "expanded_url": "https://x.com/666daisuchan/status/1865721421445624215/photo/1",
+              "media_key": "3_1865721414420230144",
+              "start": 2,
+              "url": "https://t.co/htHbJ9ajoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865721421445624215",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9621,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "🦊 https://t.co/htHbJ9ajoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2016,
+          "like_count": 18541,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5162
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-22T11:34:27.000Z",
+        "description": "ドットシックス ┆ Illustration ┊ Mail▷666commission@gmail.com ┊ Skeb▷https://t.co/bejdn2uz4R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@666daisuchan",
+                "end": 84,
+                "expanded_url": "http://skeb.jp/@666daisuchan",
+                "start": 61,
+                "url": "https://t.co/bejdn2uz4R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/VIVIVIDICE",
+                "end": 23,
+                "expanded_url": "https://lit.link/VIVIVIDICE",
+                "start": 0,
+                "url": "https://t.co/cHpcvoWvvT"
+              }
+            ]
+          }
+        },
+        "id": "1308369027417300992",
+        "location": "無断転載禁止",
+        "name": ".Sics",
+        "pinned_tweet_id": "1919673349363663317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832271363698237440/YKMsNg4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 319,
+          "like_count": 13565,
+          "listed_count": 15,
+          "media_count": 93,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/cHpcvoWvvT",
+        "username": "666daisuchan",
+        "verified": false
+      }
+    ]
+  }
+}

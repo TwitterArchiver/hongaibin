@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1914924623218815217",
+    "created_at": "2025-04-24T03:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915247268225310898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758032291144847360",
+          "start": 0,
+          "username": "kurinoo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915247268225310898",
+    "in_reply_to_user_id": "1758032291144847360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914924623218815217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurinoo_ 牛逼 这么抗上去的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5818,
+        "height": 1280,
+        "media_key": "13_1914924534681231360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914924534681231360/img/KLBxTF8tWgBjXENV.jpg",
+        "public_metrics": {
+          "view_count": 6224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914924534681231360/vid/avc1/320x568/zjOQPwB25KMPR7px.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914924534681231360/vid/avc1/480x852/hReTpPdyeqjr9DKQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914924534681231360/vid/avc1/720x1280/xEWFtawDgRiz3rpW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914924534681231360/pl/hKM4u2t8H_pd1Iap.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1914924623218815217",
+        "created_at": "2025-04-24T03:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915247268225310898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758032291144847360",
+              "start": 0,
+              "username": "kurinoo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915247268225310898",
+        "in_reply_to_user_id": "1758032291144847360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914924623218815217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurinoo_ 牛逼 这么抗上去的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914924534681231360"
+          ]
+        },
+        "author_id": "1758032291144847360",
+        "conversation_id": "1914924623218815217",
+        "created_at": "2025-04-23T06:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T07:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914924623218815217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUkFGkpYUZ",
+              "end": 31,
+              "expanded_url": "https://x.com/kurinoo_/status/1914924623218815217/video/1",
+              "media_key": "13_1914924534681231360",
+              "start": 8,
+              "url": "https://t.co/kUkFGkpYUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914924623218815217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 17854,
+          "like_count": 403,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "钢铁一般的女子 https://t.co/kUkFGkpYUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1901,
+          "like_count": 16594,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4754
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T07:36:09.000Z",
+        "description": "期待しないよもう痛い痛いよ这里是养成系账号｜CD｜纹身师｜穿孔师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kotoino_",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@kotoino_",
+                "start": 0,
+                "url": "https://t.co/pkcyYtC5yj"
+              }
+            ]
+          }
+        },
+        "id": "1758032291144847360",
+        "location": "私人🛰️200好友位 520陪聊 1314可语音 ",
+        "name": "kurino",
+        "pinned_tweet_id": "1826016483039924606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758032724030562304/mS-nxVyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12476,
+          "following_count": 160,
+          "like_count": 349,
+          "listed_count": 35,
+          "media_count": 94,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/pkcyYtC5yj",
+        "username": "kurinoo_",
+        "verified": false
+      }
+    ]
+  }
+}

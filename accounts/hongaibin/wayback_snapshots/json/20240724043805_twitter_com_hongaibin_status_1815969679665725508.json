@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1815969679665725508",
+    "created_at": "2024-07-24T04:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T05:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815969679665725508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764513078585270272",
+          "start": 3,
+          "username": "k4zuk4zu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815969679665725508",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815919675626123391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k4zuk4zu_: I want to sleep forever"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1815969679665725508",
+        "created_at": "2024-07-24T04:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T05:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815969679665725508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764513078585270272",
+              "start": 3,
+              "username": "k4zuk4zu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815969679665725508",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815919675626123391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k4zuk4zu_: I want to sleep forever"
+      },
+      {
+        "attachments": {},
+        "author_id": "1764513078585270272",
+        "conversation_id": "1815919675626123391",
+        "created_at": "2024-07-24T01:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T02:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815919675626123391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815919675626123391",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "I want to sleep forever"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1151,
+          "like_count": 3218,
+          "listed_count": 1,
+          "tweet_count": 1857
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:48:04.000Z",
+        "description": "18🍼♂️\nsussed at 4.4k(@k4z2k)⚠️\nかず狂った海賊🏴‍☠️💣🦜\nv系👻\nno dni\n⚠️I post about my sh and ed⚠️\npriv: @k4zu_k4zu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "k4z2k"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "k4zu_k4zu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazukazu.straw.page",
+                "end": 23,
+                "expanded_url": "https://kazukazu.straw.page",
+                "start": 0,
+                "url": "https://t.co/qhDKdiyDFw"
+              }
+            ]
+          }
+        },
+        "id": "1764513078585270272",
+        "name": "かず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814838678226935809/jeij-EBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 186,
+          "like_count": 19249,
+          "listed_count": 6,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/qhDKdiyDFw",
+        "username": "k4zuk4zu_",
+        "verified": false
+      }
+    ]
+  }
+}

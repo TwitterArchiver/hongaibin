@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1793429966367158272"
+      ],
+      "media_source_tweet_id": [
+        "1793430017445413073"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1819797619151134941",
+    "created_at": "2024-08-03T18:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T19:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819797619151134941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752121682431553538",
+          "start": 3,
+          "username": "i666teen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/eJbIHhwTEi",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ve3tcc/status/1793430017445413073/video/1",
+          "media_key": "7_1793429966367158272",
+          "start": 17,
+          "url": "https://t.co/eJbIHhwTEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819797619151134941",
+    "lang": "und",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793744975727055352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i666teen: yo https://t.co/eJbIHhwTEi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1819797619151134941].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1819797619151134941",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1819797619151134941"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35066,
+        "height": 720,
+        "media_key": "7_1793429966367158272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1793429966367158272/pu/img/OsTXryYT-O681ReS.jpg",
+        "public_metrics": {
+          "view_count": 61091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1793429966367158272/pu/vid/avc1/320x320/ATUxYz2v6b24cet6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1793429966367158272/pu/vid/avc1/540x540/AYmWCgjO2AQNxEUx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1793429966367158272/pu/vid/avc1/720x720/22MVnJyZ1z4bvicy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1793429966367158272/pu/pl/M-p_I_QIJtMnvVCE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1793429966367158272"
+          ],
+          "media_source_tweet_id": [
+            "1793430017445413073"
+          ]
+        },
+        "author_id": "1752121682431553538",
+        "conversation_id": "1793744975727055352",
+        "created_at": "2024-05-23T20:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T21:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793744975727055352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eJbIHhwTEi",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ve3tcc/status/1793430017445413073/video/1",
+              "media_key": "7_1793429966367158272",
+              "start": 3,
+              "url": "https://t.co/eJbIHhwTEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793744975727055352",
+        "lang": "und",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1016,
+          "impression_count": 68414,
+          "like_count": 6238,
+          "quote_count": 70,
+          "reply_count": 53,
+          "retweet_count": 1152
+        },
+        "reply_settings": "everyone",
+        "text": "yo https://t.co/eJbIHhwTEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 1209,
+          "like_count": 4153,
+          "listed_count": 2,
+          "tweet_count": 2220
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:09:21.000Z",
+        "description": "lol",
+        "id": "1752121682431553538",
+        "location": "sh n  vent",
+        "name": "sacred",
+        "pinned_tweet_id": "1819423973085794454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816280753463758849/FjJ8bpEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3958,
+          "following_count": 40,
+          "like_count": 19810,
+          "listed_count": 16,
+          "tweet_count": 9322
+        },
+        "username": "i666teen",
+        "verified": false
+      }
+    ]
+  }
+}

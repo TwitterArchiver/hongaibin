@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837927994356387840",
+        "3_1837927994356387844"
+      ],
+      "media_source_tweet_id": [
+        "1837989250882474365",
+        "1837989250882474365"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1838462472401096904",
+    "created_at": "2024-09-24T06:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T07:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838462472401096904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543434326532292609",
+          "start": 3,
+          "username": "aohi_2wa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kmzko0i2m",
+          "end": 49,
+          "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+          "media_key": "3_1837927994356387840",
+          "start": 26,
+          "url": "https://t.co/9KMZKo0i2M"
+        },
+        {
+          "display_url": "pic.x.com/9kmzko0i2m",
+          "end": 49,
+          "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+          "media_key": "3_1837927994356387844",
+          "start": 26,
+          "url": "https://t.co/9KMZKo0i2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838462472401096904",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837989250882474365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aohi_2wa: 観察→描画（やや画伯） https://t.co/9KMZKo0i2M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1837927994356387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYGhxepb0AATxPj.jpg",
+        "width": 1427
+      },
+      {
+        "height": 1924,
+        "media_key": "3_1837927994356387844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYGhxepb0AQpLWB.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837927994356387840",
+            "3_1837927994356387844"
+          ],
+          "media_source_tweet_id": [
+            "1837989250882474365",
+            "1837989250882474365"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1838462472401096904",
+        "created_at": "2024-09-24T06:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T07:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838462472401096904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543434326532292609",
+              "start": 3,
+              "username": "aohi_2wa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kmzko0i2m",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+              "media_key": "3_1837927994356387840",
+              "start": 26,
+              "url": "https://t.co/9KMZKo0i2M"
+            },
+            {
+              "display_url": "pic.x.com/9kmzko0i2m",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+              "media_key": "3_1837927994356387844",
+              "start": 26,
+              "url": "https://t.co/9KMZKo0i2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838462472401096904",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837989250882474365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aohi_2wa: 観察→描画（やや画伯） https://t.co/9KMZKo0i2M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837927994356387840",
+            "3_1837927994356387844"
+          ]
+        },
+        "author_id": "1543434326532292609",
+        "conversation_id": "1837989250882474365",
+        "created_at": "2024-09-22T22:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T23:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837989250882474365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kmzko0i2m",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+              "media_key": "3_1837927994356387840",
+              "start": 12,
+              "url": "https://t.co/9KMZKo0i2M"
+            },
+            {
+              "display_url": "pic.x.com/9kmzko0i2m",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aohi_2wa/status/1837989250882474365/photo/1",
+              "media_key": "3_1837927994356387844",
+              "start": 12,
+              "url": "https://t.co/9KMZKo0i2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837989250882474365",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 668,
+          "impression_count": 200305,
+          "like_count": 8404,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "観察→描画（やや画伯） https://t.co/9KMZKo0i2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1511,
+          "like_count": 8009,
+          "listed_count": 3,
+          "tweet_count": 3092
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-03T03:20:06.000Z",
+        "description": "絵｜Don't re-upload/use my works｜https://t.co/fOq0yAzJ2H｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/qwzDWnDXrxQ9…",
+                "end": 54,
+                "expanded_url": "https://profcard.info/u/qwzDWnDXrxQ9EzijOrBZgQqLrs02",
+                "start": 31,
+                "url": "https://t.co/fOq0yAzJ2H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aohi_2wa/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aohi_2wa/",
+                "start": 0,
+                "url": "https://t.co/AkKSLZbPzi"
+              }
+            ]
+          }
+        },
+        "id": "1543434326532292609",
+        "location": "🐈‍⬛AI学習NG",
+        "name": "花守",
+        "pinned_tweet_id": "1835090147714470336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588696300823814144/d1badCQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76486,
+          "following_count": 100,
+          "like_count": 10008,
+          "listed_count": 362,
+          "tweet_count": 13700
+        },
+        "url": "https://t.co/AkKSLZbPzi",
+        "username": "aohi_2wa",
+        "verified": false
+      }
+    ]
+  }
+}

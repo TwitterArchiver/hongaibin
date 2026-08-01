@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951830289879310336"
+      ],
+      "media_source_tweet_id": [
+        "1951830453973131769"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1952317518036836712",
+    "created_at": "2025-08-04T10:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952317518036836712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "8964Ximo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tTleSmPC4k",
+          "end": 48,
+          "expanded_url": "https://x.com/8964Ximo/status/1951830453973131769/photo/1",
+          "media_key": "3_1951830289879310336",
+          "start": 25,
+          "url": "https://t.co/tTleSmPC4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952317518036836712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951830453973131769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964Ximo: 穷就算了，还他妈的蠢 https://t.co/tTleSmPC4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951830289879310336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxZLTrIaoAARdZn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951830289879310336"
+          ],
+          "media_source_tweet_id": [
+            "1951830453973131769"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1952317518036836712",
+        "created_at": "2025-08-04T10:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952317518036836712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "8964Ximo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTleSmPC4k",
+              "end": 48,
+              "expanded_url": "https://x.com/8964Ximo/status/1951830453973131769/photo/1",
+              "media_key": "3_1951830289879310336",
+              "start": 25,
+              "url": "https://t.co/tTleSmPC4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952317518036836712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951830453973131769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964Ximo: 穷就算了，还他妈的蠢 https://t.co/tTleSmPC4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951830289879310336"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1951830453973131769",
+        "created_at": "2025-08-03T02:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T03:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951830453973131769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTleSmPC4k",
+              "end": 34,
+              "expanded_url": "https://x.com/8964Ximo/status/1951830453973131769/photo/1",
+              "media_key": "3_1951830289879310336",
+              "start": 11,
+              "url": "https://t.co/tTleSmPC4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951830453973131769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 392552,
+          "like_count": 2019,
+          "quote_count": 14,
+          "reply_count": 326,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "穷就算了，还他妈的蠢 https://t.co/tTleSmPC4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 2104,
+          "like_count": 21265,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5736
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948382033157201921/IF2bSpQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6263,
+          "following_count": 248,
+          "like_count": 29354,
+          "listed_count": 14,
+          "media_count": 165,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "8964Ximo",
+        "verified": false
+      }
+    ]
+  }
+}

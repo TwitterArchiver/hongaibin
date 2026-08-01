@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925435858922217473",
+        "3_1925435858930606080",
+        "13_1925435858909634564"
+      ],
+      "media_source_tweet_id": [
+        "1925435918275813741",
+        "1925435918275813741",
+        "1925435918275813741"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1925806439055941924",
+    "created_at": "2025-05-23T06:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925806439055941924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAGvZZbiA8",
+          "end": 118,
+          "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+          "media_key": "3_1925435858922217473",
+          "start": 95,
+          "url": "https://t.co/qAGvZZbiA8"
+        },
+        {
+          "display_url": "pic.x.com/qAGvZZbiA8",
+          "end": 118,
+          "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+          "media_key": "3_1925435858930606080",
+          "start": 95,
+          "url": "https://t.co/qAGvZZbiA8"
+        },
+        {
+          "display_url": "pic.x.com/qAGvZZbiA8",
+          "end": 118,
+          "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+          "media_key": "13_1925435858909634564",
+          "start": 95,
+          "url": "https://t.co/qAGvZZbiA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925806439055941924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925435918275813741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozimin: 下坠是一种精神 而不是和嗑药相互绑定 希望能进入本群的大家都可以做到 不背刺伤害身边本群的任何一位人 还请多多关愛照顾身边未成年朋友的心理和精神健康状态 https://t.co/qAGvZZbiA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925435858922217473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GriFtljboAEUC_f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925435858930606080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GriFtllboAAyVUY.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 4461,
+        "height": 1280,
+        "media_key": "13_1925435858909634564",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925435858909634564/img/XoaluF-YeeucZUG1.jpg",
+        "public_metrics": {
+          "view_count": 10682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925435858909634564/vid/avc1/320x568/B1ygXTs_w6s1hZ2s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925435858909634564/vid/avc1/480x852/RgcMKjGSqmdqtlUi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925435858909634564/vid/avc1/720x1280/kROT8DYgDE6V-HDe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925435858909634564/pl/DebFa3dLkPoVUBI6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925435858922217473",
+            "3_1925435858930606080",
+            "13_1925435858909634564"
+          ],
+          "media_source_tweet_id": [
+            "1925435918275813741",
+            "1925435918275813741",
+            "1925435918275813741"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1925806439055941924",
+        "created_at": "2025-05-23T06:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925806439055941924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467368317258248192",
+              "start": 3,
+              "username": "loolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 118,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "3_1925435858922217473",
+              "start": 95,
+              "url": "https://t.co/qAGvZZbiA8"
+            },
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 118,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "3_1925435858930606080",
+              "start": 95,
+              "url": "https://t.co/qAGvZZbiA8"
+            },
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 118,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "13_1925435858909634564",
+              "start": 95,
+              "url": "https://t.co/qAGvZZbiA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925806439055941924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925435918275813741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loolzaozimin: 下坠是一种精神 而不是和嗑药相互绑定 希望能进入本群的大家都可以做到 不背刺伤害身边本群的任何一位人 还请多多关愛照顾身边未成年朋友的心理和精神健康状态 https://t.co/qAGvZZbiA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925435858922217473",
+            "3_1925435858930606080",
+            "13_1925435858909634564"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1925435918275813741",
+        "created_at": "2025-05-22T06:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T07:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925435918275813741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 100,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "3_1925435858922217473",
+              "start": 77,
+              "url": "https://t.co/qAGvZZbiA8"
+            },
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 100,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "3_1925435858930606080",
+              "start": 77,
+              "url": "https://t.co/qAGvZZbiA8"
+            },
+            {
+              "display_url": "pic.x.com/qAGvZZbiA8",
+              "end": 100,
+              "expanded_url": "https://x.com/loolzaozmin/status/1925435918275813741/video/1",
+              "media_key": "13_1925435858909634564",
+              "start": 77,
+              "url": "https://t.co/qAGvZZbiA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925435918275813741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 30848,
+          "like_count": 289,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "下坠是一种精神 而不是和嗑药相互绑定 希望能进入本群的大家都可以做到 不背刺伤害身边本群的任何一位人 还请多多关愛照顾身边未成年朋友的心理和精神健康状态 https://t.co/qAGvZZbiA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 2010,
+          "like_count": 18020,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5057
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我要颠簸我不要命",
+        "id": "1467368317258248192",
+        "location": "门 188 6666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15413,
+          "following_count": 4,
+          "like_count": 702,
+          "listed_count": 21,
+          "media_count": 159,
+          "tweet_count": 424
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

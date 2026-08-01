@@ -1,0 +1,406 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1776287423137492992"
+      ],
+      "media_source_tweet_id": [
+        "1776287425419153520"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1790645911326245300",
+    "created_at": "2024-05-15T07:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T08:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790645911326245300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "今井FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406774049737297922",
+          "start": 3,
+          "username": "Kugo_eya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZN2HbFhkZD",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1776287425419153520/photo/1",
+          "media_key": "3_1776287423137492992",
+          "start": 47,
+          "url": "https://t.co/ZN2HbFhkZD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790645911326245300",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1776287425419153520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Kugo_eya: #今井FA\nアニメスクショ風…\nデザミスありましたら土下座します https://t.co/ZN2HbFhkZD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1776287423137492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKakAAsasAAHZBN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1776287423137492992"
+          ],
+          "media_source_tweet_id": [
+            "1776287425419153520"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1790645911326245300",
+        "created_at": "2024-05-15T07:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790645911326245300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "今井FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406774049737297922",
+              "start": 3,
+              "username": "Kugo_eya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZN2HbFhkZD",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1776287425419153520/photo/1",
+              "media_key": "3_1776287423137492992",
+              "start": 47,
+              "url": "https://t.co/ZN2HbFhkZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790645911326245300",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776287425419153520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Kugo_eya: #今井FA\nアニメスクショ風…\nデザミスありましたら土下座します https://t.co/ZN2HbFhkZD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1776287423137492992"
+          ]
+        },
+        "author_id": "1406774049737297922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1776287425419153520",
+        "created_at": "2024-04-05T16:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-05T17:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1776287425419153520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "今井FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZN2HbFhkZD",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1776287425419153520/photo/1",
+              "media_key": "3_1776287423137492992",
+              "start": 33,
+              "url": "https://t.co/ZN2HbFhkZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1776287425419153520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 27850,
+          "like_count": 980,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 78
+        },
+        "reply_settings": "following",
+        "text": "#今井FA\nアニメスクショ風…\nデザミスありましたら土下座します https://t.co/ZN2HbFhkZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 792,
+          "like_count": 1216,
+          "listed_count": 0,
+          "tweet_count": 313
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T00:41:02.000Z",
+        "description": "さなだくご です。   FAタグ▶ #九五に替刃あげる 推し事報告タグ▶ #真田九五に救済を求めます 鍵▶(@Kugo_hasu)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "九五に替刃あげる"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "tag": "真田九五に救済を求めます"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Kugo_hasu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sanadakugo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sanadakugo",
+                "start": 0,
+                "url": "https://t.co/gUnTsxI8YX"
+              }
+            ]
+          }
+        },
+        "id": "1406774049737297922",
+        "location": "ファンネ▶ｸｺﾞﾒｸ",
+        "name": "真田 九五",
+        "pinned_tweet_id": "1789633998001774886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784917740182290432/2_8mBTr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11176,
+          "following_count": 95,
+          "like_count": 11540,
+          "listed_count": 27,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/gUnTsxI8YX",
+        "username": "Kugo_eya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1830582182265721132",
+    "created_at": "2024-09-02T12:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T13:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830582182265721132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525779964557426688",
+          "start": 3,
+          "username": "shengpingguo"
+        },
+        {
+          "end": 30,
+          "id": "1683441735144439808",
+          "start": 18,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830582182265721132",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830283517865205901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shengpingguo: @Allenium114 要毁掉一个家长，其实很简单，抢走他的手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1830582182265721132",
+        "created_at": "2024-09-02T12:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T13:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830582182265721132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525779964557426688",
+              "start": 3,
+              "username": "shengpingguo"
+            },
+            {
+              "end": 30,
+              "id": "1683441735144439808",
+              "start": 18,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830582182265721132",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830283517865205901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shengpingguo: @Allenium114 要毁掉一个家长，其实很简单，抢走他的手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525779964557426688",
+        "conversation_id": "1830207930924454143",
+        "created_at": "2024-09-01T16:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T17:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830283517865205901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830283517865205901",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830207930924454143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 要毁掉一个家长，其实很简单，抢走他的手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1435,
+          "like_count": 6786,
+          "listed_count": 3,
+          "tweet_count": 2771
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T10:08:11.000Z",
+        "description": "09 intp/infp二象性  互关请私信|\n\n认知被药物毁掉的痴呆人|社交苦手，如果要和我聊天只能你开话题|心理有问题的人入我门我真的能无时无刻贴心陪伴你",
+        "id": "1525779964557426688",
+        "location": "你家门口",
+        "name": "appa【找不到工作版】",
+        "pinned_tweet_id": "1819979493039304704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795748317504434178/OgL7QoAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1385,
+          "like_count": 14157,
+          "listed_count": 2,
+          "tweet_count": 2657
+        },
+        "username": "shengpingguo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥 HRT2024.4.20|持证 ADHD | 半出柜半家长党| 小证 2024.8.5丨178cm 57kg | 重度 Apex | 准高二08 年物化生😭| 麻麻@xue_zhi2008 笨蛋@charge_rif|🇵🇸逃生舱@kagurazaka_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "charge_rif"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "kagurazaka_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": ".翎🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 766,
+          "like_count": 36905,
+          "listed_count": 7,
+          "tweet_count": 8790
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1948826849985135021",
+    "created_at": "2025-07-25T19:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T20:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948826849985135021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622592119700623361",
+          "start": 3,
+          "username": "Kusutobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948826849985135021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947673460588875804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kusutobi: 幻到马斯克后入特朗普出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1948826849985135021",
+        "created_at": "2025-07-25T19:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948826849985135021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622592119700623361",
+              "start": 3,
+              "username": "Kusutobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948826849985135021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947673460588875804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kusutobi: 幻到马斯克后入特朗普出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622592119700623361",
+        "conversation_id": "1947671922038477285",
+        "created_at": "2025-07-22T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947673460588875804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947673460588875804",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947671922038477285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻到马斯克后入特朗普出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 2090,
+          "like_count": 21173,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5679
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "请只看着我 https://t.co/cZPJ1V4JG9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 29,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 6,
+                "url": "https://t.co/cZPJ1V4JG9"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "1941765111099818438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 100,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 535
+        },
+        "username": "Kusutobi",
+        "verified": false
+      }
+    ]
+  }
+}

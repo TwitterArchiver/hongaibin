@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842873288336523265",
+        "3_1842873288332296192"
+      ],
+      "media_source_tweet_id": [
+        "1842873298608394439",
+        "1842873298608394439"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1843343153971245485",
+    "created_at": "2024-10-07T17:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T18:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843343153971245485"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "絵描きさんと繋がりたい"
+        },
+        {
+          "end": 43,
+          "start": 28,
+          "tag": "秋の創作クラスタフォロー祭り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "842543934601486336",
+          "start": 3,
+          "username": "Syu9ri16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bz31TMnYQh",
+          "end": 95,
+          "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+          "media_key": "3_1842873288336523265",
+          "start": 72,
+          "url": "https://t.co/bz31TMnYQh"
+        },
+        {
+          "display_url": "pic.x.com/bz31TMnYQh",
+          "end": 95,
+          "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+          "media_key": "3_1842873288332296192",
+          "start": 72,
+          "url": "https://t.co/bz31TMnYQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843343153971245485",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842873298608394439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syu9ri16: #絵描きさんと繋がりたい\n #秋の創作クラスタフォロー祭り\n久々にタグ失礼します\nRT中心に全反応巡回します…!! https://t.co/bz31TMnYQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2893,
+        "media_key": "3_1842873288336523265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZMzfeVawAEU6QK.jpg",
+        "width": 2233
+      },
+      {
+        "height": 3868,
+        "media_key": "3_1842873288332296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZMzfeUaQAA284V.jpg",
+        "width": 2855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842873288336523265",
+            "3_1842873288332296192"
+          ],
+          "media_source_tweet_id": [
+            "1842873298608394439",
+            "1842873298608394439"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1843343153971245485",
+        "created_at": "2024-10-07T17:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843343153971245485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 43,
+              "start": 28,
+              "tag": "秋の創作クラスタフォロー祭り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "842543934601486336",
+              "start": 3,
+              "username": "Syu9ri16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bz31TMnYQh",
+              "end": 95,
+              "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+              "media_key": "3_1842873288336523265",
+              "start": 72,
+              "url": "https://t.co/bz31TMnYQh"
+            },
+            {
+              "display_url": "pic.x.com/bz31TMnYQh",
+              "end": 95,
+              "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+              "media_key": "3_1842873288332296192",
+              "start": 72,
+              "url": "https://t.co/bz31TMnYQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843343153971245485",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842873298608394439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Syu9ri16: #絵描きさんと繋がりたい\n #秋の創作クラスタフォロー祭り\n久々にタグ失礼します\nRT中心に全反応巡回します…!! https://t.co/bz31TMnYQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842873288336523265",
+            "3_1842873288332296192"
+          ]
+        },
+        "author_id": "842543934601486336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1842873298608394439",
+        "created_at": "2024-10-06T10:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T11:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842873298608394439"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 29,
+              "start": 14,
+              "tag": "秋の創作クラスタフォロー祭り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bz31TMnYQh",
+              "end": 81,
+              "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+              "media_key": "3_1842873288336523265",
+              "start": 58,
+              "url": "https://t.co/bz31TMnYQh"
+            },
+            {
+              "display_url": "pic.x.com/bz31TMnYQh",
+              "end": 81,
+              "expanded_url": "https://x.com/Syu9ri16/status/1842873298608394439/photo/1",
+              "media_key": "3_1842873288332296192",
+              "start": 58,
+              "url": "https://t.co/bz31TMnYQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842873298608394439",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 30388,
+          "like_count": 905,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "#絵描きさんと繋がりたい\n #秋の創作クラスタフォロー祭り\n久々にタグ失礼します\nRT中心に全反応巡回します…!! https://t.co/bz31TMnYQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1542,
+          "like_count": 8661,
+          "listed_count": 3,
+          "tweet_count": 3301
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-17T01:11:42.000Z",
+        "description": "絵と音楽とケモ耳が好きなVｲﾗｽﾄﾚｰﾀｰ /25年2月～納品の依頼募集中/FAﾀｸﾞ創作 #終末紀行FA ▶︎V #ぽやあ〜と/ご依頼はDMか✉️▶︎syu39ma1gen@gmail.com⿻skeb▶︎https://t.co/a1c353tEZ0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "終末紀行FA"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "ぽやあ〜と"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Syu9ri16",
+                "end": 127,
+                "expanded_url": "https://skeb.jp/@Syu9ri16",
+                "start": 104,
+                "url": "https://t.co/a1c353tEZ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syu39ma1gen.wixsite.com/my-site",
+                "end": 23,
+                "expanded_url": "https://syu39ma1gen.wixsite.com/my-site",
+                "start": 0,
+                "url": "https://t.co/gGd7tdBCQk"
+              }
+            ]
+          }
+        },
+        "id": "842543934601486336",
+        "location": "依頼実績199件/進20件/作品のAI学習無断使用禁止",
+        "name": "狐巳夜シュウ",
+        "pinned_tweet_id": "1842507667602075762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818888714300669953/vaDWLBex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30618,
+          "following_count": 190,
+          "like_count": 35927,
+          "listed_count": 280,
+          "tweet_count": 44575
+        },
+        "url": "https://t.co/gGd7tdBCQk",
+        "username": "Syu9ri16",
+        "verified": true
+      }
+    ]
+  }
+}

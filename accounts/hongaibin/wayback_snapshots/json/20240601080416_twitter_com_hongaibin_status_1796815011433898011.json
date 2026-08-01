@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1796815011433898011",
+    "created_at": "2024-06-01T08:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T09:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796815011433898011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1526443326437658624",
+          "start": 3,
+          "username": "thanks9874"
+        },
+        {
+          "end": 28,
+          "id": "1395031782014205953",
+          "start": 16,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796815011433898011",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796781451872244111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thanks9874: @komacyan_zZ 好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1796815011433898011",
+        "created_at": "2024-06-01T08:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T09:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796815011433898011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1526443326437658624",
+              "start": 3,
+              "username": "thanks9874"
+            },
+            {
+              "end": 28,
+              "id": "1395031782014205953",
+              "start": 16,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796815011433898011",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796781451872244111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thanks9874: @komacyan_zZ 好可爱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1526443326437658624",
+        "conversation_id": "1796726691517301155",
+        "created_at": "2024-06-01T05:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796781451872244111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796781451872244111",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796726691517301155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 1059,
+          "like_count": 1530,
+          "listed_count": 1,
+          "tweet_count": 1042
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T06:04:14.000Z",
+        "description": "🏳️‍⚧️mtf‖厨娘‖🍥1/29/2023‖我做错了很多事情...‖是小熊猫‖长沙或者到处跑‖家暴党‖双相，高功能bpd‖寻找自我ing‖寻找对象ing‖长不大的孩子‖永远中立，敬畏生命‖The long winter is coming to an end, and I love you all",
+        "id": "1526443326437658624",
+        "location": "NGC 2237",
+        "name": "🐾实验报废型瓜瓜࿐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786328982616678400/D_ZflZsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 369,
+          "like_count": 4204,
+          "listed_count": 6,
+          "tweet_count": 9498
+        },
+        "username": "thanks9874",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "MAG愛好者/JLPT-N2/ 憂鬱症 / 援交可能 / 168センチ /ISFP-T/ フォロバ欲しいならDMください / 広州 | 南昌 / 昔の小鞠🍊 / 彼女❤️：@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "君のとなり",
+        "name": "泉こしや",
+        "pinned_tweet_id": "1776284490723377355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774696128065495040/JUSOddML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 774,
+          "like_count": 12883,
+          "listed_count": 6,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962189895402995712"
+      ],
+      "media_source_tweet_id": [
+        "1962191098786570542"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1962196857725300772",
+    "created_at": "2025-08-31T16:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962196857725300772"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "トー横"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "歌舞伎町"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569966034035134464",
+          "start": 3,
+          "username": "sukixi_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ok2BdaY6f5",
+          "end": 70,
+          "expanded_url": "https://x.com/sukixi_ovo/status/1962191098786570542/video/1",
+          "media_key": "13_1962189895402995712",
+          "start": 47,
+          "url": "https://t.co/Ok2BdaY6f5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962196857725300772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962191098786570542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukixi_ovo: ありがとう皆んな 17歳もキラキラして\n#トー横 #歌舞伎町 https://t.co/Ok2BdaY6f5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15245,
+        "height": 1920,
+        "media_key": "13_1962189895402995712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962189895402995712/img/72eZS1WHa9I2Hb4o.jpg",
+        "public_metrics": {
+          "view_count": 145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962189895402995712/vid/avc1/720x1280/kmZPg8Ak-bxJqz7T.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962189895402995712/vid/avc1/320x568/iLXPtS3aCeCQA25l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962189895402995712/pl/ldJuEsn-UhG1E-Jc.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962189895402995712/vid/avc1/480x852/Tn13_YKlbRRAz-e3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962189895402995712/vid/avc1/1080x1920/XGjGwT8zGVnFSPBD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962189895402995712"
+          ],
+          "media_source_tweet_id": [
+            "1962191098786570542"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1962196857725300772",
+        "created_at": "2025-08-31T16:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962196857725300772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "トー横"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "歌舞伎町"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569966034035134464",
+              "start": 3,
+              "username": "sukixi_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ok2BdaY6f5",
+              "end": 70,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1962191098786570542/video/1",
+              "media_key": "13_1962189895402995712",
+              "start": 47,
+              "url": "https://t.co/Ok2BdaY6f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962196857725300772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962191098786570542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukixi_ovo: ありがとう皆んな 17歳もキラキラして\n#トー横 #歌舞伎町 https://t.co/Ok2BdaY6f5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962189895402995712"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "conversation_id": "1962191098786570542",
+        "created_at": "2025-08-31T16:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:25:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962189979536572657",
+          "1962191098786570542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "トー横"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "歌舞伎町"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ok2BdaY6f5",
+              "end": 54,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1962191098786570542/video/1",
+              "media_key": "13_1962189895402995712",
+              "start": 31,
+              "url": "https://t.co/Ok2BdaY6f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962191098786570542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ありがとう皆んな 17歳もキラキラして\n#トー横 #歌舞伎町 https://t.co/Ok2BdaY6f5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2167,
+          "like_count": 21949,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 5903
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951659260993286185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870634739520135168/nt3RQBjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6114,
+          "following_count": 156,
+          "like_count": 1012,
+          "listed_count": 10,
+          "media_count": 155,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

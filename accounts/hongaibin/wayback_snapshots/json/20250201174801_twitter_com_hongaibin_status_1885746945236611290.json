@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883520869148082176"
+      ],
+      "media_source_tweet_id": [
+        "1883520902148886996"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1885746945236611290",
+    "created_at": "2025-02-01T17:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T18:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885746945236611290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 3,
+          "username": "overdose__jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DWM7b5GC76",
+          "end": 59,
+          "expanded_url": "https://x.com/Sakura_botnet/status/1883520902148886996/video/1",
+          "media_key": "7_1883520869148082176",
+          "start": 36,
+          "url": "https://t.co/DWM7b5GC76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885746945236611290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883520902148886996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose__jp: 我大孙子就爱吃它\n劲一个给你们看看 https://t.co/DWM7b5GC76"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24102,
+        "height": 854,
+        "media_key": "7_1883520869148082176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883520869148082176/pu/img/GMHGAALuLvkKWlhw.jpg",
+        "public_metrics": {
+          "view_count": 1135
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883520869148082176/pu/vid/avc1/320x426/6pAIXJbaR9dLPVoc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883520869148082176/pu/vid/avc1/480x640/B8WjeXTXPHkchFRy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883520869148082176/pu/vid/avc1/640x854/NwY8dvyTqz-nVzt-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883520869148082176/pu/pl/teOwluF2IXdkV04p.m3u8?tag=12&v=d78"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883520869148082176"
+          ],
+          "media_source_tweet_id": [
+            "1883520902148886996"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1885746945236611290",
+        "created_at": "2025-02-01T17:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885746945236611290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 3,
+              "username": "overdose__jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWM7b5GC76",
+              "end": 59,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883520902148886996/video/1",
+              "media_key": "7_1883520869148082176",
+              "start": 36,
+              "url": "https://t.co/DWM7b5GC76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885746945236611290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883520902148886996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose__jp: 我大孙子就爱吃它\n劲一个给你们看看 https://t.co/DWM7b5GC76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883520869148082176"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "conversation_id": "1883520902148886996",
+        "created_at": "2025-01-26T14:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883520902148886996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWM7b5GC76",
+              "end": 41,
+              "expanded_url": "https://x.com/Sakura_botnet/status/1883520902148886996/video/1",
+              "media_key": "7_1883520869148082176",
+              "start": 18,
+              "url": "https://t.co/DWM7b5GC76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883520902148886996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2646,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我大孙子就爱吃它\n劲一个给你们看看 https://t.co/DWM7b5GC76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/5p3YqTFxQ5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibincc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibincc",
+                "start": 129,
+                "url": "https://t.co/5p3YqTFxQ5"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1709,
+          "like_count": 14781,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 4356
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "https://t.co/y1xuCfsZoT是一个非盈利，并且储备od知识的网站.\n\n虽然这确实是od网站，但我们的目的是让人规避风险，防止意外",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "http://overdose.jp",
+                "start": 0,
+                "url": "https://t.co/y1xuCfsZoT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw7xW9"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1884763670346915971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882317178176929792/xPYdiw7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 3533,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/nDuhQw7xW9",
+        "username": "overdose__jp",
+        "verified": false
+      }
+    ]
+  }
+}

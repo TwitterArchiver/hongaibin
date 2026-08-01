@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1970839666481103102",
+    "created_at": "2025-09-24T13:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T14:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970839666481103102"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "まさむねさん",
+          "probability": 0.5512,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 27,
+          "normalized_text": "ことりさん",
+          "probability": 0.4598,
+          "start": 23,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "故にユーエンミー",
+          "probability": 0.4114,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1418804504363995139",
+          "start": 3,
+          "username": "siotanikun"
+        }
+      ],
+      "urls": [
+        {
+          "description": "\"????????\"∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴まさむね「この曲、実はお嬢が『まさくんと歌うならこれ！って曲あります！』って言って出た曲なんだよね～」ことり「まさか頭の中で想像していたことが本当に実現するなんてとっても感動です！やったね！」∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴歌と映像：Ma5Amun3.X - htt...",
+          "display_url": "youtu.be/-NtCMEEwB1k?si…",
+          "end": 126,
+          "expanded_url": "https://youtu.be/-NtCMEEwB1k?si=OUr1nzLYa_3Z1yN1",
+          "start": 103,
+          "status": 200,
+          "title": "???????? _ cover / Ma5Amun3. × 駒込ことり",
+          "unwound_url": "https://www.youtube.com/watch?si=OUr1nzLYa_3Z1yN1&v=-NtCMEEwB1k&feature=youtu.be",
+          "url": "https://t.co/OOmce699h2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970839666481103102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967563892399419442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siotanikun: まさむねさん・ことりさんの『故にユーエンミー』歌ってみた動画のお写真を担当いたしました！\n歌声の相性良すぎて聴き入ってしまった…映像もおしゃれでかわいい\nぜひご覧下さい！\n\nhttps://t.co/OOmce699h2 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1967563887815147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04w7m4bwAAFpQy.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1970839666481103102",
+        "created_at": "2025-09-24T13:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970839666481103102"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "まさむねさん",
+              "probability": 0.5512,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "ことりさん",
+              "probability": 0.4598,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "故にユーエンミー",
+              "probability": 0.4114,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1418804504363995139",
+              "start": 3,
+              "username": "siotanikun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"????????\"∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴まさむね「この曲、実はお嬢が『まさくんと歌うならこれ！って曲あります！』って言って出た曲なんだよね～」ことり「まさか頭の中で想像していたことが本当に実現するなんてとっても感動です！やったね！」∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴歌と映像：Ma5Amun3.X - htt...",
+              "display_url": "youtu.be/-NtCMEEwB1k?si…",
+              "end": 126,
+              "expanded_url": "https://youtu.be/-NtCMEEwB1k?si=OUr1nzLYa_3Z1yN1",
+              "start": 103,
+              "status": 200,
+              "title": "???????? _ cover / Ma5Amun3. × 駒込ことり",
+              "unwound_url": "https://www.youtube.com/watch?si=OUr1nzLYa_3Z1yN1&v=-NtCMEEwB1k&feature=youtu.be",
+              "url": "https://t.co/OOmce699h2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970839666481103102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967563892399419442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siotanikun: まさむねさん・ことりさんの『故にユーエンミー』歌ってみた動画のお写真を担当いたしました！\n歌声の相性良すぎて聴き入ってしまった…映像もおしゃれでかわいい\nぜひご覧下さい！\n\nhttps://t.co/OOmce699h2 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967563887815147520"
+          ]
+        },
+        "author_id": "1418804504363995139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1967563892399419442",
+        "created_at": "2025-09-15T12:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967563892399419442"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "まさむねさん",
+              "probability": 0.6492,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 11,
+              "normalized_text": "ことりさん",
+              "probability": 0.4783,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "故にユーエンミー",
+              "probability": 0.5109,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"????????\"∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴まさむね「この曲、実はお嬢が『まさくんと歌うならこれ！って曲あります！』って言って出た曲なんだよね～」ことり「まさか頭の中で想像していたことが本当に実現するなんてとっても感動です！やったね！」∴‥∵‥∴‥∵‥∴‥∴‥∵‥∴歌と映像：Ma5Amun3.X - htt...",
+              "display_url": "youtu.be/-NtCMEEwB1k?si…",
+              "end": 110,
+              "expanded_url": "https://youtu.be/-NtCMEEwB1k?si=OUr1nzLYa_3Z1yN1",
+              "start": 87,
+              "status": 200,
+              "title": "???????? _ cover / Ma5Amun3. × 駒込ことり",
+              "unwound_url": "https://www.youtube.com/watch?si=OUr1nzLYa_3Z1yN1&v=-NtCMEEwB1k&feature=youtu.be",
+              "url": "https://t.co/OOmce699h2"
+            },
+            {
+              "display_url": "pic.x.com/oHLvJG0nRS",
+              "end": 134,
+              "expanded_url": "https://x.com/siotanikun/status/1967563892399419442/photo/1",
+              "media_key": "3_1967563887815147520",
+              "start": 111,
+              "url": "https://t.co/oHLvJG0nRS"
+            },
+            {
+              "display_url": "x.com/ma5amun3_desig…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/ma5amun3_design/status/1967562599450693701",
+              "start": 135,
+              "url": "https://t.co/umCWSY7rgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967563892399419442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12712,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967562599450693701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まさむねさん・ことりさんの『故にユーエンミー』歌ってみた動画のお写真を担当いたしました！\n歌声の相性良すぎて聴き入ってしまった…映像もおしゃれでかわいい\nぜひご覧下さい！\n\nhttps://t.co/OOmce699h2 https://t.co/oHLvJG0nRS https://t.co/umCWSY7rgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 2198,
+          "like_count": 23079,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6083
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T05:25:37.000Z",
+        "description": "ｲﾗｽﾄﾚｰﾀｰ┃12月上旬〜着手(Skebは常時受付中 https://t.co/P0HTIqDtcA)┃ご依頼について＆お仕事歴 https://t.co/zfV0R02uoc┃mail nrswyuni@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@siotanikun",
+                "end": 52,
+                "expanded_url": "https://skeb.jp/@siotanikun",
+                "start": 29,
+                "url": "https://t.co/P0HTIqDtcA"
+              },
+              {
+                "display_url": "lit.link/shiotanikun",
+                "end": 90,
+                "expanded_url": "https://lit.link/shiotanikun",
+                "start": 67,
+                "url": "https://t.co/zfV0R02uoc"
+              }
+            ]
+          }
+        },
+        "id": "1418804504363995139",
+        "location": "実績108件・進行中19件",
+        "name": "塩谷",
+        "pinned_tweet_id": "1966444349442441541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942913189311569920/tQWFxJIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3879,
+          "following_count": 116,
+          "like_count": 649,
+          "listed_count": 28,
+          "media_count": 111,
+          "tweet_count": 752
+        },
+        "username": "siotanikun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858567974548107268"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1846488925202010191",
+    "created_at": "2024-11-18T17:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T18:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858567977756676177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GO2UrVzw8A",
+          "end": 31,
+          "expanded_url": "https://x.com/hongaibin/status/1858567977756676177/photo/1",
+          "media_key": "3_1858567974548107268",
+          "start": 8,
+          "url": "https://t.co/GO2UrVzw8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858567977756676177",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857913325981778308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 https://t.co/GO2UrVzw8A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858567977756676177].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858567977756676177",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858567977756676177"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1858567974548107268",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcr1ucnbcAQ0-Xd.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "1846488925202010191",
+        "created_at": "2024-11-16T22:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T23:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857913325981778308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857913325981778308",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846488925202010191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 群能发一下吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 155,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 132,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1600,
+          "like_count": 10710,
+          "listed_count": 2,
+          "tweet_count": 3670
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "主播是 INFP-T，不参与政治📚，furry设定是菜狗，活在网络世界🌐。希望能见证人类命运共同体的实现🌍，也渴望获得更多关注💘！最喜欢的推主是 @umichen0502324 💖，单推初音未来🎤。汉堡是最美味的🍔！提问箱https://t.co/FFArbOevnj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "umichen0502324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b.mtw.so/633sCI",
+                "end": 134,
+                "expanded_url": "http://b.mtw.so/633sCI",
+                "start": 111,
+                "url": "https://t.co/FFArbOevnj"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1.7km",
+        "name": "十九方鸞齉灥麤齾𰻝",
+        "pinned_tweet_id": "1785706715612107044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846526765252120576/rYR52hhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 932,
+          "like_count": 9099,
+          "listed_count": 1,
+          "tweet_count": 13293
+        },
+        "username": "sysjf0",
+        "verified": true
+      }
+    ]
+  }
+}

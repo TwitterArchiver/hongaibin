@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1796018547858067836",
+    "created_at": "2024-05-30T03:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T04:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796018547858067836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1780343678491377664",
+          "start": 3,
+          "username": "hsiang_sam53348"
+        },
+        {
+          "end": 30,
+          "id": "1002925327239135232",
+          "start": 21,
+          "username": "huka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796018547858067836",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795763354373357909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsiang_sam53348: @huka8964 断他零花钱，让他闹自杀，然后培养小号。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1796018547858067836",
+        "created_at": "2024-05-30T03:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T04:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796018547858067836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1780343678491377664",
+              "start": 3,
+              "username": "hsiang_sam53348"
+            },
+            {
+              "end": 30,
+              "id": "1002925327239135232",
+              "start": 21,
+              "username": "huka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796018547858067836",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795763354373357909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsiang_sam53348: @huka8964 断他零花钱，让他闹自杀，然后培养小号。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780343678491377664",
+        "conversation_id": "1795314014580568490",
+        "created_at": "2024-05-29T10:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T11:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795763354373357909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1002925327239135232",
+              "start": 0,
+              "username": "huka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795763354373357909",
+        "in_reply_to_user_id": "1002925327239135232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795314014580568490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huka8964 断他零花钱，让他闹自杀，然后培养小号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 1027,
+          "like_count": 1414,
+          "listed_count": 1,
+          "tweet_count": 920
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T21:13:19.000Z",
+        "description": "",
+        "id": "1780343678491377664",
+        "name": "Sam Hsiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788251833468633088/xX0L24Gd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 14,
+          "like_count": 2940,
+          "listed_count": 1,
+          "tweet_count": 226
+        },
+        "username": "hsiang_sam53348",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T14:50:06.000Z",
+        "description": "简介是什么，能吃吗",
+        "id": "1002925327239135232",
+        "name": "hukaさん",
+        "pinned_tweet_id": "1763961443056267424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794407498029678592/hEv__V3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1392,
+          "like_count": 22559,
+          "listed_count": 4,
+          "tweet_count": 10702
+        },
+        "username": "huka8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973819925463756800"
+      ],
+      "media_source_tweet_id": [
+        "1973819929356083316"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1973860935032025222",
+    "created_at": "2025-10-02T21:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T22:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973860935032025222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lMJupu4Mx",
+          "end": 89,
+          "expanded_url": "https://x.com/overdose_six/status/1973819929356083316/photo/1",
+          "media_key": "3_1973819925463756800",
+          "start": 66,
+          "url": "https://t.co/6lMJupu4Mx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973860935032025222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973819929356083316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 阿扑吗啡 多巴胺受体激动剂 主要用于治疗帕金森 也是一种催吐剂用于抢救误食毒物及难以洗胃的患者 https://t.co/6lMJupu4Mx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973819925463756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Rqw7Pa8AAC5aD.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973819925463756800"
+          ],
+          "media_source_tweet_id": [
+            "1973819929356083316"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1973860935032025222",
+        "created_at": "2025-10-02T21:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T22:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973860935032025222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lMJupu4Mx",
+              "end": 89,
+              "expanded_url": "https://x.com/overdose_six/status/1973819929356083316/photo/1",
+              "media_key": "3_1973819925463756800",
+              "start": 66,
+              "url": "https://t.co/6lMJupu4Mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973860935032025222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973819929356083316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 阿扑吗啡 多巴胺受体激动剂 主要用于治疗帕金森 也是一种催吐剂用于抢救误食毒物及难以洗胃的患者 https://t.co/6lMJupu4Mx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973819925463756800"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1973819929356083316",
+        "created_at": "2025-10-02T18:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T19:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973819929356083316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lMJupu4Mx",
+              "end": 71,
+              "expanded_url": "https://x.com/overdose_six/status/1973819929356083316/photo/1",
+              "media_key": "3_1973819925463756800",
+              "start": 48,
+              "url": "https://t.co/6lMJupu4Mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973819929356083316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "阿扑吗啡 多巴胺受体激动剂 主要用于治疗帕金森 也是一种催吐剂用于抢救误食毒物及难以洗胃的患者 https://t.co/6lMJupu4Mx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 2195,
+          "like_count": 23060,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6083
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 189,
+          "like_count": 8071,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

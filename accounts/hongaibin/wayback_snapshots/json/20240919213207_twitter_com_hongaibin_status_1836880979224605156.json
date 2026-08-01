@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1836449028009005056"
+      ],
+      "media_source_tweet_id": [
+        "1836449054437372142"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1836880979224605156",
+    "created_at": "2024-09-19T21:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T22:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836880979224605156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804105331401986049",
+          "start": 3,
+          "username": "deadguyhub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2swtr21ro0",
+          "end": 39,
+          "expanded_url": "https://twitter.com/deadguyhub/status/1836449054437372142/video/1",
+          "media_key": "7_1836449028009005056",
+          "start": 16,
+          "url": "https://t.co/2sWtr21RO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836880979224605156",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836449054437372142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deadguyhub: https://t.co/2sWtr21RO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20501,
+        "height": 640,
+        "media_key": "7_1836449028009005056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1836449028009005056/pu/img/PCf35ZBu11RrD_jV.jpg",
+        "public_metrics": {
+          "view_count": 296116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836449028009005056/pu/vid/avc1/320x320/OXmJrqMRICU2v2WO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836449028009005056/pu/vid/avc1/540x540/sKcutVQe6lDAnWCM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836449028009005056/pu/vid/avc1/640x640/YdgKokdm1uWN_KCF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1836449028009005056/pu/pl/X7-hASB3Zd55EouC.m3u8?tag=12&v=ad3"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836449028009005056"
+          ],
+          "media_source_tweet_id": [
+            "1836449054437372142"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1836880979224605156",
+        "created_at": "2024-09-19T21:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T22:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836880979224605156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804105331401986049",
+              "start": 3,
+              "username": "deadguyhub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2swtr21ro0",
+              "end": 39,
+              "expanded_url": "https://twitter.com/deadguyhub/status/1836449054437372142/video/1",
+              "media_key": "7_1836449028009005056",
+              "start": 16,
+              "url": "https://t.co/2sWtr21RO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836880979224605156",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836449054437372142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deadguyhub: https://t.co/2sWtr21RO0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836449028009005056"
+          ]
+        },
+        "author_id": "1804105331401986049",
+        "conversation_id": "1836449054437372142",
+        "created_at": "2024-09-18T16:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T17:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836449054437372142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2swtr21ro0",
+              "end": 23,
+              "expanded_url": "https://twitter.com/deadguyhub/status/1836449054437372142/video/1",
+              "media_key": "7_1836449028009005056",
+              "start": 0,
+              "url": "https://t.co/2sWtr21RO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836449054437372142",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 775195,
+          "like_count": 4307,
+          "quote_count": 9,
+          "reply_count": 74,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2sWtr21RO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1498,
+          "like_count": 7791,
+          "listed_count": 2,
+          "tweet_count": 3082
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T10:53:45.000Z",
+        "description": "Definitely don't post people un aliving☠️💀",
+        "id": "1804105331401986049",
+        "name": "Dead Guy Hub",
+        "pinned_tweet_id": "1833899347370713206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829555747698462729/BsmhTiuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196418,
+          "following_count": 10,
+          "like_count": 22,
+          "listed_count": 195,
+          "tweet_count": 102
+        },
+        "username": "deadguyhub",
+        "verified": false
+      }
+    ]
+  }
+}

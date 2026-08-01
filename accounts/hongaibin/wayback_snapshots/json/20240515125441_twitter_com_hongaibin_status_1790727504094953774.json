@@ -1,0 +1,292 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1790727504094953774",
+    "created_at": "2024-05-15T12:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T13:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790727504094953774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790727504094953774",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1773296481107378650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: うちのゴアゾノさん紹介(定期)\nIntroduction of our Gore−zono san (Englisch▼)\n\n🩸本名…檎亞園ネオ\n🩸特性…ツンデレ、メタラー、ゾンビ\n🩸年齢…16歳\n🩸好物…メタル、血(G型)\n🩸口癖…「あ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790727504094953774].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790727504094953774",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790727504094953774"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1773296073232297984",
+            "3_1773296165184065536",
+            "3_1773296193491324928"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "1773296481107378650",
+        "created_at": "2024-03-28T10:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-28T11:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1773296481107378650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "流血少女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FRCbeh4kzM",
+              "end": 188,
+              "expanded_url": "https://twitter.com/carnagesociety/status/1773296481107378650/photo/1",
+              "media_key": "3_1773296073232297984",
+              "start": 165,
+              "url": "https://t.co/FRCbeh4kzM"
+            },
+            {
+              "display_url": "pic.twitter.com/FRCbeh4kzM",
+              "end": 188,
+              "expanded_url": "https://twitter.com/carnagesociety/status/1773296481107378650/photo/1",
+              "media_key": "3_1773296165184065536",
+              "start": 165,
+              "url": "https://t.co/FRCbeh4kzM"
+            },
+            {
+              "display_url": "pic.twitter.com/FRCbeh4kzM",
+              "end": 188,
+              "expanded_url": "https://twitter.com/carnagesociety/status/1773296481107378650/photo/1",
+              "media_key": "3_1773296193491324928",
+              "start": 165,
+              "url": "https://t.co/FRCbeh4kzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1773296481107378650",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 32785,
+          "like_count": 957,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "うちのゴアゾノさん紹介(定期)\nIntroduction of our Gore−zono san (Englisch▼)\n\n🩸本名…檎亞園ネオ\n🩸特性…ツンデレ、メタラー、ゾンビ\n🩸年齢…16歳\n🩸好物…メタル、血(G型)\n🩸口癖…「あんたはメタル聞くの？」\n「べ、別に会いに来たわけじゃないんだからねッ‼️」\n\n#流血少女… https://t.co/FRCbeh4kzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 792,
+          "like_count": 1217,
+          "listed_count": 0,
+          "tweet_count": 317
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんメイン🩸メタルとV系が好き\n💀art▶#流血少女\n💀commission▶@yuki12278947\n💀避難用▶@GorezonoNeo\n💀goods▶#CarnageSociety\n💀comic▶#ハイスクールゴアガール\n💀fanart▶#ゴアガールファンアート\n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "流血少女"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "tag": "CarnageSociety"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "tag": "ハイスクールゴアガール"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "⚠️最短納期8月以降",
+        "name": "幽妃-yuki-🔞GORE-GIRL",
+        "pinned_tweet_id": "1736687785472581667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763137073010409472/NCaKumoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20687,
+          "following_count": 736,
+          "like_count": 83619,
+          "listed_count": 136,
+          "tweet_count": 31779
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

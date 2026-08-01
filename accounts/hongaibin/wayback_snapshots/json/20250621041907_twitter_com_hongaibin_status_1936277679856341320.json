@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      }
+    ],
+    "conversation_id": "1936277679856341320",
+    "created_at": "2025-06-21T04:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936277679856341320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IRIran_Militar…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/IRIran_Military/status/1936256339312804170",
+          "start": 121,
+          "url": "https://t.co/lkXx3MGK0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936277679856341320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936256339312804170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I laughed when I saw the Israelis hiding in bomb shelters like rats, because God's chosen people were afraid of missiles https://t.co/lkXx3MGK0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_1936256336980840448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt724TfXkAAa40P.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "1936277679856341320",
+        "created_at": "2025-06-21T04:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936277679856341320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IRIran_Militar…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/IRIran_Military/status/1936256339312804170",
+              "start": 121,
+              "url": "https://t.co/lkXx3MGK0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936277679856341320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936256339312804170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I laughed when I saw the Israelis hiding in bomb shelters like rats, because God's chosen people were afraid of missiles https://t.co/lkXx3MGK0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936256336980840448"
+          ]
+        },
+        "author_id": "1799808586052259840",
+        "conversation_id": "1936256339312804170",
+        "created_at": "2025-06-21T02:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T03:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936256339312804170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Eighteenth Wave of Operation True Promise 3",
+              "probability": 0.6767,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Islamic Revolutionary Guard Corps",
+              "probability": 0.5373,
+              "start": 62,
+              "type": "Organization"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Operation True Promise 3",
+              "probability": 0.9314,
+              "start": 127,
+              "type": "Other"
+            },
+            {
+              "end": 279,
+              "normalized_text": "Palestine",
+              "probability": 0.9342,
+              "start": 271,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOzVrlvk0m",
+              "end": 304,
+              "expanded_url": "https://x.com/IRIran_Military/status/1936256339312804170/photo/1",
+              "media_key": "3_1936256336980840448",
+              "start": 281,
+              "url": "https://t.co/ZOzVrlvk0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936256339312804170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 942,
+                "start": 927,
+                "tag": "OpTruePromise3"
+              }
+            ]
+          },
+          "text": "Start of the Eighteenth Wave of Operation True Promise 3\n\nThe Islamic Revolutionary Guard Corps (IRGC): The eighteenth wave of Operation True Promise 3 was launched against military targets and operational support centers of the Zionist regime's army in central occupied Palestine and at Ben Gurion Airport. The operation was carried out with a massive volume of Shahed-136 suicide and combat drones, along with precision-guided missiles using both solid and liquid fuel. By the grace and power of God, the predetermined targets were successfully destroyed.\n\nIt is worth noting that tonight, several squadrons of Shahed-136 drones continuously conducted missions over the skies of the occupied territories. The most advanced air defense systems failed to intercept them, and—as always—the Zionists were forced to flee to shelters.\n\nThe combined missile and drone operations will continue in a sustained and purposeful manner.\n\n#OpTruePromise3"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 57501,
+          "like_count": 974,
+          "quote_count": 12,
+          "reply_count": 91,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "Start of the Eighteenth Wave of Operation True Promise 3\n\nThe Islamic Revolutionary Guard Corps (IRGC): The eighteenth wave of Operation True Promise 3 was launched against military targets and operational support centers of the Zionist regime's army in central occupied Palestine https://t.co/ZOzVrlvk0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2081,
+          "like_count": 19838,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 5443
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:19:48.000Z",
+        "description": "Updates on the Islamic Republic of Iran Armed Forces | Commentary",
+        "id": "1799808586052259840",
+        "location": "Islamic Republic of Iran",
+        "name": "Daily Iran Military",
+        "pinned_tweet_id": "1820136355654947263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799809408865587200/PFUEs0sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479329,
+          "following_count": 6,
+          "like_count": 10298,
+          "listed_count": 1301,
+          "media_count": 1676,
+          "tweet_count": 2267
+        },
+        "username": "IRIran_Military",
+        "verified": true
+      }
+    ]
+  }
+}

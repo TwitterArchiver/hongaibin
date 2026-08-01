@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915487605879370020",
+    "created_at": "2025-04-24T19:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T20:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915487605879370020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827408972682268672",
+          "start": 3,
+          "username": "tuhuoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915487605879370020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914915869114683786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuhuoooo: 15岁真是做爱的好年龄啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1915487605879370020",
+        "created_at": "2025-04-24T19:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T20:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915487605879370020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827408972682268672",
+              "start": 3,
+              "username": "tuhuoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915487605879370020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914915869114683786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuhuoooo: 15岁真是做爱的好年龄啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827408972682268672",
+        "conversation_id": "1914915869114683786",
+        "created_at": "2025-04-23T05:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914915869114683786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914915869114683786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 40081,
+          "like_count": 271,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "15岁真是做爱的好年龄啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1906,
+          "like_count": 16646,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 4780
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:13:53.000Z",
+        "description": "行秋中心",
+        "id": "1827408972682268672",
+        "name": "tuhu0000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875714578593804290/7CDEFQOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20270,
+          "following_count": 5,
+          "like_count": 33,
+          "listed_count": 36,
+          "media_count": 112,
+          "tweet_count": 572
+        },
+        "username": "tuhuoooo",
+        "verified": false
+      }
+    ]
+  }
+}

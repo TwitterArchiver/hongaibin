@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1832644018020478994",
+    "created_at": "2024-09-08T04:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T05:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832644018020478994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1544693277055520771",
+          "start": 3,
+          "username": "XBrokensakiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832644018020478994",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831271930210533809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XBrokensakiko: 我都不敢想象现在立马死了有多爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1832644018020478994",
+        "created_at": "2024-09-08T04:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832644018020478994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1544693277055520771",
+              "start": 3,
+              "username": "XBrokensakiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832644018020478994",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831271930210533809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XBrokensakiko: 我都不敢想象现在立马死了有多爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544693277055520771",
+        "conversation_id": "1831271930210533809",
+        "created_at": "2024-09-04T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831271930210533809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831271930210533809",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2772,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不敢想象现在立马死了有多爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1444,
+          "like_count": 6972,
+          "listed_count": 3,
+          "tweet_count": 2805
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T14:42:43.000Z",
+        "description": "不知道第几季了！(o_0)",
+        "id": "1544693277055520771",
+        "location": "坟墓",
+        "name": "星星贴纸",
+        "pinned_tweet_id": "1779566202949386540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654098296846024704/5gUny8HA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18080,
+          "following_count": 11,
+          "like_count": 337,
+          "listed_count": 37,
+          "tweet_count": 114
+        },
+        "username": "XBrokensakiko",
+        "verified": false
+      }
+    ]
+  }
+}

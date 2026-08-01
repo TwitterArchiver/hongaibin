@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1941909563806294016"
+      ],
+      "media_source_tweet_id": [
+        "1941909581363605825"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1942794819790856415",
+    "created_at": "2025-07-09T03:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942794819790856415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271278454537744384",
+          "start": 3,
+          "username": "Rabbit_Pussy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRApsdKQFe",
+          "end": 41,
+          "expanded_url": "https://x.com/Rabbit_Pussy/status/1941909581363605825/photo/1",
+          "media_key": "16_1941909563806294016",
+          "start": 18,
+          "url": "https://t.co/xRApsdKQFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942794819790856415",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941909581363605825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbit_Pussy: https://t.co/xRApsdKQFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "16_1941909563806294016",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvMMdaiboAArT-x.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvMMdaiboAArT-x.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1941909563806294016"
+          ],
+          "media_source_tweet_id": [
+            "1941909581363605825"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1942794819790856415",
+        "created_at": "2025-07-09T03:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942794819790856415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271278454537744384",
+              "start": 3,
+              "username": "Rabbit_Pussy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRApsdKQFe",
+              "end": 41,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1941909581363605825/photo/1",
+              "media_key": "16_1941909563806294016",
+              "start": 18,
+              "url": "https://t.co/xRApsdKQFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942794819790856415",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941909581363605825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbit_Pussy: https://t.co/xRApsdKQFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1941909563806294016"
+          ]
+        },
+        "author_id": "1271278454537744384",
+        "conversation_id": "1941909581363605825",
+        "created_at": "2025-07-06T17:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941909581363605825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRApsdKQFe",
+              "end": 23,
+              "expanded_url": "https://x.com/Rabbit_Pussy/status/1941909581363605825/photo/1",
+              "media_key": "16_1941909563806294016",
+              "start": 0,
+              "url": "https://t.co/xRApsdKQFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941909581363605825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 535,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xRApsdKQFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 2086,
+          "like_count": 20324,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5519
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子/182cm/木桶饭🏳️‍⚧️/逃生舱@ttt235711/我的女仆@I_Xinnnnn /tg群：https://t.co/h5xkaaTV2V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ttt235711"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "I_Xinnnnn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Vs8TpJq44o0wZ…",
+                "end": 78,
+                "expanded_url": "https://t.me/+Vs8TpJq44o0wZmJl",
+                "start": 55,
+                "url": "https://t.co/h5xkaaTV2V"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛",
+        "pinned_tweet_id": "1942156708715085994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942435233652953088/fEOYSMWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 1802,
+          "like_count": 23217,
+          "listed_count": 7,
+          "media_count": 884,
+          "tweet_count": 5835
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

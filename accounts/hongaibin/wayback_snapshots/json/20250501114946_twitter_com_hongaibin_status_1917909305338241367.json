@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917248708682592257"
+      ],
+      "media_source_tweet_id": [
+        "1917248724163792994"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1917909305338241367",
+    "created_at": "2025-05-01T11:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T12:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917909305338241367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786032402781048832",
+          "start": 3,
+          "username": "mogda48"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVRUIep95f",
+          "end": 43,
+          "expanded_url": "https://x.com/mogda48/status/1917248724163792994/photo/1",
+          "media_key": "3_1917248708682592257",
+          "start": 20,
+          "url": "https://t.co/JVRUIep95f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917909305338241367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917248724163792994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogda48: 息抜き男の子 https://t.co/JVRUIep95f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917248708682592257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptviuMaMAEXuc3.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917248708682592257"
+          ],
+          "media_source_tweet_id": [
+            "1917248724163792994"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1917909305338241367",
+        "created_at": "2025-05-01T11:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917909305338241367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786032402781048832",
+              "start": 3,
+              "username": "mogda48"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVRUIep95f",
+              "end": 43,
+              "expanded_url": "https://x.com/mogda48/status/1917248724163792994/photo/1",
+              "media_key": "3_1917248708682592257",
+              "start": 20,
+              "url": "https://t.co/JVRUIep95f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917909305338241367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917248724163792994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogda48: 息抜き男の子 https://t.co/JVRUIep95f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917248708682592257"
+          ]
+        },
+        "author_id": "1786032402781048832",
+        "conversation_id": "1917248724163792994",
+        "created_at": "2025-04-29T16:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T17:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917248724163792994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVRUIep95f",
+              "end": 30,
+              "expanded_url": "https://x.com/mogda48/status/1917248724163792994/photo/1",
+              "media_key": "3_1917248708682592257",
+              "start": 7,
+              "url": "https://t.co/JVRUIep95f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917248724163792994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4867,
+          "like_count": 387,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "息抜き男の子 https://t.co/JVRUIep95f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1925,
+          "like_count": 17014,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4859
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T13:58:26.000Z",
+        "description": "natutaka mogu/かわいい子をよく描く人/一次創作/二次創作/空が好き/FA→#もぐと空の旅 リトリン→ https://t.co/Yv9ddWtqDw skeb→",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "もぐと空の旅"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/moguda48",
+                "end": 81,
+                "expanded_url": "https://lit.link/moguda48",
+                "start": 58,
+                "url": "https://t.co/Yv9ddWtqDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mogda48",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@mogda48",
+                "start": 0,
+                "url": "https://t.co/t7cwuC3GJa"
+              }
+            ]
+          }
+        },
+        "id": "1786032402781048832",
+        "location": "AI学習無断転載❌",
+        "name": "夏空もぐ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907705861969190912/RRBoDhWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 465,
+          "like_count": 25230,
+          "listed_count": 10,
+          "media_count": 142,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/t7cwuC3GJa",
+        "username": "mogda48",
+        "verified": false
+      }
+    ]
+  }
+}

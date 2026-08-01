@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1792455779234271416",
+    "created_at": "2024-05-20T07:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T08:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792455779234271416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792455779234271416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792139139657224375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: 我想要现实……\n想要拥抱\n想要亲吻\n想要感受到他人的温度\n不想流泪\n不想自残\n不想嗑药\n不想独自一人缩在被子里绝望\n请救救我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1792455779234271416",
+        "created_at": "2024-05-20T07:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T08:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792455779234271416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725683921763905536",
+              "start": 3,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792455779234271416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792139139657224375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luonbe69: 我想要现实……\n想要拥抱\n想要亲吻\n想要感受到他人的温度\n不想流泪\n不想自残\n不想嗑药\n不想独自一人缩在被子里绝望\n请救救我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1792139139657224375",
+        "created_at": "2024-05-19T10:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T11:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792139139657224375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792139139657224375",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3090,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我想要现实……\n想要拥抱\n想要亲吻\n想要感受到他人的温度\n不想流泪\n不想自残\n不想嗑药\n不想独自一人缩在被子里绝望\n请救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 864,
+          "like_count": 1255,
+          "listed_count": 1,
+          "tweet_count": 483
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "玄鸦 夕阳 白日梦 傲慢 肠子 少年 GAME 白躁 黄铜 血 腐烂 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔",
+        "pinned_tweet_id": "1752560514201469253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787783520972136448/Ic1VcpeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 3795,
+          "like_count": 24371,
+          "listed_count": 1,
+          "tweet_count": 9715
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

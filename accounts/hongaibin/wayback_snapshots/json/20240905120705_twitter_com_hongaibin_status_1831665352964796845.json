@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831286182501552128",
+        "3_1831286182350934016",
+        "3_1831286182338285568"
+      ],
+      "media_source_tweet_id": [
+        "1831286189099475073",
+        "1831286189099475073",
+        "1831286189099475073"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1831665352964796845",
+    "created_at": "2024-09-05T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831665352964796845"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 14,
+          "tag": "私の個性はきっと誰かにささる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "908676407433191425",
+          "start": 3,
+          "username": "kuki8117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mse2e3nqjs",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+          "media_key": "3_1831286182501552128",
+          "start": 30,
+          "url": "https://t.co/MSe2e3NQjS"
+        },
+        {
+          "display_url": "pic.x.com/mse2e3nqjs",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+          "media_key": "3_1831286182350934016",
+          "start": 30,
+          "url": "https://t.co/MSe2e3NQjS"
+        },
+        {
+          "display_url": "pic.x.com/mse2e3nqjs",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+          "media_key": "3_1831286182338285568",
+          "start": 30,
+          "url": "https://t.co/MSe2e3NQjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831665352964796845",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2017
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831286189099475073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuki8117: #私の個性はきっと誰かにささる https://t.co/MSe2e3NQjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1831286182501552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWoJFJYWEAA1F65.jpg",
+        "width": 1614
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1831286182350934016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWoJFI0b0AAKd7y.jpg",
+        "width": 1478
+      },
+      {
+        "height": 1539,
+        "media_key": "3_1831286182338285568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWoJFIxa0AAvxDz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831286182501552128",
+            "3_1831286182350934016",
+            "3_1831286182338285568"
+          ],
+          "media_source_tweet_id": [
+            "1831286189099475073",
+            "1831286189099475073",
+            "1831286189099475073"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1831665352964796845",
+        "created_at": "2024-09-05T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831665352964796845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 14,
+              "tag": "私の個性はきっと誰かにささる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "908676407433191425",
+              "start": 3,
+              "username": "kuki8117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182501552128",
+              "start": 30,
+              "url": "https://t.co/MSe2e3NQjS"
+            },
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182350934016",
+              "start": 30,
+              "url": "https://t.co/MSe2e3NQjS"
+            },
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182338285568",
+              "start": 30,
+              "url": "https://t.co/MSe2e3NQjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831665352964796845",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2017
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831286189099475073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuki8117: #私の個性はきっと誰かにささる https://t.co/MSe2e3NQjS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831286182501552128",
+            "3_1831286182350934016",
+            "3_1831286182338285568"
+          ]
+        },
+        "author_id": "908676407433191425",
+        "conversation_id": "1831286189099475073",
+        "created_at": "2024-09-04T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831286189099475073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "私の個性はきっと誰かにささる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182501552128",
+              "start": 16,
+              "url": "https://t.co/MSe2e3NQjS"
+            },
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182350934016",
+              "start": 16,
+              "url": "https://t.co/MSe2e3NQjS"
+            },
+            {
+              "display_url": "pic.x.com/mse2e3nqjs",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kuki8117/status/1831286189099475073/photo/1",
+              "media_key": "3_1831286182338285568",
+              "start": 16,
+              "url": "https://t.co/MSe2e3NQjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831286189099475073",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2002,
+          "impression_count": 831542,
+          "like_count": 28506,
+          "quote_count": 70,
+          "reply_count": 19,
+          "retweet_count": 2017
+        },
+        "reply_settings": "everyone",
+        "text": "#私の個性はきっと誰かにささる https://t.co/MSe2e3NQjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 1437,
+          "like_count": 6859,
+          "listed_count": 3,
+          "tweet_count": 2791
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-15T12:58:32.000Z",
+        "description": "キャラクターデザイン、グッズイラスト、ラノベなど/ソシャゲ白夜極光「ワタリ」刀剣乱舞「大慶直胤」/Vtuberデザイン/ AI学習禁止 mail▽kuki8117@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kushirokuki",
+                "end": 23,
+                "expanded_url": "https://lit.link/kushirokuki",
+                "start": 0,
+                "url": "https://t.co/t7ZK29RymE"
+              }
+            ]
+          }
+        },
+        "id": "908676407433191425",
+        "location": "ご依頼についてはlit.linkをご確認ください",
+        "name": "釧路くき",
+        "pinned_tweet_id": "1571758995408551938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1202189142592851968/B6DuQKse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95966,
+          "following_count": 442,
+          "like_count": 14475,
+          "listed_count": 656,
+          "tweet_count": 11262
+        },
+        "url": "https://t.co/t7ZK29RymE",
+        "username": "kuki8117",
+        "verified": false
+      }
+    ]
+  }
+}

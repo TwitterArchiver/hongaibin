@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1837034805428383744"
+      ],
+      "media_source_tweet_id": [
+        "1837034859102962174"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1837105555611210169",
+    "created_at": "2024-09-20T12:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T13:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837105555611210169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1544693277055520771",
+          "start": 3,
+          "username": "XBrokensakiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1stmvs4ss",
+          "end": 42,
+          "expanded_url": "https://twitter.com/XBrokensakiko/status/1837034859102962174/video/1",
+          "media_key": "7_1837034805428383744",
+          "start": 19,
+          "url": "https://t.co/B1StmvS4ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837105555611210169",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837034859102962174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XBrokensakiko: https://t.co/B1StmvS4ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 1280,
+        "media_key": "7_1837034805428383744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1837034805428383744/pu/img/D7ar0mXzFw3M9J9z.jpg",
+        "public_metrics": {
+          "view_count": 617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837034805428383744/pu/vid/avc1/320x568/x8aBzLXwTz5frCpl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837034805428383744/pu/vid/avc1/480x852/6dgKSOZ1Nb9bj-DY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837034805428383744/pu/vid/avc1/720x1280/N7GF0cbNMHQ5AAxr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1837034805428383744/pu/pl/xWTeWnH9GfPYJq9E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837034805428383744"
+          ],
+          "media_source_tweet_id": [
+            "1837034859102962174"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1837105555611210169",
+        "created_at": "2024-09-20T12:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T13:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837105555611210169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1544693277055520771",
+              "start": 3,
+              "username": "XBrokensakiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1stmvs4ss",
+              "end": 42,
+              "expanded_url": "https://twitter.com/XBrokensakiko/status/1837034859102962174/video/1",
+              "media_key": "7_1837034805428383744",
+              "start": 19,
+              "url": "https://t.co/B1StmvS4ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837105555611210169",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837034859102962174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XBrokensakiko: https://t.co/B1StmvS4ss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837034805428383744"
+          ]
+        },
+        "author_id": "1544693277055520771",
+        "conversation_id": "1837034859102962174",
+        "created_at": "2024-09-20T07:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T08:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837034859102962174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1stmvs4ss",
+              "end": 23,
+              "expanded_url": "https://twitter.com/XBrokensakiko/status/1837034859102962174/video/1",
+              "media_key": "7_1837034805428383744",
+              "start": 0,
+              "url": "https://t.co/B1StmvS4ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837034859102962174",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2174,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B1StmvS4ss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1509,
+          "like_count": 7893,
+          "listed_count": 2,
+          "tweet_count": 3116
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T14:42:43.000Z",
+        "description": "不知道第几季了！(o_0)",
+        "id": "1544693277055520771",
+        "location": "坟墓",
+        "name": "星星贴纸",
+        "pinned_tweet_id": "1779566202949386540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654098296846024704/5gUny8HA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19398,
+          "following_count": 12,
+          "like_count": 346,
+          "listed_count": 39,
+          "tweet_count": 123
+        },
+        "username": "XBrokensakiko",
+        "verified": false
+      }
+    ]
+  }
+}

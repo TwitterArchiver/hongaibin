@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953637816501780480",
+        "3_1953637816468221955"
+      ],
+      "media_source_tweet_id": [
+        "1953637820083634442",
+        "1953637820083634442"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1957694235513082171",
+    "created_at": "2025-08-19T06:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T07:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957694235513082171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1934122160903340032",
+          "start": 3,
+          "username": "empress_kiyana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8S2hBLihxv",
+          "end": 55,
+          "expanded_url": "https://x.com/empress_kiyana/status/1953637820083634442/photo/1",
+          "media_key": "3_1953637816501780480",
+          "start": 32,
+          "url": "https://t.co/8S2hBLihxv"
+        },
+        {
+          "display_url": "pic.x.com/8S2hBLihxv",
+          "end": 55,
+          "expanded_url": "https://x.com/empress_kiyana/status/1953637820083634442/photo/1",
+          "media_key": "3_1953637816468221955",
+          "start": 32,
+          "url": "https://t.co/8S2hBLihxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957694235513082171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953637820083634442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @empress_kiyana: new hair :3 https://t.co/8S2hBLihxv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957694235513082171].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957694235513082171",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957694235513082171"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953637816501780480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3PkhbwAAAbQY.jpg",
+        "width": 1158
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953637816468221955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxy3PkZbsAMoPGr.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953637816501780480",
+            "3_1953637816468221955"
+          ]
+        },
+        "author_id": "1934122160903340032",
+        "conversation_id": "1953637820083634442",
+        "created_at": "2025-08-08T02:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T03:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953637820083634442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8S2hBLihxv",
+              "end": 35,
+              "expanded_url": "https://x.com/empress_kiyana/status/1953637820083634442/photo/1",
+              "media_key": "3_1953637816501780480",
+              "start": 12,
+              "url": "https://t.co/8S2hBLihxv"
+            },
+            {
+              "display_url": "pic.x.com/8S2hBLihxv",
+              "end": 35,
+              "expanded_url": "https://x.com/empress_kiyana/status/1953637820083634442/photo/1",
+              "media_key": "3_1953637816468221955",
+              "start": 12,
+              "url": "https://t.co/8S2hBLihxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953637820083634442",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 152943,
+          "like_count": 3458,
+          "quote_count": 1,
+          "reply_count": 118,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "new hair :3 https://t.co/8S2hBLihxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2155,
+          "like_count": 21714,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5844
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T05:34:16.000Z",
+        "description": "big ego, bigger heart this is my only alt account PLS REPORT IMPERSONATERS😭 main account @slayzkiana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "slayzkiana"
+              }
+            ]
+          }
+        },
+        "id": "1934122160903340032",
+        "name": "kiyana alt",
+        "pinned_tweet_id": "1957383948113482048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944925678463283200/I13CoHF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42044,
+          "following_count": 64,
+          "like_count": 933,
+          "listed_count": 26,
+          "media_count": 88,
+          "tweet_count": 441
+        },
+        "username": "empress_kiyana",
+        "verified": false
+      }
+    ]
+  }
+}

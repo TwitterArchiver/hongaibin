@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840697278039990272",
+        "3_1840697278065217537",
+        "3_1840697278040023040",
+        "3_1840697278052573184"
+      ],
+      "media_source_tweet_id": [
+        "1840697283446464918",
+        "1840697283446464918",
+        "1840697283446464918",
+        "1840697283446464918"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1841007280667705501",
+    "created_at": "2024-10-01T06:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T07:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841007280667705501"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 14,
+          "tag": "私の個性はきっと誰かにささる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1190841701755015168",
+          "start": 3,
+          "username": "amn_ic01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tjIYtcUsUg",
+          "end": 53,
+          "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+          "media_key": "3_1840697278039990272",
+          "start": 30,
+          "url": "https://t.co/tjIYtcUsUg"
+        },
+        {
+          "display_url": "pic.x.com/tjIYtcUsUg",
+          "end": 53,
+          "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+          "media_key": "3_1840697278065217537",
+          "start": 30,
+          "url": "https://t.co/tjIYtcUsUg"
+        },
+        {
+          "display_url": "pic.x.com/tjIYtcUsUg",
+          "end": 53,
+          "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+          "media_key": "3_1840697278040023040",
+          "start": 30,
+          "url": "https://t.co/tjIYtcUsUg"
+        },
+        {
+          "display_url": "pic.x.com/tjIYtcUsUg",
+          "end": 53,
+          "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+          "media_key": "3_1840697278052573184",
+          "start": 30,
+          "url": "https://t.co/tjIYtcUsUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841007280667705501",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840697283446464918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amn_ic01: #私の個性はきっと誰かにささる https://t.co/tjIYtcUsUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840697278039990272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYt4bASaIAAfBGT.jpg",
+        "width": 1102
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840697278065217537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYt4bAYbEAEKtP-.jpg",
+        "width": 1194
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840697278040023040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYt4bASaoAArl0Q.jpg",
+        "width": 1303
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1840697278052573184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYt4bAVaIAAprRp.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840697278039990272",
+            "3_1840697278065217537",
+            "3_1840697278040023040",
+            "3_1840697278052573184"
+          ],
+          "media_source_tweet_id": [
+            "1840697283446464918",
+            "1840697283446464918",
+            "1840697283446464918",
+            "1840697283446464918"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1841007280667705501",
+        "created_at": "2024-10-01T06:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841007280667705501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 14,
+              "tag": "私の個性はきっと誰かにささる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1190841701755015168",
+              "start": 3,
+              "username": "amn_ic01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 53,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278039990272",
+              "start": 30,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 53,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278065217537",
+              "start": 30,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 53,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278040023040",
+              "start": 30,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 53,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278052573184",
+              "start": 30,
+              "url": "https://t.co/tjIYtcUsUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841007280667705501",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840697283446464918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amn_ic01: #私の個性はきっと誰かにささる https://t.co/tjIYtcUsUg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840697278039990272",
+            "3_1840697278065217537",
+            "3_1840697278040023040",
+            "3_1840697278052573184"
+          ]
+        },
+        "author_id": "1190841701755015168",
+        "conversation_id": "1840697283446464918",
+        "created_at": "2024-09-30T10:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T11:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840697283446464918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "私の個性はきっと誰かにささる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 39,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278039990272",
+              "start": 16,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 39,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278065217537",
+              "start": 16,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 39,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278040023040",
+              "start": 16,
+              "url": "https://t.co/tjIYtcUsUg"
+            },
+            {
+              "display_url": "pic.x.com/tjIYtcUsUg",
+              "end": 39,
+              "expanded_url": "https://x.com/amn_ic01/status/1840697283446464918/photo/1",
+              "media_key": "3_1840697278052573184",
+              "start": 16,
+              "url": "https://t.co/tjIYtcUsUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840697283446464918",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 26699,
+          "like_count": 475,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "#私の個性はきっと誰かにささる https://t.co/tjIYtcUsUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/r4wOcDfPdW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibin",
+                "end": 121,
+                "expanded_url": "https://t.me/hongaibin",
+                "start": 98,
+                "url": "https://t.co/r4wOcDfPdW"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1518,
+          "like_count": 8351,
+          "listed_count": 3,
+          "tweet_count": 3192
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-03T04:02:51.000Z",
+        "description": "illustration｜mail amaneitj@gmail.com 依頼受付中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amaneitj",
+                "end": 23,
+                "expanded_url": "http://lit.link/amaneitj",
+                "start": 0,
+                "url": "https://t.co/Mngkz4ndRf"
+              }
+            ]
+          }
+        },
+        "id": "1190841701755015168",
+        "name": "一条",
+        "pinned_tweet_id": "1786816918583914571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593204180441006080/PTL6L2no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49585,
+          "following_count": 1159,
+          "like_count": 41599,
+          "listed_count": 376,
+          "tweet_count": 30114
+        },
+        "url": "https://t.co/Mngkz4ndRf",
+        "username": "amn_ic01",
+        "verified": true
+      }
+    ]
+  }
+}

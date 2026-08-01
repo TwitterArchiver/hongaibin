@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971867039619862528"
+      ],
+      "media_source_tweet_id": [
+        "1971867049128612070"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1974926729723683305",
+    "created_at": "2025-10-05T19:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974926729723683305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1923770650906238976",
+          "start": 3,
+          "username": "namicf1137"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYEwhURsts",
+          "end": 46,
+          "expanded_url": "https://x.com/namicf1137/status/1971867049128612070/photo/1",
+          "media_key": "3_1971867039619862528",
+          "start": 23,
+          "url": "https://t.co/fYEwhURsts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974926729723683305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971867049128612070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @namicf1137: 我文化水平： https://t.co/fYEwhURsts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1971867039619862528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G116oAjX0AACZh1.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971867039619862528"
+          ],
+          "media_source_tweet_id": [
+            "1971867049128612070"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1974926729723683305",
+        "created_at": "2025-10-05T19:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974926729723683305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1923770650906238976",
+              "start": 3,
+              "username": "namicf1137"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYEwhURsts",
+              "end": 46,
+              "expanded_url": "https://x.com/namicf1137/status/1971867049128612070/photo/1",
+              "media_key": "3_1971867039619862528",
+              "start": 23,
+              "url": "https://t.co/fYEwhURsts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974926729723683305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971867049128612070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @namicf1137: 我文化水平： https://t.co/fYEwhURsts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971867039619862528"
+          ]
+        },
+        "author_id": "1923770650906238976",
+        "conversation_id": "1971867049128612070",
+        "created_at": "2025-09-27T09:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971867049128612070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYEwhURsts",
+              "end": 30,
+              "expanded_url": "https://x.com/namicf1137/status/1971867049128612070/photo/1",
+              "media_key": "3_1971867039619862528",
+              "start": 7,
+              "url": "https://t.co/fYEwhURsts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971867049128612070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 395953,
+          "like_count": 3016,
+          "quote_count": 13,
+          "reply_count": 89,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "我文化水平： https://t.co/fYEwhURsts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 2196,
+          "like_count": 23192,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6102
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T16:00:52.000Z",
+        "description": "( •᷄ὤ•᷅)？就爱发点废话/爱我给我点钱mua/不要喊我姐姐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nami18334",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nami18334",
+                "start": 0,
+                "url": "https://t.co/QedWDqNPpw"
+              }
+            ]
+          }
+        },
+        "id": "1923770650906238976",
+        "location": "小事赞赏大事口令",
+        "name": "唉，呐咪",
+        "pinned_tweet_id": "1937629286531498149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671877930360832/-g-TpKGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 166,
+          "like_count": 3507,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/QedWDqNPpw",
+        "username": "namicf1137",
+        "verified": false
+      }
+    ]
+  }
+}

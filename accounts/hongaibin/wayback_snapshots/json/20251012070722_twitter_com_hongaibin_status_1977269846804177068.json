@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976225101105463300",
+        "3_1976225101109719040"
+      ],
+      "media_source_tweet_id": [
+        "1976225249613193440",
+        "1976225249613193440"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "1977269846804177068",
+    "created_at": "2025-10-12T07:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977269846804177068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971208789853675520",
+          "start": 3,
+          "username": "seroglumax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiVdSCutZu",
+          "end": 90,
+          "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+          "media_key": "3_1976225101105463300",
+          "start": 67,
+          "url": "https://t.co/yiVdSCutZu"
+        },
+        {
+          "display_url": "pic.x.com/yiVdSCutZu",
+          "end": 90,
+          "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+          "media_key": "3_1976225101109719040",
+          "start": 67,
+          "url": "https://t.co/yiVdSCutZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977269846804177068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976225249613193440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seroglumax: 内源性致幻剂！？（不过因人而异，且需要训练冥想来增加效果，我没有经常训练，都试过也没有出现明显幻觉） https://t.co/yiVdSCutZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 205,
+        "media_key": "3_1976225101105463300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2z2QkuaAAQ1FP5.png",
+        "width": 1309
+      },
+      {
+        "height": 197,
+        "media_key": "3_1976225101109719040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2z2Qkva8AAjPX4.png",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976225101105463300",
+            "3_1976225101109719040"
+          ],
+          "media_source_tweet_id": [
+            "1976225249613193440",
+            "1976225249613193440"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "1977269846804177068",
+        "created_at": "2025-10-12T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977269846804177068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971208789853675520",
+              "start": 3,
+              "username": "seroglumax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiVdSCutZu",
+              "end": 90,
+              "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+              "media_key": "3_1976225101105463300",
+              "start": 67,
+              "url": "https://t.co/yiVdSCutZu"
+            },
+            {
+              "display_url": "pic.x.com/yiVdSCutZu",
+              "end": 90,
+              "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+              "media_key": "3_1976225101109719040",
+              "start": 67,
+              "url": "https://t.co/yiVdSCutZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977269846804177068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976225249613193440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seroglumax: 内源性致幻剂！？（不过因人而异，且需要训练冥想来增加效果，我没有经常训练，都试过也没有出现明显幻觉） https://t.co/yiVdSCutZu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976225101105463300",
+            "3_1976225101109719040"
+          ]
+        },
+        "author_id": "1971208789853675520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "1976225249613193440",
+        "created_at": "2025-10-09T09:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976225249613193440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiVdSCutZu",
+              "end": 74,
+              "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+              "media_key": "3_1976225101105463300",
+              "start": 51,
+              "url": "https://t.co/yiVdSCutZu"
+            },
+            {
+              "display_url": "pic.x.com/yiVdSCutZu",
+              "end": 74,
+              "expanded_url": "https://x.com/seroglumax/status/1976225249613193440/photo/1",
+              "media_key": "3_1976225101109719040",
+              "start": 51,
+              "url": "https://t.co/yiVdSCutZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976225249613193440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1784,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内源性致幻剂！？（不过因人而异，且需要训练冥想来增加效果，我没有经常训练，都试过也没有出现明显幻觉） https://t.co/yiVdSCutZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 2195,
+          "like_count": 23281,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 6131
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 163
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

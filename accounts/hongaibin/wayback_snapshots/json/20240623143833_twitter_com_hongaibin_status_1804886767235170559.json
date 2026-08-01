@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1804886767235170559",
+    "created_at": "2024-06-23T14:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T15:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804886767235170559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1114874967324332032",
+          "start": 3,
+          "username": "FogPointer"
+        },
+        {
+          "end": 25,
+          "id": "1692075579850563584",
+          "start": 16,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804886767235170559",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804732642912506286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FogPointer: @10Lystra 懂了，想死下不定决心就去做自杀干预（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1804886767235170559",
+        "created_at": "2024-06-23T14:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804886767235170559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1114874967324332032",
+              "start": 3,
+              "username": "FogPointer"
+            },
+            {
+              "end": 25,
+              "id": "1692075579850563584",
+              "start": 16,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804886767235170559",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804732642912506286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FogPointer: @10Lystra 懂了，想死下不定决心就去做自杀干预（x"
+      },
+      {
+        "attachments": {},
+        "author_id": "1114874967324332032",
+        "conversation_id": "1804210315611246775",
+        "created_at": "2024-06-23T04:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T05:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804732642912506286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804732642912506286",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804210315611246775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 懂了，想死下不定决心就去做自杀干预（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 1052,
+          "like_count": 2028,
+          "listed_count": 1,
+          "tweet_count": 1440
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T12:58:00.000Z",
+        "description": "どうせ100年後にはみんな 溶けてひとつになってしまうんだ\n反正100年后大家都会溶为一体吧",
+        "id": "1114874967324332032",
+        "location": "现实稳定锚",
+        "name": "😯",
+        "pinned_tweet_id": "1775390662139281444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603940980163739653/-4a4WEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1657,
+          "like_count": 23508,
+          "listed_count": 2,
+          "tweet_count": 7598
+        },
+        "username": "FogPointer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 257,
+          "like_count": 1025,
+          "listed_count": 2,
+          "tweet_count": 1899
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

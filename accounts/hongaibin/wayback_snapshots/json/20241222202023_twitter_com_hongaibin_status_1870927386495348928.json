@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870681660813180928"
+      ],
+      "media_source_tweet_id": [
+        "1870681669319159883"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1870927386495348928",
+    "created_at": "2024-12-22T20:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T21:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870927386495348928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601903141083316224",
+          "start": 3,
+          "username": "77se_bu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmPzGFC3KP",
+          "end": 36,
+          "expanded_url": "https://x.com/77se_bu/status/1870681669319159883/photo/1",
+          "media_key": "3_1870681660813180928",
+          "start": 13,
+          "url": "https://t.co/hmPzGFC3KP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870927386495348928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 625
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870681669319159883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77se_bu: https://t.co/hmPzGFC3KP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1870681660813180928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfX_DyibgAAsJ3v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870681660813180928"
+          ],
+          "media_source_tweet_id": [
+            "1870681669319159883"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870927386495348928",
+        "created_at": "2024-12-22T20:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T21:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870927386495348928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601903141083316224",
+              "start": 3,
+              "username": "77se_bu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmPzGFC3KP",
+              "end": 36,
+              "expanded_url": "https://x.com/77se_bu/status/1870681669319159883/photo/1",
+              "media_key": "3_1870681660813180928",
+              "start": 13,
+              "url": "https://t.co/hmPzGFC3KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870927386495348928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 625
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870681669319159883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77se_bu: https://t.co/hmPzGFC3KP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870681660813180928"
+          ]
+        },
+        "author_id": "1601903141083316224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870681669319159883",
+        "created_at": "2024-12-22T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870681669319159883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmPzGFC3KP",
+              "end": 23,
+              "expanded_url": "https://x.com/77se_bu/status/1870681669319159883/photo/1",
+              "media_key": "3_1870681660813180928",
+              "start": 0,
+              "url": "https://t.co/hmPzGFC3KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870681669319159883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 30124,
+          "like_count": 3212,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 625
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hmPzGFC3KP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1663,
+          "like_count": 13081,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 3998
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T11:34:14.000Z",
+        "description": "seb/7 , ᶜᵒᵐᵐᶤˢˢᶤᵒᶰ ᶜˡᵒˢᵉᵈ | ✧ sebtember777@gmail.com | sub acc : @angelfish__07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "angelfish__07"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "77sebu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://77sebu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/rmFdM1yBGN"
+              }
+            ]
+          }
+        },
+        "id": "1601903141083316224",
+        "location": "𓆝 𓆟 𓆞 .⋆｡°✩",
+        "name": "sev 🚷 (rest)",
+        "pinned_tweet_id": "1803027559267156458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842176368240627712/wsKZrtBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51816,
+          "following_count": 858,
+          "like_count": 25370,
+          "listed_count": 124,
+          "media_count": 251,
+          "tweet_count": 24505
+        },
+        "url": "https://t.co/rmFdM1yBGN",
+        "username": "77se_bu",
+        "verified": false
+      }
+    ]
+  }
+}

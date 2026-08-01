@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1819984716390600809",
+    "created_at": "2024-08-04T06:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T07:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819984716390600809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752493314371358720",
+          "start": 3,
+          "username": "luobo_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819984716390600809",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819867682310906366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo_mio: 医生说打飞机容易记忆力下降🥹于是我每天三次 试图把你忘记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1819984716390600809",
+        "created_at": "2024-08-04T06:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T07:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819984716390600809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752493314371358720",
+              "start": 3,
+              "username": "luobo_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819984716390600809",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819867682310906366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobo_mio: 医生说打飞机容易记忆力下降🥹于是我每天三次 试图把你忘记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752493314371358720",
+        "conversation_id": "1819867682310906366",
+        "created_at": "2024-08-03T22:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T23:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819867682310906366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819867682310906366",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2497,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "医生说打飞机容易记忆力下降🥹于是我每天三次 试图把你忘记"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 2,
+          "like_count": 13,
+          "listed_count": 2,
+          "tweet_count": 2272
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T00:46:04.000Z",
+        "description": "ig：yanyan_kawa1｜06年｜ろく｜不要把我的推文搬运到墙内｜另一面@luobonoai｜看到感兴趣的人就会关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "luobonoai"
+              }
+            ]
+          }
+        },
+        "id": "1752493314371358720",
+        "location": "对陌生人脾气不好",
+        "name": "萝卜哥11.0",
+        "pinned_tweet_id": "1819181268887917002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797306720185962496/c2uUQ9jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7497,
+          "following_count": 182,
+          "like_count": 711,
+          "listed_count": 14,
+          "tweet_count": 858
+        },
+        "username": "luobo_mio",
+        "verified": false
+      }
+    ]
+  }
+}

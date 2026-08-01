@@ -1,0 +1,285 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1808536892973199365"
+      ],
+      "media_source_tweet_id": [
+        "1808555677184577597"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1813658893836546122",
+    "created_at": "2024-07-17T19:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T20:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813658893836546122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629373997539561473",
+          "start": 3,
+          "username": "mtxyygs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uGPF3DPpmP",
+          "end": 50,
+          "expanded_url": "https://twitter.com/mtxyygs/status/1808555677184577597/video/1",
+          "media_key": "7_1808536892973199365",
+          "start": 27,
+          "url": "https://t.co/uGPF3DPpmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813658893836546122",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808555677184577597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtxyygs: 天使还是魔鬼？揭秘右美沙芬 https://t.co/uGPF3DPpmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139987,
+        "height": 720,
+        "media_key": "7_1808536892973199365",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808536892973199365/pu/img/Dk9AMK89joPBN5xh.jpg",
+        "public_metrics": {
+          "view_count": 6182
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808536892973199365/pu/vid/avc1/480x270/OrLW5UnyEWU7qo36.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808536892973199365/pu/vid/avc1/640x360/fZQp5Xh_CmJqAfny.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808536892973199365/pu/vid/avc1/1280x720/Jpw8EGJqTX7s7_FX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808536892973199365/pu/pl/HtEKFZfJnTzrGxTx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808536892973199365"
+          ],
+          "media_source_tweet_id": [
+            "1808555677184577597"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813658893836546122",
+        "created_at": "2024-07-17T19:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T20:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813658893836546122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629373997539561473",
+              "start": 3,
+              "username": "mtxyygs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uGPF3DPpmP",
+              "end": 50,
+              "expanded_url": "https://twitter.com/mtxyygs/status/1808555677184577597/video/1",
+              "media_key": "7_1808536892973199365",
+              "start": 27,
+              "url": "https://t.co/uGPF3DPpmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813658893836546122",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808555677184577597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtxyygs: 天使还是魔鬼？揭秘右美沙芬 https://t.co/uGPF3DPpmP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808536892973199365"
+          ]
+        },
+        "author_id": "1629373997539561473",
+        "conversation_id": "1808555677184577597",
+        "created_at": "2024-07-03T17:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T18:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808555677184577597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uGPF3DPpmP",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mtxyygs/status/1808555677184577597/video/1",
+              "media_key": "7_1808536892973199365",
+              "start": 14,
+              "url": "https://t.co/uGPF3DPpmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808555677184577597",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24288,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "天使还是魔鬼？揭秘右美沙芬 https://t.co/uGPF3DPpmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1143,
+          "like_count": 2861,
+          "listed_count": 1,
+          "tweet_count": 1735
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T06:53:44.000Z",
+        "description": "主营各类非处方、处方药、注射剂、医疗器械、保健品。日常经营品规一万多种，支持1件发货。普瑞、可待因、复方甘草、美金刚、舍曲林、安非他酮、金刚烷胺……处方药需要开方销售，https://t.co/OGsCOY58gc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MTXYYGS",
+                "end": 107,
+                "expanded_url": "https://t.me/MTXYYGS",
+                "start": 84,
+                "url": "https://t.co/OGsCOY58gc"
+              }
+            ]
+          }
+        },
+        "id": "1629373997539561473",
+        "name": "满天星医药公司",
+        "pinned_tweet_id": "1812547596705218572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805253455272955904/sBKfj115_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 199,
+          "like_count": 74,
+          "listed_count": 0,
+          "tweet_count": 323
+        },
+        "username": "mtxyygs",
+        "verified": false
+      }
+    ]
+  }
+}

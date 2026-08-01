@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1876831006965059892",
+    "created_at": "2025-01-08T13:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T14:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876978460226113913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 26,
+          "id": "1798724969695977472",
+          "start": 13,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XiJinpingZhina…",
+          "end": 50,
+          "expanded_url": "https://x.com/XiJinpingZhina/status/1876183027061313602?s=19",
+          "start": 27,
+          "url": "https://t.co/jbdUlKErDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876978460226113913",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876183027061313602",
+        "type": "quoted"
+      },
+      {
+        "id": "1876872728558403800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr @overdosewiki https://t.co/jbdUlKErDa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1876183027061313602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876183027061313602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876183027061313602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1876831006965059892",
+        "created_at": "2025-01-08T13:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876978460226113913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 26,
+              "id": "1798724969695977472",
+              "start": 13,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XiJinpingZhina…",
+              "end": 50,
+              "expanded_url": "https://x.com/XiJinpingZhina/status/1876183027061313602?s=19",
+              "start": 27,
+              "url": "https://t.co/jbdUlKErDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876978460226113913",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876183027061313602",
+            "type": "quoted"
+          },
+          {
+            "id": "1876872728558403800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @overdosewiki https://t.co/jbdUlKErDa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "1876831006965059892",
+        "created_at": "2025-01-08T06:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T07:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876872728558403800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876872728558403800",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876831006965059892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 不是说把他开了吗？我到现在都能看见大头照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 152,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 129,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬/处方ps @lingci911c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1687,
+          "like_count": 13468,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 4073
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 98,
+          "like_count": 8200,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2589
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/w0mFDxhZLC站点方面的问题可以私信我，只有这边才能收到反馈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "忠！诚！",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1815754831950475530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 8,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

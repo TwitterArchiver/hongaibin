@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1813373741944250368"
+      ],
+      "media_source_tweet_id": [
+        "1813373806603563357"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1813513522921500866",
+    "created_at": "2024-07-17T09:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T10:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813513522921500866"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "男娘"
+        },
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "sissy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1793135645420081152",
+          "start": 3,
+          "username": "xiaojiaomao_QWQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/CytujhDR3L",
+          "end": 100,
+          "expanded_url": "https://twitter.com/xiaojiaomao_QWQ/status/1813373806603563357/video/1",
+          "media_key": "7_1813373741944250368",
+          "start": 77,
+          "url": "https://t.co/CytujhDR3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813513522921500866",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813373806603563357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojiaomao_QWQ: 猫猫变身～（好…好羞耻^&gt;⸝⸝⸝⸝&lt;^ ）\n看完有彩蛋哦～\n\n#可爱的男孩子 #男娘 #sissy https://t.co/CytujhDR3L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813513522921500866].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813513522921500866",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813513522921500866"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53381,
+        "height": 960,
+        "media_key": "7_1813373741944250368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1813373741944250368/pu/img/zfah34zwWG7qZsbF.jpg",
+        "public_metrics": {
+          "view_count": 882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813373741944250368/pu/vid/avc1/320x426/bs9Wa69zwE22hXuU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813373741944250368/pu/vid/avc1/480x640/eN2OIOOsGQdjWX-B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813373741944250368/pu/vid/avc1/720x960/SI8iwY1TzVcbXOOZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1813373741944250368/pu/pl/4twA5hsCdhpnRfdg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813373741944250368"
+          ]
+        },
+        "author_id": "1793135645420081152",
+        "conversation_id": "1813373806603563357",
+        "created_at": "2024-07-17T00:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T01:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813373806603563357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "男娘"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "sissy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CytujhDR3L",
+              "end": 79,
+              "expanded_url": "https://twitter.com/xiaojiaomao_QWQ/status/1813373806603563357/video/1",
+              "media_key": "7_1813373741944250368",
+              "start": 56,
+              "url": "https://t.co/CytujhDR3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813373806603563357",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3077,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫变身～（好…好羞耻^&gt;⸝⸝⸝⸝&lt;^ ）\n看完有彩蛋哦～\n\n#可爱的男孩子 #男娘 #sissy https://t.co/CytujhDR3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1135,
+          "like_count": 2737,
+          "listed_count": 1,
+          "tweet_count": 1683
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T04:24:01.000Z",
+        "description": "💗165cm/42.4kg🤍｜含糖弱女子⚧00后小可爱😉｜🚪30（仅聊天）🚪88（线下）真的很感谢，咱可以陪聊或者偶尔发猫猫叫哦^-^ #线下 接爸爸活、伴游🍧🩵｜求关注和赞赞～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "线下"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaojiaomao",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaojiaomao",
+                "start": 0,
+                "url": "https://t.co/lyMWCkN8rU"
+              }
+            ]
+          }
+        },
+        "id": "1793135645420081152",
+        "location": "电报聊天👇（防走丟的TG频道、欢迎查阅！）",
+        "name": "🌸小娇猫^ ̳- ‧̫ • ̳^ฅ",
+        "pinned_tweet_id": "1807986038478172587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794674233920147456/4bqH0XWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 68,
+          "like_count": 570,
+          "listed_count": 8,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/lyMWCkN8rU",
+        "username": "xiaojiaomao_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

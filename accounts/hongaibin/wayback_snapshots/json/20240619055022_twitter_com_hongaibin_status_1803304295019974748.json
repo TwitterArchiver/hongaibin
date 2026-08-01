@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1803304295019974748",
+    "created_at": "2024-06-19T05:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T06:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803304295019974748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479730386431545346",
+          "start": 3,
+          "username": "YuKi52037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803304295019974748",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803160977112014932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuKi52037: 预告 30t晚安+16t普瑞\n要么床上见 要么病床上见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1803304295019974748",
+        "created_at": "2024-06-19T05:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T06:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803304295019974748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479730386431545346",
+              "start": 3,
+              "username": "YuKi52037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803304295019974748",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803160977112014932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuKi52037: 预告 30t晚安+16t普瑞\n要么床上见 要么病床上见"
+      },
+      {
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1803160977112014932",
+        "created_at": "2024-06-18T20:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T21:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803160977112014932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803160977112014932",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "预告 30t晚安+16t普瑞\n要么床上见 要么病床上见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1053,
+          "like_count": 1838,
+          "listed_count": 1,
+          "tweet_count": 1388
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘/🚪28-58-108/含糖/身高177/体重120/及腰长发/二次元/美食/可爱的事物/sm/同类互fo",
+        "id": "1479730386431545346",
+        "location": "北京/广州/上海/成都",
+        "name": "千雪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1799142374893035967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799145912125755392/F9oqedh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 766,
+          "like_count": 8878,
+          "listed_count": 6,
+          "tweet_count": 544
+        },
+        "username": "YuKi52037",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943968269955665920"
+      ],
+      "media_source_tweet_id": [
+        "1943968275882266759"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1944702762547347551",
+    "created_at": "2025-07-14T10:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T11:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944702762547347551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1357319862343921664",
+          "start": 3,
+          "username": "MrAreku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4bBcX1ai7",
+          "end": 36,
+          "expanded_url": "https://x.com/MrAreku/status/1943968275882266759/photo/1",
+          "media_key": "3_1943968269955665920",
+          "start": 13,
+          "url": "https://t.co/x4bBcX1ai7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944702762547347551",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943968275882266759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrAreku: https://t.co/x4bBcX1ai7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_1943968269955665920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvpc14lWkAALAnf.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943968269955665920"
+          ],
+          "media_source_tweet_id": [
+            "1943968275882266759"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1944702762547347551",
+        "created_at": "2025-07-14T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944702762547347551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1357319862343921664",
+              "start": 3,
+              "username": "MrAreku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4bBcX1ai7",
+              "end": 36,
+              "expanded_url": "https://x.com/MrAreku/status/1943968275882266759/photo/1",
+              "media_key": "3_1943968269955665920",
+              "start": 13,
+              "url": "https://t.co/x4bBcX1ai7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944702762547347551",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943968275882266759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrAreku: https://t.co/x4bBcX1ai7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943968269955665920"
+          ]
+        },
+        "author_id": "1357319862343921664",
+        "conversation_id": "1943968275882266759",
+        "created_at": "2025-07-12T09:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943968275882266759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4bBcX1ai7",
+              "end": 23,
+              "expanded_url": "https://x.com/MrAreku/status/1943968275882266759/photo/1",
+              "media_key": "3_1943968269955665920",
+              "start": 0,
+              "url": "https://t.co/x4bBcX1ai7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943968275882266759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7269,
+          "impression_count": 852807,
+          "like_count": 50408,
+          "quote_count": 56,
+          "reply_count": 43,
+          "retweet_count": 2216
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x4bBcX1ai7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 2088,
+          "like_count": 20478,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5549
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T13:27:44.000Z",
+        "description": "🇵🇱🇬🇧20 certified fogslop poster,pfp by @senyikan banner by @AleAle24444 my very cool YouTube channel https://t.co/R95zwXXa9A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "senyikan"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "AleAle24444"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@arekuowo?si=o…",
+                "end": 124,
+                "expanded_url": "https://youtube.com/@arekuowo?si=o2UtGxPLjs0fWwfs",
+                "start": 101,
+                "url": "https://t.co/R95zwXXa9A"
+              }
+            ]
+          }
+        },
+        "id": "1357319862343921664",
+        "location": ")^o^(",
+        "name": "Areku(アレク)🇵🇱",
+        "pinned_tweet_id": "1833871504523612538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836135534323793920/NXwZlGtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22171,
+          "following_count": 422,
+          "like_count": 45945,
+          "listed_count": 33,
+          "media_count": 4606,
+          "tweet_count": 8499
+        },
+        "username": "MrAreku",
+        "verified": false
+      }
+    ]
+  }
+}

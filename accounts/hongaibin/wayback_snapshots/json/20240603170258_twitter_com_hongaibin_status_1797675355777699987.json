@@ -1,0 +1,127 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1797675288681431040"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1797675355777699987",
+    "created_at": "2024-06-03T17:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T18:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797675355777699987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZhpqvAlXFu",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hongaibin/status/1797675355777699987/video/1",
+          "media_key": "7_1797675288681431040",
+          "start": 36,
+          "url": "https://t.co/ZhpqvAlXFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797675355777699987",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生活不是电影会兜兜转转 \n我也错过了她。。。。\n如果我有钱买迈巴赫。。 https://t.co/ZhpqvAlXFu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797675355777699987].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797675355777699987",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797675355777699987"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18085,
+        "height": 720,
+        "media_key": "7_1797675288681431040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797675288681431040/pu/img/Nvr2ErgLchFTDOWs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797675288681431040/pu/vid/avc1/480x270/GqAr46TPYb0YWU5s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797675288681431040/pu/vid/avc1/640x360/JKjjPCcGTsAPaa-h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797675288681431040/pu/vid/avc1/1280x720/hO8jUyeox0PaSRql.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797675288681431040/pu/pl/hKPeO6MjbxBtDksP.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1793966972558033181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 1061,
+          "like_count": 1586,
+          "listed_count": 1,
+          "tweet_count": 1071
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

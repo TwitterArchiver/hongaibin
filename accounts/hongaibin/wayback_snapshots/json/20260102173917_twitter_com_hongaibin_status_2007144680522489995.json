@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006246805982568453",
+        "3_2006246815692427264",
+        "3_2006246806687211521",
+        "3_2006246808327192576"
+      ],
+      "media_source_tweet_id": [
+        "2006246821069562021",
+        "2006246821069562021",
+        "2006246821069562021",
+        "2006246821069562021"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007144680522489995",
+    "created_at": "2026-01-02T17:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T18:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007144680522489995"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 16,
+          "tag": "2025年自分が選ぶ今年の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1402632490557181957",
+          "start": 3,
+          "username": "zatu____04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/plkBBJN6Gv",
+          "end": 65,
+          "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+          "media_key": "3_2006246805982568453",
+          "start": 42,
+          "url": "https://t.co/plkBBJN6Gv"
+        },
+        {
+          "display_url": "pic.x.com/plkBBJN6Gv",
+          "end": 65,
+          "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+          "media_key": "3_2006246815692427264",
+          "start": 42,
+          "url": "https://t.co/plkBBJN6Gv"
+        },
+        {
+          "display_url": "pic.x.com/plkBBJN6Gv",
+          "end": 65,
+          "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+          "media_key": "3_2006246806687211521",
+          "start": 42,
+          "url": "https://t.co/plkBBJN6Gv"
+        },
+        {
+          "display_url": "pic.x.com/plkBBJN6Gv",
+          "end": 65,
+          "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+          "media_key": "3_2006246808327192576",
+          "start": 42,
+          "url": "https://t.co/plkBBJN6Gv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007144680522489995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006246821069562021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zatu____04: #2025年自分が選ぶ今年の4枚\nお気に入りとか。 https://t.co/plkBBJN6Gv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2006246805982568453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ee1ypaYAUen5b.jpg",
+        "width": 1240
+      },
+      {
+        "height": 3684,
+        "media_key": "3_2006246815692427264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ee2W0bEAAzXqx.jpg",
+        "width": 2480
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2006246806687211521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ee11RaYAEipJJ.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1240,
+        "media_key": "3_2006246808327192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ee17YagAAZgxB.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006246805982568453",
+            "3_2006246815692427264",
+            "3_2006246806687211521",
+            "3_2006246808327192576"
+          ],
+          "media_source_tweet_id": [
+            "2006246821069562021",
+            "2006246821069562021",
+            "2006246821069562021",
+            "2006246821069562021"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007144680522489995",
+        "created_at": "2026-01-02T17:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007144680522489995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 16,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1402632490557181957",
+              "start": 3,
+              "username": "zatu____04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 65,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246805982568453",
+              "start": 42,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 65,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246815692427264",
+              "start": 42,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 65,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246806687211521",
+              "start": 42,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 65,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246808327192576",
+              "start": 42,
+              "url": "https://t.co/plkBBJN6Gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007144680522489995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006246821069562021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zatu____04: #2025年自分が選ぶ今年の4枚\nお気に入りとか。 https://t.co/plkBBJN6Gv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006246805982568453",
+            "3_2006246815692427264",
+            "3_2006246806687211521",
+            "3_2006246808327192576"
+          ]
+        },
+        "author_id": "1402632490557181957",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006246821069562021",
+        "created_at": "2025-12-31T06:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006246821069562021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 49,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246805982568453",
+              "start": 26,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 49,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246815692427264",
+              "start": 26,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 49,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246806687211521",
+              "start": 26,
+              "url": "https://t.co/plkBBJN6Gv"
+            },
+            {
+              "display_url": "pic.x.com/plkBBJN6Gv",
+              "end": 49,
+              "expanded_url": "https://x.com/zatu____04/status/2006246821069562021/photo/1",
+              "media_key": "3_2006246808327192576",
+              "start": 26,
+              "url": "https://t.co/plkBBJN6Gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006246821069562021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 21381,
+          "like_count": 1005,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "#2025年自分が選ぶ今年の4枚\nお気に入りとか。 https://t.co/plkBBJN6Gv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 2230,
+          "like_count": 23769,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 6304
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T14:26:25.000Z",
+        "description": "転載・保存禁止/FA🚷→#虚と却/納145件・作4件 https://t.co/x1ffeXbKXN /✉ uturohahito001@gmail. com /DM依頼◎ 納23件・作1件",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "虚と却"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@zatu____04",
+                "end": 50,
+                "expanded_url": "http://skeb.jp/@zatu____04",
+                "start": 27,
+                "url": "https://t.co/x1ffeXbKXN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/uturohahito001",
+                "end": 23,
+                "expanded_url": "https://lit.link/uturohahito001",
+                "start": 0,
+                "url": "https://t.co/nI7Y1Z4X8c"
+              }
+            ]
+          }
+        },
+        "id": "1402632490557181957",
+        "location": "うつろは ひと",
+        "name": "虚葉 弌。🚷🕊️",
+        "pinned_tweet_id": "2006908746849726545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976688047812161536/V178P2Wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53230,
+          "following_count": 594,
+          "like_count": 16590,
+          "listed_count": 300,
+          "media_count": 1127,
+          "tweet_count": 31173
+        },
+        "url": "https://t.co/nI7Y1Z4X8c",
+        "username": "zatu____04",
+        "verified": false
+      }
+    ]
+  }
+}

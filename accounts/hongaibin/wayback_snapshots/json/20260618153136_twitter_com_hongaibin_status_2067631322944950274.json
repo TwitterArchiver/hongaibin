@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047592275035992064",
+        "3_2047592274692124672"
+      ],
+      "media_source_tweet_id": [
+        "2047592302173212842",
+        "2047592302173212842"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2067631322944950274",
+    "created_at": "2026-06-18T15:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067631322944950274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667073911471894529",
+          "start": 3,
+          "username": "ngg01250"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZWJtiQI55n",
+          "end": 53,
+          "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+          "media_key": "3_2047592275035992064",
+          "start": 30,
+          "url": "https://t.co/ZWJtiQI55n"
+        },
+        {
+          "display_url": "pic.x.com/ZWJtiQI55n",
+          "end": 53,
+          "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+          "media_key": "3_2047592274692124672",
+          "start": 30,
+          "url": "https://t.co/ZWJtiQI55n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067631322944950274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047592302173212842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngg01250: “这就是你说的你在好好学习？” https://t.co/ZWJtiQI55n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2047592275035992064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqCU1ZasAAgLRf.jpg",
+        "width": 1026
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047592274692124672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqCU0HbsAALwp4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047592275035992064",
+            "3_2047592274692124672"
+          ],
+          "media_source_tweet_id": [
+            "2047592302173212842",
+            "2047592302173212842"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2067631322944950274",
+        "created_at": "2026-06-18T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067631322944950274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667073911471894529",
+              "start": 3,
+              "username": "ngg01250"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWJtiQI55n",
+              "end": 53,
+              "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+              "media_key": "3_2047592275035992064",
+              "start": 30,
+              "url": "https://t.co/ZWJtiQI55n"
+            },
+            {
+              "display_url": "pic.x.com/ZWJtiQI55n",
+              "end": 53,
+              "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+              "media_key": "3_2047592274692124672",
+              "start": 30,
+              "url": "https://t.co/ZWJtiQI55n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067631322944950274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047592302173212842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngg01250: “这就是你说的你在好好学习？” https://t.co/ZWJtiQI55n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047592275035992064",
+            "3_2047592274692124672"
+          ]
+        },
+        "author_id": "1667073911471894529",
+        "conversation_id": "2047592302173212842",
+        "created_at": "2026-04-24T08:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047592302173212842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWJtiQI55n",
+              "end": 39,
+              "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+              "media_key": "3_2047592275035992064",
+              "start": 16,
+              "url": "https://t.co/ZWJtiQI55n"
+            },
+            {
+              "display_url": "pic.x.com/ZWJtiQI55n",
+              "end": 39,
+              "expanded_url": "https://x.com/ngg01250/status/2047592302173212842/photo/1",
+              "media_key": "3_2047592274692124672",
+              "start": 16,
+              "url": "https://t.co/ZWJtiQI55n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047592302173212842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 250619,
+          "like_count": 2018,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "“这就是你说的你在好好学习？” https://t.co/ZWJtiQI55n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 2333,
+          "like_count": 24682,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 6469
+        },
+        "url": "",
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T07:39:35.000Z",
+        "description": "若存在为你带来了爱，我便有了意义",
+        "id": "1667073911471894529",
+        "location": "于你眼眸",
+        "name": "无妄-狼烟（重庆版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667074741247815680/mIu1Ha-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 860,
+          "like_count": 607,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "ngg01250",
+        "verified": false
+      }
+    ]
+  }
+}

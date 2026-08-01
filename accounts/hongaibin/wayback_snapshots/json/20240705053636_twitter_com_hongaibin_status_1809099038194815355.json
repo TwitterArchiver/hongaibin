@@ -1,0 +1,265 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1808392730629824512"
+      ],
+      "media_source_tweet_id": [
+        "1808392745494466939"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1809099038194815355",
+    "created_at": "2024-07-05T05:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T06:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809099038194815355"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "notmine",
+          "probability": 0.5733,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1728213650228367360",
+          "start": 3,
+          "username": "maiStyros"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FxWtLkdujV",
+          "end": 46,
+          "expanded_url": "https://twitter.com/awaMeaw/status/1808392745494466939/video/1",
+          "media_key": "7_1808392730629824512",
+          "start": 23,
+          "url": "https://t.co/FxWtLkdujV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809099038194815355",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808517718313685325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maiStyros: notmine https://t.co/FxWtLkdujV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809099038194815355].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809099038194815355",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809099038194815355"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4544,
+        "height": 1280,
+        "media_key": "7_1808392730629824512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808392730629824512/pu/img/eMZbXW93k5VgN2Kg.jpg",
+        "public_metrics": {
+          "view_count": 3624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808392730629824512/pu/vid/avc1/320x568/x2bUlmjLlBGL0uor.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808392730629824512/pu/vid/avc1/480x852/W2KMemog0fuWpcBJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808392730629824512/pu/vid/avc1/720x1280/Xn3ELGj9m51Hnut6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808392730629824512/pu/pl/1fbriUsXqU8vUcJG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808392730629824512"
+          ],
+          "media_source_tweet_id": [
+            "1808392745494466939"
+          ]
+        },
+        "author_id": "1728213650228367360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1808517718313685325",
+        "created_at": "2024-07-03T15:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T16:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808517718313685325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "notmine",
+              "probability": 0.7882,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FxWtLkdujV",
+              "end": 31,
+              "expanded_url": "https://twitter.com/awaMeaw/status/1808392745494466939/video/1",
+              "media_key": "7_1808392730629824512",
+              "start": 8,
+              "url": "https://t.co/FxWtLkdujV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808517718313685325",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 3964,
+          "like_count": 663,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "notmine https://t.co/FxWtLkdujV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1797675355777699987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1066,
+          "like_count": 2048,
+          "listed_count": 1,
+          "tweet_count": 1444
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T00:47:30.000Z",
+        "description": "documental de como mi demencia avanza 🙌🏻\ntranstornada y delgada 😇\n‼️ #shtw || #edtwt || #goretwt ‼️\nNOTHING IS MINE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "shtw"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "edtwt"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "goretwt"
+              }
+            ]
+          }
+        },
+        "id": "1728213650228367360",
+        "location": "#obslovetwt",
+        "name": "ricky || in forced recovery",
+        "pinned_tweet_id": "1752497823709282364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754299812558610432/qrLRVyCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 973,
+          "like_count": 4826,
+          "listed_count": 8,
+          "tweet_count": 1320
+        },
+        "username": "maiStyros",
+        "verified": false
+      }
+    ]
+  }
+}

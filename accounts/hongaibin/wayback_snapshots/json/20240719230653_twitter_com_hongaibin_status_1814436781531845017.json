@@ -1,0 +1,127 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1814436781531845017",
+    "created_at": "2024-07-19T23:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T00:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814436781531845017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongaibin/stat…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/hongaibin/status/1814349814693539945",
+          "start": 84,
+          "url": "https://t.co/eFYywBTeZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814436781531845017",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814349814693539945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很幸运，没有发生呕吐的问题 也没有任何不良反应 轻微的闭上眼的幻觉 可能因为阿立哌唑，舍曲林，的问题导致我的幻觉并不明显 不过这也可以了 也庆幸没有发生五羟色胺综合症 https://t.co/eFYywBTeZC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1814349814693539945].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1814349814693539945",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1814349814693539945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1814436781531845017",
+        "created_at": "2024-07-19T23:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T00:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814436781531845017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongaibin/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/hongaibin/status/1814349814693539945",
+              "start": 84,
+              "url": "https://t.co/eFYywBTeZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814436781531845017",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814349814693539945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很幸运，没有发生呕吐的问题 也没有任何不良反应 轻微的闭上眼的幻觉 可能因为阿立哌唑，舍曲林，的问题导致我的幻觉并不明显 不过这也可以了 也庆幸没有发生五羟色胺综合症 https://t.co/eFYywBTeZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1150,
+          "like_count": 3021,
+          "listed_count": 1,
+          "tweet_count": 1796
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

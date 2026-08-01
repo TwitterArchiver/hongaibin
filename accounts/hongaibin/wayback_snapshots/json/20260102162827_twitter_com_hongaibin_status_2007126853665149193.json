@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006872132849147904"
+      ],
+      "media_source_tweet_id": [
+        "2006872140415643750"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2007126853665149193",
+    "created_at": "2026-01-02T16:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007126853665149193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RD6QrncczG",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/2006872140415643750/photo/1",
+          "media_key": "3_2006872132849147904",
+          "start": 13,
+          "url": "https://t.co/RD6QrncczG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007126853665149193",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006872140415643750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/RD6QrncczG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2006872132849147904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9nXkmwaoAAu8NW.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006872132849147904"
+          ],
+          "media_source_tweet_id": [
+            "2006872140415643750"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2007126853665149193",
+        "created_at": "2026-01-02T16:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007126853665149193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RD6QrncczG",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/2006872140415643750/photo/1",
+              "media_key": "3_2006872132849147904",
+              "start": 13,
+              "url": "https://t.co/RD6QrncczG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007126853665149193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006872140415643750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/RD6QrncczG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006872132849147904"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2006872140415643750",
+        "created_at": "2026-01-01T23:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T00:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006872140415643750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RD6QrncczG",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2006872140415643750/photo/1",
+              "media_key": "3_2006872132849147904",
+              "start": 0,
+              "url": "https://t.co/RD6QrncczG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006872140415643750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 142260,
+          "like_count": 762,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RD6QrncczG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 2222,
+          "like_count": 23730,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 6298
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114462,
+          "following_count": 1014,
+          "like_count": 49464,
+          "listed_count": 259,
+          "media_count": 18306,
+          "tweet_count": 27485
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

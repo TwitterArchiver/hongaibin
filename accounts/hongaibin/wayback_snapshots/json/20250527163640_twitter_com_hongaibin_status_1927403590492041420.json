@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927221918911856640"
+      ],
+      "media_source_tweet_id": [
+        "1927221956341817763"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1927403590492041420",
+    "created_at": "2025-05-27T16:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927403590492041420"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "nsfw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B9owuOtLad",
+          "end": 42,
+          "expanded_url": "https://x.com/hsn8086/status/1927221956341817763/photo/1",
+          "media_key": "3_1927221918911856640",
+          "start": 19,
+          "url": "https://t.co/B9owuOtLad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927403590492041420",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927221956341817763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: #nsfw https://t.co/B9owuOtLad"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927403590492041420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927403590492041420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927403590492041420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_1927221918911856640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7eH9gWgAAl2mu.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927221918911856640"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1927221956341817763",
+        "created_at": "2025-05-27T04:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927221956341817763"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "nsfw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9owuOtLad",
+              "end": 29,
+              "expanded_url": "https://x.com/hsn8086/status/1927221956341817763/photo/1",
+              "media_key": "3_1927221918911856640",
+              "start": 6,
+              "url": "https://t.co/B9owuOtLad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927221956341817763",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16879,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#nsfw https://t.co/B9owuOtLad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 2015,
+          "like_count": 18471,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5152
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72973,
+          "following_count": 968,
+          "like_count": 40377,
+          "listed_count": 159,
+          "media_count": 11636,
+          "tweet_count": 18013
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

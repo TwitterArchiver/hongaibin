@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985701346683863048"
+      ],
+      "media_source_tweet_id": [
+        "1985701349003313359"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1985793462395146490",
+    "created_at": "2025-11-04T19:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985793462395146490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTumMirmpe",
+          "end": 41,
+          "expanded_url": "https://x.com/Overdose_DBD/status/1985701349003313359/photo/1",
+          "media_key": "3_1985701346683863048",
+          "start": 18,
+          "url": "https://t.co/QTumMirmpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985793462395146490",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985701349003313359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: https://t.co/QTumMirmpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1985701346683863048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46g2qcbQAgzV8G.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985701346683863048"
+          ],
+          "media_source_tweet_id": [
+            "1985701349003313359"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1985793462395146490",
+        "created_at": "2025-11-04T19:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985793462395146490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTumMirmpe",
+              "end": 41,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1985701349003313359/photo/1",
+              "media_key": "3_1985701346683863048",
+              "start": 18,
+              "url": "https://t.co/QTumMirmpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985793462395146490",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985701349003313359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: https://t.co/QTumMirmpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985701346683863048"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "1985701349003313359",
+        "created_at": "2025-11-04T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985701349003313359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTumMirmpe",
+              "end": 23,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1985701349003313359/photo/1",
+              "media_key": "3_1985701346683863048",
+              "start": 0,
+              "url": "https://t.co/QTumMirmpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985701349003313359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3081,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QTumMirmpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 2224,
+          "like_count": 23587,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6217
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4086,
+          "following_count": 57,
+          "like_count": 23,
+          "listed_count": 11,
+          "media_count": 488,
+          "tweet_count": 6075
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

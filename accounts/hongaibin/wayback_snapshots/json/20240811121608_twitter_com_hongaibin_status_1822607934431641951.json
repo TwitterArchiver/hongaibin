@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822607748678467584"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1822607934431641951",
+    "created_at": "2024-08-11T12:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T13:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822607934431641951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wguuqyh2h",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hongaibin/status/1822607934431641951/video/1",
+          "media_key": "7_1822607748678467584",
+          "start": 12,
+          "url": "https://t.co/8WGuUQYh2H"
+        },
+        {
+          "display_url": "pic.x.com/8wguuqyh2h",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hongaibin/status/1822607934431641951/video/1",
+          "media_key": "7_1822607890672418816",
+          "start": 12,
+          "url": "https://t.co/8WGuUQYh2H"
+        },
+        {
+          "display_url": "x.com/hongaibin/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hongaibin/status/1822605402661646338",
+          "start": 36,
+          "url": "https://t.co/hmugmzYR7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822607934431641951",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822605402661646338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃小酒 看广州禁毒 😂 https://t.co/8WGuUQYh2H https://t.co/hmugmzYR7J"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822607934431641951].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822607934431641951",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822607934431641951"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1822605402661646338].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822605402661646338",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822605402661646338"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86448,
+        "height": 1280,
+        "media_key": "7_1822607748678467584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822607748678467584/pu/img/6ptLciP3-pS__2XS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822607748678467584/pu/vid/avc1/320x568/SlF6WRl3DqNz8mJj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822607748678467584/pu/vid/avc1/480x852/1vOppTWwoZ8pT4e5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822607748678467584/pu/vid/avc1/720x1280/OUXI3-a7GahFmC-Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822607748678467584/pu/pl/MGq9YJq3BBO0QuuR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1254,
+          "like_count": 4905,
+          "listed_count": 2,
+          "tweet_count": 2448
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

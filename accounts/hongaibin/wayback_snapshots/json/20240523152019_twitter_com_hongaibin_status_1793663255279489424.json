@@ -1,0 +1,105 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793663187914768384"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1793663255279489424",
+    "created_at": "2024-05-23T15:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T16:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793663255279489424"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "od"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "金刚烷胺"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VJZ20zP0Sh",
+          "end": 129,
+          "expanded_url": "https://twitter.com/hongaibin/status/1793663255279489424/photo/1",
+          "media_key": "3_1793663187914768384",
+          "start": 106,
+          "url": "https://t.co/VJZ20zP0Sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793663255279489424",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上是 #普瑞巴林 8t\n本来是想 #od #金刚烷胺 的\n但是下午吃了普瑞巴林还在退效期 仔细重新读了文献以后 想想还是不要搞会出意外的事情 第1次超过2t以上的普瑞巴林剂量 会发生什么呢？很兴奋 很期待 https://t.co/VJZ20zP0Sh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793663255279489424].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793663255279489424",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793663255279489424"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1793663187914768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GORfKopawAAndSd.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 961,
+          "like_count": 1312,
+          "listed_count": 1,
+          "tweet_count": 729
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

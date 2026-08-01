@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "2007105624832942435",
+    "created_at": "2026-01-02T15:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007105624832942435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "今日瓜田"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "307353701",
+          "start": 3,
+          "username": "askaiwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007105624832942435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006652818762178899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askaiwy: #今日瓜田\n\n给大家大过年的来看点喜庆的！\n\n某个coser参加漫展看见一个厅局风打扮的人\n与现场风格格格不入\ncoser以为是自己孤陋寡闻了\n忍不住过去谦卑地请教人家是在cos哪个角色\n\n回答是“厅长”\n\n然后老实人有礼貌地请教“厅长”能不能集个邮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39520,
+        "height": 1280,
+        "media_key": "13_2006652762441109504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006652762441109504/img/LG-AGJITLBG79XOM.jpg",
+        "public_metrics": {
+          "view_count": 368391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006652762441109504/vid/avc1/320x568/Oc6tTOauRko5nFW0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006652762441109504/vid/avc1/480x852/_UojDa0RZZIYEic2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006652762441109504/vid/avc1/720x1280/TrCtHAg_Z-61ElI2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006652762441109504/pl/8Cbbg1rfQx8tAmH2.m3u8?v=6f0"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1766,
+        "media_key": "3_2006652760872431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kQDedbsAAwSLC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1823,
+        "media_key": "3_2006652762424250368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kQDkPakAAebK-.jpg",
+        "width": 1022
+      },
+      {
+        "height": 821,
+        "media_key": "3_2006652760884916231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kQDegaMAcc-_O.jpg",
+        "width": 1568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "2007105624832942435",
+        "created_at": "2026-01-02T15:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007105624832942435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "今日瓜田"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "307353701",
+              "start": 3,
+              "username": "askaiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007105624832942435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006652818762178899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @askaiwy: #今日瓜田\n\n给大家大过年的来看点喜庆的！\n\n某个coser参加漫展看见一个厅局风打扮的人\n与现场风格格格不入\ncoser以为是自己孤陋寡闻了\n忍不住过去谦卑地请教人家是在cos哪个角色\n\n回答是“厅长”\n\n然后老实人有礼貌地请教“厅长”能不能集个邮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006652762441109504",
+            "3_2006652760872431616",
+            "3_2006652762424250368",
+            "3_2006652760884916231"
+          ]
+        },
+        "author_id": "307353701",
+        "conversation_id": "2006652818762178899",
+        "created_at": "2026-01-01T09:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006652818762178899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "今日瓜田"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0j8JG4dj8H",
+              "end": 149,
+              "expanded_url": "https://x.com/askaiwy/status/2006652818762178899/video/1",
+              "media_key": "13_2006652762441109504",
+              "start": 126,
+              "url": "https://t.co/0j8JG4dj8H"
+            },
+            {
+              "display_url": "pic.x.com/0j8JG4dj8H",
+              "end": 149,
+              "expanded_url": "https://x.com/askaiwy/status/2006652818762178899/video/1",
+              "media_key": "3_2006652760872431616",
+              "start": 126,
+              "url": "https://t.co/0j8JG4dj8H"
+            },
+            {
+              "display_url": "pic.x.com/0j8JG4dj8H",
+              "end": 149,
+              "expanded_url": "https://x.com/askaiwy/status/2006652818762178899/video/1",
+              "media_key": "3_2006652762424250368",
+              "start": 126,
+              "url": "https://t.co/0j8JG4dj8H"
+            },
+            {
+              "display_url": "pic.x.com/0j8JG4dj8H",
+              "end": 149,
+              "expanded_url": "https://x.com/askaiwy/status/2006652818762178899/video/1",
+              "media_key": "3_2006652760884916231",
+              "start": 126,
+              "url": "https://t.co/0j8JG4dj8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006652818762178899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 814793,
+          "like_count": 2079,
+          "quote_count": 11,
+          "reply_count": 65,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "#今日瓜田\n\n给大家大过年的来看点喜庆的！\n\n某个coser参加漫展看见一个厅局风打扮的人\n与现场风格格格不入\ncoser以为是自己孤陋寡闻了\n忍不住过去谦卑地请教人家是在cos哪个角色\n\n回答是“厅长”\n\n然后老实人有礼貌地请教“厅长”能不能集个邮 https://t.co/0j8JG4dj8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 2214,
+          "like_count": 23683,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 6290
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-29T13:51:12.000Z",
+        "description": "瓜田里上蹿下跳东奔西走的猹；牙尖嘴利古灵精怪的前白大褂 ；原教旨中医；🦋同号预防万一 @amamirkd小号专门抽空写中医药知识科普",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "amamirkd"
+              }
+            ]
+          }
+        },
+        "id": "307353701",
+        "location": "日本 神奈川",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1788840262141374875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757782766920568832/Bs8jvrDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31781,
+          "following_count": 272,
+          "like_count": 88316,
+          "listed_count": 100,
+          "media_count": 7204,
+          "tweet_count": 22114
+        },
+        "username": "askaiwy",
+        "verified": true
+      }
+    ]
+  }
+}

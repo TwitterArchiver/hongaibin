@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933544314946371584"
+      ],
+      "media_source_tweet_id": [
+        "1933544317878219257"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934013553939542431",
+    "created_at": "2025-06-14T22:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T23:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934013553939542431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753348784573001728",
+          "start": 3,
+          "username": "Cheshire_kwine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfP24sNFJT",
+          "end": 48,
+          "expanded_url": "https://x.com/Cheshire_kwine/status/1933544317878219257/photo/1",
+          "media_key": "3_1933544314946371584",
+          "start": 25,
+          "url": "https://t.co/tfP24sNFJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934013553939542431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933544317878219257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheshire_kwine: 帮宝逝👍 https://t.co/tfP24sNFJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_1933544314946371584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVUT2HawAAbCvM.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933544314946371584"
+          ],
+          "media_source_tweet_id": [
+            "1933544317878219257"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934013553939542431",
+        "created_at": "2025-06-14T22:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T23:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934013553939542431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753348784573001728",
+              "start": 3,
+              "username": "Cheshire_kwine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfP24sNFJT",
+              "end": 48,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1933544317878219257/photo/1",
+              "media_key": "3_1933544314946371584",
+              "start": 25,
+              "url": "https://t.co/tfP24sNFJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934013553939542431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933544317878219257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheshire_kwine: 帮宝逝👍 https://t.co/tfP24sNFJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933544314946371584"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933544317878219257",
+        "created_at": "2025-06-13T15:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933544317878219257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfP24sNFJT",
+              "end": 28,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1933544317878219257/photo/1",
+              "media_key": "3_1933544314946371584",
+              "start": 5,
+              "url": "https://t.co/tfP24sNFJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933544317878219257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 121906,
+          "like_count": 970,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "帮宝逝👍 https://t.co/tfP24sNFJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2057,
+          "like_count": 19454,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5364
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "关于我请看置顶，接占卜接算命，有意者私🙇🏻‍♂️🙇🏻‍♀️",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，中间忘了后面也忘了",
+        "pinned_tweet_id": "1933114868829483169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932085518961176577/thMyIA3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 1287,
+          "like_count": 78537,
+          "listed_count": 11,
+          "media_count": 1758,
+          "tweet_count": 13616
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

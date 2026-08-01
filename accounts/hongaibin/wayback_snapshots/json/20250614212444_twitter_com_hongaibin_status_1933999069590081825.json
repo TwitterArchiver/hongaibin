@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933575577979514884",
+        "3_1933575573516795905"
+      ],
+      "media_source_tweet_id": [
+        "1933575581154656271",
+        "1933575581154656271"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1933999069590081825",
+    "created_at": "2025-06-14T21:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T22:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933999069590081825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893688350076542976",
+          "start": 3,
+          "username": "drug_artist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Tg6qsgwtC",
+          "end": 70,
+          "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+          "media_key": "3_1933575577979514884",
+          "start": 47,
+          "url": "https://t.co/8Tg6qsgwtC"
+        },
+        {
+          "display_url": "pic.x.com/8Tg6qsgwtC",
+          "end": 70,
+          "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+          "media_key": "3_1933575573516795905",
+          "start": 47,
+          "url": "https://t.co/8Tg6qsgwtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933999069590081825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933575581154656271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist: 这一天还是来了，6.26国际禁毒日主题为防范青少年药物滥用 https://t.co/8Tg6qsgwtC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_1933575577979514884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVwvl_W8AQt0TM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1579,
+        "media_key": "3_1933575573516795905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVwvVXXQAEymU_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933575577979514884",
+            "3_1933575573516795905"
+          ],
+          "media_source_tweet_id": [
+            "1933575581154656271",
+            "1933575581154656271"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1933999069590081825",
+        "created_at": "2025-06-14T21:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T22:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933999069590081825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893688350076542976",
+              "start": 3,
+              "username": "drug_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Tg6qsgwtC",
+              "end": 70,
+              "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+              "media_key": "3_1933575577979514884",
+              "start": 47,
+              "url": "https://t.co/8Tg6qsgwtC"
+            },
+            {
+              "display_url": "pic.x.com/8Tg6qsgwtC",
+              "end": 70,
+              "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+              "media_key": "3_1933575573516795905",
+              "start": 47,
+              "url": "https://t.co/8Tg6qsgwtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933999069590081825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933575581154656271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist: 这一天还是来了，6.26国际禁毒日主题为防范青少年药物滥用 https://t.co/8Tg6qsgwtC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933575577979514884",
+            "3_1933575573516795905"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "conversation_id": "1933575581154656271",
+        "created_at": "2025-06-13T17:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933575581154656271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Tg6qsgwtC",
+              "end": 53,
+              "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+              "media_key": "3_1933575577979514884",
+              "start": 30,
+              "url": "https://t.co/8Tg6qsgwtC"
+            },
+            {
+              "display_url": "pic.x.com/8Tg6qsgwtC",
+              "end": 53,
+              "expanded_url": "https://x.com/drug_artist/status/1933575581154656271/photo/1",
+              "media_key": "3_1933575573516795905",
+              "start": 30,
+              "url": "https://t.co/8Tg6qsgwtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933575581154656271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10712,
+          "like_count": 177,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这一天还是来了，6.26国际禁毒日主题为防范青少年药物滥用 https://t.co/8Tg6qsgwtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2056,
+          "like_count": 19354,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5350
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "沐雨",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 136,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

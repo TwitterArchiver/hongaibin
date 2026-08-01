@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1813228250845618327",
+    "created_at": "2024-07-16T15:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T16:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813228250845618327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813228250845618327",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811604274633408583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: ［情况通报］\n号主于昨天下午3：50 吃下10mg（5t）氯硝。\n\n之后就进行了发泄般的自残。\n之后挑照片发推的时候，记忆已经不可控地错乱了。\n最后直接昏死过去，苏醒时间9：10，依旧还有药效。\n\n期间所有记忆全部丢失，彻底断片。\n当前行动能力…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813228250845618327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813228250845618327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813228250845618327"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811604257352876034",
+            "3_1811604257285767169",
+            "3_1811604257877164033",
+            "3_1811604258124627969"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1811604274633408583",
+        "created_at": "2024-07-12T03:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T04:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811604274633408583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hyFyiIB33i",
+              "end": 149,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1811604274633408583/photo/1",
+              "media_key": "3_1811604257352876034",
+              "start": 126,
+              "url": "https://t.co/hyFyiIB33i"
+            },
+            {
+              "display_url": "pic.twitter.com/hyFyiIB33i",
+              "end": 149,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1811604274633408583/photo/1",
+              "media_key": "3_1811604257285767169",
+              "start": 126,
+              "url": "https://t.co/hyFyiIB33i"
+            },
+            {
+              "display_url": "pic.twitter.com/hyFyiIB33i",
+              "end": 149,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1811604274633408583/photo/1",
+              "media_key": "3_1811604257877164033",
+              "start": 126,
+              "url": "https://t.co/hyFyiIB33i"
+            },
+            {
+              "display_url": "pic.twitter.com/hyFyiIB33i",
+              "end": 149,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1811604274633408583/photo/1",
+              "media_key": "3_1811604258124627969",
+              "start": 126,
+              "url": "https://t.co/hyFyiIB33i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811604274633408583",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3726,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "［情况通报］\n号主于昨天下午3：50 吃下10mg（5t）氯硝。\n\n之后就进行了发泄般的自残。\n之后挑照片发推的时候，记忆已经不可控地错乱了。\n最后直接昏死过去，苏醒时间9：10，依旧还有药效。\n\n期间所有记忆全部丢失，彻底断片。\n当前行动能力为0… https://t.co/hyFyiIB33i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1132,
+          "like_count": 2697,
+          "listed_count": 1,
+          "tweet_count": 1656
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "萌新求fo/日常推+涩涩推🫣/\nENFP(INFP)/跨性别女性mtf(mtx)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/0.5/啥都爱玩🥵/开放式关系🥰/\n多伦多上学🇨🇦/约克大学/江苏无锡/\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7ZvDZ"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1793338001109799321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 854,
+          "like_count": 51786,
+          "listed_count": 19,
+          "tweet_count": 28700
+        },
+        "url": "https://t.co/LQg5S7ZvDZ",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

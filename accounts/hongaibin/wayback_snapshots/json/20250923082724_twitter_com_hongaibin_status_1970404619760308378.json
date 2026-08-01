@@ -1,0 +1,761 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1969471096245403843",
+    "created_at": "2025-09-23T08:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T09:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970404619760308378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2872688958",
+          "start": 0,
+          "username": "nova2cotton"
+        },
+        {
+          "end": 23,
+          "id": "3387286611",
+          "start": 13,
+          "username": "Fast_Buds"
+        },
+        {
+          "end": 34,
+          "id": "1628755827661103105",
+          "start": 24,
+          "username": "BroMendel"
+        },
+        {
+          "end": 49,
+          "id": "1427032518990118919",
+          "start": 35,
+          "username": "NightOwlSeeds"
+        },
+        {
+          "end": 66,
+          "id": "1653156765037481984",
+          "start": 50,
+          "username": "Twistedtreeauto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970404619760308378",
+    "in_reply_to_user_id": "2872688958",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969471096245403843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nova2cotton @Fast_Buds @BroMendel @NightOwlSeeds @Twistedtreeauto Cyberpunk 2077😎😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969471090213912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T3hZeaAAAn33G.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969471091572899840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T3heiagAApd__.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969471093204463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T3hknaMAAEUV6.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969471093284171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T3hk6acAAVbEq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1969471096245403843",
+        "created_at": "2025-09-23T08:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T09:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970404619760308378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2872688958",
+              "start": 0,
+              "username": "nova2cotton"
+            },
+            {
+              "end": 23,
+              "id": "3387286611",
+              "start": 13,
+              "username": "Fast_Buds"
+            },
+            {
+              "end": 34,
+              "id": "1628755827661103105",
+              "start": 24,
+              "username": "BroMendel"
+            },
+            {
+              "end": 49,
+              "id": "1427032518990118919",
+              "start": 35,
+              "username": "NightOwlSeeds"
+            },
+            {
+              "end": 66,
+              "id": "1653156765037481984",
+              "start": 50,
+              "username": "Twistedtreeauto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970404619760308378",
+        "in_reply_to_user_id": "2872688958",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969471096245403843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nova2cotton @Fast_Buds @BroMendel @NightOwlSeeds @Twistedtreeauto Cyberpunk 2077😎😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969471090213912576",
+            "3_1969471091572899840",
+            "3_1969471093204463616",
+            "3_1969471093284171776"
+          ]
+        },
+        "author_id": "2872688958",
+        "conversation_id": "1969471096245403843",
+        "created_at": "2025-09-20T18:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969471096245403843"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Coco",
+              "probability": 0.8416,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Chem",
+              "probability": 0.5294,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Nova",
+              "probability": 0.504,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "3387286611",
+              "start": 29,
+              "username": "Fast_Buds"
+            },
+            {
+              "end": 64,
+              "id": "1628755827661103105",
+              "start": 54,
+              "username": "BroMendel"
+            },
+            {
+              "end": 91,
+              "id": "1427032518990118919",
+              "start": 77,
+              "username": "NightOwlSeeds"
+            },
+            {
+              "end": 116,
+              "id": "1653156765037481984",
+              "start": 100,
+              "username": "Twistedtreeauto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Dwt5K2Oz6",
+              "end": 302,
+              "expanded_url": "https://x.com/nova2cotton/status/1969471096245403843/photo/1",
+              "media_key": "3_1969471090213912576",
+              "start": 279,
+              "url": "https://t.co/4Dwt5K2Oz6"
+            },
+            {
+              "display_url": "pic.x.com/4Dwt5K2Oz6",
+              "end": 302,
+              "expanded_url": "https://x.com/nova2cotton/status/1969471096245403843/photo/1",
+              "media_key": "3_1969471091572899840",
+              "start": 279,
+              "url": "https://t.co/4Dwt5K2Oz6"
+            },
+            {
+              "display_url": "pic.x.com/4Dwt5K2Oz6",
+              "end": 302,
+              "expanded_url": "https://x.com/nova2cotton/status/1969471096245403843/photo/1",
+              "media_key": "3_1969471093204463616",
+              "start": 279,
+              "url": "https://t.co/4Dwt5K2Oz6"
+            },
+            {
+              "display_url": "pic.x.com/4Dwt5K2Oz6",
+              "end": 302,
+              "expanded_url": "https://x.com/nova2cotton/status/1969471096245403843/photo/1",
+              "media_key": "3_1969471093284171776",
+              "start": 279,
+              "url": "https://t.co/4Dwt5K2Oz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969471096245403843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "3387286611",
+                "start": 29,
+                "username": "Fast_Buds"
+              },
+              {
+                "end": 64,
+                "id": "1628755827661103105",
+                "start": 54,
+                "username": "BroMendel"
+              },
+              {
+                "end": 91,
+                "id": "1427032518990118919",
+                "start": 77,
+                "username": "NightOwlSeeds"
+              },
+              {
+                "end": 116,
+                "id": "1653156765037481984",
+                "start": 100,
+                "username": "Twistedtreeauto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.co/UjMpo7YxDP",
+                "end": 915,
+                "expanded_url": "https://www.youtube.com/@NOVACOTTON?sub_confirmation=1",
+                "start": 892,
+                "url": "https://t.co/R9Qj5OtyNa"
+              },
+              {
+                "display_url": "beacons.ai/novacotton",
+                "end": 949,
+                "expanded_url": "http://beacons.ai/novacotton",
+                "start": 926,
+                "url": "https://t.co/xLlC8IokBq"
+              }
+            ]
+          },
+          "text": "Day 65 Coco tent\n\nSuper boof @Fast_Buds\nVanilla Re-Up @BroMendel\nChem n kush @NightOwlSeeds\nNova OG @Twistedtreeauto\n\nShit I haven't crashed hahaha 🤣 😂 I get what was happening now you need to lower nitrogen for autos during the bloom phase photoperiods love nitrogen during the bloom phase in comparison to autos so that is where I have been fucking up my nitrogen is too high that accumulates causes lockout i try to remedy it with higher ec then I get burned tips too so I went and removed part b by 20% and kept my calimagic at 2ml per gallon ec 1.50 sure enough they are back to stacking next round I got this locked in! Now I just have to add the data to the calculator and I finished with mk 1 🙂 yup 👍 oh and bro mendels vanilla reup is basically done she was Soo fucking fast might keep her an extra week to try and sneak some cake 🤷\n\nKeep on growing O_O  \n\nCheck my YouTube for Tips\nhttps://t.co/R9Qj5OtyNa\n\nCheck my https://t.co/xLlC8IokBq page for all my gear and info!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2604,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Day 65 Coco tent\n\nSuper boof @Fast_Buds\nVanilla Re-Up @BroMendel\nChem n kush @NightOwlSeeds\nNova OG @Twistedtreeauto\n\nShit I haven't crashed hahaha 🤣 😂 I get what was happening now you need to lower nitrogen for autos during the bloom phase photoperiods love nitrogen during the https://t.co/4Dwt5K2Oz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 2183,
+          "like_count": 22937,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 6066
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-23T05:56:35.000Z",
+        "description": "Researching for Space use! \n\nCheck my https://t.co/VTWBUp8yYO\n\n\"Novacotton\" for 10% @AcInfinityInc\n\"Autopotnova\" for 10%  @autopotusa\n\nclick 4 more👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "AcInfinityInc"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "autopotusa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "YouTube.com/@Novacotton",
+                "end": 61,
+                "expanded_url": "http://YouTube.com/@Novacotton",
+                "start": 38,
+                "url": "https://t.co/VTWBUp8yYO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/novacotton",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/novacotton",
+                "start": 0,
+                "url": "https://t.co/fZQ3WWgern"
+              }
+            ]
+          }
+        },
+        "id": "2872688958",
+        "location": "CALIFORNIA",
+        "name": "Novacotton",
+        "pinned_tweet_id": "1966726805400023152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957188000909238272/7QHFBlrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 2084,
+          "like_count": 44286,
+          "listed_count": 11,
+          "media_count": 8315,
+          "tweet_count": 23043
+        },
+        "url": "https://t.co/fZQ3WWgern",
+        "username": "nova2cotton",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-22T13:55:45.000Z",
+        "description": "Award-winning Autoflowering Cannabis Seeds\nWinners of multiple titles in all existing cannabis cups.\nSetting standards and breaking records worldwide.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fastbuds.com",
+                "end": 23,
+                "expanded_url": "https://fastbuds.com",
+                "start": 0,
+                "url": "https://t.co/sxpQKHSIPK"
+              }
+            ]
+          }
+        },
+        "id": "3387286611",
+        "name": "Fast Buds",
+        "pinned_tweet_id": "1969037673055830286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842201463163850752/kHx4W6zy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47850,
+          "following_count": 5573,
+          "like_count": 11055,
+          "listed_count": 0,
+          "media_count": 3529,
+          "tweet_count": 10284
+        },
+        "url": "https://t.co/sxpQKHSIPK",
+        "username": "Fast_Buds",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-02-23T13:58:36.000Z",
+        "description": "Botanical Artist & Creator:🏆2021 Autoflower Cup🥇: Special Reserve Cookies III🏆Tropic Of Censer, Baby Yoda OG, Aether, Mendel’s Breath, Chanel#6 & Many More.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/BrotherMendel",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/BrotherMendel",
+                "start": 0,
+                "url": "https://t.co/Y3e4nzKDJz"
+              }
+            ]
+          }
+        },
+        "id": "1628755827661103105",
+        "name": "Brother Mendel’s Selections",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654146637755830273/USwTkHll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 61,
+          "like_count": 333,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/Y3e4nzKDJz",
+        "username": "BroMendel",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T22:21:18.000Z",
+        "description": "The Future Of Autoflowers. There’s a difference because we’re different. Instagram- night.owl.seeds https://t.co/8ONSguCnNB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nightowlseeds",
+                "end": 123,
+                "expanded_url": "http://discord.gg/nightowlseeds",
+                "start": 100,
+                "url": "https://t.co/8ONSguCnNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NightOwlSeeds.com",
+                "end": 23,
+                "expanded_url": "http://www.NightOwlSeeds.com",
+                "start": 0,
+                "url": "https://t.co/34xWQQInv6"
+              }
+            ]
+          }
+        },
+        "id": "1427032518990118919",
+        "name": "Night Owl Seeds",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764369536067817472/Q-AxrN_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 36,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/34xWQQInv6",
+        "username": "NightOwlSeeds",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-01T21:58:16.000Z",
+        "description": "Autoflower breeder from our favorite photoperiod plants.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twistedtreeautoflowers.com",
+                "end": 23,
+                "expanded_url": "http://twistedtreeautoflowers.com",
+                "start": 0,
+                "url": "https://t.co/beiXC6t9ZW"
+              }
+            ]
+          }
+        },
+        "id": "1653156765037481984",
+        "location": "Michigan",
+        "name": "Twisted Tree Autoflowers",
+        "pinned_tweet_id": "1876351872245608830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653166142083551235/wDCNe2Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 334,
+          "like_count": 2753,
+          "listed_count": 4,
+          "media_count": 378,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/beiXC6t9ZW",
+        "username": "Twistedtreeauto",
+        "verified": true
+      }
+    ]
+  }
+}

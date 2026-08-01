@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959762454722015232"
+      ],
+      "media_source_tweet_id": [
+        "1959762461646893560"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1959988903458529465",
+    "created_at": "2025-08-25T14:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959988903458529465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhP3vsZtA7",
+          "end": 83,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1959762461646893560/photo/1",
+          "media_key": "3_1959762454722015232",
+          "start": 60,
+          "url": "https://t.co/BhP3vsZtA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959988903458529465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959762461646893560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: 紫餐的本意就是为了那点内啡肽缓解精神痛苦，进行「精神紫餐」岂不是适得其反嘛🤔 https://t.co/BhP3vsZtA7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_1959762454722015232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzJ5kb3acAAxIUS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959762454722015232"
+          ],
+          "media_source_tweet_id": [
+            "1959762461646893560"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1959988903458529465",
+        "created_at": "2025-08-25T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959988903458529465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhP3vsZtA7",
+              "end": 83,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1959762461646893560/photo/1",
+              "media_key": "3_1959762454722015232",
+              "start": 60,
+              "url": "https://t.co/BhP3vsZtA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959988903458529465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959762461646893560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: 紫餐的本意就是为了那点内啡肽缓解精神痛苦，进行「精神紫餐」岂不是适得其反嘛🤔 https://t.co/BhP3vsZtA7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959762454722015232"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1959762461646893560",
+        "created_at": "2025-08-24T23:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T00:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959762461646893560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhP3vsZtA7",
+              "end": 62,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1959762461646893560/photo/1",
+              "media_key": "3_1959762454722015232",
+              "start": 39,
+              "url": "https://t.co/BhP3vsZtA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959762461646893560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 836,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紫餐的本意就是为了那点内啡肽缓解精神痛苦，进行「精神紫餐」岂不是适得其反嘛🤔 https://t.co/BhP3vsZtA7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2157,
+          "like_count": 21787,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5854
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 742,
+          "like_count": 6696,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1978
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1857300857651687517",
+    "created_at": "2024-11-15T05:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T06:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857300857651687517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongaibin/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/hongaibin/status/1857099492689944691",
+          "start": 17,
+          "url": "https://t.co/h52csPdAzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857300857651687517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857099492689944691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是别吃的好。 一晚上吐了4次。 https://t.co/h52csPdAzy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1857099492689944691].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857099492689944691",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857099492689944691"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1857300857651687517",
+        "created_at": "2024-11-15T05:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T06:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857300857651687517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongaibin/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hongaibin/status/1857099492689944691",
+              "start": 17,
+              "url": "https://t.co/h52csPdAzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857300857651687517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857099492689944691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是别吃的好。 一晚上吐了4次。 https://t.co/h52csPdAzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/https://t.co/UOc4uJQGWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@hongaibinc",
+                "end": 155,
+                "expanded_url": "https://t.me/@hongaibinc",
+                "start": 132,
+                "url": "https://t.co/UOc4uJQGWo"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1849622553519849723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1599,
+          "like_count": 10687,
+          "listed_count": 2,
+          "tweet_count": 3658
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1832060998230094249",
+    "created_at": "2024-09-06T14:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T15:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832060998230094249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "981057178214612992",
+          "start": 3,
+          "username": "noobnooc"
+        },
+        {
+          "end": 23,
+          "id": "1708305542396125184",
+          "start": 14,
+          "username": "SAIMU726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832060998230094249",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831722042619818338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noobnooc: @SAIMU726 我是来看弱智的，不是来思考人生的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1832060998230094249",
+        "created_at": "2024-09-06T14:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T15:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832060998230094249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "981057178214612992",
+              "start": 3,
+              "username": "noobnooc"
+            },
+            {
+              "end": 23,
+              "id": "1708305542396125184",
+              "start": 14,
+              "username": "SAIMU726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832060998230094249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831722042619818338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noobnooc: @SAIMU726 我是来看弱智的，不是来思考人生的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981057178214612992",
+        "conversation_id": "1831713667114791074",
+        "created_at": "2024-09-05T15:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831722042619818338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708305542396125184",
+              "start": 0,
+              "username": "SAIMU726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831722042619818338",
+        "in_reply_to_user_id": "1708305542396125184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4025,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831713667114791074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAIMU726 我是来看弱智的，不是来思考人生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1444,
+          "like_count": 6939,
+          "listed_count": 3,
+          "tweet_count": 2804
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T06:33:53.000Z",
+        "description": "作坊 @WeeloneHQ / 写字台 https://t.co/7xWvuSJZLS / 数字游民资讯 https://t.co/oE5nveOvAu / 个人主页 https://t.co/GPIkoZWqYS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "WeeloneHQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "subnooc.com",
+                "end": 43,
+                "expanded_url": "https://subnooc.com",
+                "start": 20,
+                "url": "https://t.co/7xWvuSJZLS"
+              },
+              {
+                "display_url": "youmin.co",
+                "end": 76,
+                "expanded_url": "https://youmin.co",
+                "start": 53,
+                "url": "https://t.co/oE5nveOvAu"
+              },
+              {
+                "display_url": "nooc.me",
+                "end": 107,
+                "expanded_url": "https://nooc.me",
+                "start": 84,
+                "url": "https://t.co/GPIkoZWqYS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nooc.me",
+                "end": 23,
+                "expanded_url": "https://nooc.me",
+                "start": 0,
+                "url": "https://t.co/GPIkoZWqYS"
+              }
+            ]
+          }
+        },
+        "id": "981057178214612992",
+        "location": "你的心里",
+        "name": "Nooc",
+        "pinned_tweet_id": "1770028282525995383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597109914907774976/FzMQXAZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 358,
+          "like_count": 4194,
+          "listed_count": 67,
+          "tweet_count": 3568
+        },
+        "url": "https://t.co/GPIkoZWqYS",
+        "username": "noobnooc",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T02:19:26.000Z",
+        "description": "说些自己喜欢的|提问箱https://t.co/oEMU0W4ACh|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sjleoaimu09",
+                "end": 34,
+                "expanded_url": "https://ngl.link/sjleoaimu09",
+                "start": 11,
+                "url": "https://t.co/oEMU0W4ACh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ziniaocloud.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://ziniaocloud.cc/#/register?code=sBhhn8sK",
+                "start": 0,
+                "url": "https://t.co/DfI1FF8a1d"
+              }
+            ]
+          }
+        },
+        "id": "1708305542396125184",
+        "name": "M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817094298841808900/AAlfR3Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 1085,
+          "like_count": 10937,
+          "listed_count": 12,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/DfI1FF8a1d",
+        "username": "SAIMU726",
+        "verified": true
+      }
+    ]
+  }
+}

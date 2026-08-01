@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914886762033504259"
+      ],
+      "media_source_tweet_id": [
+        "1914886773794374011"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1915249708483960873",
+    "created_at": "2025-04-24T03:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915249708483960873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815416264770428928",
+          "start": 3,
+          "username": "Etsuko827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Mv01nlmHP",
+          "end": 43,
+          "expanded_url": "https://x.com/Etsuko827/status/1914886773794374011/photo/1",
+          "media_key": "3_1914886762033504259",
+          "start": 20,
+          "url": "https://t.co/0Mv01nlmHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915249708483960873",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914886773794374011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Etsuko827: Oi ！ https://t.co/0Mv01nlmHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1914886762033504259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMLXVQa4AMWI5j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914886762033504259"
+          ],
+          "media_source_tweet_id": [
+            "1914886773794374011"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1915249708483960873",
+        "created_at": "2025-04-24T03:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915249708483960873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815416264770428928",
+              "start": 3,
+              "username": "Etsuko827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mv01nlmHP",
+              "end": 43,
+              "expanded_url": "https://x.com/Etsuko827/status/1914886773794374011/photo/1",
+              "media_key": "3_1914886762033504259",
+              "start": 20,
+              "url": "https://t.co/0Mv01nlmHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915249708483960873",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914886773794374011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Etsuko827: Oi ！ https://t.co/0Mv01nlmHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914886762033504259"
+          ]
+        },
+        "author_id": "1815416264770428928",
+        "conversation_id": "1914886773794374011",
+        "created_at": "2025-04-23T03:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914886773794374011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mv01nlmHP",
+              "end": 28,
+              "expanded_url": "https://x.com/Etsuko827/status/1914886773794374011/photo/1",
+              "media_key": "3_1914886762033504259",
+              "start": 5,
+              "url": "https://t.co/0Mv01nlmHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914886773794374011",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 19613,
+          "like_count": 816,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Oi ！ https://t.co/0Mv01nlmHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1904,
+          "like_count": 16610,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4761
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:59:25.000Z",
+        "description": "🐼cosplayer 05 梦游发电姬^感谢喜欢｜无🚪无福利 非要加v520 不露点不接线下 问就拉黑｜接自拍定制委托｜制品&写真菜单 获取请戳私信/微店：^眠色收藏夹^/闲鱼用户id：高冷土豆酱 ｜拿我图喂AI直接拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/yCdkVGEH",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/yCdkVGEH",
+                "start": 0,
+                "url": "https://t.co/vGfIFvf8OU"
+              }
+            ]
+          }
+        },
+        "id": "1815416264770428928",
+        "name": "纸悦 Etsu_ko",
+        "pinned_tweet_id": "1873410779745231141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815416629813190657/QY61eLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118067,
+          "following_count": 163,
+          "like_count": 2518,
+          "listed_count": 459,
+          "media_count": 203,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/vGfIFvf8OU",
+        "username": "Etsuko827",
+        "verified": false
+      }
+    ]
+  }
+}

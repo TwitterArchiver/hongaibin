@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "conversation_id": "1793157743190429964",
+    "created_at": "2024-05-22T05:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793157743190429964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609844142313553921",
+          "start": 3,
+          "username": "Drkato12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793157743190429964",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790641592002605103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drkato12: 神农群友试药成果之：奈福泮\n服用90mg后出现了类似普瑞的镇静和类似右美的音乐欣快\n潜在的ssri与snri，可能会抑制DA的再摄取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1793157743190429964",
+        "created_at": "2024-05-22T05:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T06:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793157743190429964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609844142313553921",
+              "start": 3,
+              "username": "Drkato12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793157743190429964",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790641592002605103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drkato12: 神农群友试药成果之：奈福泮\n服用90mg后出现了类似普瑞的镇静和类似右美的音乐欣快\n潜在的ssri与snri，可能会抑制DA的再摄取"
+      },
+      {
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1790641592002605103",
+        "created_at": "2024-05-15T07:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790641592002605103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790641592002605103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6752,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "神农群友试药成果之：奈福泮\n服用90mg后出现了类似普瑞的镇静和类似右美的音乐欣快\n潜在的ssri与snri，可能会抑制DA的再摄取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 906,
+          "like_count": 1272,
+          "listed_count": 1,
+          "tweet_count": 575
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），双相，战地一睾手，时不时会女装成为小南梁，友跨，不定时上推回消息。另外药物什么的虹夏不知道哦～\n别踏马往墙里搬！别他妈往墙里搬！别她妈往墙里搬！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/srfvKhKOZh"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "法乌克斯要塞",
+        "name": "Ijichi Nijika overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 83,
+          "like_count": 255,
+          "listed_count": 1,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/srfvKhKOZh",
+        "username": "Drkato12",
+        "verified": false
+      }
+    ]
+  }
+}

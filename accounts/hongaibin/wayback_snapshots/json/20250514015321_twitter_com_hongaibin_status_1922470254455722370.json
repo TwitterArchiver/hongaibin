@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1922167404437610496"
+      ],
+      "media_source_tweet_id": [
+        "1922167445726388588"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1922470254455722370",
+    "created_at": "2025-05-14T01:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T02:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922470254455722370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798724969695977472",
+          "start": 3,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGGA0fJTzB",
+          "end": 52,
+          "expanded_url": "https://x.com/overdosewiki/status/1922167445726388588/video/1",
+          "media_key": "7_1922167404437610496",
+          "start": 29,
+          "url": "https://t.co/EGGA0fJTzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922470254455722370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922167445726388588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdosewiki: Oder的夢，該醒了 https://t.co/EGGA0fJTzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30592,
+        "height": 720,
+        "media_key": "7_1922167404437610496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922167404437610496/pu/img/wAiEaoRiMM_tyiTR.jpg",
+        "public_metrics": {
+          "view_count": 823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922167404437610496/pu/vid/avc1/480x270/CjNuUwOWk9HTdAsN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922167404437610496/pu/vid/avc1/640x360/Sqh6xNLmTIgGV7em.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922167404437610496/pu/vid/avc1/1280x720/0euhos9Ee3PrZO7B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922167404437610496/pu/pl/B45Q7pcfrV5L_Sup.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1922167404437610496"
+          ],
+          "media_source_tweet_id": [
+            "1922167445726388588"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1922470254455722370",
+        "created_at": "2025-05-14T01:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T02:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922470254455722370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798724969695977472",
+              "start": 3,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGGA0fJTzB",
+              "end": 52,
+              "expanded_url": "https://x.com/overdosewiki/status/1922167445726388588/video/1",
+              "media_key": "7_1922167404437610496",
+              "start": 29,
+              "url": "https://t.co/EGGA0fJTzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922470254455722370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922167445726388588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdosewiki: Oder的夢，該醒了 https://t.co/EGGA0fJTzB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1922167404437610496"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1922167445726388588",
+        "created_at": "2025-05-13T05:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T06:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922167445726388588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGGA0fJTzB",
+              "end": 34,
+              "expanded_url": "https://x.com/overdosewiki/status/1922167445726388588/video/1",
+              "media_key": "7_1922167404437610496",
+              "start": 11,
+              "url": "https://t.co/EGGA0fJTzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922167445726388588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2329,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Oder的夢，該醒了 https://t.co/EGGA0fJTzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1992,
+          "like_count": 17725,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4979
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "方生方死 方死方生",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1912323001305165928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 11,
+          "like_count": 356,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

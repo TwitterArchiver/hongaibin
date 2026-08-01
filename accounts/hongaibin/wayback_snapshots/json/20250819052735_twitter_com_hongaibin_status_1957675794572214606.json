@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956264275456184320"
+      ],
+      "media_source_tweet_id": [
+        "1956264287107998006"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1957675794572214606",
+    "created_at": "2025-08-19T05:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957675794572214606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758032291144847360",
+          "start": 3,
+          "username": "kurinoo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gE0HV72bZa",
+          "end": 37,
+          "expanded_url": "https://x.com/kurinoo_/status/1956264287107998006/photo/1",
+          "media_key": "3_1956264275456184320",
+          "start": 14,
+          "url": "https://t.co/gE0HV72bZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957675794572214606",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956264287107998006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurinoo_: https://t.co/gE0HV72bZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956264275456184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYL_mlaUAA3tZn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956264275456184320"
+          ],
+          "media_source_tweet_id": [
+            "1956264287107998006"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1957675794572214606",
+        "created_at": "2025-08-19T05:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957675794572214606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758032291144847360",
+              "start": 3,
+              "username": "kurinoo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE0HV72bZa",
+              "end": 37,
+              "expanded_url": "https://x.com/kurinoo_/status/1956264287107998006/photo/1",
+              "media_key": "3_1956264275456184320",
+              "start": 14,
+              "url": "https://t.co/gE0HV72bZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957675794572214606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956264287107998006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurinoo_: https://t.co/gE0HV72bZa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956264275456184320"
+          ]
+        },
+        "author_id": "1758032291144847360",
+        "conversation_id": "1956264287107998006",
+        "created_at": "2025-08-15T07:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956264287107998006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE0HV72bZa",
+              "end": 23,
+              "expanded_url": "https://x.com/kurinoo_/status/1956264287107998006/photo/1",
+              "media_key": "3_1956264275456184320",
+              "start": 0,
+              "url": "https://t.co/gE0HV72bZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956264287107998006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 113245,
+          "like_count": 5617,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gE0HV72bZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2155,
+          "like_count": 21710,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 5841
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T07:36:09.000Z",
+        "description": "期待しないよもう痛い痛いよ｜CD｜纹身师｜日本語 中國語ok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kotoino_",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@kotoino_",
+                "start": 0,
+                "url": "https://t.co/pkcyYtC5yj"
+              }
+            ]
+          }
+        },
+        "id": "1758032291144847360",
+        "location": "🚪200/520",
+        "name": "kurino",
+        "pinned_tweet_id": "1826016483039924606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758032724030562304/mS-nxVyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16932,
+          "following_count": 161,
+          "like_count": 398,
+          "listed_count": 44,
+          "media_count": 121,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/pkcyYtC5yj",
+        "username": "kurinoo_",
+        "verified": false
+      }
+    ]
+  }
+}

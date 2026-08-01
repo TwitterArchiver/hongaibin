@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1939985920515514369"
+      ],
+      "media_source_tweet_id": [
+        "1939985948655460792"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1941121356130881833",
+    "created_at": "2025-07-04T13:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T14:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941121356130881833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764820595387305984",
+          "start": 3,
+          "username": "miaoning000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhyqzEUTXq",
+          "end": 47,
+          "expanded_url": "https://x.com/miaoning000/status/1939985948655460792/video/1",
+          "media_key": "7_1939985920515514369",
+          "start": 24,
+          "url": "https://t.co/zhyqzEUTXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941121356130881833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939985948655460792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaoning000: 突发情况，急 https://t.co/zhyqzEUTXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4933,
+        "height": 1264,
+        "media_key": "7_1939985920515514369",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1939985920515514369/pu/img/m4QYgljunTk_TK2F.jpg",
+        "public_metrics": {
+          "view_count": 8416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939985920515514369/pu/vid/avc1/320x560/B5jHXhChuI2V0gGK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939985920515514369/pu/vid/avc1/480x842/iuIlRykKDs7MHTvD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1939985920515514369/pu/vid/avc1/720x1264/Qxj7eoaBx2xouqVE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1939985920515514369/pu/pl/2uvbCN9-IPZ1uJMM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1939985920515514369"
+          ],
+          "media_source_tweet_id": [
+            "1939985948655460792"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "1941121356130881833",
+        "created_at": "2025-07-04T13:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941121356130881833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764820595387305984",
+              "start": 3,
+              "username": "miaoning000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhyqzEUTXq",
+              "end": 47,
+              "expanded_url": "https://x.com/miaoning000/status/1939985948655460792/video/1",
+              "media_key": "7_1939985920515514369",
+              "start": 24,
+              "url": "https://t.co/zhyqzEUTXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941121356130881833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939985948655460792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaoning000: 突发情况，急 https://t.co/zhyqzEUTXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1939985920515514369"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1939985948655460792",
+        "created_at": "2025-07-01T09:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939985948655460792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhyqzEUTXq",
+              "end": 30,
+              "expanded_url": "https://x.com/miaoning000/status/1939985948655460792/video/1",
+              "media_key": "7_1939985920515514369",
+              "start": 7,
+              "url": "https://t.co/zhyqzEUTXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939985948655460792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20452,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "突发情况，急 https://t.co/zhyqzEUTXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 2080,
+          "like_count": 20139,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 5490
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/轻度割/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1895049521970979077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 2557,
+          "like_count": 13254,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 5974
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

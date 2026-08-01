@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077243201736556544",
+        "3_2077243201698893824",
+        "3_2077243201749147648"
+      ],
+      "media_source_tweet_id": [
+        "2077243239518883898",
+        "2077243239518883898",
+        "2077243239518883898"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "2078128566030782556",
+    "created_at": "2026-07-17T14:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078128566030782556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1540599698024718337",
+          "start": 3,
+          "username": "snkrs_devil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGs3Ut4qxe",
+          "end": 67,
+          "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+          "media_key": "3_2077243201736556544",
+          "start": 44,
+          "url": "https://t.co/XGs3Ut4qxe"
+        },
+        {
+          "display_url": "pic.x.com/XGs3Ut4qxe",
+          "end": 67,
+          "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+          "media_key": "3_2077243201698893824",
+          "start": 44,
+          "url": "https://t.co/XGs3Ut4qxe"
+        },
+        {
+          "display_url": "pic.x.com/XGs3Ut4qxe",
+          "end": 67,
+          "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+          "media_key": "3_2077243201749147648",
+          "start": 44,
+          "url": "https://t.co/XGs3Ut4qxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078128566030782556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077243239518883898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snkrs_devil: 抽两双闲置的旧鞋，转推+关注 \n邮费自理 20号开奖 https://t.co/XGs3Ut4qxe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077243201736556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPZr6-aQAAvBUg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077243201698893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPZr61bkAAxS3V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077243201749147648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPZr7BaYAA4Ok8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077243201736556544",
+            "3_2077243201698893824",
+            "3_2077243201749147648"
+          ]
+        },
+        "author_id": "1540599698024718337",
+        "conversation_id": "2077243239518883898",
+        "created_at": "2026-07-15T04:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077243239518883898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 50,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201736556544",
+              "start": 27,
+              "url": "https://t.co/XGs3Ut4qxe"
+            },
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 50,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201698893824",
+              "start": 27,
+              "url": "https://t.co/XGs3Ut4qxe"
+            },
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 50,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201749147648",
+              "start": 27,
+              "url": "https://t.co/XGs3Ut4qxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077243239518883898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 28652,
+          "like_count": 234,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "抽两双闲置的旧鞋，转推+关注 \n邮费自理 20号开奖 https://t.co/XGs3Ut4qxe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077243201736556544",
+            "3_2077243201698893824",
+            "3_2077243201749147648"
+          ],
+          "media_source_tweet_id": [
+            "2077243239518883898",
+            "2077243239518883898",
+            "2077243239518883898"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "conversation_id": "2078128566030782556",
+        "created_at": "2026-07-17T14:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078128566030782556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1540599698024718337",
+              "start": 3,
+              "username": "snkrs_devil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 67,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201736556544",
+              "start": 44,
+              "url": "https://t.co/XGs3Ut4qxe"
+            },
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 67,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201698893824",
+              "start": 44,
+              "url": "https://t.co/XGs3Ut4qxe"
+            },
+            {
+              "display_url": "pic.x.com/XGs3Ut4qxe",
+              "end": 67,
+              "expanded_url": "https://x.com/snkrs_devil/status/2077243239518883898/photo/1",
+              "media_key": "3_2077243201749147648",
+              "start": 44,
+              "url": "https://t.co/XGs3Ut4qxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078128566030782556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077243239518883898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snkrs_devil: 抽两双闲置的旧鞋，转推+关注 \n邮费自理 20号开奖 https://t.co/XGs3Ut4qxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/ZqVOYHgDnb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ankbi_666",
+                "end": 153,
+                "expanded_url": "https://t.me/Ankbi_666",
+                "start": 130,
+                "url": "https://t.co/ZqVOYHgDnb"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "2013705139446542623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2346,
+          "like_count": 24709,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 6480
+        },
+        "url": "",
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T07:36:13.000Z",
+        "description": "杭州 鞋袜控 喜操鞋射鞋，暴露尿失禁 不出视频，随性而发， 无意义私信不回，直接说事，省掉打招呼的环节",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/de%E2%80%86v%E…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/de%E2%80%86v%E2%80%86i%E2%80%86l",
+                "start": 0,
+                "url": "https://t.co/jpEU8OWmbe"
+              }
+            ]
+          }
+        },
+        "id": "1540599698024718337",
+        "name": "devil_snkrs",
+        "pinned_tweet_id": "2006377293359510009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942692965085790208/_B7KlCHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 692,
+          "like_count": 3629,
+          "listed_count": 35,
+          "media_count": 25,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/jpEU8OWmbe",
+        "username": "snkrs_devil",
+        "verified": false
+      }
+    ]
+  }
+}

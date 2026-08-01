@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834247204770643970"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "conversation_id": "1834247209799614893",
+    "created_at": "2024-09-12T15:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T16:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834247209799614893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "亚硝酸钠"
+        },
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "唑吡坦"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "阿普唑仑"
+        },
+        {
+          "end": 77,
+          "start": 68,
+          "tag": "overdose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zjcardaa0",
+          "end": 109,
+          "expanded_url": "https://twitter.com/hongaibin/status/1834247209799614893/photo/1",
+          "media_key": "3_1834247204770643970",
+          "start": 86,
+          "url": "https://t.co/2zjcarDaA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834247209799614893",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我难道也要踏上这条路吗 #亚硝酸钠 \n#普瑞巴林 +酒 可以达到麻醉镇静昏迷 \n如果加上 #唑吡坦 #阿普唑仑 或许会舒服的离开 🤔 \n#overdose \n😣😭😭😭😭😭 https://t.co/2zjcarDaA0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834247209799614893].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834247209799614893",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834247209799614893"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_1834247204770643970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXSOHU6bgAIVdPY.jpg",
+        "width": 716
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤https://t.co/Q3VYkjqq8C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/habqgyl",
+                "end": 121,
+                "expanded_url": "https://t.me/habqgyl",
+                "start": 98,
+                "url": "https://t.co/Q3VYkjqq8C"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 1482,
+          "like_count": 7456,
+          "listed_count": 3,
+          "tweet_count": 2940
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

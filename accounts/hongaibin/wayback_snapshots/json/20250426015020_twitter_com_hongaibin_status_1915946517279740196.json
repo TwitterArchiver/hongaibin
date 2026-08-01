@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915889172369346561"
+      ],
+      "media_source_tweet_id": [
+        "1915889175007477831"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1915946517279740196",
+    "created_at": "2025-04-26T01:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T02:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915946517279740196"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 50,
+          "tag": "psychedelic"
+        },
+        {
+          "end": 73,
+          "start": 63,
+          "tag": "trippyart"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "artwork"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMRbRYyaFN",
+          "end": 106,
+          "expanded_url": "https://x.com/APsychedelics/status/1915889175007477831/photo/1",
+          "media_key": "3_1915889172369346561",
+          "start": 83,
+          "url": "https://t.co/dMRbRYyaFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915946517279740196",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915889175007477831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: PYRAMID CITY by acidmathai 😍🤩 \n#psychedelic #trippyart #artwork https://t.co/dMRbRYyaFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1915889172369346561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpabDSwXkAE0iOp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915889172369346561"
+          ],
+          "media_source_tweet_id": [
+            "1915889175007477831"
+          ]
+        },
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1915946517279740196",
+        "created_at": "2025-04-26T01:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915946517279740196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "psychedelic"
+            },
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "trippyart"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "artwork"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMRbRYyaFN",
+              "end": 106,
+              "expanded_url": "https://x.com/APsychedelics/status/1915889175007477831/photo/1",
+              "media_key": "3_1915889172369346561",
+              "start": 83,
+              "url": "https://t.co/dMRbRYyaFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915946517279740196",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915889175007477831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: PYRAMID CITY by acidmathai 😍🤩 \n#psychedelic #trippyart #artwork https://t.co/dMRbRYyaFN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915889172369346561"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1915889175007477831",
+        "created_at": "2025-04-25T22:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T23:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915889175007477831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "psychedelic"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "trippyart"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "artwork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMRbRYyaFN",
+              "end": 87,
+              "expanded_url": "https://x.com/APsychedelics/status/1915889175007477831/photo/1",
+              "media_key": "3_1915889172369346561",
+              "start": 64,
+              "url": "https://t.co/dMRbRYyaFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915889175007477831",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "PYRAMID CITY by acidmathai 😍🤩 \n#psychedelic #trippyart #artwork https://t.co/dMRbRYyaFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1909,
+          "like_count": 16732,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4794
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "I tweet about Aliens and Psychedelics. New memes every day before noon (CST)\n•\nJoin my new Drug People Twitter community on Reddit! Link below ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/drugpeopletw…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/r/drugpeopletwitter",
+                "start": 0,
+                "url": "https://t.co/b8zpmkTNRW"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "location": "Spaceship Earth",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9465,
+          "following_count": 542,
+          "like_count": 51238,
+          "listed_count": 40,
+          "media_count": 22332,
+          "tweet_count": 31227
+        },
+        "url": "https://t.co/b8zpmkTNRW",
+        "username": "APsychedelics",
+        "verified": true
+      }
+    ]
+  }
+}

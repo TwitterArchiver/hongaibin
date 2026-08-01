@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1915506149786620330",
+    "created_at": "2025-04-24T20:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T21:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915506149786620330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904363207030124544",
+          "start": 3,
+          "username": "rcwiki0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "致力于科普前沿毒品等相关知识帮助禁毒事业！",
+          "display_url": "rcwiki.xyz",
+          "end": 104,
+          "expanded_url": "https://rcwiki.xyz/",
+          "start": 81,
+          "status": 200,
+          "title": "前言 | RC WIKI",
+          "unwound_url": "https://rcwiki.xyz/",
+          "url": "https://t.co/7n0faCo255"
+        },
+        {
+          "description": "rcwiki官方账号，致力于科普各类处方药/滥用化学物帮助禁毒",
+          "display_url": "x.com/rcwiki0",
+          "end": 133,
+          "expanded_url": "https://x.com/rcwiki0",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "RC Wiki (@rcwiki0) on X",
+          "unwound_url": "https://x.com/rcwiki0",
+          "url": "https://t.co/74bCOMkD3J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915506149786620330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905829941364523079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rcwiki0: 我们致力于科普前沿毒品等相关知识帮助禁毒事业！请勿滥用本网站所科普的化学物质，如有发现上报警方。珍爱生命远离吸毒药物滥用！\n\n官方网站：https://t.co/7n0faCo255\n官方推特：https://t.co/74bCOMkD3J\n官方TG群…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1915506149786620330",
+        "created_at": "2025-04-24T20:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T21:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915506149786620330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904363207030124544",
+              "start": 3,
+              "username": "rcwiki0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "致力于科普前沿毒品等相关知识帮助禁毒事业！",
+              "display_url": "rcwiki.xyz",
+              "end": 104,
+              "expanded_url": "https://rcwiki.xyz/",
+              "start": 81,
+              "status": 200,
+              "title": "前言 | RC WIKI",
+              "unwound_url": "https://rcwiki.xyz/",
+              "url": "https://t.co/7n0faCo255"
+            },
+            {
+              "description": "rcwiki官方账号，致力于科普各类处方药/滥用化学物帮助禁毒",
+              "display_url": "x.com/rcwiki0",
+              "end": 133,
+              "expanded_url": "https://x.com/rcwiki0",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "RC Wiki (@rcwiki0) on X",
+              "unwound_url": "https://x.com/rcwiki0",
+              "url": "https://t.co/74bCOMkD3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915506149786620330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905829941364523079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rcwiki0: 我们致力于科普前沿毒品等相关知识帮助禁毒事业！请勿滥用本网站所科普的化学物质，如有发现上报警方。珍爱生命远离吸毒药物滥用！\n\n官方网站：https://t.co/7n0faCo255\n官方推特：https://t.co/74bCOMkD3J\n官方TG群…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904363207030124544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1905829941364523079",
+        "created_at": "2025-03-29T03:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905829941364523079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "致力于科普前沿毒品等相关知识帮助禁毒事业！",
+              "display_url": "rcwiki.xyz",
+              "end": 91,
+              "expanded_url": "https://rcwiki.xyz/",
+              "start": 68,
+              "status": 200,
+              "title": "前言 | RC WIKI",
+              "unwound_url": "https://rcwiki.xyz/",
+              "url": "https://t.co/7n0faCo255"
+            },
+            {
+              "description": "rcwiki官方账号，致力于科普各类处方药/滥用化学物帮助禁毒",
+              "display_url": "x.com/rcwiki0",
+              "end": 120,
+              "expanded_url": "https://x.com/rcwiki0",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905829941867937792/BCiH-6eM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "RC Wiki (@rcwiki0) on X",
+              "unwound_url": "https://x.com/rcwiki0",
+              "url": "https://t.co/74bCOMkD3J"
+            },
+            {
+              "description": "If you have Telegram, you can contact @rc_wiki right",
+              "display_url": "t.me/rc_wiki",
+              "end": 151,
+              "expanded_url": "https://t.me/rc_wiki",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/1904784967843844096/xu_BZMM7?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1904784967843844096/xu_BZMM7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "Telegram: Contact @rc_wiki",
+              "unwound_url": "https://t.me/rc_wiki",
+              "url": "https://t.co/YY3wN4jHmu"
+            },
+            {
+              "description": "If you have Telegram, you can contact @DrugDataBot right",
+              "display_url": "t.me/DrugDataBot",
+              "end": 183,
+              "expanded_url": "https://t.me/DrugDataBot",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/1905829984024850433/3XZT7vwh?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1905829984024850433/3XZT7vwh?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 160,
+              "status": 200,
+              "title": "Telegram: Contact @DrugDataBot",
+              "unwound_url": "https://t.me/DrugDataBot",
+              "url": "https://t.co/SaLnDIu4Ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905829941364523079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2377,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们致力于科普前沿毒品等相关知识帮助禁毒事业！请勿滥用本网站所科普的化学物质，如有发现上报警方。珍爱生命远离吸毒药物滥用！\n\n官方网站：https://t.co/7n0faCo255\n官方推特：https://t.co/74bCOMkD3J\n官方TG群组：https://t.co/YY3wN4jHmu\n官方TG机器人：https://t.co/SaLnDIu4Ac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/MsAOiCslKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hongaibinluka",
+                "end": 153,
+                "expanded_url": "http://t.me/hongaibinluka",
+                "start": 130,
+                "url": "https://t.co/MsAOiCslKT"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1909,
+          "like_count": 16701,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 4785
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T02:42:47.000Z",
+        "description": "rcwiki官方｜多人账号 致力于科普各类处方药/滥用化学物帮助禁毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/6XlCPoYjEf"
+              }
+            ]
+          }
+        },
+        "id": "1904363207030124544",
+        "location": "College Park, MD",
+        "name": "RC Wiki",
+        "pinned_tweet_id": "1905829941364523079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904363369483911168/JSv-dMuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/6XlCPoYjEf",
+        "username": "rcwiki0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1791566024141156352"
+      ],
+      "media_source_tweet_id": [
+        "1791566047297798154"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1791627287118696559",
+    "created_at": "2024-05-18T00:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T01:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791627287118696559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752121682431553538",
+          "start": 3,
+          "username": "sacrifiicio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/mRFYTpR3zK",
+          "end": 55,
+          "expanded_url": "https://twitter.com/sacrifiicio/status/1791566047297798154/video/1",
+          "media_key": "7_1791566024141156352",
+          "start": 32,
+          "url": "https://t.co/mRFYTpR3zK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791627287118696559",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791566047297798154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacrifiicio: jjjjj not mine https://t.co/mRFYTpR3zK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1791627287118696559].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1791627287118696559",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1791627287118696559"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7333,
+        "height": 484,
+        "media_key": "7_1791566024141156352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1791566024141156352/pu/img/LPKqqy6Mc4BV_eTI.jpg",
+        "public_metrics": {
+          "view_count": 320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791566024141156352/pu/vid/avc1/494x270/NNOwupwTolr5MHHM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791566024141156352/pu/vid/avc1/660x360/58pcQw4XQb1_HwkY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791566024141156352/pu/vid/avc1/888x484/tZ6r78XkhvAkYwn0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1791566024141156352/pu/pl/qzQ7XmF-DgrI2qcZ.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1791566024141156352"
+          ]
+        },
+        "author_id": "1752121682431553538",
+        "conversation_id": "1791566047297798154",
+        "created_at": "2024-05-17T20:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T21:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791566047297798154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mRFYTpR3zK",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sacrifiicio/status/1791566047297798154/video/1",
+              "media_key": "7_1791566024141156352",
+              "start": 15,
+              "url": "https://t.co/mRFYTpR3zK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791566047297798154",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 995,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "jjjjj not mine https://t.co/mRFYTpR3zK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n我知道我有抑郁 可我家长除了天天骂我一点也不关心我，也不会相信我。\n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 812,
+          "like_count": 1231,
+          "listed_count": 0,
+          "tweet_count": 363
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:09:21.000Z",
+        "description": "u mad bro?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s4credw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/s4credw",
+                "start": 0,
+                "url": "https://t.co/HSsXK2GABw"
+              }
+            ]
+          }
+        },
+        "id": "1752121682431553538",
+        "location": "vent acc",
+        "name": "Sacred",
+        "pinned_tweet_id": "1784021009097425093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791585828751208450/h4BDb80q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 52,
+          "like_count": 16719,
+          "listed_count": 13,
+          "tweet_count": 8452
+        },
+        "url": "https://t.co/HSsXK2GABw",
+        "username": "sacrifiicio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1812928344025145345"
+      ],
+      "media_source_tweet_id": [
+        "1812931484401213796"
+      ]
+    },
+    "author_id": "1780208570098688000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1818046538591121834",
+    "created_at": "2024-07-29T22:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T23:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818046538591121834"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "EVA"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "绫波レイ"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4GAEhPEGfB",
+          "end": 84,
+          "expanded_url": "https://twitter.com/CJing3_/status/1812931484401213796/photo/1",
+          "media_key": "3_1812928344025145345",
+          "start": 61,
+          "url": "https://t.co/4GAEhPEGfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818046538591121834",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 638
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812931484401213796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CJing3_: 生わ死の始まり\n死は現実の続き\n再生は夢の終わり \n  #EVA  #绫波レイ  #shtwt https://t.co/4GAEhPEGfB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1818046538591121834].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1818046538591121834",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1818046538591121834"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1812928344025145345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSjQuTzbIAEVxnu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1812928344025145345"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1812931484401213796",
+        "created_at": "2024-07-15T19:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T20:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812931484401213796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "EVA"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "绫波レイ"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4GAEhPEGfB",
+              "end": 71,
+              "expanded_url": "https://twitter.com/CJing3_/status/1812931484401213796/photo/1",
+              "media_key": "3_1812928344025145345",
+              "start": 48,
+              "url": "https://t.co/4GAEhPEGfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812931484401213796",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 47239,
+          "like_count": 3974,
+          "quote_count": 13,
+          "reply_count": 28,
+          "retweet_count": 638
+        },
+        "reply_settings": "everyone",
+        "text": "生わ死の始まり\n死は現実の続き\n再生は夢の終わり \n  #EVA  #绫波レイ  #shtwt https://t.co/4GAEhPEGfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n中度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|😡拒绝❌政治|喜欢overdose🤤🤤🤤",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 1174,
+          "like_count": 3722,
+          "listed_count": 2,
+          "tweet_count": 2084
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@CJing4_ \n轉載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1815043938291777957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815803751577608192/JGwm81I-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5629,
+          "following_count": 540,
+          "like_count": 3871,
+          "listed_count": 6,
+          "tweet_count": 265
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}
